@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+sources/
+Google-maps/
+Misc-sources/
+.playwright-mcp/
+*.zip

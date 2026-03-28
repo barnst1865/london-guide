@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Koik Family London Guide</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --navy:       #1B2A4A;
+      --navy-light: #2C3E6B;
+      --red:        #C8102E;
+      --red-dark:   #A00D24;
+      --cream:      #F7F5F0;
+      --gold:       #B8860B;
+      --slate:      #4A5568;
+      --slate-light:#718096;
+      --border:     #D5D0C8;
+      --bg-warm:    #EFEAE0;
+      --font-display: 'DM Serif Display', Georgia, serif;
+      --font-body:    'Inter', -apple-system, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-body);
+      color: var(--navy);
+      background: var(--cream);
+      min-height: 100vh;
+    }
+
+    /* Hero */
+    .hero {
+      background: var(--navy);
+      color: #fff;
+      text-align: center;
+      padding: 80px 24px 60px;
+      border-bottom: 4px solid var(--red);
+    }
+
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: 3rem;
+      font-weight: 400;
+      letter-spacing: 0.01em;
+      margin-bottom: 8px;
+    }
+
+    .hero-subtitle {
+      font-size: 1rem;
+      font-weight: 300;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.6);
+      margin-bottom: 32px;
+    }
+
+    .hero-cta {
+      display: inline-block;
+      padding: 14px 36px;
+      background: var(--red);
+      color: #fff;
+      text-decoration: none;
+      font-family: var(--font-body);
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+    .hero-cta:hover { background: var(--red-dark); }
+
+    /* Categories grid */
+    .categories {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 48px 24px 64px;
+    }
+
+    .section-title {
+      font-family: var(--font-display);
+      font-size: 1.8rem;
+      text-align: center;
+      margin-bottom: 32px;
+      color: var(--navy);
+    }
+
+    .cat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .cat-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 24px 20px;
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: var(--navy);
+    }
+    .cat-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.1);
+    }
+
+    .cat-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      margin: 0 auto 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.4rem;
+    }
+
+    .cat-name {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      margin-bottom: 6px;
+    }
+
+    .cat-desc {
+      font-size: 0.78rem;
+      color: var(--slate-light);
+      line-height: 1.5;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 0.75rem;
+      color: var(--slate-light);
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      .hero-title { font-size: 2rem; }
+      .cat-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+      .cat-card { padding: 18px 14px; }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="hero">
+    <h1 class="hero-title">The Koik Family London Guide</h1>
+    <p class="hero-subtitle">Our favourite places across London and the UK</p>
+    <a href="map/" class="hero-cta">Explore the Map</a>
+  </section>
+
+  <section class="categories">
+    <h2 class="section-title">Browse by Category</h2>
+    <div class="cat-grid">
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #C8102E; color: #fff;">&#127860;</div>
+        <div class="cat-name">Restaurants & Food</div>
+        <div class="cat-desc">Pubs, cafes, markets, and our favourite places to eat</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #2C3E6B; color: #fff;">&#127963;</div>
+        <div class="cat-name">Attractions & Museums</div>
+        <div class="cat-desc">Museums, landmarks, galleries, and things to see</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #5B8C5A; color: #fff;">&#127969;</div>
+        <div class="cat-name">Neighborhoods</div>
+        <div class="cat-desc">Area guides with grouped recommendations</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #8B6C42; color: #fff;">&#128663;</div>
+        <div class="cat-name">Day Trips</div>
+        <div class="cat-desc">Excursions beyond London — castles, coasts, countryside</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #4A4A4A; color: #fff;">&#9762;</div>
+        <div class="cat-name">WMD Sites</div>
+        <div class="cat-desc">Nuclear, radiological, chemical, and Cold War history</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #7B2D8B; color: #fff;">&#127916;</div>
+        <div class="cat-name">Movie Sites</div>
+        <div class="cat-desc">Filming locations from Harry Potter, Bond, and more</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #E8873F; color: #fff;">&#9786;</div>
+        <div class="cat-name">Kid Friendly</div>
+        <div class="cat-desc">Playgrounds, activities, and family-friendly spots</div>
+      </a>
+
+      <a href="map/" class="cat-card">
+        <div class="cat-icon" style="background: #6B4226; color: #fff;">&#127984;</div>
+        <div class="cat-name">Historic Sites</div>
+        <div class="cat-desc">Castles, battlefields, and heritage landmarks</div>
+      </a>
+
+    </div>
+  </section>
+
+  <footer class="footer">
+    The Koik Family London Guide &middot; A family project
+  </footer>
+
+</body>
+</html>

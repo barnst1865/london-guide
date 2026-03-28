@@ -1,0 +1,1301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1727021,
+          51.5335806
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "name": "28",
+        "category": "restaurants",
+        "subcategory": "wine-bar",
+        "neighborhood": "Marylebone",
+        "address": "",
+        "summary": "50 Wine Bar and Kitchen - good wine list and steakhouse style food options",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.191093,
+          51.432154
+        ]
+      },
+      "properties": {
+        "id": "afc-wimbledon",
+        "name": "AFC Wimbledon",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League Two (Level 4) Stadium: Cherry Red Records Stadium CLUB INFO: https://www.afcwimbledon.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.108438,
+          51.555015
+        ]
+      },
+      "properties": {
+        "id": "arsenal-fc",
+        "name": "Arsenal FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Emirates Stadium CLUB INFO: https://www.arsenal.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1212353,
+          51.5123666
+        ]
+      },
+      "properties": {
+        "id": "balthazar",
+        "name": "Balthazar",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Covent Garden",
+        "address": "",
+        "summary": "bistro, always buzzing, never taken a group but have done several lunches",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.272898,
+          51.592599
+        ]
+      },
+      "properties": {
+        "id": "barnet-fc",
+        "name": "Barnet FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League Two (Level 4) Stadium: The Hive Stadium CLUB INFO: https://www.barnetfc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1346407,
+          51.5117726
+        ]
+      },
+      "properties": {
+        "id": "blacklock",
+        "name": "Blacklock",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Soho",
+        "address": "",
+        "summary": "steakhouse. Open concept, very noisy.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.288871,
+          51.490735
+        ]
+      },
+      "properties": {
+        "id": "brentford-fc",
+        "name": "Brentford FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Gtech Community Stadium CLUB INFO: https://www.brentfordfc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.424361,
+          51.451917
+        ]
+      },
+      "properties": {
+        "id": "brentford-women-s-fc",
+        "name": "Brentford Women's FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League One (Level 3) Stadium: Bedfont Sports Ground CLUB INFO: https://www.brentfordfc.com/teams/women"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021473,
+          51.383902
+        ]
+      },
+      "properties": {
+        "id": "bromley-fc",
+        "name": "Bromley FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League (Level 5) Stadium: Hayes Lane CLUB INFO: https://www.bromleyfc.tv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1388047,
+          51.5214383
+        ]
+      },
+      "properties": {
+        "id": "bt-tower",
+        "name": "BT Tower",
+        "category": "wmd-sites",
+        "subcategory": "nuclear",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Completed in 1964, this communications tower was designed to withstand a nuclear attack. Though no longer a government facility, it remains an iconic landmark.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1729707,
+          51.4859699
+        ]
+      },
+      "properties": {
+        "id": "cadogan-arms",
+        "name": "Cadogan Arms",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Chelsea",
+        "address": "",
+        "summary": "upscale pub, private room downstairs that seats 30 or stands SO.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1373223,
+          51.491093
+        ]
+      },
+      "properties": {
+        "id": "cask",
+        "name": "Cask",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Pimlico",
+        "address": "",
+        "summary": "mostly beer. A lot of government employees here",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.036633,
+          51.486669
+        ]
+      },
+      "properties": {
+        "id": "charlton-athletic",
+        "name": "Charlton Athletic",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League One (Level 3) Stadium: The Valley CLUB INFO: https://www.charltonathletic.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.190957,
+          51.481683
+        ]
+      },
+      "properties": {
+        "id": "chelsea-fc",
+        "name": "Chelsea FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Stamford Bridge CLUB INFO: https://www.chelseafc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129252,
+          51.5022102
+        ]
+      },
+      "properties": {
+        "id": "churchill-war-rooms",
+        "name": "Churchill War Rooms",
+        "category": "wmd-sites",
+        "subcategory": "nuclear",
+        "neighborhood": "Westminster, London",
+        "address": "",
+        "summary": "Originally Winston Churchill's WWII command center, this site influenced early UK nuclear strategy. Now a museum, it provides an immersive experience into war-era decision-making.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085455,
+          51.398361
+        ]
+      },
+      "properties": {
+        "id": "crystal-palace-fc",
+        "name": "Crystal Palace FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Selhurst Park CLUB INFO: https://www.cpfc.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.154421,
+          51.546961
+        ]
+      },
+      "properties": {
+        "id": "dagenham-and-redbridge",
+        "name": "Dagenham and Redbridge",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League (Level 5) Stadium: Victoria Road CLUB INFO: https://www.daggers.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1500847,
+          51.5163787
+        ]
+      },
+      "properties": {
+        "id": "delamina",
+        "name": "Delamina",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Marylebone",
+        "address": "",
+        "summary": "good Mediterranean tapas",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136076,
+          51.5080829
+        ]
+      },
+      "properties": {
+        "id": "duke-s",
+        "name": "Duke's",
+        "category": "restaurants",
+        "subcategory": "wine-bar",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "Famous gin bar. Has a cigar bar.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.080016,
+          51.465657
+        ]
+      },
+      "properties": {
+        "id": "dulwich-hamlet",
+        "name": "Dulwich Hamlet",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League South (Level 6) Stadium: Champion Hill CLUB INFO: https://www.dulwichhamletfc.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091531,
+          51.654871
+        ]
+      },
+      "properties": {
+        "id": "enfield-town-fc",
+        "name": "Enfield Town FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League South (Level 6) Stadium: Queen Elizabeth II Stadium CLUB INFO: https://www.enfieldtownfootballclub.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.221619,
+          51.474924
+        ]
+      },
+      "properties": {
+        "id": "fulham-fc",
+        "name": "Fulham FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Craven Cottage CLUB INFO: https://www.fulhamfc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.368688,
+          51.424744
+        ]
+      },
+      "properties": {
+        "id": "hampton-and-richmond-borough",
+        "name": "Hampton and Richmond Borough",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League South (Level 6) Stadium: Beveree Stadium CLUB INFO: https://www.hamptonfc.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092245,
+          51.599713
+        ]
+      },
+      "properties": {
+        "id": "haringey-borough",
+        "name": "Haringey Borough",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Isthmian League Premier Division (Level 7) Stadium: Coles Park Stadium CLUB INFO: https://www.haringeyboroughfc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.988772,
+          50.860619
+        ]
+      },
+      "properties": {
+        "id": "havant-and-waterlooville",
+        "name": "Havant and Waterlooville",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League South (Level 6) Stadium: Westleigh Park CLUB INFO: https://www.havantandwaterloovillefc.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4587801,
+          51.467739
+        ]
+      },
+      "properties": {
+        "id": "heathrow-airport",
+        "name": "Heathrow Airport",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Entry point for Lugovoi and Kovtun into London, with polonium-210 traces found on their flight and in airport lounges.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.270729,
+          51.394843
+        ]
+      },
+      "properties": {
+        "id": "kingstonian-fc",
+        "name": "Kingstonian FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Isthmian League Premier Division (Level 7) Stadium: King George's Field CLUB INFO: https://www.kingstonian.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011431,
+          51.560078
+        ]
+      },
+      "properties": {
+        "id": "leyton-orient",
+        "name": "Leyton Orient",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League One (Level 3) Stadium: Brisbane Road CLUB INFO: https://www.leytonorient.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.050743,
+          51.485872
+        ]
+      },
+      "properties": {
+        "id": "millwall-fc",
+        "name": "Millwall FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Championship (Level 2) Stadium: The Den CLUB INFO: https://www.millwallfc.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1267517,
+          51.5096176
+        ]
+      },
+      "properties": {
+        "id": "nutshell",
+        "name": "Nutshell",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Covent Garden",
+        "address": "",
+        "summary": "Persian food, has a good tasting menu for 4Spp",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0066319,
+          51.4817844
+        ]
+      },
+      "properties": {
+        "id": "old-royal-naval-college",
+        "name": "Old Royal Naval College",
+        "category": "wmd-sites",
+        "subcategory": "nuclear",
+        "neighborhood": "Greenwich, London",
+        "address": "",
+        "summary": "Once home to the JASON nuclear reactor, this historic site played a key role in training Royal Navy officers in nuclear submarine technology. The reactor, active from 1962 to 1996, was decommissioned",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "in 1999. Today, the site is a popular heritage attraction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.232143,
+          51.509794
+        ]
+      },
+      "properties": {
+        "id": "queens-park-rangers",
+        "name": "Queens Park Rangers",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Championship (Level 2) Stadium: Loftus Road CLUB INFO: https://www.qpr.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.418074,
+          51.5543813
+        ]
+      },
+      "properties": {
+        "id": "raf-northolt",
+        "name": "RAF Northolt",
+        "category": "wmd-sites",
+        "subcategory": "nuclear",
+        "neighborhood": "West London",
+        "address": "",
+        "summary": "During the Cold War, this airbase was a crucial part of Britain's nuclear bomber operations. It remains an active military airfield, though access is restricted.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1231906,
+          51.5108285
+        ]
+      },
+      "properties": {
+        "id": "rules",
+        "name": "Rules",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Covent Garden",
+        "address": "",
+        "summary": "oldest restaurant in London and super old school. Expensive, so best for one on",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200741,
+          51.367328
+        ]
+      },
+      "properties": {
+        "id": "sutton-united",
+        "name": "Sutton United",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "League Two (Level 4) Stadium: Gander Green Lane CLUB INFO: https://www.suttonunited.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1564424,
+          51.4996243
+        ]
+      },
+      "properties": {
+        "id": "the-alfred-tennyson",
+        "name": "The Alfred Tennyson",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "same as Thomas Cubitt, just a little fancier ambiance. Private",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276918,
+          51.5299119
+        ]
+      },
+      "properties": {
+        "id": "the-british-library-euston",
+        "name": "The British Library (Euston)",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "A location where Litvinenko had meetings around the time of his poisoning, with detected radiation traces.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2014191,
+          51.5510177
+        ]
+      },
+      "properties": {
+        "id": "the-mill-pub",
+        "name": "The Mill Pub",
+        "category": "wmd-sites",
+        "subcategory": "chemical",
+        "neighborhood": "",
+        "address": "",
+        "summary": "After leaving their home, the Skripals visited the Mill Pub for drinks before heading to Zizzi Restaurant for a meal. Both locations were later found to be contaminated with traces of Novichok. Follow",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "ing the attack, the pub was sealed off and underwent extensive decontamination before reopening."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1523463,
+          51.4905339
+        ]
+      },
+      "properties": {
+        "id": "the-orange",
+        "name": "The Orange",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Pimlico",
+        "address": "",
+        "summary": "gastropub. Private room available.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1364346,
+          51.5083234
+        ]
+      },
+      "properties": {
+        "id": "the-red-lion",
+        "name": "The Red Lion",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "convenient, across from FCDO, good pies (steak and ale, etc)",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.065756,
+          51.604344
+        ]
+      },
+      "properties": {
+        "id": "tottenham-hotspur",
+        "name": "Tottenham Hotspur",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: Tottenham Hotspur Stadium CLUB INFO: https://www.tottenhamhotspur.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1367726,
+          51.5253098
+        ]
+      },
+      "properties": {
+        "id": "university-college-hospital-euston-road",
+        "name": "University College Hospital (Euston Road)",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Where Litvinenko was admitted as his health deteriorated. Doctors confirmed polonium-210 poisoning, and he died here on November 23, 2006. Litvinenko's Home (Osier Crescent, Muswell Hill) - Found to b",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "e contaminated with polonium-210. His wife, Marina Litvinenko, later campaigned for justice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.401569,
+          51.649959
+        ]
+      },
+      "properties": {
+        "id": "watford-fc",
+        "name": "Watford FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Championship (Level 2) Stadium: Vicarage Road CLUB INFO: https://www.watfordfc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.442619,
+          51.580608
+        ]
+      },
+      "properties": {
+        "id": "wealdstone-fc",
+        "name": "Wealdstone FC",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League (Level 5) Stadium: Grosvenor Vale CLUB INFO: https://www.wealdstone-fc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.101099,
+          51.455813
+        ]
+      },
+      "properties": {
+        "id": "welling-united",
+        "name": "Welling United",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "National League South (Level 6) Stadium: Park View Road CLUB INFO: https://www.wellingunited.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016333,
+          51.538611
+        ]
+      },
+      "properties": {
+        "id": "west-ham-united",
+        "name": "West Ham United",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Premier League (Level 1) Stadium: London Stadium CLUB INFO: https://www.whufc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.180778,
+          51.610841
+        ]
+      },
+      "properties": {
+        "id": "wingate-and-finchley",
+        "name": "Wingate and Finchley",
+        "category": "attractions",
+        "subcategory": "football",
+        "neighborhood": "London",
+        "address": "",
+        "summary": "Football club in London",
+        "price_range": "",
+        "kid_friendly": true,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "sports|football",
+        "notes": "Isthmian League Premier Division (Level 7) Stadium: Summers Lane CLUB INFO: https://www.wingatefinchley.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3062389,
+          51.4089132
+        ]
+      },
+      "properties": {
+        "id": "zizzi-restaurant",
+        "name": "Zizzi Restaurant",
+        "category": "wmd-sites",
+        "subcategory": "chemical",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Part of a UK-wide Italian restaurant chain, the restaurant was one of the last places the Skripals visited before they were found unconscious.  The Skripals dined at Zizzi in the afternoon. They were",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "seen behaving normally while eating but began to show symptoms of poisoning soon after leaving the restaurant. Shortly after, they collapsed on a bench near The Maltings shopping area.Following the discovery that they had been poisoned with Novichok, Zizzi was immediately sealed off as a crime scene. Investigators found traces of the nerve agent at the restaurant, particularly on the tableware and chairs used by the Skripals. The contamination led to the restaurant's prolonged closure while it underwent deep cleaning and decontamination. The Maltings Bench (27 The Maltings)-   Shortly after 4:15 PM, passersby noticed them slumped on a bench in The Maltings shopping area.  Witnesses described Sergei Skripal as staring blankly, unresponsive, while Yulia was foaming at the mouth, appearing rigid and unconscious.  First responders initially treated the incident as a possible opioid overdose, given the Skripals' sudden collapse. Upon arrival at Salisbury District Hospital, doctors quickly realized their symptoms were not consistent with drug poisoning.   The UK government later confirmed they had been exposed to Novichok, a Soviet-era military-grade nerve agent."
+      }
+    }
+  ]
+}
