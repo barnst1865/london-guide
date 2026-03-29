@@ -3,55 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Map — London Guide</title>
-
-  <!-- Fonts -->
+  <title>Movie Sites - London Guide</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-  <!-- Leaflet -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../map/style.css">
 </head>
 <body>
-
-  <!-- Header -->
   <header class="site-header">
     <div class="header-inner">
       <a href="../" class="header-home" title="Home">&#8962;</a>
       <div class="header-content">
-        <h1 class="header-title">The Koik Family London Guide</h1>
-        <p class="header-subtitle">Our favourite places, mapped</p>
+        <h1 class="header-title">Movie Sites</h1>
+        <p class="header-subtitle">Filming locations from Harry Potter, Bond, and more</p>
       </div>
     </div>
   </header>
-
-  <!-- Controls panel -->
   <aside id="controls" class="controls-panel">
     <button class="controls-toggle" id="controlsToggle" aria-label="Toggle filters">
       <span class="toggle-icon">&#9776;</span>
       <span class="toggle-label">Filters</span>
     </button>
-
     <div class="controls-body" id="controlsBody">
       <div class="controls-section">
         <h3 class="controls-heading">Category</h3>
         <div id="categoryFilters" class="filter-group"></div>
       </div>
-
       <div class="controls-section">
         <h3 class="controls-heading">Neighborhood</h3>
         <div id="neighborhoodFilters" class="filter-group filter-group-scroll"></div>
       </div>
-
       <div class="controls-section">
         <h3 class="controls-heading">Visited</h3>
         <div id="visitedFilters" class="filter-group"></div>
       </div>
-
       <div class="controls-section controls-meta">
         <button class="btn-reset" id="resetFilters">Show All Sites</button>
         <button class="btn-toggle-view" id="viewToggle">List View</button>
@@ -59,18 +46,18 @@
       </div>
     </div>
   </aside>
-
-  <!-- Map -->
   <div id="map"></div>
-
-  <!-- List View (hidden by default) -->
   <div id="listView" class="list-view hidden">
     <div class="list-container" id="listContainer"></div>
   </div>
-
-  <!-- Legend -->
   <div class="map-legend" id="mapLegend"></div>
-
-  <script src="app.js"></script>
+  <script>
+    window.MAP_CONFIG = {
+      category: "movie-sites",
+      title: "Movie Sites",
+      subtitle: "Filming locations from Harry Potter, Bond, and more"
+    };
+  </script>
+  <script src="../map/app.js"></script>
 </body>
 </html>

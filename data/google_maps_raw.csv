@@ -1,0 +1,387 @@
+id,name,lat,lon,category,subcategory,neighborhood,address,summary,price_range,kid_friendly,visited,rating,website,google_maps_url,tags,notes
+blue-plaque-jim-henson,Blue Plaque: Jim Henson,,,historic-sites,memorial,,,,,,,,,,source:Great Muppet Caper,Google rating: 5.0/5 (3 reviews)
+17-holland-park,17 Holland Park,,,attractions,landmark,,London W11 3TD United Kingdom,,,,,,,,source:Great Muppet Caper,
+134-westbourne-terrace,134 Westbourne Terrace,,,attractions,landmark,,London United Kingdom,,,,,,,,source:Great Muppet Caper,
+knebworth-house,Knebworth House,,,attractions,landmark,,,,,,,,,,source:Great Muppet Caper,"Google rating: 4.5/5 (3,765 reviews)"
+admiral-s-walk,Admiral's Walk,,,attractions,landmark,,,,,,,,,,source:Great Muppet Caper,
+maison-bertaux,Maison Bertaux,,,restaurants,bakery,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.3/5 (2,881 reviews)"
+sherlock-holmes,Sherlock Holmes,,,restaurants,pub,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.2/5 (9,350 reviews)"
+the-king-s-head-aylesbury,"The King's Head, Aylesbury",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,024 reviews)"
+the-royal-standard-of-england,The Royal Standard of England,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,917 reviews)"
+mon-plaisir,Mon Plaisir,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.2/5 (636 reviews)
+le-beaujolais,Le Beaujolais,,,restaurants,wine-bar,,,,$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (888 reviews)
+the-flask-highgate,"The Flask, Highgate",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (2,108 reviews)"
+jamaica-wine-house,Jamaica Wine House,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (1,196 reviews)"
+kappacasein-dairy,Kappacasein Dairy,,,restaurants,market,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (590 reviews)
+national-memorial-arboretum-alrewas-staffordshire,"National Memorial Arboretum (Alrewas, Staffordshire)",,,historic-sites,memorial,,,,,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.9/5 (13,859 reviews)"
+the-mayflower-pub,The Mayflower Pub,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (5,629 reviews)"
+punjab-restaurant,Punjab Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (4,098 reviews)"
+m-manze-tower-bridge,M.Manze Tower Bridge,,,restaurants,restaurant,,,,$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,951 reviews)"
+battery-steele,Battery Steele,,,historic-sites,memorial,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (322 reviews)
+bentley-s-oyster-bar-grill,Bentley's Oyster Bar & Grill,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,015 reviews)"
+the-seven-stars,The Seven Stars,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,236 reviews)"
+the-blackfriar,The Blackfriar,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (7,048 reviews)"
+rock-and-sole-plaice,Rock and Sole Plaice,,,attractions,landmark,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (5,319 reviews)"
+ye-olde-mitre-holborn,"Ye Olde Mitre, Holborn",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (3,164 reviews)"
+the-star-tavern-belgravia,"The Star Tavern, Belgravia",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,279 reviews)"
+the-dove-hammersmith,"The Dove, Hammersmith",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,940 reviews)"
+george,George,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (7,191 reviews)"
+ye-olde-cheshire-cheese,Ye Olde Cheshire Cheese,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (6,943 reviews)"
+the-old-bell-tavern,The Old Bell Tavern,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,564 reviews)"
+the-lamb-flag-covent-garden,"The Lamb & Flag, Covent Garden",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (5,037 reviews)"
+the-hoop-and-grapes,The Hoop and Grapes,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (3,973 reviews)"
+the-spaniards-inn,The Spaniards Inn,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (6,462 reviews)"
+guinea-grill,Guinea Grill,,,restaurants,pub,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (2,322 reviews)"
+scott-s,Scott's,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (2,888 reviews)"
+j-sheekey,J Sheekey,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,581 reviews)"
+maggie-jones-s-restaurant,Maggie Jones's Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,528 reviews)"
+simpson-s-tavern,Simpson's Tavern,,,attractions,landmark,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (346 reviews)
+veeraswamy,Veeraswamy,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (2,269 reviews)"
+simpson-s-in-the-strand,Simpson's in the Strand,,,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (842 reviews)
+wiltons-restaurant,Wiltons Restaurant,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (762 reviews)
+sweetings,Sweetings,,,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (315 reviews)
+george-and-vulture,George and Vulture,,,restaurants,restaurant,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.4/5 (174 reviews)
+the-carlton-tavern,The Carlton Tavern,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (587 reviews)
+the-duke-of-hamilton,The Duke of Hamilton,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.5/5 (706 reviews)
+white-cross,White Cross,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,115 reviews)"
+mr-fogg-s-tavern,Mr Fogg's Tavern,,,restaurants,cocktail-bar,,,,$$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,821 reviews)"
+the-grazing-goat-pub-boutique-hotel-marylebone,The Grazing Goat Pub & Boutique Hotel Marylebone,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (2,257 reviews)"
+the-horniman-at-hays,The Horniman at Hays,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (9,901 reviews)"
+the-churchill-arms-kensington,"The Churchill Arms, Kensington",,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (8,341 reviews)"
+the-black-horse,The Black Horse,,,attractions,landmark,,91 Church St Whitby YO22 4BH United Kingdom,,,,,,,,source:Pubs,
+the-harp-covent-garden,"The Harp, Covent Garden",,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (3,626 reviews)"
+the-blue-posts,The Blue Posts,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.2/5 (592 reviews)
+piwnica-pod-baranami,Piwnica Pod Baranami,,,restaurants,cocktail-bar,,,,,,,,,,source:Pubs,"Google rating: 4.8/5 (4,534 reviews)"
+fez,Fez,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.7/5 (696 reviews)
+the-dog-and-duck,The Dog And Duck,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,742 reviews)"
+the-black-dog-beer-house,The Black Dog Beer House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.8/5 (1,294 reviews)"
+ain-t-nothin-but,Ain't Nothin' But,,,restaurants,cocktail-bar,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (3,930 reviews)"
+prince-alfred,Prince Alfred,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (1,746 reviews)"
+the-eclipse-inn,The Eclipse Inn,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.3/5 (636 reviews)
+lore-of-the-land,Lore of the Land,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (1,405 reviews)"
+the-barley-mow-marylebone,THE BARLEY MOW MARYLEBONE,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.4/5 (808 reviews)
+the-bald-faced-stag,The Bald Faced Stag,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,356 reviews)"
+tollingtons,Tollingtons,,,restaurants,restaurant,,,,,,,,,,source:Pubs,Google rating: 4.3/5 (313 reviews)
+captain-kidd,Captain Kidd,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,027 reviews)"
+the-dickens-inn,The Dickens Inn,,,restaurants,restaurant,,,,$$,,,,,,source:Pubs,"Google rating: 4.2/5 (9,124 reviews)"
+old-bank-of-england,Old Bank of England,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (5,264 reviews)"
+white-swan,White Swan,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,847 reviews)"
+fuller-s-brewery-shop-tours,Fuller's Brewery Shop & Tours,,,restaurants,pub,,,,,,,,,,source:Pubs,"Google rating: 4.9/5 (1,800 reviews)"
+the-red-lion-sun,The Red Lion & Sun,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,Google rating: 4.5/5 (997 reviews)
+the-grenadier,The Grenadier,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (2,580 reviews)"
+the-hand-marigold-free-house,The Hand & Marigold Free House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (280 reviews)
+limon,Limon'è,,,restaurants,ice-cream,,,,,,,,,,source:Pubs,Google rating: 4.6/5 (368 reviews)
+the-lord-nelson-burnham-thorpe,"The Lord Nelson, Burnham Thorpe",,,restaurants,cocktail-bar,,,,$$,,,,,,source:Pubs,Google rating: 4.3/5 (318 reviews)
+the-vault-1894,The Vault 1894,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.2/5 (1,406 reviews)"
+the-mill-house,The Mill House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (2,674 reviews)"
+muswell-hillbilly-brewers-taproom,Muswell Hillbilly Brewers Taproom,,,restaurants,cocktail-bar,,,,$,,,,,,source:Pubs,Google rating: 4.7/5 (169 reviews)
+the-plimsoll,The Plimsoll,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,064 reviews)"
+the-faltering-fullback,The Faltering Fullback,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,356 reviews)"
+the-woodbine,The Woodbine,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (856 reviews)
+the-hole-in-the-wall,The Hole In The Wall,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.1/5 (2,101 reviews)"
+punch-judy,Punch & Judy,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (4,686 reviews)"
+american-bar,AMERICAN BAR,,,restaurants,cocktail-bar,,,,$$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,062 reviews)"
+bluebell-railway-sheffield-park-station,"Bluebell Railway - (Sheffield Park, Station)",,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,793 reviews)"
+sambourne-house,Sambourne House,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (365 reviews)
+the-waterway,The Waterway,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,642 reviews)"
+wild-honey-st-james,Wild Honey St James,,,restaurants,restaurant,,,,$$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,031 reviews)"
+the-old-buttermarket,The Old Buttermarket,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,362 reviews)"
+first-v2-rocket-memorial,First V2 rocket Memorial,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (7 reviews)
+southwick-house,Southwick House,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (186 reviews)
+glastonbury-tor,Glastonbury Tor,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,247 reviews)"
+brown-forrest-smokery,Brown & Forrest Smokery,,,restaurants,market,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (242 reviews)
+chalbury-food-wine,Chalbury Food & Wine,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (306 reviews)
+the-lamb-inn,The Lamb Inn,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,113 reviews)"
+the-original-cheddar-cheese-co,The Original Cheddar Cheese Co,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (127 reviews)
+cheddar-gorge-and-caves,Cheddar Gorge and Caves,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,981 reviews)"
+keen-s-cheddar-ltd,Keen's Cheddar Ltd,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (38 reviews)
+cheddar-gorge,Cheddar Gorge,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,808 reviews)"
+ford-farm,FORD FARM,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (56 reviews)
+wookey-hole-caves,Wookey Hole Caves,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (8,737 reviews)"
+national-trust-cerne-giant,National Trust - Cerne Giant,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,Google rating: 4.2/5 (718 reviews)
+christ-church-gate,Christ Church Gate,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (80 reviews)
+canterbury-roman-museum,Canterbury Roman Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (631 reviews)
+canterbury-cathedral,Canterbury Cathedral,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (14,278 reviews)"
+canterbury-castle,Canterbury Castle,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 3.6/5 (316 reviews)
+st-augustine-s-abbey,St Augustine's Abbey,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,240 reviews)"
+short-road-pizza,Short Road Pizza,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (60 reviews)
+original-dubai-shawarma,Original Dubai Shawarma,,,restaurants,restaurant,,,,$,,,,,,source:UK 2023,Google rating: 3.5/5 (47 reviews)
+keith-fawkes,Keith Fawkes,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 3.7/5 (57 reviews)
+old-spitalfields-market,Old Spitalfields Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,796 reviews)"
+dennis-severs-house,Dennis Severs' House,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (871 reviews)
+lindisfarne-castle,Lindisfarne Castle,,,historic-sites,castle,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,483 reviews)"
+go-action-forest-paintballing-laser-tag-kids-adventure-camp,GO Action Forest - Paintballing / Laser Tag / Kids Adventure Camp,,,kid-friendly,outdoor-adventure,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (77 reviews)
+wordsworth-grasmere,Wordsworth Grasmere,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,270 reviews)"
+ely-cathedral,Ely Cathedral,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (6,729 reviews)"
+westway-climbing,Westway Climbing,,,kid-friendly,sports,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (442 reviews)
+bamburgh-castle,Bamburgh Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (18,426 reviews)"
+national-museum-of-scotland,National Museum of Scotland,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (56,403 reviews)"
+shambles-market,Shambles Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (14,354 reviews)"
+shambles,Shambles,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,605 reviews)"
+wistman-s-wood,Wistman's Wood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (872 reviews)
+magic-roundabout,Magic Roundabout,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.0/5 (31 reviews)
+samuel-smith-s-brewery,Samuel Smith's Brewery,,,restaurants,pub,,,,,,,,,,source:UK 2023,Google rating: 2.7/5 (147 reviews)
+grays-antique-market,Grays Antique Market,,,attractions,landmark,,,,$$$,,,,,,source:UK 2023,Google rating: 4.1/5 (306 reviews)
+oliver-s-village-caf,Oliver's Village Café,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (515 reviews)
+au-plat-d-etain,Au Plat d'Etain,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (45 reviews)
+schnitzel-heaven,Schnitzel Heaven,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.9/5 (2,536 reviews)"
+broadway-tower,Broadway Tower,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,559 reviews)"
+national-trust-dover-s-hill,National Trust - Dover's Hill,,,day-trips,countryside,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (554 reviews)
+national-trust-hidcote,National Trust - Hidcote,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,714 reviews)"
+berry-bros-rudd-wine-shop,Berry Bros. & Rudd Wine Shop,,,attractions,landmark,,,,$$$,,,,,,source:UK 2023,Google rating: 4.6/5 (613 reviews)
+bront-parsonage-museum,Brontë Parsonage Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (3,328 reviews)"
+whitby-beach,Whitby Beach,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (6,985 reviews)"
+salvino,Salvino,,,restaurants,market,,,,$,,,,,,source:UK 2023,Google rating: 4.6/5 (422 reviews)
+bali-bali,Bali Bali,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (936 reviews)
+new-forest-national-park,New Forest National Park,,,day-trips,national-park,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (24,443 reviews)"
+robin-hood-s-bay,Robin Hood's Bay,,,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
+hadrian-s-wall,Hadrian's Wall,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (6,133 reviews)"
+beigel-bake,Beigel Bake,,,restaurants,bakery,,,,$,,,,,,source:UK 2023,"Google rating: 4.4/5 (14,120 reviews)"
+caf-japan,Café Japan,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (429 reviews)
+jonkers-rare-books,Jonkers Rare Books,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (29 reviews)
+brunel-tunnel-under-river-thames,Brunel Tunnel Under River Thames,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 3.9/5 (8 reviews)
+bread-street-kitchen-bar-limehouse,Bread Street Kitchen & Bar - Limehouse,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,"Google rating: 4.1/5 (3,352 reviews)"
+john-paul-jones-monument,John Paul Jones Monument,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
+crab-museum,Crab Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (597 reviews)
+the-devonshire-grassington,The Devonshire Grassington,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,597 reviews)"
+milroy-s-of-soho,Milroy's of Soho,,,restaurants,cocktail-bar,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,093 reviews)"
+hedonism-wines,Hedonism Wines,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,451 reviews)"
+travis-emery-music-bookshop,Travis & Emery Music Bookshop,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (135 reviews)
+historic-cable-gear-at-enderby-wharf,Historic Cable Gear at Enderby Wharf,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
+spitfire-hurricane-memorial-museum,Spitfire & Hurricane Memorial Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,432 reviews)"
+amathus-south-kensington,Amathus South Kensington,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (35 reviews)
+clifton-nurseries,Clifton Nurseries,,,attractions,garden,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,384 reviews)"
+the-world-of-james-herriot,The World Of James Herriot,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (2,568 reviews)"
+national-trust-treasurer-s-house-york,"National Trust - Treasurer's House, York",,,attractions,museum,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,269 reviews)"
+city-wall-walk,City Wall Walk,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (48 reviews)
+york-minster,York Minster,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (23,409 reviews)"
+national-railway-museum-york,National Railway Museum York,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (30,673 reviews)"
+puzzlewood,Puzzlewood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,283 reviews)"
+breadline-cafe,Breadline Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.3/5 (609 reviews)
+graam-bangla,Graam Bangla,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,896 reviews)"
+mestizo-mexican-restaurant-tequila-bar,Mestizo Mexican Restaurant & Tequila Bar,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (8,992 reviews)"
+bar-douro-london-bridge,Bar Douro London Bridge,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,938 reviews)"
+battle-of-barnet-monument,Battle of Barnet Monument,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (38 reviews)
+regency-cafe,Regency Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,695 reviews)"
+bar-italia,Bar Italia,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,124 reviews)"
+hemswell-antique-centres,Hemswell Antique Centres,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,883 reviews)"
+dunn-s-bakery,Dunn's Bakery,,,restaurants,bakery,,,,$,,,,,,source:UK 2023,Google rating: 4.5/5 (455 reviews)
+les-grands-buffets,Les Grands Buffets,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (33,072 reviews)"
+the-william-morris-society,The William Morris Society,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (75 reviews)
+andy-s-maritime-antiques-and-army-surplus-store,Andy's Maritime Antiques And Army Surplus Store,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (63 reviews)
+white-wells,White Wells,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (236 reviews)
+all-saints-church-minstead,"All Saints' Church, Minstead.",,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (97 reviews)
+the-trusty-servant-inn,The Trusty Servant Inn,,,restaurants,pub,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,665 reviews)"
+clavell-tower,Clavell Tower,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (190 reviews)
+badbury-rings,Badbury Rings,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (922 reviews)
+magna-carta-island,Magna Carta Island,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (5 reviews)
+crosby-hall,Crosby Hall,,,attractions,landmark,,Cheyne Walk London SW3 5AZ United Kingdom,,,,,,,,source:UK 2023,
+promenade,Promenade,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.0/5 (2 reviews)
+samad-al-iraqi-restaurant,Samad Al Iraqi Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,876 reviews)"
+charles-dickens-museum,Charles Dickens Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,530 reviews)"
+word-on-the-water-the-london-bookbarge,Word On The Water - The London Bookbarge,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,409 reviews)"
+the-hut-by-the-heath,The Hut by The Heath,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 5.0/5 (259 reviews)
+aberaeron,Aberaeron,,,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
+haggard-alley,Haggard Alley,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (93 reviews)
+the-tea-garden,The Tea Garden,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.1/5 (665 reviews)
+bloom-graze-ltd,Bloom & Graze Ltd,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (109 reviews)
+the-great-glen-jd-wetherspoon,The Great Glen - JD Wetherspoon,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.0/5 (4,476 reviews)"
+but-first-coffee,"But First, Coffee",,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (194 reviews)
+finsbury-park-cafe,Finsbury Park Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.1/5 (834 reviews)
+west-reservoir-cafe,West Reservoir Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.4/5 (86 reviews)
+the-deli-warehouse,The Deli Warehouse,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (164 reviews)
+the-tamil-prince,The Tamil Prince,,,restaurants,restaurant,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,186 reviews)"
+the-tamil-crown,The Tamil Crown,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,203 reviews)"
+diana-memorial-playground,Diana Memorial Playground,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,100 reviews)"
+volk-s-electric-railway,Volk's Electric Railway,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (745 reviews)
+the-record-album,The Record Album,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (69 reviews)
+north-laine-bazaar,North Laine Bazaar,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,645 reviews)"
+julien-plumart,Julien Plumart,,,restaurants,bakery,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (887 reviews)
+granny-s-caf,Granny's Café,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.9/5 (197 reviews)
+vios-caf,Vios Café,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.8/5 (315 reviews)
+ikigai-coffee,Ikigai Coffee,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.9/5 (413 reviews)
+brighton-palace-pier,Brighton Palace Pier,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (36,947 reviews)"
+royal-pavilion,Royal Pavilion,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (13,180 reviews)"
+brighton-toy-and-model-museum,Brighton Toy and Model Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (612 reviews)
+ida,Ida,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (578 reviews)
+the-parakeet-pub,The Parakeet Pub,,,restaurants,pub,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,040 reviews)"
+the-pineapple,The Pineapple,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,793 reviews)"
+alexandra-palace,Alexandra Palace,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (23,405 reviews)"
+ure-museum-of-greek-archaeology,Ure Museum of Greek Archaeology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (76 reviews)
+the-dawn-seal,The Dawn Seal,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.8/5 (113 reviews)
+museum-of-cambridge,Museum of Cambridge,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (300 reviews)
+porters-lodge-peterhouse,Porters' Lodge Peterhouse,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (1 reviews)
+trinity-hall-cambridge,Trinity Hall Cambridge,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (91 reviews)
+pembroke-college,Pembroke College,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (187 reviews)
+the-engineer-s-house,The Engineer's House,,,restaurants,cocktail-bar,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (106 reviews)
+cambridge-punters,Cambridge Punters,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (540 reviews)
+leadenhall-market,Leadenhall Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (22,378 reviews)"
+monument-to-the-great-fire-of-london,Monument to the Great Fire of London,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (13,525 reviews)"
+sedgwick-museum-of-earth-sciences,Sedgwick Museum of Earth Sciences,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (989 reviews)
+the-polar-museum,The Polar Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (692 reviews)
+newton-s-apple-tree,Newton's Apple Tree,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,220 reviews)"
+university-museum-of-zoology,University Museum Of Zoology,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,232 reviews)"
+bridge-of-sighs,Bridge of Sighs,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (810 reviews)
+il-posto,Il Posto,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,560 reviews)"
+herts-baseball-club-grovehill-ballpark,Herts Baseball Club Grovehill Ballpark,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (77 reviews)
+annunciation-marble-arch,"Annunciation, Marble Arch",,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (34 reviews)
+st-margaret-s-beach,St Margaret's Beach,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,293 reviews)"
+the-white-horse,The White Horse,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,361 reviews)"
+national-trust-the-white-cliffs-of-dover,National Trust - The White Cliffs of Dover,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,498 reviews)"
+dover-castle,Dover Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (17,077 reviews)"
+operation-dynamo-rescue-from-dunkirk,Operation Dynamo: Rescue From Dunkirk,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (241 reviews)
+national-trust-sutton-hoo,National Trust - Sutton Hoo,,,day-trips,national-park,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (4,589 reviews)"
+thetravelmuseum,TheTravelMuseum,,,attractions,museum,,,,,,,,,,source:UK 2023,
+the-historic-dockyard-chatham,The Historic Dockyard Chatham,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,595 reviews)"
+portobello-road-market,Portobello Road Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (28,168 reviews)"
+portobello-rd,Portobello Rd,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,082 reviews)"
+seven-dials-market,Seven Dials Market,,,restaurants,street-food,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (8,495 reviews)"
+ottolenghi-richmond,Ottolenghi Richmond,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (208 reviews)
+richmond-palace,Richmond Palace,,,historic-sites,castle,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (32 reviews)
+the-prince-s-head-richmond,"The Prince's Head, Richmond",,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,997 reviews)"
+the-rose-crown,The Rose & Crown,,,restaurants,gastropub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,024 reviews)"
+the-botanist,The Botanist,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,440 reviews)"
+the-original-maids-of-honour,The Original Maids of Honour,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,319 reviews)"
+beamish-the-living-museum-of-the-north,Beamish - The Living Museum of the North,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (26,233 reviews)"
+parkland-walk,Parkland Walk,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,945 reviews)"
+hawks-stadium,Hawks Stadium,,,attractions,sports,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (80 reviews)
+tiger-s-diner,Tiger's Diner,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (2,808 reviews)"
+queens-park-rangers-football-club,Queens Park Rangers Football Club,,,attractions,football,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (960 reviews)
+cannon-ln,Cannon Ln,,,attractions,landmark,,,,,,,,,,source:UK 2023,
+the-oxenham-arms-restaurant,The Oxenham Arms Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (50 reviews)
+brunel-museum,Brunel Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (942 reviews)
+the-hampstead-butcher-providore,The Hampstead Butcher & Providore,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (189 reviews)
+the-postal-museum,The Postal Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (5,511 reviews)"
+17-s-molton-st,17 S Molton St,,,attractions,landmark,,London W1K 5QT United Kingdom,,,,,,,,source:UK 2023,
+the-heffalump-trap,The Heffalump Trap,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (2 reviews)
+the-scallop-shell,The Scallop Shell,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,000 reviews)"
+the-alnwick-garden,The Alnwick Garden,,,attractions,garden,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (10,889 reviews)"
+thames-ditton-miniature-railways,Thames Ditton Miniature Railways,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (283 reviews)
+hart-lova-bakery,Hart & Lova Bakery,,,restaurants,bakery,,,,$,,,,,,source:UK 2023,Google rating: 4.8/5 (804 reviews)
+sherwood-forest-visitor-centre,Sherwood Forest Visitor Centre,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,196 reviews)"
+peak-district-national-park,Peak District National Park,,,day-trips,national-park,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (34,072 reviews)"
+the-pop-up-farm,The Pop Up Farm,,,kid-friendly,farm,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (396 reviews)
+tropical-birdland,Tropical Birdland,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,337 reviews)"
+odiham-castle,Odiham Castle,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (754 reviews)
+st-martin-s-church,St. Martin's Church,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (478 reviews)
+crockford-bridge-farm,Crockford Bridge Farm,,,kid-friendly,farm,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,719 reviews)"
+welford-park,Welford Park,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (611 reviews)
+hobbledown-heath,Hobbledown Heath,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,160 reviews)"
+sports-trading-cards-uk-ltd,Sports Trading Cards UK Ltd,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (39 reviews)
+daunt-books-marylebone,Daunt Books Marylebone,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,588 reviews)"
+1c-ducks-walk,1C Ducks Walk,,,attractions,landmark,,Twickenham TW1 2DD United Kingdom,,,,,,,,source:UK 2023,
+corrochio-s,Corrochio's,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (779 reviews)
+the-map-house,The Map House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (126 reviews)
+lulworth-cove,Lulworth Cove,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,040 reviews)"
+durdle-door,Durdle Door,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,655 reviews)"
+the-museum-of-english-rural-life,The Museum of English Rural Life,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (309 reviews)
+sir-colin-campbell,Sir Colin Campbell,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (541 reviews)
+folkies-music,Folkies Music,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (96 reviews)
+young-v-a,Young V&A,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (5,893 reviews)"
+royal-air-force-museum-london,Royal Air Force Museum London,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (19,512 reviews)"
+whipsnade-zoo,Whipsnade Zoo,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (16,986 reviews)"
+the-dusty-knuckle-bakery,The Dusty Knuckle Bakery,,,restaurants,bakery,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,523 reviews)"
+wildwood-trust,Wildwood Trust,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,627 reviews)"
+national-trust-ankerwycke-yew,National Trust - Ankerwycke Yew,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (205 reviews)
+british-wildlife-centre,British Wildlife Centre,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,154 reviews)"
+blue-boar-pub,Blue Boar Pub,,,restaurants,pub,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,045 reviews)"
+dogpark,Dogpark,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (1 reviews)
+the-vintage-house,The Vintage House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (125 reviews)
+tayyabs,Tayyabs,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 3.9/5 (9,340 reviews)"
+sounds-of-the-universe,Sounds of the Universe,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (594 reviews)
+river-otter-beaver-walk-otterton,River Otter beaver walk (Otterton),,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (7 reviews)
+50-the-marlowes,50 The Marlowes,,,attractions,landmark,,London NW8 6NA United Kingdom,,,,,,,,source:UK 2023,
+harry-potter-shop-king-s-cross,Harry Potter Shop King's Cross,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (34,449 reviews)"
+the-sherlock-holmes-museum,The Sherlock Holmes Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (21,447 reviews)"
+the-town-mill,The Town Mill,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (845 reviews)
+st-michael-s-church,St Michael’s Church,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (25 reviews)
+xtreme-falconry-at-dorset-falconry-park,Xtreme Falconry at Dorset Falconry Park,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (482 reviews)
+221b-baker-st,221B Baker St,,,attractions,landmark,,London NW1 6XE United Kingdom,,,,,,,,source:UK 2023,
+the-gurkha-museum,The Gurkha Museum,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (240 reviews)
+the-agc-museum,The AGC Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (8 reviews)
+the-rifleman-s-museum,The Rifleman's Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (259 reviews)
+memorial-to-a-a-milne,Memorial to A.A.Milne,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (120 reviews)
+st-nicholas-church-graveyard,St Nicholas' Church Graveyard,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (11 reviews)
+fish-n-fritz,Fish 'n' Fritz,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,122 reviews)"
+callaway-s-fish-chips,Callaway's Fish & Chips,,,restaurants,restaurant,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (377 reviews)
+the-british-museum,The British Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (170,980 reviews)"
+peter-pan-statue,Peter Pan statue,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,953 reviews)"
+pooh-car-park,Pooh Car Park,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (224 reviews)
+piglet-s-house,Piglet's House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (42 reviews)
+winnie-the-pooh-house,Winnie The Pooh House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (82 reviews)
+diddly-squat-farm-shop,Diddly Squat Farm Shop,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (7,858 reviews)"
+national-museum-of-the-royal-navy,National Museum of the Royal Navy,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (998 reviews)
+royal-hampshire-regiment-museum,Royal Hampshire Regiment Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (123 reviews)
+national-army-museum,National Army Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,782 reviews)"
+harbour-stores,Harbour Stores,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
+baboo-gelato-cobb-lyme-regis,Baboo Gelato Cobb Lyme Regis,,,restaurants,ice-cream,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (125 reviews)
+the-tank-museum,The Tank Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.9/5 (15,956 reviews)"
+national-trust-petworth-house-and-park,National Trust - Petworth House and Park,,,attractions,park,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,836 reviews)"
+the-bear-inn,The Bear Inn,,,restaurants,pub,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (650 reviews)
+pooh-corner,Pooh Corner,,,restaurants,cafe,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,639 reviews)"
+pooh-sticks-bridge,Pooh Sticks Bridge,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (942 reviews)
+titanic-s-plaque,Titanic's Plaque,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (19 reviews)
+national-trust-bateman-s,National Trust - Bateman's,,,attractions,museum,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,239 reviews)"
+rochester-castle,Rochester Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,085 reviews)"
+tintagel-castle,Tintagel Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (18,201 reviews)"
+battle-of-britain-bunker,Battle of Britain Bunker,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,626 reviews)"
+battle-of-britain-memorial,Battle of Britain Memorial,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (3,076 reviews)"
+royal-engineers-museum,Royal Engineers Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (996 reviews)
+chalice-well,Chalice Well,,,attractions,garden,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,749 reviews)"
+national-trust-glastonbury-tor,National Trust - Glastonbury Tor,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (4,412 reviews)"
+glastonbury-abbey,Glastonbury Abbey,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (6,207 reviews)"
+kingston-russell-stone-circle,Kingston Russell Stone Circle,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (40 reviews)
+abbotsbury-swannery,Abbotsbury Swannery,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,703 reviews)"
+bletchley-park,Bletchley Park,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (17,151 reviews)"
+chesil-beach-west,Chesil Beach (West),,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (45 reviews)
+mountfitchet-castle-norman-village-cm248ly,"Mountfitchet Castle & Norman Village , CM248LY",,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,718 reviews)"
+jane-austen-s-house,Jane Austen's House,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,953 reviews)"
+highclere-castle,Highclere Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (6,186 reviews)"
+wolvesey-castle-old-bishop-s-palace,Wolvesey Castle (Old Bishop's Palace),,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,028 reviews)"
+st-catherine-s-hill,St. Catherine's Hill,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (824 reviews)
+dinosaurland-fossil-museum,Dinosaurland Fossil Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,110 reviews)"
+lyme-regis-fossil-beach-ammonite-pavement,Lyme Regis Fossil Beach (Ammonite Pavement),,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (648 reviews)
+bosworth-battlefield-heritage-centre,Bosworth Battlefield Heritage Centre,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,286 reviews)"
+cheltenham-model-centre,Cheltenham Model Centre,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (250 reviews)
+rigsby-s-ln,Rigsby's Ln,,,attractions,landmark,,Cirencester GL7 6FJ United Kingdom,,,,,,,,source:UK 2023,
+corinium-museum,Corinium Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,144 reviews)"
+sally-lunn-s-historic-eating-house-museum,Sally Lunn’s Historic Eating House & Museum,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,016 reviews)"
+the-jane-austen-centre,The Jane Austen Centre,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (4,456 reviews)"
+cleveland-pools,Cleveland Pools,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (38 reviews)
+cheddar-gorge-cheese-company,Cheddar Gorge Cheese Company,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (656 reviews)
+herschel-museum-of-astronomy,Herschel Museum of Astronomy,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (575 reviews)
+clarence-pier,Clarence Pier,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (4,535 reviews)"
+the-d-day-story,The D-Day Story,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,608 reviews)"
+hms-victory,HMS Victory,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (8,362 reviews)"
+cotswold-falconry-centre,Cotswold Falconry Centre,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,146 reviews)"
+stonehenge,Stonehenge,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (64,629 reviews)"
+old-sarum,Old Sarum,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,493 reviews)"
+salisbury-cathedral,Salisbury Cathedral,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (16,004 reviews)"
+battle-abbey,Battle Abbey,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,404 reviews)"
+lyme-regis-museum,Lyme Regis Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,026 reviews)"
+imperial-war-museum,Imperial War Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (30,336 reviews)"
+victoria-and-albert-museum,Victoria and Albert Museum,,,attractions,gallery,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (66,199 reviews)"
+winchester-city-museum,Winchester City Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (345 reviews)
+the-royal-logistic-corps-museum,The Royal Logistic Corps Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (267 reviews)
+magna-carta-memorial,Magna Carta Memorial,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,008 reviews)"
+shakespeare-s-birthplace,Shakespeare's Birthplace,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (18,974 reviews)"
+the-roman-baths,The Roman Baths,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (38,733 reviews)"
+warwick-castle,Warwick Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (25,737 reviews)"
+blenheim-palace,Blenheim Palace,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (18,397 reviews)"
+tewkesbury-battlefield,Tewkesbury Battlefield,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (296 reviews)
+the-royal-navy-submarine-museum,The Royal Navy Submarine Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,194 reviews)"
+royal-armouries-fort-nelson,Royal Armouries: Fort Nelson,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,283 reviews)"
+explosion-museum-of-naval-firepower,Explosion Museum of Naval Firepower,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,194 reviews)"
+portsmouth-historic-dockyard,Portsmouth Historic Dockyard,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (16,664 reviews)"
+five-hundred-acre-wood,Five Hundred Acre Wood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (24 reviews)
+oxford-university-museum-of-natural-history,Oxford University Museum of Natural History,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (10,997 reviews)"
+ashmolean-museum,Ashmolean Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (11,506 reviews)"
+castle-mound,Castle Mound,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (675 reviews)
+scudamore-s-mill-lane-punting-station,Scudamore's Mill Lane Punting Station,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,034 reviews)"
+whipple-museum-of-the-history-of-science,Whipple Museum of the History of Science,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (194 reviews)
+museum-of-archaeology-and-anthropology,Museum of Archaeology and Anthropology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (412 reviews)
+the-fitzwilliam-museum,The Fitzwilliam Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (8,944 reviews)"
+museum-of-classical-archaeology,Museum of Classical Archaeology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (101 reviews)
+iwm-duxford,IWM Duxford,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (18,093 reviews)"
+abbey-road-pedestrian-crossing,Abbey Road Pedestrian Crossing,,,attractions,landmark,,,,,,,,,,source:UK Music,"Google rating: 4.6/5 (1,524 reviews)"
+dropped-pin,Dropped pin,,,attractions,landmark,,"Nearby address: Rick Roll, 154 Freston Rd, London W10 6TR",,,,,,,,source:UK Music,
