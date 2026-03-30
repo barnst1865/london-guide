@@ -1,23 +1,23 @@
 id,name,lat,lon,category,subcategory,neighborhood,address,summary,price_range,kid_friendly,visited,rating,website,google_maps_url,tags,notes
-134-westbourne-terrace,134 Westbourne Terrace,,,attractions,landmark,,London United Kingdom,,,,,,,,source:Great Muppet Caper,
-17-holland-park,17 Holland Park,,,attractions,landmark,,London W11 3TD United Kingdom,,,,,,,,source:Great Muppet Caper,
-17-s-molton-st,17 S Molton St,,,attractions,landmark,,London W1K 5QT United Kingdom,,,,,,,,source:UK 2023,
+134-westbourne-terrace,134 Westbourne Terrace,51.5172373,-0.1823484,attractions,landmark,,London United Kingdom,,,,,,,,source:Great Muppet Caper,
+17-holland-park,17 Holland Park,51.5050345,-0.2080764,attractions,landmark,,London W11 3TD United Kingdom,,,,,,,,source:Great Muppet Caper,
+17-s-molton-st,17 S Molton St,51.5136402,-0.1479641,attractions,landmark,,London W1K 5QT United Kingdom,,,,,,,,source:UK 2023,
 1c-ducks-walk,1C Ducks Walk,,,attractions,landmark,,Twickenham TW1 2DD United Kingdom,,,,,,,,source:UK 2023,
-221b-baker-st,221B Baker St,,,attractions,landmark,,London NW1 6XE United Kingdom,,,,,,,,source:UK 2023,
+221b-baker-st,221B Baker St,51.5233879,-0.1582367,attractions,landmark,,London NW1 6XE United Kingdom,,,,,,,,source:UK 2023,
 28,28,51.5335806,-0.1727021,restaurants,wine-bar,Marylebone,,50 Wine Bar and Kitchen - good wine list and steakhouse style food options,,,,,,,,
-50-the-marlowes,50 The Marlowes,,,attractions,landmark,,London NW8 6NA United Kingdom,,,,,,,,source:UK 2023,
+50-the-marlowes,50 The Marlowes,51.5387795,-0.1752796,attractions,landmark,,London NW8 6NA United Kingdom,现在50系列对应2025-2026财年，估计接近1500亿美元营收。 2024年截止，AMD年度营业额也达到创纪录的258亿美元。 这几年显卡妥妥的印钞机，生产多少都不够卖的，AI用户能把市面上的产能买爆。 矿的需求 …,,,,,,,source:UK 2023,
 a-hefty-bill-1f-everyone-orders-the-fancy-steaks-no-private-room-but-can-seat-8,a hefty bill 1f everyone orders the fancy steaks. No private room but can seat 8,,,restaurants,restaurant,Piccadilly/Regent Street,,10 in the,,,,,,,,
-abbey-road-pedestrian-crossing,Abbey Road Pedestrian Crossing,,,attractions,landmark,,,,,,,,,,source:UK Music,"Google rating: 4.6/5 (1,524 reviews)"
-abbotsbury-swannery,Abbotsbury Swannery,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,703 reviews)"
-aberaeron,Aberaeron,,,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
-admiral-s-walk,Admiral's Walk,,,attractions,landmark,,,,,,,,,,source:Great Muppet Caper,
+abbey-road-pedestrian-crossing,Abbey Road Pedestrian Crossing,,,attractions,landmark,,,An abbey is a type of monastery used by members of a religious order under the governance of an abbot or abbess. …,,,,,,,source:UK Music,"Google rating: 4.6/5 (1,524 reviews)"
+abbotsbury-swannery,Abbotsbury Swannery,,,attractions,landmark,,,"Visit Abbotsbury Swannery on Dorset’s Jurassic Coast. Home to 600+ Mute Swans, a living willow maze & seasonal events. Open mid-March to November.",,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,703 reviews)"
+aberaeron,Aberaeron,52.2431766,-4.2600153,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
+admiral-s-walk,Admiral's Walk,51.5595451,-0.180138,attractions,landmark,,,"Whether you want Car Insurance, Home Insurance, Travel Insurance or a different product, find Admiral's contact numbers …",,,,,,,source:Great Muppet Caper,
 afc-wimbledon,AFC Wimbledon,51.432154,-0.191093,attractions,football,London,,Football club in London,,true,,,,,sports|football,League Two (Level 4) Stadium: Cherry Red Records Stadium CLUB INFO: https://www.afcwimbledon.co.uk
 ain-t-nothin-but,Ain't Nothin' But,,,restaurants,cocktail-bar,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (3,930 reviews)"
 aldermaston,Aldermaston,,,wmd-sites,nuclear,Berkshire,,"The Atomic Weapons Establishment (AWE) at Aldermaston has been central to Britain's nuclear weapons program since the 1950s. Though closed to visitors, its historical significance is immense.",,,,,,,,
-alexandra-palace,Alexandra Palace,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (23,405 reviews)"
-all-saints-church-minstead,"All Saints' Church, Minstead.",,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (97 reviews)
+alexandra-palace,Alexandra Palace,51.5943495,-0.1306402,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (23,405 reviews)"
+all-saints-church-minstead,"All Saints' Church, Minstead.",50.8966936,-1.6016993,historic-sites,medieval,,,"1、all的基本含义及用法介绍 1、作为代词时，意为所有;全部;全体;一切;唯一的事物;所有的事物。 例句：All horses are animals, but …",,,,,,,source:UK 2023,Google rating: 4.7/5 (97 reviews)
 amathus-south-kensington,Amathus South Kensington,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (35 reviews)
-american-bar,AMERICAN BAR,,,restaurants,cocktail-bar,,,,$$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,062 reviews)"
+american-bar,AMERICAN BAR,51.5058725,-0.1399203,restaurants,cocktail-bar,,,"Mar 10, 2020 · American Bar, London: See 1,317 unbiased reviews of American Bar, rated 4.4 of 5 on Tripadvisor and ranked #891 of 20,329 restaurants in London.",$$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,062 reviews)"
 and-woodhouse-brewery,and Woodhouse brewery,,,restaurants,pub,Belgravia,,,,,,,,,,
 andy-s-maritime-antiques-and-army-surplus-store,Andy's Maritime Antiques And Army Surplus Store,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (63 reviews)
 annunciation-marble-arch,"Annunciation, Marble Arch",,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (34 reviews)
@@ -25,72 +25,72 @@ anti-nuclear-activism-legacy,Anti-Nuclear Activism & Legacy,,,wmd-sites,missile,
 are-the-only-food,are the only food,,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
 arsenal-fc,Arsenal FC,51.555015,-0.108438,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: Emirates Stadium CLUB INFO: https://www.arsenal.com
 ashmolean-museum,Ashmolean Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (11,506 reviews)"
-au-plat-d-etain,Au Plat d'Etain,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (45 reviews)
+au-plat-d-etain,Au Plat d'Etain,,,attractions,landmark,,,以上就是AU干音处理的第一步，将音频音频拉至-3到-6之间的操作，大家可以录制一段音频后，对照本节课操作几次就能学会。 有不懂的，可以私私私私私私私私私私信我~ 下一期，我们学习AU干音处理 …,,,,,,,source:UK 2023,Google rating: 4.6/5 (45 reviews)
 baboo-gelato-cobb-lyme-regis,Baboo Gelato Cobb Lyme Regis,,,restaurants,ice-cream,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (125 reviews)
 badbury-rings,Badbury Rings,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (922 reviews)
-bali-bali,Bali Bali,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (936 reviews)
+bali-bali,Bali Bali,51.5137256,-0.1282428,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (936 reviews)
 balthazar,Balthazar,51.5123666,-0.1212353,restaurants,restaurant,Covent Garden,,"bistro, always buzzing, never taken a group but have done several lunches",,,,,,,,
-bamburgh-castle,Bamburgh Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (18,426 reviews)"
+bamburgh-castle,Bamburgh Castle,,,historic-sites,castle,,,"Discover Bamburgh Castle, the historic Last Kingdom of Bebbanburg, offering stunning views, rich history, and family-friendly activities all year round.",,,,,,,source:UK 2023,"Google rating: 4.7/5 (18,426 reviews)"
 bancone,Bancone,,,restaurants,restaurant,Whitehall/Charing Cross,,"just off Trafalgar Sq, really tasty pasta, casual, good for a lunch if you're not",,,,,,,,
-bar-douro-london-bridge,Bar Douro London Bridge,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,938 reviews)"
-bar-italia,Bar Italia,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,124 reviews)"
+bar-douro-london-bridge,Bar Douro London Bridge,,,restaurants,restaurant,,,"Nov 6, 2024 · 压力单位bar是什么意思,跟pa怎么换算巴（bar）是一种压强单位，它在工程领域中被广泛使用。1巴（bar）等于10的5次方帕（Pa），这是帕斯卡（Pa）的简称，即一平方米上承受一牛顿 …",$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,938 reviews)"
+bar-italia,Bar Italia,51.5485498,-0.4811978,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,124 reviews)"
 barnet-fc,Barnet FC,51.592599,-0.272898,attractions,football,London,,Football club in London,,true,,,,,sports|football,League Two (Level 4) Stadium: The Hive Stadium CLUB INFO: https://www.barnetfc.com
-battery-steele,Battery Steele,,,historic-sites,memorial,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (322 reviews)
+battery-steele,Battery Steele,,,historic-sites,memorial,,,"Jan 24, 2025 · Hello everyone, I just bought my first car, a 2014 Volvo V40 T3, and a warning appears on the dashboard that says 'low battery charge.' The car is recently...",,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (322 reviews)
 battle-abbey,Battle Abbey,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,404 reviews)"
 battle-of-barnet-monument,Battle of Barnet Monument,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (38 reviews)
-battle-of-britain-bunker,Battle of Britain Bunker,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,626 reviews)"
-battle-of-britain-memorial,Battle of Britain Memorial,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (3,076 reviews)"
+battle-of-britain-bunker,Battle of Britain Bunker,51.54048,-0.4646286,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,626 reviews)"
+battle-of-britain-memorial,Battle of Britain Memorial,51.502939,-0.123428,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (3,076 reviews)"
 beamish-the-living-museum-of-the-north,Beamish - The Living Museum of the North,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (26,233 reviews)"
-beigel-bake,Beigel Bake,,,restaurants,bakery,,,,$,,,,,,source:UK 2023,"Google rating: 4.4/5 (14,120 reviews)"
+beigel-bake,Beigel Bake,51.5245115,-0.0717527,restaurants,bakery,,,当前PPP规范后化，面对地方政府事权财权不匹配的问题，F+EPC模式能够解决该问题，提供项目建设所需资金，所以F+EPC模式得到了发展的机会，但该模式的合规性问题不在此说，可以到我的专栏中看文章。 4、对 …,$,,,,,,source:UK 2023,"Google rating: 4.4/5 (14,120 reviews)"
 bentley-s-oyster-bar-grill,Bentley's Oyster Bar & Grill,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,015 reviews)"
 berner-s-tavern,Berner's Tavern,,,restaurants,pub,Belgravia,,Expensive Mac & Cheese with brisket . . . Trust!,,,,,,,,
 berry-bros-rudd-wine-shop,Berry Bros. & Rudd Wine Shop,,,attractions,landmark,,,,$$$,,,,,,source:UK 2023,Google rating: 4.6/5 (613 reviews)
 blacklock,Blacklock,51.5117726,-0.1346407,restaurants,restaurant,Soho,,"steakhouse. Open concept, very noisy.",,,,,,,,
-blenheim-palace,Blenheim Palace,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (18,397 reviews)"
+blenheim-palace,Blenheim Palace,,,historic-sites,castle,,,"Shop for luxury handmade denim, meticulously crafted for the perfect fit, directly from Revice Denim. Only available on www.revicedenim.com",,,,,,,source:UK 2023,"Google rating: 4.6/5 (18,397 reviews)"
 bletchley-park,Bletchley Park,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (17,151 reviews)"
-bloom-graze-ltd,Bloom & Graze Ltd,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (109 reviews)
-blue-boar-pub,Blue Boar Pub,,,restaurants,pub,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,045 reviews)"
+bloom-graze-ltd,Bloom & Graze Ltd,,,restaurants,cafe,,,"Bloom Nutrition provides health and wellness supplements for women, with high quality ingredients to support energy, gut …",$,,,,,,source:UK 2023,Google rating: 4.7/5 (109 reviews)
+blue-boar-pub,Blue Boar Pub,,,restaurants,pub,,,"Mar 14, 2008 · Any of you guys remember the Blue Bandit car??? He ran out of his gas station that I believe was on about 39th Halsted. Used to watch him run in back...",$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,045 reviews)"
 blue-plaque-jim-henson,Blue Plaque: Jim Henson,,,historic-sites,memorial,,,,,,,,,,source:Great Muppet Caper,Google rating: 5.0/5 (3 reviews)
 bluebell-railway-sheffield-park-station,"Bluebell Railway - (Sheffield Park, Station)",,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,793 reviews)"
 bolsdale,Bolsdale,,,restaurants,pub,Belgravia,,(also locations in Mayfair and Canary Wharf): Jazz music dining spot. This,,,,,,,,
 book-good-set-menus-for-a-larger-dinner,"book, good set menus for a larger dinner",,,restaurants,pub,Whitehall/Charing Cross,,,,,,,,,,
 bosworth-battlefield-heritage-centre,Bosworth Battlefield Heritage Centre,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,286 reviews)"
 brasserie-zedel,Brasserie Zedel,,,restaurants,cafe,Whitehall/Charing Cross,,"1920s theme, extensive French wine list, typical French cafe menu",,,,,,,,
-bread-street-kitchen-bar-limehouse,Bread Street Kitchen & Bar - Limehouse,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,"Google rating: 4.1/5 (3,352 reviews)"
-breadline-cafe,Breadline Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.3/5 (609 reviews)
+bread-street-kitchen-bar-limehouse,Bread Street Kitchen & Bar - Limehouse,51.5096232,-0.0378413,restaurants,restaurant,,,,,,,,,,source:UK 2023,"Google rating: 4.1/5 (3,352 reviews)"
+breadline-cafe,Breadline Cafe,51.508483,-0.126319,restaurants,cafe,,,"A Texas favorite since 1967, offering generous portions of slow-smoked pit BBQ at an unbeatable value",$,,,,,,source:UK 2023,Google rating: 4.3/5 (609 reviews)
 brentford-fc,Brentford FC,51.490735,-0.288871,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: Gtech Community Stadium CLUB INFO: https://www.brentfordfc.com
 brentford-women-s-fc,Brentford Women's FC,51.451917,-0.424361,attractions,football,London,,Football club in London,,true,,,,,sports|football,League One (Level 3) Stadium: Bedfont Sports Ground CLUB INFO: https://www.brentfordfc.com/teams/women
 bridge-of-sighs,Bridge of Sighs,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (810 reviews)
 brighton-palace-pier,Brighton Palace Pier,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (36,947 reviews)"
-brighton-toy-and-model-museum,Brighton Toy and Model Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (612 reviews)
+brighton-toy-and-model-museum,Brighton Toy and Model Museum,,,attractions,museum,,,"Brighton is known for its exquisitely crafted women's handbags, jewelry, and charms for bracelets, along with many other stylish accessories.",,,,,,,source:UK 2023,Google rating: 4.6/5 (612 reviews)
 british-wildlife-centre,British Wildlife Centre,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,154 reviews)"
-broadway-tower,Broadway Tower,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,559 reviews)"
+broadway-tower,Broadway Tower,51.4975888,-0.0223439,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,559 reviews)"
 bromley-fc,Bromley FC,51.383902,0.021473,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League (Level 5) Stadium: Hayes Lane CLUB INFO: https://www.bromleyfc.tv
 bront-parsonage-museum,Brontë Parsonage Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (3,328 reviews)"
 brown-forrest-smokery,Brown & Forrest Smokery,,,restaurants,market,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (242 reviews)
-brunel-museum,Brunel Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (942 reviews)
+brunel-museum,Brunel Museum,51.5016428,-0.0528638,attractions,museum,,,"At Brunel, we understand what you need to grow your business. Since we were founded in the Netherlands in 1975, we have built a …",,,,,,,source:UK 2023,Google rating: 4.2/5 (942 reviews)
 brunel-tunnel-under-river-thames,Brunel Tunnel Under River Thames,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 3.9/5 (8 reviews)
 bt-tower,BT Tower,51.5214383,-0.1388047,wmd-sites,nuclear,London,,"Completed in 1964, this communications tower was designed to withstand a nuclear attack. Though no longer a government facility, it remains an iconic landmark.",,,,,,,,
 but-first-coffee,"But First, Coffee",,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (194 reviews)
 by-or-on-whitehall,By or on Whitehall,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 by-thames-house,By Thames House,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 cadogan-arms,Cadogan Arms,51.4859699,-0.1729707,restaurants,pub,Chelsea,,"upscale pub, private room downstairs that seats 30 or stands SO.",,,,,,,,
-caf-japan,Café Japan,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (429 reviews)
+caf-japan,Café Japan,51.5711515,-0.1951277,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (429 reviews)
 callaway-s-fish-chips,Callaway's Fish & Chips,,,restaurants,restaurant,,,,$,,,,,,source:UK 2023,Google rating: 4.7/5 (377 reviews)
 cambridge-punters,Cambridge Punters,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (540 reviews)
 cancellation-policy-british-food,cancellation policy]. British food,,,restaurants,restaurant,Belgravia,,,,,,,,,,
-cannon-ln,Cannon Ln,,,attractions,landmark,,,,,,,,,,source:UK 2023,
-canterbury-castle,Canterbury Castle,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 3.6/5 (316 reviews)
+cannon-ln,Cannon Ln,51.578043,-0.3823505,attractions,landmark,,,,,,,,,,source:UK 2023,
+canterbury-castle,Canterbury Castle,51.4827551,-0.1027726,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 3.6/5 (316 reviews)
 canterbury-cathedral,Canterbury Cathedral,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (14,278 reviews)"
 canterbury-roman-museum,Canterbury Roman Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (631 reviews)
-captain-kidd,Captain Kidd,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,027 reviews)"
+captain-kidd,Captain Kidd,51.5032724,-0.0579202,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,027 reviews)"
 cask,Cask,51.491093,-0.1373223,restaurants,restaurant,Pimlico,,mostly beer. A lot of government employees here,,,,,,,,
 castle-mound,Castle Mound,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (675 reviews)
 caxton-grill,Caxton Grill,,,restaurants,pub,Whitehall/St James's Park/Victoria,,"in St Ermin's hotel, nice for lunch or in semi-private space for group dinner",,,,,,,,
 chalbury-food-wine,Chalbury Food & Wine,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (306 reviews)
 chalice-well,Chalice Well,,,attractions,garden,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,749 reviews)"
 champagne-charlles,Champagne Charlles,,,restaurants,restaurant,Whitehall/Charing Cross,,good mid-range choice when you want to take a group but not,,,,,,,,
-charles-dickens-museum,Charles Dickens Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,530 reviews)"
+charles-dickens-museum,Charles Dickens Museum,51.5235936,-0.1163232,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,530 reviews)"
 charlton-athletic,Charlton Athletic,51.486669,0.036633,attractions,football,London,,Football club in London,,true,,,,,sports|football,League One (Level 3) Stadium: The Valley CLUB INFO: https://www.charltonathletic.co.uk
 cheddar-gorge,Cheddar Gorge,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,808 reviews)"
 cheddar-gorge-and-caves,Cheddar Gorge and Caves,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,981 reviews)"
@@ -100,39 +100,39 @@ cheltenham-model-centre,Cheltenham Model Centre,,,attractions,landmark,,,,,,,,,,
 chesil-beach-west,Chesil Beach (West),,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (45 reviews)
 chiltern-firehouse,Chiltern Firehouse,,,restaurants,pub,• Salt Yard (Fitzrovia),,"mostly seafood, expensive, long wine list. Noisy at dinner.",,,,,,,,
 chinatown,Chinatown,,,restaurants,restaurant,Belgravia,,,,,,,,,,
-christ-church-gate,Christ Church Gate,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (80 reviews)
+christ-church-gate,Christ Church Gate,51.4980175,-0.1736819,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (80 reviews)
 churchill-war-rooms,Churchill War Rooms,51.5022102,-0.129252,wmd-sites,nuclear,"Westminster, London",,"Originally Winston Churchill's WWII command center, this site influenced early UK nuclear strategy. Now a museum, it provides an immersive experience into war-era decision-making.",,,,,,,,
 cinnamon-club,Cinnamon club,,,restaurants,pub,Belgravia,,in an old library. Excellent Indian. 4+ requires CC and 48 hours cancellation,,,,,,,,
 cittle-of-york-huge-and-inexpensive-also-a-sam-smiths,"Cittle of York· Huge and inexpensive, also a Sam Smiths",,,restaurants,restaurant,Belgravia,,,,,,,,,,
 city-wall-walk,City Wall Walk,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (48 reviews)
 clarence-pier,Clarence Pier,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (4,535 reviews)"
-clavell-tower,Clavell Tower,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (190 reviews)
-cleveland-pools,Cleveland Pools,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (38 reviews)
-clifton-nurseries,Clifton Nurseries,,,attractions,garden,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,384 reviews)"
+clavell-tower,Clavell Tower,,,historic-sites,memorial,,,Download the YouTube app for a richer viewing experience on your smartphone.,,,,,,,source:UK 2023,Google rating: 4.5/5 (190 reviews)
+cleveland-pools,Cleveland Pools,,,attractions,landmark,,,"Get the latest Cleveland, OH news, sports, and breaking updates. View daily weather and top stories from Cleveland, Akron and beyond on cleveland.com.",,,,,,,source:UK 2023,Google rating: 4.1/5 (38 reviews)
+clifton-nurseries,Clifton Nurseries,51.5223051,-0.1839096,attractions,garden,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,384 reviews)"
 connaught-in-mayfair,Connaught in Mayfair,,,restaurants,restaurant,Belgravia,,very expensive and posh,,,,,,,,
 corinium-museum,Corinium Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,144 reviews)"
 corinthla-also-does-a-very-nice-afternoon-tea-expensive-and-fancy,Corinthla also does a very nice afternoon tea. Expensive and fancy!,,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
-corrochio-s,Corrochio's,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (779 reviews)
+corrochio-s,Corrochio's,51.5526373,-0.0746865,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (779 reviews)
 cotswold-falconry-centre,Cotswold Falconry Centre,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,146 reviews)"
 crab-museum,Crab Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (597 reviews)
 crockford-bridge-farm,Crockford Bridge Farm,,,kid-friendly,farm,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,719 reviews)"
-crosby-hall,Crosby Hall,,,attractions,landmark,,Cheyne Walk London SW3 5AZ United Kingdom,,,,,,,,source:UK 2023,
+crosby-hall,Crosby Hall,51.4826813,-0.1725233,attractions,landmark,,Cheyne Walk London SW3 5AZ United Kingdom,,,,,,,,source:UK 2023,
 crystal-palace-fc,Crystal Palace FC,51.398361,-0.085455,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: Selhurst Park CLUB INFO: https://www.cpfc.co.uk
 dagenham-and-redbridge,Dagenham and Redbridge,51.546961,0.154421,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League (Level 5) Stadium: Victoria Road CLUB INFO: https://www.daggers.co.uk
-dahessa,Dahessa,,,restaurants,restaurant,• Salt Yard (Fitzrovia),,,,,,,,,,
-daunt-books-marylebone,Daunt Books Marylebone,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,588 reviews)"
+dahessa,Dahessa,,,restaurants,restaurant,• Salt Yard (Fitzrovia),,"Roblox is ushering in the next generation of entertainment. Imagine, create, and play together with millions of people across …",,,,,,,,
+daunt-books-marylebone,Daunt Books Marylebone,51.5204371,-0.1522504,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,588 reviews)"
 davy-s-wine-bar,Davy's Wine Bar,,,restaurants,wine-bar,Piccadilly/Regent Street,,,,,,,,,,
 dehem,Dehem,,,restaurants,pub,Belgravia,,Dutch pub with Belgian beer!,,,,,,,,
 dehesa,Dehesa,,,restaurants,restaurant,Piccadilly/Regent Street,,"Kingly st by carnaby-Spanish/ltalian small plates, private wine cellar seats up",,,,,,,,
 delamina,Delamina,51.5163787,-0.1500847,restaurants,restaurant,Marylebone,,good Mediterranean tapas,,,,,,,,
-dennis-severs-house,Dennis Severs' House,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (871 reviews)
-diana-memorial-playground,Diana Memorial Playground,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,100 reviews)"
+dennis-severs-house,Dennis Severs' House,51.520943,-0.0777904,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (871 reviews)
+diana-memorial-playground,Diana Memorial Playground,51.5090514,-0.1881196,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,100 reviews)"
 diddly-squat-farm-shop,Diddly Squat Farm Shop,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (7,858 reviews)"
 dinosaurland-fossil-museum,Dinosaurland Fossil Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,110 reviews)"
 dishoom,Dishoom,,,restaurants,cafe,Belgravia,,,,,,,,,,
 dlshoom,Dlshoom,,,restaurants,restaurant,Piccadilly/Regent Street,,very popular Indian restaurant; branches in carnaby branch and Covent,,,,,,,,
-dogpark,Dogpark,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (1 reviews)
-dover-castle,Dover Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (17,077 reviews)"
+dogpark,Dogpark,,,attractions,park,,,"Jan 19, 2026 · Acting CISA chief sought ouster of agency’s chief information officer Other senior political appointees at the Cybersecurity and Infrastructure Security Agency were not happy about the ...",,,,,,,source:UK 2023,Google rating: 5.0/5 (1 reviews)
+dover-castle,Dover Castle,51.5004719,-0.0928618,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (17,077 reviews)"
 dropped-pin,Dropped pin,,,attractions,landmark,,"Nearby address: Rick Roll, 154 Freston Rd, London W10 6TR",,,,,,,,source:UK Music,
 duke-s,Duke's,51.5080829,-0.136076,restaurants,wine-bar,Belgravia,,Famous gin bar. Has a cigar bar.,,,,,,,,
 dulwich-hamlet,Dulwich Hamlet,51.465657,-0.080016,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League South (Level 6) Stadium: Champion Hill CLUB INFO: https://www.dulwichhamletfc.co.uk
@@ -146,21 +146,21 @@ entrees-are-30,entrees are 30,,,restaurants,restaurant,Whitehall/Charing Cross,,
 excellent-food-nice-ambiance,"Excellent food, nice ambiance",,,restaurants,restaurant,Chelsea,,,,,,,,,,
 explosion-museum-of-naval-firepower,Explosion Museum of Naval Firepower,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,194 reviews)"
 fallow,Fallow,,,restaurants,restaurant,Piccadilly/Regent Street,,"amazing food (will be a michelin star kind of restaurant, and is down the street",,,,,,,,
-fez,Fez,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.7/5 (696 reviews)
-finsbury-park-cafe,Finsbury Park Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.1/5 (834 reviews)
+fez,Fez,51.52201,-0.2080525,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.7/5 (696 reviews)
+finsbury-park-cafe,Finsbury Park Cafe,51.5700504,-0.1034792,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.1/5 (834 reviews)
 first-v2-rocket-memorial,First V2 rocket Memorial,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (7 reviews)
 fish-n-fritz,Fish 'n' Fritz,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,122 reviews)"
-five-hundred-acre-wood,Five Hundred Acre Wood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (24 reviews)
+five-hundred-acre-wood,Five Hundred Acre Wood,,,day-trips,countryside,,,Play Five Nights at Freddy's no download on your mobile or computer - play this Point and Click game now on the most popular free online games site!,,,,,,,source:UK 2023,Google rating: 4.7/5 (24 reviews)
 flight-club,Flight Club,,,restaurants,wine-bar,Whitehall/St James's Park/Victoria,,"hip bar with darts and games, and a rooftop terrace in the summer",,,,,,,,
-folkies-music,Folkies Music,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (96 reviews)
-ford-farm,FORD FARM,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (56 reviews)
+folkies-music,Folkies Music,51.5465397,-0.2030632,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (96 reviews)
+ford-farm,FORD FARM,51.5212013,0.1582629,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (56 reviews)
 from-heddon-st-kitchen,from Heddon St Kitchen),,,restaurants,restaurant,Piccadilly/Regent Street,,"note, moved to new location as of fall 2021",,,,,,,,
 fulham-fc,Fulham FC,51.474924,-0.221619,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: Craven Cottage CLUB INFO: https://www.fulhamfc.com
 fuller-s-brewery-shop-tours,Fuller's Brewery Shop & Tours,,,restaurants,pub,,,,,,,,,,source:Pubs,"Google rating: 4.9/5 (1,800 reviews)"
 further-east,Further east,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 gaucho-piccadilly,Gaucho Piccadilly,,,restaurants,restaurant,Piccadilly/Regent Street,,"really nice private room, set menus for groups. Argentine steak",,,,,,,,
-george,George,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (7,191 reviews)"
-george-and-vulture,George and Vulture,,,restaurants,restaurant,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.4/5 (174 reviews)
+george,George,51.5334683,-0.1377191,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (7,191 reviews)"
+george-and-vulture,George and Vulture,51.5129153,-0.0857705,restaurants,restaurant,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.4/5 (174 reviews)
 glastonbury-abbey,Glastonbury Abbey,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (6,207 reviews)"
 glastonbury-tor,Glastonbury Tor,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,247 reviews)"
 go-action-forest-paintballing-laser-tag-kids-adventure-camp,GO Action Forest - Paintballing / Laser Tag / Kids Adventure Camp,,,kid-friendly,outdoor-adventure,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (77 reviews)
@@ -175,29 +175,29 @@ haggard-alley,Haggard Alley,,,attractions,landmark,,,,,,,,,,source:UK 2023,Googl
 hampton-and-richmond-borough,Hampton and Richmond Borough,51.424744,-0.368688,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League South (Level 6) Stadium: Beveree Stadium CLUB INFO: https://www.hamptonfc.net
 harbour-stores,Harbour Stores,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
 haringey-borough,Haringey Borough,51.599713,-0.092245,attractions,football,London,,Football club in London,,true,,,,,sports|football,Isthmian League Premier Division (Level 7) Stadium: Coles Park Stadium CLUB INFO: https://www.haringeyboroughfc.com
-harry-potter-shop-king-s-cross,Harry Potter Shop King's Cross,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (34,449 reviews)"
-hart-lova-bakery,Hart & Lova Bakery,,,restaurants,bakery,,,,$,,,,,,source:UK 2023,Google rating: 4.8/5 (804 reviews)
+harry-potter-shop-king-s-cross,Harry Potter Shop King's Cross,51.5322443,-0.1237654,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (34,449 reviews)"
+hart-lova-bakery,Hart & Lova Bakery,51.5382994,-0.1907515,restaurants,bakery,,,"HART prowadzi sprzedaż chemii motoryzacyjnej, olejów silnikowych, a także olejów przekładniowych. W stałym asortymencie HART znajdują się oleje silnikowe i przekładniowe do manualnych oraz …",$,,,,,,source:UK 2023,Google rating: 4.8/5 (804 reviews)
 has-plenty-of-beer-and-the-cheapest-pint-in-all-of-london-great-tapas,has plenty of beer and the cheapest pint in all of London. Great tapas,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 havant-and-waterlooville,Havant and Waterlooville,50.860619,-0.988772,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League South (Level 6) Stadium: Westleigh Park CLUB INFO: https://www.havantandwaterloovillefc.co.uk
-hawks-stadium,Hawks Stadium,,,attractions,sports,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (80 reviews)
+hawks-stadium,Hawks Stadium,,,attractions,sports,,,"Dec 24, 2024 · Definitely the Hawks need to trade more with the donks cuz as a whole it was AAA and just the draft stock was a great haul at least B+",,,,,,,source:UK 2023,Google rating: 4.9/5 (80 reviews)
 hawksm-r,Hawksm~r,,,restaurants,restaurant,Piccadilly/Regent Street,,"Air St branch off Piccadilly; nice steaks and seafood, but you could run up",,,,,,,,
 heathrow-airport,Heathrow Airport,51.467739,-0.4587801,wmd-sites,radiological,,,"Entry point for Lugovoi and Kovtun into London, with polonium-210 traces found on their flight and in airport lounges.",,,,,,,,
 heddon-street-kitchen-off-regent-street,Heddon Street Kitchen (off Regent Street),,,restaurants,restaurant,Belgravia,,Requires a credit card and must cancel at least 48,,,,,,,,
-hedonism-wines,Hedonism Wines,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,451 reviews)"
+hedonism-wines,Hedonism Wines,51.5107446,-0.1476667,attractions,landmark,,,"Feb 3, 2026 · DennyP Travel established in 2002 has booked hundreds of clients to resorts like Hedonism II in Jamaica, Desire in Cancun, and many more. This web site contains a lot of useful …",,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,451 reviews)"
 hemswell-antique-centres,Hemswell Antique Centres,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,883 reviews)"
 here-not-too-expensive,"here, not too expensive",,,restaurants,restaurant,Covent Garden,,,,,,,,,,
 herschel-museum-of-astronomy,Herschel Museum of Astronomy,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (575 reviews)
-herts-baseball-club-grovehill-ballpark,Herts Baseball Club Grovehill Ballpark,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (77 reviews)
+herts-baseball-club-grovehill-ballpark,Herts Baseball Club Grovehill Ballpark,,,attractions,landmark,,,"Hertfordshire (/ ˈhɑːrtfərdʃɪər - ʃər / ⓘ, HART-fərd-sheer, -⁠shər; often abbreviated Herts) is a ceremonial county in the East of England.",,,,,,,source:UK 2023,Google rating: 4.6/5 (77 reviews)
 highclere-castle,Highclere Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (6,186 reviews)"
-historic-cable-gear-at-enderby-wharf,Historic Cable Gear at Enderby Wharf,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
-hms-victory,HMS Victory,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (8,362 reviews)"
-hobbledown-heath,Hobbledown Heath,,,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,160 reviews)"
-hours-prior-partial-cover-and-heating-if-it-rains-no-option,"hours prior. Partial cover and heating, if it rains, no option",,,restaurants,restaurant,Belgravia,,,,,,,,,,
-house,house. •,,,restaurants,restaurant,Piccadilly/Regent Street,,,,,,,,,,
-ida,Ida,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (578 reviews)
+historic-cable-gear-at-enderby-wharf,Historic Cable Gear at Enderby Wharf,,,historic-sites,memorial,,,"Historical is used as the general term for describing history, such as 'the historical record,' while historic is now usually …",,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
+hms-victory,HMS Victory,,,attractions,museum,,,"Jun 2, 2025 · Model Shipbuilding Progress – HMS Victory (Mantua 1:78 Scale) ⚓️ I’ve recently begun work on this stunning Mantua HMS Victory model—a build that was generously gifted to me. It’s a …",,,,,,,source:UK 2023,"Google rating: 4.8/5 (8,362 reviews)"
+hobbledown-heath,Hobbledown Heath,51.4587424,-0.3966698,kid-friendly,theme-park,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (2,160 reviews)"
+hours-prior-partial-cover-and-heating-if-it-rains-no-option,"hours prior. Partial cover and heating, if it rains, no option",,,restaurants,restaurant,Belgravia,,Individual store and restaurant hours may vary. Get the latest from Queens Center For a smart & stylish inbox!,,,,,,,,
+house,house. •,,,restaurants,restaurant,Piccadilly/Regent Street,,"Zillow has 315 homes for sale in Woodbridge VA. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.",,,,,,,,
+ida,Ida,51.5318469,-0.2110927,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (578 reviews)
 ikigai-coffee,Ikigai Coffee,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.9/5 (413 reviews)
-il-posto,Il Posto,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,560 reviews)"
-imperial-war-museum,Imperial War Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (30,336 reviews)"
+il-posto,Il Posto,51.4957287,-0.1419336,restaurants,restaurant,,,"Find places to go, things to see. Search through all the different services offered by the various Illinois agencies. During live broadcasts use …",$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,560 reviews)"
+imperial-war-museum,Imperial War Museum,51.4969399,-0.109806,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (30,336 reviews)"
 in-a-category-all-its-own,In a category all its own,,,restaurants,restaurant,Whitehall/St James's Park/Victoria,,"DUMPLINGS LEGEND, Gerard St",,,,,,,,
 in-the-old-city-of-london,In the old City of London,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 in-trafalgar-square,In Trafalgar Square,,,restaurants,restaurant,Belgravia,,Thai,,,,,,,,
@@ -205,59 +205,59 @@ is-very-good,is very good,,,restaurants,pub,Whitehall/Charing Cross,,-limited se
 itsu-sushi-bar-piccadilly,"Itsu Sushi Bar, Piccadilly",,,wmd-sites,radiological,,,"Earlier that day, Litvinenko met with Mario Scaramella near Piccadilly Circus. This location was initially suspected but later ruled out as the poisoning site.",,,,,,,,
 ivy-market-grill,Ivy Market Grill,,,restaurants,restaurant,Covent Garden,,"good for a group, more affordable than the actual Ivy",,,,,,,,
 iwm-duxford,IWM Duxford,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (18,093 reviews)"
-j-sheekey,J Sheekey,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,581 reviews)"
-jamaica-wine-house,Jamaica Wine House,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (1,196 reviews)"
-jane-austen-s-house,Jane Austen's House,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,953 reviews)"
+j-sheekey,J Sheekey,51.5109233,-0.1276968,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,581 reviews)"
+jamaica-wine-house,Jamaica Wine House,51.5129704,-0.0856635,restaurants,pub,,,"Jamaica is a Commonwealth realm, with Charles III as its king; the appointed representative of the Crown is the Governor-General of Jamaica, the office having been held by Patrick Allen since 2009.",$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (1,196 reviews)"
+jane-austen-s-house,Jane Austen's House,,,attractions,museum,,,"Why Shop Jane? Save Big With Daily Deals, find up to 65% off boutique products every day.",,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,953 reviews)"
 jeru,Jeru,,,restaurants,restaurant,Mayfair,,"Mediterranean. Swanky place, mid-level expensive. Has a semi-private table that",,,,,,,,
-john-paul-jones-monument,John Paul Jones Monument,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
+john-paul-jones-monument,John Paul Jones Monument,,,historic-sites,memorial,,,John 起源于《新约圣经》里的人物 John the Baptist （基督教和合本译为 施洗约翰，天主教译为 圣若翰洗者）。施洗约翰在约旦河中为人施洗礼，劝人悔改，是基督教的先行者，为耶稣宣讲教义打下了基础。 施洗 …,,,,,,,source:UK 2023,Google rating: 5.0/5 (2 reviews)
 jonkers-rare-books,Jonkers Rare Books,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (29 reviews)
-julien-plumart,Julien Plumart,,,restaurants,bakery,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (887 reviews)
-kappacasein-dairy,Kappacasein Dairy,,,restaurants,market,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (590 reviews)
-keen-s-cheddar-ltd,Keen's Cheddar Ltd,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (38 reviews)
+julien-plumart,Julien Plumart,,,restaurants,bakery,,,"Mar 17, 2026 · Julien is a boy's name of French origin meaning ""youthful, downy-bearded, or sky father"". Julien is the 703 ranked male name by popularity.",$$,,,,,,source:UK 2023,Google rating: 4.6/5 (887 reviews)
+kappacasein-dairy,Kappacasein Dairy,51.4964307,-0.0688149,restaurants,market,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (590 reviews)
+keen-s-cheddar-ltd,Keen's Cheddar Ltd,,,restaurants,market,,,"Comfortable, durable & sustainable KEEN® shoes for hiking, casual, work & adventure. Made to last with ethically sourced leather and recycled materials.",,,,,,,source:UK 2023,Google rating: 4.6/5 (38 reviews)
 keith-fawkes,Keith Fawkes,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 3.7/5 (57 reviews)
 kerrldge-s,Kerrldge's,,,restaurants,restaurant,Whitehall/Charing Cross,,Kerrldge's (in the Corinthia) elegant steak house vibe. Expensive pricing.,,,,,,,,
 kingston-russell-stone-circle,Kingston Russell Stone Circle,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (40 reviews)
 kingstonian-fc,Kingstonian FC,51.394843,-0.270729,attractions,football,London,,Football club in London,,true,,,,,sports|football,Isthmian League Premier Division (Level 7) Stadium: King George's Field CLUB INFO: https://www.kingstonian.com
-knebworth-house,Knebworth House,,,attractions,landmark,,,,,,,,,,source:Great Muppet Caper,"Google rating: 4.5/5 (3,765 reviews)"
+knebworth-house,Knebworth House,51.4726351,-0.1327788,attractions,landmark,,,,,,,,,,source:Great Muppet Caper,"Google rating: 4.5/5 (3,765 reviews)"
 kutir,Kutir,,,restaurants,restaurant,Belgravia,,,,,,,,,,
-le-beaujolais,Le Beaujolais,,,restaurants,wine-bar,,,,$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (888 reviews)
-leadenhall-market,Leadenhall Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (22,378 reviews)"
+le-beaujolais,Le Beaujolais,51.5128873,-0.1285094,restaurants,wine-bar,,,"Aug 10, 2023 · 现代汉语“了”（le）的常见用法有两个，一般称为“了₁”和“了₂”，如“他吃了饭了”中前一个是“了₁”，后一个是“了₂”（两个“了”的作用和区别请有需要者自行搜索，本回答不作介绍）。 两个“了”今天读 le  …",$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (888 reviews)
+leadenhall-market,Leadenhall Market,51.5127276,-0.0833953,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (22,378 reviews)"
 les-grands-buffets,Les Grands Buffets,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (33,072 reviews)"
 leyton-orient,Leyton Orient,51.560078,-0.011431,attractions,football,London,,Football club in London,,true,,,,,sports|football,League One (Level 3) Stadium: Brisbane Road CLUB INFO: https://www.leytonorient.com
 limon,Limon'è,,,restaurants,ice-cream,,,,,,,,,,source:Pubs,Google rating: 4.6/5 (368 reviews)
-lindisfarne-castle,Lindisfarne Castle,,,historic-sites,castle,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,483 reviews)"
+lindisfarne-castle,Lindisfarne Castle,51.5553952,0.1269035,historic-sites,castle,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,483 reviews)"
 line-so-best-to-plan-ahead-if-you-have-a-group,line so best to plan ahead if you have a group,,,restaurants,restaurant,Piccadilly/Regent Street,,,,,,,,,,
 litvinenko-poisoning,Litvinenko Poisoning,,,wmd-sites,radiological,,,"Millennium Hotel, Mayfair (Grosvenor Square, London) - The primary crime scene where Litvinenko was poisoned on November 1, 2006, after meeting Andrei Lugovoi and Dmitry Kovtun at the Pine Bar. Poloni",,,,,,,,um-210 traces were later found in the teapot and throughout the hotel.
-lore-of-the-land,Lore of the Land,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (1,405 reviews)"
+lore-of-the-land,Lore of the Land,51.5220848,-0.1395752,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (1,405 reviews)"
 lulworth-cove,Lulworth Cove,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,040 reviews)"
 lunch-not-expensive,lunch. Not expensive,,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
 lyme-regis-fossil-beach-ammonite-pavement,Lyme Regis Fossil Beach (Ammonite Pavement),,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (648 reviews)
 lyme-regis-museum,Lyme Regis Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,026 reviews)"
-m-manze-tower-bridge,M.Manze Tower Bridge,,,restaurants,restaurant,,,,$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,951 reviews)"
-maggie-jones-s-restaurant,Maggie Jones's Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,528 reviews)"
-magic-roundabout,Magic Roundabout,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.0/5 (31 reviews)
-magna-carta-island,Magna Carta Island,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.2/5 (5 reviews)
-magna-carta-memorial,Magna Carta Memorial,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,008 reviews)"
+m-manze-tower-bridge,M.Manze Tower Bridge,51.4963383,-0.082749,restaurants,restaurant,,,,$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,951 reviews)"
+maggie-jones-s-restaurant,Maggie Jones's Restaurant,51.5028327,-0.1909883,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (1,528 reviews)"
+magic-roundabout,Magic Roundabout,51.6012325,-0.007882,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.0/5 (31 reviews)
+magna-carta-island,Magna Carta Island,,,attractions,landmark,,,GAC and Magna announce a vehicle assembly program to accelerate electric mobility and expand localized EV production in Europe.,,,,,,,source:UK 2023,Google rating: 4.2/5 (5 reviews)
+magna-carta-memorial,Magna Carta Memorial,,,historic-sites,memorial,,,"Aug 11, 2022 · Runnymede, near Windsor, is famous as the location for the sealing of the Magna Carta, signed in 1215 and widely accepted as the first constitutional document that formed the basis of m...",$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,008 reviews)"
 main-dining-room,main dining room,,,restaurants,restaurant,Piccadilly/Regent Street,,,,,,,,,,
-maison-bertaux,Maison Bertaux,,,restaurants,bakery,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.3/5 (2,881 reviews)"
+maison-bertaux,Maison Bertaux,51.5133153,-0.1301989,restaurants,bakery,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.3/5 (2,881 reviews)"
 marquis-of-granby-pronounced-mar-kwis,Marquis of Granby (pronounced Mar Kwis),,,restaurants,restaurant,Belgravia,,maybe good for lunch,,,,,,,,
 memorial-to-a-a-milne,Memorial to A.A.Milne,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (120 reviews)
 mestizo-mexican-restaurant-tequila-bar,Mestizo Mexican Restaurant & Tequila Bar,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (8,992 reviews)"
 millwall-fc,Millwall FC,51.485872,-0.050743,attractions,football,London,,Football club in London,,true,,,,,sports|football,Championship (Level 2) Stadium: The Den CLUB INFO: https://www.millwallfc.co.uk
-milroy-s-of-soho,Milroy's of Soho,,,restaurants,cocktail-bar,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,093 reviews)"
-mon-plaisir,Mon Plaisir,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.2/5 (636 reviews)
-monument-to-the-great-fire-of-london,Monument to the Great Fire of London,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (13,525 reviews)"
+milroy-s-of-soho,Milroy's of Soho,51.5148192,-0.1312098,restaurants,cocktail-bar,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,093 reviews)"
+mon-plaisir,Mon Plaisir,51.5145023,-0.1267492,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.2/5 (636 reviews)
+monument-to-the-great-fire-of-london,Monument to the Great Fire of London,,,historic-sites,memorial,,,The meaning of MONUMENT is a burial vault : sepulchre. How to use monument in a sentence.,,,,,,,source:UK 2023,"Google rating: 4.5/5 (13,525 reviews)"
 morpeth-arms,Morpeth Arms,,,restaurants,pub,Belgravia,,Youngs Brewery-full of Thames House folks,,,,,,,,
 morpeth-arms-oust-down-the-street-from-thames-house,Morpeth Arms Oust down the street from Thames House),,,restaurants,pub,Belgravia,,"Basic pub, not covered, but easy",,,,,,,,
 mountfitchet-castle-norman-village-cm248ly,"Mountfitchet Castle & Norman Village , CM248LY",,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,718 reviews)"
 mr-fogg-s,Mr. Fogg's,,,restaurants,restaurant,Belgravia,,(As in Fineous Fogg) creative drinks and fun,,,,,,,,
-mr-fogg-s-tavern,Mr Fogg's Tavern,,,restaurants,cocktail-bar,,,,$$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,821 reviews)"
+mr-fogg-s-tavern,Mr Fogg's Tavern,51.51098,-0.1268281,restaurants,cocktail-bar,,,,$$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,821 reviews)"
 muggleton-road-amesbury-wiltshire,"Muggleton Road, Amesbury, Wiltshire",,,wmd-sites,chemical,,,"In June 2018, Dawn Sturgess, who had no connection to espionage, was fatally poisoned after coming into contact with a discarded Novichok-laced perfume bottle in Amesbury, Wiltshire.  Her boyfriend, C",,,,,,,,"harlie Rowley,  found a perfume bottle containing Novichok in a charity bin or on the street in Amesbury-it was believed to have been discarded by the same Russian GRU operatives who poisoned Sergei and Yulia Skripal.  Rowley gave the bottle to Sturgess as a gift, believing it was perfume.  She sprayed it directly onto her wrists and withing 15 minutes, fell severely ill.  She was rushed to Salisbury District Hospital, where she died after 8 days.  Rowley was also contaminated but survived after falling into a coma and undergoing treatment. 9. City Stay Hotel (Bow Road, London) -- The GRU operatives who carried out the Skripal attack stayed here before traveling to Salisbury. Novichok traces were later discovered in their room."
 museum-of-archaeology-and-anthropology,Museum of Archaeology and Anthropology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (412 reviews)
-museum-of-cambridge,Museum of Cambridge,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (300 reviews)
+museum-of-cambridge,Museum of Cambridge,51.5290464,-0.054873,attractions,museum,,,"Free admission and parking; discounts on parties and camps; Science Shop savings; free and discounted admission at other museums, and more! We offer field trips for any type of group, so plan a fun da...",,,,,,,source:UK 2023,Google rating: 4.3/5 (300 reviews)
 museum-of-classical-archaeology,Museum of Classical Archaeology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (101 reviews)
 muswell-hillbilly-brewers-taproom,Muswell Hillbilly Brewers Taproom,,,restaurants,cocktail-bar,,,,$,,,,,,source:Pubs,Google rating: 4.7/5 (169 reviews)
-national-army-museum,National Army Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,782 reviews)"
+national-army-museum,National Army Museum,51.4862582,-0.1602867,attractions,museum,,,"Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen…",,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,782 reviews)"
 national-memorial-arboretum-alrewas-staffordshire,"National Memorial Arboretum (Alrewas, Staffordshire)",,,historic-sites,memorial,,,,,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.9/5 (13,859 reviews)"
 national-museum-of-scotland,National Museum of Scotland,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (56,403 reviews)"
 national-museum-of-the-royal-navy,National Museum of the Royal Navy,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (998 reviews)
@@ -265,71 +265,71 @@ national-railway-museum-york,National Railway Museum York,,,attractions,museum,,
 national-trust-ankerwycke-yew,National Trust - Ankerwycke Yew,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (205 reviews)
 national-trust-bateman-s,National Trust - Bateman's,,,attractions,museum,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,239 reviews)"
 national-trust-cerne-giant,National Trust - Cerne Giant,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,Google rating: 4.2/5 (718 reviews)
-national-trust-dover-s-hill,National Trust - Dover's Hill,,,day-trips,countryside,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (554 reviews)
-national-trust-glastonbury-tor,National Trust - Glastonbury Tor,,,historic-sites,memorial,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (4,412 reviews)"
-national-trust-hidcote,National Trust - Hidcote,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,714 reviews)"
+national-trust-dover-s-hill,National Trust - Dover's Hill,,,day-trips,countryside,,,"Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen…",$$,,,,,,source:UK 2023,Google rating: 4.7/5 (554 reviews)
+national-trust-glastonbury-tor,National Trust - Glastonbury Tor,,,historic-sites,memorial,,,"Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen… en verder ;-)",$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (4,412 reviews)"
+national-trust-hidcote,National Trust - Hidcote,,,attractions,landmark,,,"Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen… en verder ;-)",$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,714 reviews)"
 national-trust-petworth-house-and-park,National Trust - Petworth House and Park,,,attractions,park,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,836 reviews)"
 national-trust-sutton-hoo,National Trust - Sutton Hoo,,,day-trips,national-park,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (4,589 reviews)"
-national-trust-the-white-cliffs-of-dover,National Trust - The White Cliffs of Dover,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,498 reviews)"
+national-trust-the-white-cliffs-of-dover,National Trust - The White Cliffs of Dover,,,attractions,landmark,,,"Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen… en verder ;-)",$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (6,498 reviews)"
 national-trust-treasurer-s-house-york,"National Trust - Treasurer's House, York",,,attractions,museum,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,269 reviews)"
 new-forest-national-park,New Forest National Park,,,day-trips,national-park,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (24,443 reviews)"
-newton-s-apple-tree,Newton's Apple Tree,,,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,220 reviews)"
+newton-s-apple-tree,Newton's Apple Tree,51.4210491,-0.3401833,attractions,landmark,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,220 reviews)"
 nice-private-room-for-a-group,nice private room for a group,,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
 nopi,Nopi,,,restaurants,restaurant,Belgravia,,"Ottolenghi restaurant, amazing mediterranean ta pas style place",,,,,,,,
-north-laine-bazaar,North Laine Bazaar,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,645 reviews)"
-north-of-whitehall-st-james,North of Whitehall/St. James,,,restaurants,restaurant,Piccadilly/Regent Street,,,,,,,,,,
+north-laine-bazaar,North Laine Bazaar,,,restaurants,market,,,"Louisburg College is a two-year residential college located in Louisburg, North Carolina, that focuses on getting students ready for the next step to a four-year school offering baccalaureate degrees.",,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,645 reviews)"
+north-of-whitehall-st-james,North of Whitehall/St. James,,,restaurants,restaurant,Piccadilly/Regent Street,,"Louisburg College is a two-year residential college located in Louisburg, North Carolina, that focuses on getting students ready for the next step to a four-year school offering baccalaureate degrees.",,,,,,,,
 notice,notice,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 nutmeg,nutmeg,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 nutshell,Nutshell,51.5096176,-0.1267517,restaurants,restaurant,Covent Garden,,"Persian food, has a good tasting menu for 4Spp",,,,,,,,
 odiham-castle,Odiham Castle,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (754 reviews)
-old-bank-of-england,Old Bank of England,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (5,264 reviews)"
+old-bank-of-england,Old Bank of England,51.5161761,-0.0839653,restaurants,gastropub,,,"old, ancient, venerable, antique, antiquated, archaic, obsolete mean having come into existence or use in the more or less distant …",$$,,,,,,source:Pubs,"Google rating: 4.4/5 (5,264 reviews)"
 old-queen-street-cafe,Old Queen Street Cafe,,,restaurants,cafe,Whitehall/Charing Cross,,tucked away on a side street near Churchill War Rooms; large,,,,,,,,
 old-royal-naval-college,Old Royal Naval College,51.4817844,-0.0066319,wmd-sites,nuclear,"Greenwich, London",,"Once home to the JASON nuclear reactor, this historic site played a key role in training Royal Navy officers in nuclear submarine technology. The reactor, active from 1962 to 1996, was decommissioned ",,,,,,,,"in 1999. Today, the site is a popular heritage attraction."
-old-sarum,Old Sarum,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,493 reviews)"
-old-spitalfields-market,Old Spitalfields Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,796 reviews)"
-oliver-s-village-caf,Oliver's Village Café,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (515 reviews)
+old-sarum,Old Sarum,,,historic-sites,memorial,,,"The Pizza Connection Trial (in full, United States v. Badalamenti et al.) [1] was a criminal trial against the Sicilian Mafia and American Mafia that took place before the United States District Court...",,,,,,,source:UK 2023,"Google rating: 4.5/5 (3,493 reviews)"
+old-spitalfields-market,Old Spitalfields Market,51.5196,-0.075363,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,796 reviews)"
+oliver-s-village-caf,Oliver's Village Café,,,restaurants,cafe,,,"Bei s.Oliver findest du Outfits, die sich ideal miteinander kombinieren lassen. Damenmode online kaufen: Entdecke Deine Lieblingsstücke bei s.Oliver",$$,,,,,,source:UK 2023,Google rating: 4.6/5 (515 reviews)
 one-or-very-small-group-but-a-classic-british-experience,one or very small group ... but a classic British experience,,,restaurants,restaurant,Covent Garden,,,,,,,,,,
 operation-dynamo-rescue-from-dunkirk,Operation Dynamo: Rescue From Dunkirk,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (241 reviews)
-original-dubai-shawarma,Original Dubai Shawarma,,,restaurants,restaurant,,,,$,,,,,,source:UK 2023,Google rating: 3.5/5 (47 reviews)
-ottolenghi-richmond,Ottolenghi Richmond,,,restaurants,restaurant,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (208 reviews)
-oxford-university-museum-of-natural-history,Oxford University Museum of Natural History,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (10,997 reviews)"
-parkland-walk,Parkland Walk,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,945 reviews)"
+original-dubai-shawarma,Original Dubai Shawarma,,,restaurants,restaurant,,,"At Original Dubai Shawarma, we take pride in reimagining the dining experience with a modern twist. Located at 436 Edgware Road, our …",$,,,,,,source:UK 2023,Google rating: 3.5/5 (47 reviews)
+ottolenghi-richmond,Ottolenghi Richmond,51.4586114,-0.3055999,restaurants,restaurant,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (208 reviews)
+oxford-university-museum-of-natural-history,Oxford University Museum of Natural History,,,attractions,museum,,,"Oxford University provides world-class research and education to benefit society on a local, regional, national and global scale.",,,,,,,source:UK 2023,"Google rating: 4.8/5 (10,997 reviews)"
+parkland-walk,Parkland Walk,51.5745001,-0.1338736,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,945 reviews)"
 peak-district-national-park,Peak District National Park,,,day-trips,national-park,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (34,072 reviews)"
 pembroke-college,Pembroke College,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (187 reviews)
-peter-pan-statue,Peter Pan statue,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,953 reviews)"
-piglet-s-house,Piglet's House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (42 reviews)
+peter-pan-statue,Peter Pan statue,51.5086177,-0.175919,attractions,landmark,,,"Saint Peter[note 1] (born Shimon bar Yonah; 1 BC – AD 64/68), [1] also known as Peter the Apostle, Simon Peter, Simeon, Simon, or Cephas, was one of the Twelve Apostles of Jesus and one of the first l...",,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,953 reviews)"
+piglet-s-house,Piglet's House,,,attractions,landmark,,,Piglet is a fictional character from A. A. Milne 's Winnie-the-Pooh books. Piglet is Winnie‑the‑Pooh's closest friend amongst all the toys and animals featured in the stories.,,,,,,,source:UK 2023,Google rating: 4.8/5 (42 reviews)
 pindar-bunker,PINDAR Bunker,,,wmd-sites,nuclear,"Whitehall, London",,"A top-secret nuclear war command bunker, PINDAR was constructed in the 1990s to ensure government continuity in the event of a nuclear strike. Though off-limits to the public, its existence is officia",,,,,,,,lly acknowledged.
-piwnica-pod-baranami,Piwnica Pod Baranami,,,restaurants,cocktail-bar,,,,,,,,,,source:Pubs,"Google rating: 4.8/5 (4,534 reviews)"
+piwnica-pod-baranami,Piwnica Pod Baranami,,,restaurants,cocktail-bar,,,"Our firm is experienced in preparation of all types of corporations, partnerships and sole proprietorships.",,,,,,,source:Pubs,"Google rating: 4.8/5 (4,534 reviews)"
 pooh-car-park,Pooh Car Park,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (224 reviews)
-pooh-corner,Pooh Corner,,,restaurants,cafe,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,639 reviews)"
-pooh-sticks-bridge,Pooh Sticks Bridge,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (942 reviews)
+pooh-corner,Pooh Corner,51.223824,-2.5238809,restaurants,cafe,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,639 reviews)"
+pooh-sticks-bridge,Pooh Sticks Bridge,,,attractions,landmark,,,"Winnie-the-Pooh (also known as Edward Bear, Pooh Bear or simply Pooh) is a fictional anthropomorphic teddy bear created by the English author A. A. Milne and the English illustrator E. H. Shepard.",,,,,,,source:UK 2023,Google rating: 4.5/5 (942 reviews)
 porterhouse,Porterhouse,,,restaurants,restaurant,Belgravia,,"really big space, with covered outdoor seatingtoo",,,,,,,,
 porters-lodge-peterhouse,Porters' Lodge Peterhouse,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (1 reviews)
-portobello-rd,Portobello Rd,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,082 reviews)"
-portobello-road-market,Portobello Road Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (28,168 reviews)"
+portobello-rd,Portobello Rd,51.522305,-0.2114931,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,082 reviews)"
+portobello-road-market,Portobello Road Market,51.5160858,-0.2051174,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (28,168 reviews)"
 portsmouth-historic-dockyard,Portsmouth Historic Dockyard,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (16,664 reviews)"
 preto,Preto,,,restaurants,restaurant,Whitehall/St James's Park/Victoria,,brazilian steak house; cheap and a LOT of food,,,,,,,,
-prince-alfred,Prince Alfred,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (1,746 reviews)"
-promenade,Promenade,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.0/5 (2 reviews)
+prince-alfred,Prince Alfred,51.5244269,-0.1848853,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (1,746 reviews)"
+promenade,Promenade,51.4016084,-0.3083297,attractions,landmark,,,"Mar 13, 2026 · With some of the finest retail stores, unique boutiques, high-end salons, and delectable restaurants, The Promenade at Bonita Bay attracts both locals in Southwest Florida and visitors ...",,,,,,,source:UK 2023,Google rating: 4.0/5 (2 reviews)
 prospect-of-whitby,Prospect of Whitby,,,restaurants,restaurant,Belgravia,,famous for hanging pirates out back on the river,,,,,,,,
-punch-judy,Punch & Judy,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (4,686 reviews)"
-punjab-restaurant,Punjab Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (4,098 reviews)"
+punch-judy,Punch & Judy,51.5118249,-0.1230419,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (4,686 reviews)"
+punjab-restaurant,Punjab Restaurant,51.5151144,-0.1265305,restaurants,restaurant,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (4,098 reviews)"
 puzzlewood,Puzzlewood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (4,283 reviews)"
 queens-park-rangers,Queens Park Rangers,51.509794,-0.232143,attractions,football,London,,Football club in London,,true,,,,,sports|football,Championship (Level 2) Stadium: Loftus Road CLUB INFO: https://www.qpr.co.uk
-queens-park-rangers-football-club,Queens Park Rangers Football Club,,,attractions,football,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (960 reviews)
+queens-park-rangers-football-club,Queens Park Rangers Football Club,51.510754,-0.2300894,attractions,football,,,"Dec 20, 2016 · Scream Queens is a horror-comedy television series on Fox.",,,,,,,source:UK 2023,Google rating: 4.4/5 (960 reviews)
 quilon,Quilon,,,restaurants,restaurant,Belgravia,,Very nice Indian restaurant; excellent service,,,,,,,,
 radio-rooftop,Radio Rooftop,,,restaurants,wine-bar,Belgravia,,(good rooftop bar with excellent cocktails and pretty good food),,,,,,,,
 raf-northolt,RAF Northolt,51.5543813,-0.418074,wmd-sites,nuclear,West London,,"During the Cold War, this airbase was a crucial part of Britain's nuclear bomber operations. It remains an active military airfield, though access is restricted.",,,,,,,,
-regency-cafe,Regency Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,695 reviews)"
-richmond-palace,Richmond Palace,,,historic-sites,castle,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (32 reviews)
-rigsby-s-ln,Rigsby's Ln,,,attractions,landmark,,Cirencester GL7 6FJ United Kingdom,,,,,,,,source:UK 2023,
+regency-cafe,Regency Cafe,51.494002,-0.1320948,restaurants,cafe,,,,$,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,695 reviews)"
+richmond-palace,Richmond Palace,51.4608257,-0.3088135,historic-sites,castle,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (32 reviews)
+rigsby-s-ln,Rigsby's Ln,,,attractions,landmark,,Cirencester GL7 6FJ United Kingdom,"An authentic upstate South Carolina restaurant, Rigsby’s Smoked Burgers, Wings & Grill is a go-to spot for friends, …",,,,,,,source:UK 2023,
 river-otter-beaver-walk-otterton,River Otter beaver walk (Otterton),,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 5.0/5 (7 reviews)
-robin-hood-s-bay,Robin Hood's Bay,,,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
-rochester-castle,Rochester Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,085 reviews)"
+robin-hood-s-bay,Robin Hood's Bay,54.433222,-0.5344748,attractions,landmark,,United Kingdom,,,,,,,,source:UK 2023,
+rochester-castle,Rochester Castle,51.5609825,-0.0740121,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (9,085 reviews)"
 rock-and-sole-plaice,Rock and Sole Plaice,,,attractions,landmark,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (5,319 reviews)"
 room-available,room available,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 rovi,Rovi,,,restaurants,restaurant,Belgravia,,"same as Nopi, just different menu",,,,,,,,
-royal-air-force-museum-london,Royal Air Force Museum London,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (19,512 reviews)"
+royal-air-force-museum-london,Royal Air Force Museum London,51.5980735,-0.240667,attractions,museum,,,"Cruise to unforgettable destinations with Royal Caribbean. Save with the best cruise deals and packages to the Caribbean and the Bahamas. Start your dream vacation with a cruise to Alaska, the …",,,,,,,source:UK 2023,"Google rating: 4.8/5 (19,512 reviews)"
 royal-armouries-fort-nelson,Royal Armouries: Fort Nelson,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (4,283 reviews)"
 royal-engineers-museum,Royal Engineers Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (996 reviews)
 royal-hampshire-regiment-museum,Royal Hampshire Regiment Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (123 reviews)
@@ -338,69 +338,69 @@ rules,Rules,51.5108285,-0.1231906,restaurants,restaurant,Covent Garden,,"oldest 
 ryu-sushi-restaurant-mayfair,"Ryu Sushi Restaurant, Mayfair",,,wmd-sites,radiological,,,"Another site contaminated with polonium, where Lugovoi and Kovtun dined before meeting Litvinenko.",,,,,,,,
 salisbury-cathedral,Salisbury Cathedral,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (16,004 reviews)"
 sally-lunn-s-historic-eating-house-museum,Sally Lunn’s Historic Eating House & Museum,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (6,016 reviews)"
-salvino,Salvino,,,restaurants,market,,,,$,,,,,,source:UK 2023,Google rating: 4.6/5 (422 reviews)
-samad-al-iraqi-restaurant,Samad Al Iraqi Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,876 reviews)"
-sambourne-house,Sambourne House,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (365 reviews)
+salvino,Salvino,51.5502253,-0.1307897,restaurants,market,,,,$,,,,,,source:UK 2023,Google rating: 4.6/5 (422 reviews)
+samad-al-iraqi-restaurant,Samad Al Iraqi Restaurant,51.4982855,-0.201717,restaurants,restaurant,,,"HAND-KNOTTED RUGS At the Samad rug boutique each hand-knotted rug is entirely unique, with hundreds of skilled artisans …",$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,876 reviews)"
+sambourne-house,Sambourne House,51.5004849,-0.1968745,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (365 reviews)
 samuel-smith-s-brewery,Samuel Smith's Brewery,,,restaurants,pub,,,,,,,,,,source:UK 2023,Google rating: 2.7/5 (147 reviews)
-schnitzel-heaven,Schnitzel Heaven,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.9/5 (2,536 reviews)"
-scott-s,Scott's,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (2,888 reviews)"
-scudamore-s-mill-lane-punting-station,Scudamore's Mill Lane Punting Station,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,034 reviews)"
+schnitzel-heaven,Schnitzel Heaven,51.5290103,-0.0837544,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.9/5 (2,536 reviews)"
+scott-s,Scott's,51.5098163,-0.1509327,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (2,888 reviews)"
+scudamore-s-mill-lane-punting-station,Scudamore's Mill Lane Punting Station,,,attractions,landmark,,,"ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,034 reviews)"
 sedgwick-museum-of-earth-sciences,Sedgwick Museum of Earth Sciences,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (989 reviews)
-seven-dials-market,Seven Dials Market,,,restaurants,street-food,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (8,495 reviews)"
-shakespeare-s-birthplace,Shakespeare's Birthplace,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (18,974 reviews)"
-shambles,Shambles,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,605 reviews)"
+seven-dials-market,Seven Dials Market,51.5140268,-0.1260469,restaurants,street-food,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (8,495 reviews)"
+shakespeare-s-birthplace,Shakespeare's Birthplace,,,attractions,museum,,,Teachers! We at the Shakespeare Forum see you and hear you! We know you need resources. We don’t have specific lesson plans ready to go at …,,,,,,,source:UK 2023,"Google rating: 4.5/5 (18,974 reviews)"
+shambles,Shambles,51.4274131,-0.3299775,attractions,landmark,,,"Mar 26, 2012 · The weird usage seems to have developed in the same way as ""a headquarters"". Consider the following Ngram: The original phrase seems to have been ""shambles"" or ""the …",,,,,,,source:UK 2023,"Google rating: 4.7/5 (1,605 reviews)"
 shambles-market,Shambles Market,,,restaurants,market,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (14,354 reviews)"
 sheekey-s,Sheekey's,,,restaurants,restaurant,Belgravia,,really good fish,,,,,,,,
-sherlock-holmes,Sherlock Holmes,,,restaurants,pub,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.2/5 (9,350 reviews)"
-sherwood-forest-visitor-centre,Sherwood Forest Visitor Centre,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,196 reviews)"
+sherlock-holmes,Sherlock Holmes,51.5237629,-0.1584743,restaurants,pub,,,,$$,,,,,,source:Great Muppet Caper,"Google rating: 4.2/5 (9,350 reviews)"
+sherwood-forest-visitor-centre,Sherwood Forest Visitor Centre,,,attractions,landmark,,,"Sherwood Area Optimist Club LUNCH WITH SANTA—Saturday, December 14th, from 11:00 a.m.-1:00 p.m. The Sherwood Area Optimists …",,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,196 reviews)"
 ship-tavern,Ship Tavern,,,restaurants,pub,Belgravia,,,,,,,,,,
 short-road-pizza,Short Road Pizza,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.6/5 (60 reviews)
-simpson-s-in-the-strand,Simpson's in the Strand,,,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (842 reviews)
-simpson-s-tavern,Simpson's Tavern,,,attractions,landmark,,,,,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (346 reviews)
-sir-colin-campbell,Sir Colin Campbell,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (541 reviews)
+simpson-s-in-the-strand,Simpson's in the Strand,51.5105048,-0.1206359,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.6/5 (842 reviews)
+simpson-s-tavern,Simpson's Tavern,51.5130283,-0.0859508,attractions,landmark,,,"Welcome to the Simpson Strong-Tie homepage showcasing our resources, products and services designed to help people build safer, stronger structures.",,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (346 reviews)
+sir-colin-campbell,Sir Colin Campbell,51.5434504,-0.1995098,restaurants,pub,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (541 reviews)
 slower,slower),,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
 smith-and-wollensky,Smith and Wollensky,,,restaurants,restaurant,Whitehall/Charing Cross,,American steakhouse; lots of private rooms so not too hard to,,,,,,,,
 smiths,Smiths,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 social-eating-house-street-xo,"Social Eating House, Street XO",,,restaurants,restaurant,Marylebone,,"mostly in Mayfair, although some close to Regent St.",,,,,,,,
-sounds-of-the-universe,Sounds of the Universe,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (594 reviews)
-southwick-house,Southwick House,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (186 reviews)
+sounds-of-the-universe,Sounds of the Universe,51.5139447,-0.1346524,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (594 reviews)
+southwick-house,Southwick House,51.1315549,-0.0188517,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (186 reviews)
 spend,Spend],,,restaurants,restaurant,Belgravia,,,,,,,,,,
 spitfire-hurricane-memorial-museum,Spitfire & Hurricane Memorial Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,432 reviews)"
 sports-trading-cards-uk-ltd,Sports Trading Cards UK Ltd,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (39 reviews)
-st-augustine-s-abbey,St Augustine's Abbey,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,240 reviews)"
-st-catherine-s-hill,St. Catherine's Hill,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (824 reviews)
-st-margaret-s-beach,St Margaret's Beach,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,293 reviews)"
-st-martin-s-church,St. Martin's Church,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (478 reviews)
-st-michael-s-church,St Michael’s Church,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (25 reviews)
-st-nicholas-church-graveyard,St Nicholas' Church Graveyard,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (11 reviews)
-stonehenge,Stonehenge,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (64,629 reviews)"
+st-augustine-s-abbey,St Augustine's Abbey,51.4911487,0.1436629,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,240 reviews)"
+st-catherine-s-hill,St. Catherine's Hill,51.4419671,-0.3325545,attractions,landmark,,,ST前缀带个星，就是这个股票被 退市风险警示，通俗的说，就是这个股票是个病人，病的已经进ICU病房了，如果抢救不过来，随时 …,,,,,,,source:UK 2023,Google rating: 4.7/5 (824 reviews)
+st-margaret-s-beach,St Margaret's Beach,,,day-trips,coast,,,ST前缀带个星，就是这个股票被 退市风险警示，通俗的说，就是这个股票是个病人，病的已经进ICU病房了，如果抢救不过来，随时 …,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,293 reviews)"
+st-martin-s-church,St. Martin's Church,51.5767396,-0.4262431,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (478 reviews)
+st-michael-s-church,St Michael’s Church,51.5688545,-0.1502499,historic-sites,medieval,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (25 reviews)
+st-nicholas-church-graveyard,St Nicholas' Church Graveyard,,,historic-sites,memorial,,,ST前缀带个星，就是这个股票被 退市风险警示，通俗的说，就是这个股票是个病人，病的已经进ICU病房了，如果抢救不过来，随时会挂，或者是两年一直这样病着就会挂。 具体有哪些情况会让股票变 …,,,,,,,source:UK 2023,Google rating: 4.6/5 (11 reviews)
+stonehenge,Stonehenge,51.4054013,0.0149408,historic-sites,memorial,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (64,629 reviews)"
 sutton-united,Sutton United,51.367328,-0.200741,attractions,football,London,,Football club in London,,true,,,,,sports|football,League Two (Level 4) Stadium: Gander Green Lane CLUB INFO: https://www.suttonunited.net
-sweetings,Sweetings,,,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (315 reviews)
+sweetings,Sweetings,51.512397,-0.0927667,restaurants,restaurant,,,,$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.5/5 (315 reviews)
 table-companions,table companions,,,restaurants,restaurant,Covent Garden,,,,,,,,,,
 tamarind,Tamarind,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 tandoor-chophouse,Tandoor Chophouse,,,restaurants,restaurant,Belgravia,,best black dahl [noisy],,,,,,,,
 tattershall-castle-is-also-popular-in-the-summer,Tattershall castle is also popular In the Summer,,,restaurants,pub,,,"it's a pub on a boat on the Thames, nice if the weather is good.",,,,,,,,
-tayyabs,Tayyabs,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 3.9/5 (9,340 reviews)"
+tayyabs,Tayyabs,51.5172654,-0.0634614,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 3.9/5 (9,340 reviews)"
 temper-soho,Temper SoHo,,,restaurants,restaurant,Belgravia,,Meat eater's dream .. Cheese burger tacos. Also best G& T with orange and,,,,,,,,
 tewkesbury-battlefield,Tewkesbury Battlefield,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (296 reviews)
 thames-ditton-miniature-railways,Thames Ditton Miniature Railways,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (283 reviews)
-that-is-quaint-drink-in-the-alleyway-behind-too,that is quaint. Drink in the alleyway behind too,,,restaurants,restaurant,Belgravia,,,,,,,,,,
-the-agc-museum,The AGC Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (8 reviews)
+that-is-quaint-drink-in-the-alleyway-behind-too,that is quaint. Drink in the alleyway behind too,,,restaurants,restaurant,Belgravia,,"Sep 25, 2010 · There are three very different uses of that: Subordinating that: “I know that this is the answer.” Demonstrative pronoun that: “ That is not the answer.",,,,,,,,
+the-agc-museum,The AGC Museum,,,attractions,museum,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",,,,,,,source:UK 2023,Google rating: 4.3/5 (8 reviews)
 the-alfred-tennyson,The Alfred Tennyson,51.4996243,-0.1564424,restaurants,restaurant,Belgravia,,"same as Thomas Cubitt, just a little fancier ambiance. Private",,,,,,,,
 the-alnwick-garden,The Alnwick Garden,,,attractions,garden,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (10,889 reviews)"
-the-bald-faced-stag,The Bald Faced Stag,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,356 reviews)"
+the-bald-faced-stag,The Bald Faced Stag,51.5893111,-0.1642404,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符合传统语 …",$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,356 reviews)"
 the-barbary,The Barbary,,,restaurants,wine-bar,Belgravia,,best meal in town!,,,,,,,,
-the-barley-mow-marylebone,THE BARLEY MOW MARYLEBONE,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.4/5 (808 reviews)
-the-bear-inn,The Bear Inn,,,restaurants,pub,,,,,,,,,,source:UK 2023,Google rating: 4.3/5 (650 reviews)
+the-barley-mow-marylebone,THE BARLEY MOW MARYLEBONE,51.5196986,-0.155659,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.4/5 (808 reviews)
+the-bear-inn,The Bear Inn,,,restaurants,pub,,,除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中 …,,,,,,,source:UK 2023,Google rating: 4.3/5 (650 reviews)
 the-black-dog-beer-house,The Black Dog Beer House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.8/5 (1,294 reviews)"
 the-black-horse,The Black Horse,,,attractions,landmark,,91 Church St Whitby YO22 4BH United Kingdom,,,,,,,,source:Pubs,
-the-blackfriar,The Blackfriar,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (7,048 reviews)"
-the-blue-posts,The Blue Posts,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.2/5 (592 reviews)
-the-botanist,The Botanist,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,440 reviews)"
+the-blackfriar,The Blackfriar,51.5121465,-0.1036381,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (7,048 reviews)"
+the-blue-posts,The Blue Posts,51.5128931,-0.1394383,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.2/5 (592 reviews)
+the-botanist,The Botanist,51.5189552,-0.0836417,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,440 reviews)"
 the-british-library-euston,The British Library (Euston),51.5299119,-0.1276918,wmd-sites,radiological,,,"A location where Litvinenko had meetings around the time of his poisoning, with detected radiation traces.",,,,,,,,
-the-british-museum,The British Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (170,980 reviews)"
-the-carlton-tavern,The Carlton Tavern,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (587 reviews)
-the-churchill-arms-kensington,"The Churchill Arms, Kensington",,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (8,341 reviews)"
+the-british-museum,The British Museum,51.5193755,-0.1274856,attractions,museum,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",,,,,,,source:UK 2023,"Google rating: 4.7/5 (170,980 reviews)"
+the-carlton-tavern,The Carlton Tavern,51.5320244,-0.1914109,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (587 reviews)
+the-churchill-arms-kensington,"The Churchill Arms, Kensington",51.5068786,-0.1948694,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (8,341 reviews)"
 the-clarence,The Clarence,,,restaurants,pub,Belgravia,,Best fish & chips around. Good garden burger. Young's brewery,,,,,,,,
 the-coal-hole,The Coal Hole,,,restaurants,restaurant,Belgravia,,,,,,,,,,
 the-d-day-story,The D-Day Story,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,608 reviews)"
@@ -409,97 +409,97 @@ the-delauney,The Delauney,,,restaurants,cafe,Covent Garden,,"1920's style brasse
 the-deli-warehouse,The Deli Warehouse,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (164 reviews)
 the-devonshire-grassington,The Devonshire Grassington,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,597 reviews)"
 the-dickens-inn,The Dickens Inn,,,restaurants,restaurant,,,,$$,,,,,,source:Pubs,"Google rating: 4.2/5 (9,124 reviews)"
-the-dog-and-duck,The Dog And Duck,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,742 reviews)"
-the-dove-hammersmith,"The Dove, Hammersmith",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,940 reviews)"
-the-duke-of-hamilton,The Duke of Hamilton,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.5/5 (706 reviews)
-the-dusty-knuckle-bakery,The Dusty Knuckle Bakery,,,restaurants,bakery,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,523 reviews)"
+the-dog-and-duck,The Dog And Duck,51.5140001,-0.1319603,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,742 reviews)"
+the-dove-hammersmith,"The Dove, Hammersmith",51.4905085,-0.2348574,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,940 reviews)"
+the-duke-of-hamilton,The Duke of Hamilton,,,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:Pubs,Google rating: 4.5/5 (706 reviews)
+the-dusty-knuckle-bakery,The Dusty Knuckle Bakery,51.5471196,-0.0739135,restaurants,bakery,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,523 reviews)"
 the-eclipse-inn,The Eclipse Inn,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.3/5 (636 reviews)
 the-engineer-s-house,The Engineer's House,,,restaurants,cocktail-bar,,,,$$,,,,,,source:UK 2023,Google rating: 4.5/5 (106 reviews)
-the-faltering-fullback,The Faltering Fullback,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,356 reviews)"
+the-faltering-fullback,The Faltering Fullback,51.5685203,-0.1081989,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:Pubs,"Google rating: 4.5/5 (3,356 reviews)"
 the-fitzwilliam-museum,The Fitzwilliam Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (8,944 reviews)"
-the-flask-highgate,"The Flask, Highgate",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (2,108 reviews)"
+the-flask-highgate,"The Flask, Highgate",51.5699116,-0.1508738,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (2,108 reviews)"
 the-french-house,The French House,,,restaurants,restaurant,Belgravia,,Famous for the French resistance,,,,,,,,
 the-grapes,The Grapes,,,restaurants,restaurant,Belgravia,,"Owned by Gandalf, for real",,,,,,,,
-the-grazing-goat-pub-boutique-hotel-marylebone,The Grazing Goat Pub & Boutique Hotel Marylebone,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (2,257 reviews)"
-the-great-glen-jd-wetherspoon,The Great Glen - JD Wetherspoon,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.0/5 (4,476 reviews)"
-the-grenadier,The Grenadier,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (2,580 reviews)"
+the-grazing-goat-pub-boutique-hotel-marylebone,The Grazing Goat Pub & Boutique Hotel Marylebone,,,restaurants,gastropub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:Pubs,"Google rating: 4.4/5 (2,257 reviews)"
+the-great-glen-jd-wetherspoon,The Great Glen - JD Wetherspoon,,,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:UK 2023,"Google rating: 4.0/5 (4,476 reviews)"
+the-grenadier,The Grenadier,51.5014537,-0.1549077,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:Pubs,"Google rating: 4.6/5 (2,580 reviews)"
 the-gurkha-museum,The Gurkha Museum,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (240 reviews)
-the-hampstead-butcher-providore,The Hampstead Butcher & Providore,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (189 reviews)
+the-hampstead-butcher-providore,The Hampstead Butcher & Providore,,,restaurants,market,,,除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中 …,,,,,,,source:UK 2023,Google rating: 4.1/5 (189 reviews)
 the-hand-marigold-free-house,The Hand & Marigold Free House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (280 reviews)
 the-harp,The Harp,,,restaurants,restaurant,Belgravia,,"Renowned for its quaint and narrow inside, plus a good mix of beers. It has a tiny upstairs",,,,,,,,
-the-harp-covent-garden,"The Harp, Covent Garden",,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (3,626 reviews)"
+the-harp-covent-garden,"The Harp, Covent Garden",51.5097191,-0.1259555,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.6/5 (3,626 reviews)"
 the-heffalump-trap,The Heffalump Trap,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (2 reviews)
 the-historic-dockyard-chatham,The Historic Dockyard Chatham,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (5,595 reviews)"
-the-hole-in-the-wall,The Hole In The Wall,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.1/5 (2,101 reviews)"
+the-hole-in-the-wall,The Hole In The Wall,51.5295385,0.0245524,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.1/5 (2,101 reviews)"
 the-hoop-and-grapes,The Hoop and Grapes,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.6/5 (3,973 reviews)"
 the-horniman-at-hays,The Horniman at Hays,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (9,901 reviews)"
-the-hut-by-the-heath,The Hut by The Heath,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 5.0/5 (259 reviews)
+the-hut-by-the-heath,The Hut by The Heath,51.5554783,-0.1498306,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 5.0/5 (259 reviews)
 the-jane-austen-centre,The Jane Austen Centre,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.2/5 (4,456 reviews)"
-the-king-s-head-aylesbury,"The King's Head, Aylesbury",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,024 reviews)"
-the-lamb-flag-covent-garden,"The Lamb & Flag, Covent Garden",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (5,037 reviews)"
+the-king-s-head-aylesbury,"The King's Head, Aylesbury",,,restaurants,pub,,,除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效 …,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,024 reviews)"
+the-lamb-flag-covent-garden,"The Lamb & Flag, Covent Garden",51.5117167,-0.1256609,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (5,037 reviews)"
 the-lamb-inn,The Lamb Inn,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,113 reviews)"
 the-lord-nelson-burnham-thorpe,"The Lord Nelson, Burnham Thorpe",,,restaurants,cocktail-bar,,,,$$,,,,,,source:Pubs,Google rating: 4.3/5 (318 reviews)
-the-map-house,The Map House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (126 reviews)
+the-map-house,The Map House,51.4977845,-0.1654957,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (126 reviews)
 the-mavffower,The Mavffower,,,restaurants,pub,Belgravia,,"Supposedly where the mayflower departed; old-school pub, dark paneling, original",,,,,,,,
-the-mayflower-pub,The Mayflower Pub,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (5,629 reviews)"
-the-mill-house,The Mill House,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (2,674 reviews)"
+the-mayflower-pub,The Mayflower Pub,51.5018051,-0.0535913,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (5,629 reviews)"
+the-mill-house,The Mill House,51.3573435,0.0315866,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.5/5 (2,674 reviews)"
 the-mill-pub,The Mill Pub,51.5510177,-0.2014191,wmd-sites,chemical,,,"After leaving their home, the Skripals visited the Mill Pub for drinks before heading to Zizzi Restaurant for a meal. Both locations were later found to be contaminated with traces of Novichok. Follow",,,,,,,,"ing the attack, the pub was sealed off and underwent extensive decontamination before reopening."
 the-museum-of-english-rural-life,The Museum of English Rural Life,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (309 reviews)
 the-northall-also-in-corinthia,The Northall (also in Corinthia),,,restaurants,restaurant,Whitehall/Charing Cross,,"also expensive and better for a few people, they have a",,,,,,,,
-the-old-bell-tavern,The Old Bell Tavern,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,564 reviews)"
+the-old-bell-tavern,The Old Bell Tavern,51.5140401,-0.1051743,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,564 reviews)"
 the-old-buttermarket,The Old Buttermarket,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,362 reviews)"
 the-olde-wine-shades,The Olde Wine Shades,,,restaurants,pub,Belgravia,,Probably the only pub to survive the great fire in 1666. Specializes in wines but,,,,,,,,
 the-orange,The Orange,51.4905339,-0.1523463,restaurants,pub,Pimlico,,gastropub. Private room available.,,,,,,,,
 the-original-cheddar-cheese-co,The Original Cheddar Cheese Co,,,restaurants,market,,,,,,,,,,source:UK 2023,Google rating: 4.5/5 (127 reviews)
-the-original-maids-of-honour,The Original Maids of Honour,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,319 reviews)"
+the-original-maids-of-honour,The Original Maids of Honour,51.4807386,-0.2883268,restaurants,cafe,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (1,319 reviews)"
 the-oxenham-arms-restaurant,The Oxenham Arms Restaurant,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,Google rating: 4.7/5 (50 reviews)
-the-parakeet-pub,The Parakeet Pub,,,restaurants,pub,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,040 reviews)"
-the-pineapple,The Pineapple,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,793 reviews)"
-the-plimsoll,The Plimsoll,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,064 reviews)"
+the-parakeet-pub,The Parakeet Pub,51.5497566,-0.1405029,restaurants,pub,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,040 reviews)"
+the-pineapple,The Pineapple,51.5529728,-0.1396355,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,793 reviews)"
+the-plimsoll,The Plimsoll,51.5620311,-0.1051355,restaurants,pub,,,除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效 …,$$,,,,,,source:Pubs,"Google rating: 4.4/5 (1,064 reviews)"
 the-polar-museum,The Polar Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (692 reviews)
 the-pop-up-farm,The Pop Up Farm,,,kid-friendly,farm,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (396 reviews)
-the-postal-museum,The Postal Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (5,511 reviews)"
+the-postal-museum,The Postal Museum,51.5247243,-0.1139982,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (5,511 reviews)"
 the-pride-of-spitlefields,The Pride of Spitlefields,,,restaurants,restaurant,Belgravia,,"The Pride of Spitlefields (Jack the Ripper might have gone ••• Ver small, red carpet, what the brits",,,,,,,,
-the-prince-s-head-richmond,"The Prince's Head, Richmond",,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,997 reviews)"
+the-prince-s-head-richmond,"The Prince's Head, Richmond",,,restaurants,pub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,997 reviews)"
 the-record-album,The Record Album,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (69 reviews)
 the-red-lion,The Red Lion,51.5083234,-0.1364346,restaurants,pub,Belgravia,,"convenient, across from FCDO, good pies (steak and ale, etc)",,,,,,,,
-the-red-lion-sun,The Red Lion & Sun,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,Google rating: 4.5/5 (997 reviews)
-the-rifleman-s-museum,The Rifleman's Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (259 reviews)
-the-roman-baths,The Roman Baths,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (38,733 reviews)"
-the-rose-crown,The Rose & Crown,,,restaurants,gastropub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,024 reviews)"
+the-red-lion-sun,The Red Lion & Sun,,,restaurants,gastropub,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符合传统语 …",$$,,,,,,source:Pubs,Google rating: 4.5/5 (997 reviews)
+the-rifleman-s-museum,The Rifleman's Museum,,,attractions,museum,,,"除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的""Thinnest design ever created""。这种用法虽不符 …",,,,,,,source:UK 2023,Google rating: 4.8/5 (259 reviews)
+the-roman-baths,The Roman Baths,51.5327746,-0.03212,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (38,733 reviews)"
+the-rose-crown,The Rose & Crown,51.5503124,-0.1329323,restaurants,gastropub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.3/5 (1,024 reviews)"
 the-royal-logistic-corps-museum,The Royal Logistic Corps Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.8/5 (267 reviews)
 the-royal-navy-submarine-museum,The Royal Navy Submarine Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,194 reviews)"
-the-royal-standard-of-england,The Royal Standard of England,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,917 reviews)"
+the-royal-standard-of-england,The Royal Standard of England,51.4767777,0.0187041,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (2,917 reviews)"
 the-scallop-shell,The Scallop Shell,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.7/5 (3,000 reviews)"
-the-seven-stars,The Seven Stars,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,236 reviews)"
+the-seven-stars,The Seven Stars,51.4870402,-0.2031196,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,236 reviews)"
 the-sherlock-holmes-museum,The Sherlock Holmes Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.3/5 (21,447 reviews)"
 the-ship-and-shovell,The Ship and Shovell,,,restaurants,restaurant,Belgravia,,"two sides of an alleyway, very good atmosphere, hosts events upstairs. Holland",,,,,,,,
-the-spaniards-inn,The Spaniards Inn,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (6,462 reviews)"
+the-spaniards-inn,The Spaniards Inn,51.5694081,-0.1744524,restaurants,pub,,,"The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers.",$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (6,462 reviews)"
 the-speaker,The Speaker,,,restaurants,restaurant,Belgravia,,Famous for MPs,,,,,,,,
-the-star-tavern-belgravia,"The Star Tavern, Belgravia",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,279 reviews)"
-the-tamil-crown,The Tamil Crown,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,203 reviews)"
-the-tamil-prince,The Tamil Prince,,,restaurants,restaurant,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,186 reviews)"
+the-star-tavern-belgravia,"The Star Tavern, Belgravia",51.4984423,-0.155855,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.5/5 (1,279 reviews)"
+the-tamil-crown,The Tamil Crown,51.5320007,-0.1018588,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,203 reviews)"
+the-tamil-prince,The Tamil Prince,51.5409325,-0.1138144,restaurants,restaurant,,,,$$$,,,,,,source:UK 2023,"Google rating: 4.5/5 (2,186 reviews)"
 the-tank-museum,The Tank Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.9/5 (15,956 reviews)"
-the-tea-garden,The Tea Garden,,,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.1/5 (665 reviews)
+the-tea-garden,The Tea Garden,51.5136364,-0.1247718,restaurants,cafe,,,,$$,,,,,,source:UK 2023,Google rating: 4.1/5 (665 reviews)
 the-thomas-cubltt,The Thomas Cubltt,,,restaurants,pub,Belgravia,,gastropub. Seasonal menu. Private room available.,,,,,,,,
-the-town-mill,The Town Mill,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (845 reviews)
+the-town-mill,The Town Mill,51.2063934,-1.4786436,attractions,landmark,,,"The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers.",,,,,,,source:UK 2023,Google rating: 4.7/5 (845 reviews)
 the-trusty-servant-inn,The Trusty Servant Inn,,,restaurants,pub,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,665 reviews)"
-the-vault-1894,The Vault 1894,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.2/5 (1,406 reviews)"
-the-vintage-house,The Vintage House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (125 reviews)
-the-waterway,The Waterway,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,642 reviews)"
-the-white-horse,The White Horse,,,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,361 reviews)"
-the-william-morris-society,The William Morris Society,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (75 reviews)
+the-vault-1894,The Vault 1894,51.5043533,-0.0761775,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.2/5 (1,406 reviews)"
+the-vintage-house,The Vintage House,51.5131555,-0.1317409,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (125 reviews)
+the-waterway,The Waterway,51.5227313,-0.1878911,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.2/5 (2,642 reviews)"
+the-white-horse,The White Horse,51.4744249,-0.2003146,restaurants,pub,,,,$$,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,361 reviews)"
+the-william-morris-society,The William Morris Society,,,attractions,museum,,,"The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers.",,,,,,,source:UK 2023,Google rating: 4.4/5 (75 reviews)
 the-windsor-castle,The Windsor Castle,,,restaurants,restaurant,Belgravia,,A bit further away but not by much. Sam Smiths,,,,,,,,
-the-wolesley,The Wolesley,,,restaurants,cafe,Belgravia,,,,,,,,,,
+the-wolesley,The Wolesley,,,restaurants,cafe,Belgravia,,The Wolseley is a popular dining destination in a central location with grand architecture and a historic ambiance. Many travelers admire its …,,,,,,,,
 the-wolseley,The Wolseley,,,restaurants,pub,Piccadilly/Regent Street,,"popular for breakfasts, nice for lunch, haven't done a dinner here.",,,,,,,,
-the-woodbine,The Woodbine,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,Google rating: 4.6/5 (856 reviews)
+the-woodbine,The Woodbine,51.559525,-0.0983328,restaurants,gastropub,,,"The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers.",$$,,,,,,source:Pubs,Google rating: 4.6/5 (856 reviews)
 the-world-of-james-herriot,The World Of James Herriot,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (2,568 reviews)"
 thetravelmuseum,TheTravelMuseum,,,attractions,museum,,,,,,,,,,source:UK 2023,
-tiger-s-diner,Tiger's Diner,,,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (2,808 reviews)"
+tiger-s-diner,Tiger's Diner,51.5062847,-0.2305629,restaurants,restaurant,,,,$$,,,,,,source:UK 2023,"Google rating: 4.8/5 (2,808 reviews)"
 tintagel-castle,Tintagel Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (18,201 reviews)"
 titanic-s-plaque,Titanic's Plaque,,,historic-sites,memorial,,,,,,,,,,source:UK 2023,Google rating: 4.1/5 (19 reviews)
-to-13-really-nice-set-menu-of-shared-small-plates-for-a-group-lots-of-food,to 13. Really nice set menu of shared small plates for a group. Lots of food,,,restaurants,restaurant,Piccadilly/Regent Street,,,,,,,,,,
-tollingtons,Tollingtons,,,restaurants,restaurant,,,,,,,,,,source:Pubs,Google rating: 4.3/5 (313 reviews)
+to-13-really-nice-set-menu-of-shared-small-plates-for-a-group-lots-of-food,to 13. Really nice set menu of shared small plates for a group. Lots of food,,,restaurants,restaurant,Piccadilly/Regent Street,,"Sep 30, 2019 · ""With"" and ""to"" are very important prepositions in the English language. I know the usage of both prepositions but some points I become stuck with when should I use which prepos...",,,,,,,,
+tollingtons,Tollingtons,51.568303,-0.1108726,restaurants,restaurant,,,,,,,,,,source:Pubs,Google rating: 4.3/5 (313 reviews)
 totally-break-the-bank,totally break the bank,,,restaurants,restaurant,Whitehall/Charing Cross,,,,,,,,,,
 tottenham-hotspur,Tottenham Hotspur,51.604344,-0.065756,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: Tottenham Hotspur Stadium CLUB INFO: https://www.tottenhamhotspur.com
 travis-emery-music-bookshop,Travis & Emery Music Bookshop,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (135 reviews)
@@ -509,44 +509,44 @@ university-college-hospital-euston-road,University College Hospital (Euston Road
 university-museum-of-zoology,University Museum Of Zoology,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (2,232 reviews)"
 ure-museum-of-greek-archaeology,Ure Museum of Greek Archaeology,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (76 reviews)
 vagabond-wine-bar-for-drinks-when-you-re-sick-of-pubs,Vagabond wine bar for drinks when you're sick of pubs,,,restaurants,pub,Whitehall/St James's Park/Victoria,,outdoor space uncovered,,,,,,,,
-veeraswamy,Veeraswamy,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (2,269 reviews)"
-victoria-and-albert-museum,Victoria and Albert Museum,,,attractions,gallery,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (66,199 reviews)"
+veeraswamy,Veeraswamy,51.5098955,-0.1379192,restaurants,restaurant,,,"May 13, 2017 · Saw HOW THE WEST WAS WON for the first time in smilebox and was very impressed. Too bad we don't have smilebox versions of 2001--MAD WORLD--GRAND PRIX--KHARTOUM- …",$$$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.3/5 (2,269 reviews)"
+victoria-and-albert-museum,Victoria and Albert Museum,51.4968838,-0.1716372,attractions,gallery,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (66,199 reviews)"
 vios-caf,Vios Café,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.8/5 (315 reviews)
 volk-s-electric-railway,Volk's Electric Railway,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (745 reviews)
-warwick-castle,Warwick Castle,,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (25,737 reviews)"
+warwick-castle,Warwick Castle,51.5220216,-0.1838459,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (25,737 reviews)"
 watford-fc,Watford FC,51.649959,-0.401569,attractions,football,London,,Football club in London,,true,,,,,sports|football,Championship (Level 2) Stadium: Vicarage Road CLUB INFO: https://www.watfordfc.com
 wealdstone-fc,Wealdstone FC,51.580608,-0.442619,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League (Level 5) Stadium: Grosvenor Vale CLUB INFO: https://www.wealdstone-fc.com
-welford-park,Welford Park,,,attractions,park,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (611 reviews)
+welford-park,Welford Park,51.5430763,-0.1436956,attractions,park,,,"Nov 29, 2023 · O espaço zen é perfeito para relaxar e cuidar do corpo e da mente. Aprenda como montar esse ambiente em casa e …",,,,,,,source:UK 2023,Google rating: 4.6/5 (611 reviews)
 welling-united,Welling United,51.455813,0.101099,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League South (Level 6) Stadium: Park View Road CLUB INFO: https://www.wellingunited.com
 west-ham-united,West Ham United,51.538611,-0.016333,attractions,football,London,,Football club in London,,true,,,,,sports|football,Premier League (Level 1) Stadium: London Stadium CLUB INFO: https://www.whufc.com
-west-reservoir-cafe,West Reservoir Cafe,,,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.4/5 (86 reviews)
+west-reservoir-cafe,West Reservoir Cafe,51.5666602,-0.0912657,restaurants,cafe,,,,$,,,,,,source:UK 2023,Google rating: 4.4/5 (86 reviews)
 westway-climbing,Westway Climbing,,,kid-friendly,sports,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (442 reviews)
 whipple-museum-of-the-history-of-science,Whipple Museum of the History of Science,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (194 reviews)
 whipsnade-zoo,Whipsnade Zoo,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (16,986 reviews)"
 whitby-beach,Whitby Beach,,,day-trips,coast,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (6,985 reviews)"
-white-cross,White Cross,,,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,115 reviews)"
-white-swan,White Swan,,,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,847 reviews)"
+white-cross,White Cross,51.4589495,-0.3083628,restaurants,pub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (3,115 reviews)"
+white-swan,White Swan,51.3956773,0.1075171,restaurants,gastropub,,,,$$,,,,,,source:Pubs,"Google rating: 4.3/5 (1,847 reviews)"
 white-wells,White Wells,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (236 reviews)
 whitehall-proximity,Whitehall proximity,,,restaurants,pub,,,"best pubs to choose for liaison functions are The Clarence, Old Shades, Walkers, and the Admiralty",,,,,,,,
 wild-honey,Wild Honey,,,restaurants,pub,Whitehall/Charing Cross,,[awarded 1 • in 2022] upscale restaurant. Private room available. The food,,,,,,,,
-wild-honey-st-james,Wild Honey St James,,,restaurants,restaurant,,,,$$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,031 reviews)"
-wildwood-trust,Wildwood Trust,,,attractions,zoo,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,627 reviews)"
-will-seat-8-later-at-night-there-s-a-dj-so-beware-that-vibe,"will seat 8. Later at night there's a DJ, so beware that vibe",,,restaurants,restaurant,Mayfair,,,,,,,,,,
-wiltons-restaurant,Wiltons Restaurant,,,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (762 reviews)
+wild-honey-st-james,Wild Honey St James,51.5124409,-0.1432991,restaurants,restaurant,,,"Go Wild for a plastic-free 94%+ natural personal care that's kind to your skin and the environment. No harsh chemicals, aluminium, parabens or sulphates. Cruelty-Free.",$$$$,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,031 reviews)"
+wildwood-trust,Wildwood Trust,,,attractions,zoo,,,"Millions have grown up loving those Wildwood days and today Wildwoods, New Jersey remains the premiere vacation destiation on the East Coast.",,,,,,,source:UK 2023,"Google rating: 4.6/5 (2,627 reviews)"
+will-seat-8-later-at-night-there-s-a-dj-so-beware-that-vibe,"will seat 8. Later at night there's a DJ, so beware that vibe",,,restaurants,restaurant,Mayfair,,"Oct 2, 2025 · By law, a spouse or partner may have certain rights to your estate. This helps make sure your will is valid and your wishes are carried out correctly. Creation of an estate plan.",,,,,,,,
+wiltons-restaurant,Wiltons Restaurant,51.5076994,-0.1392041,restaurants,restaurant,,,,$$$$,,,,,,source:London Historic Restaurants and Pubs,Google rating: 4.7/5 (762 reviews)
 winchester-city-museum,Winchester City Museum,,,attractions,museum,,,,,,,,,,source:UK 2023,Google rating: 4.4/5 (345 reviews)
 windows-the-route-from-the-tube-takes-you-on-a-walk-through-a-neighborhood,"windows, the route from the tube takes you on a walk through a neighborhood",,,restaurants,restaurant,Belgravia,,,,,,,,,,
 wingate-and-finchley,Wingate and Finchley,51.610841,-0.180778,attractions,football,London,,Football club in London,,true,,,,,sports|football,Isthmian League Premier Division (Level 7) Stadium: Summers Lane CLUB INFO: https://www.wingatefinchley.com
 winnie-the-pooh-house,Winnie The Pooh House,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.6/5 (82 reviews)
-wistman-s-wood,Wistman's Wood,,,day-trips,countryside,,,,,,,,,,source:UK 2023,Google rating: 4.7/5 (872 reviews)
+wistman-s-wood,Wistman's Wood,,,day-trips,countryside,,,Duke vs. TCU Duke Defeats Siena in NCAA First Round Duke Preps for NCAA First Round Duke Wins ACC Tournament Title,,,,,,,source:UK 2023,Google rating: 4.7/5 (872 reviews)
 wolvesey-castle-old-bishop-s-palace,Wolvesey Castle (Old Bishop's Palace),,,historic-sites,castle,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (1,028 reviews)"
 wookey-hole-caves,Wookey Hole Caves,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (8,737 reviews)"
 word-on-the-water-the-london-bookbarge,Word On The Water - The London Bookbarge,,,attractions,landmark,,,,,,,,,,source:UK 2023,"Google rating: 4.8/5 (1,409 reviews)"
 wordsworth-grasmere,Wordsworth Grasmere,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.5/5 (1,270 reviews)"
 would-call-a-boozer,would call a boozer),,,restaurants,restaurant,Belgravia,,,,,,,,,,
 xtreme-falconry-at-dorset-falconry-park,Xtreme Falconry at Dorset Falconry Park,,,attractions,landmark,,,,,,,,,,source:UK 2023,Google rating: 4.9/5 (482 reviews)
-ye-olde-cheshire-cheese,Ye Olde Cheshire Cheese,,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (6,943 reviews)"
+ye-olde-cheshire-cheese,Ye Olde Cheshire Cheese,51.5143424,-0.1071833,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.4/5 (6,943 reviews)"
 ye-olde-mitre,Ye Olde Mitre,,,restaurants,restaurant,Belgravia,,close second to Cheshire Cheese. No food,,,,,,,,
-ye-olde-mitre-holborn,"Ye Olde Mitre, Holborn",,,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (3,164 reviews)"
+ye-olde-mitre-holborn,"Ye Olde Mitre, Holborn",51.5184299,-0.1073828,restaurants,pub,,,,$$,,,,,,source:London Historic Restaurants and Pubs,"Google rating: 4.7/5 (3,164 reviews)"
 york-minster,York Minster,,,historic-sites,medieval,,,,,,,,,,source:UK 2023,"Google rating: 4.7/5 (23,409 reviews)"
-young-v-a,Young V&A,,,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (5,893 reviews)"
+young-v-a,Young V&A,51.5290464,-0.054873,attractions,museum,,,,,,,,,,source:UK 2023,"Google rating: 4.4/5 (5,893 reviews)"
 zizzi-restaurant,Zizzi Restaurant,51.4089132,-0.3062389,wmd-sites,chemical,,,"Part of a UK-wide Italian restaurant chain, the restaurant was one of the last places the Skripals visited before they were found unconscious.  The Skripals dined at Zizzi in the afternoon. They were ",,,,,,,,"seen behaving normally while eating but began to show symptoms of poisoning soon after leaving the restaurant. Shortly after, they collapsed on a bench near The Maltings shopping area.Following the discovery that they had been poisoned with Novichok, Zizzi was immediately sealed off as a crime scene. Investigators found traces of the nerve agent at the restaurant, particularly on the tableware and chairs used by the Skripals. The contamination led to the restaurant's prolonged closure while it underwent deep cleaning and decontamination. The Maltings Bench (27 The Maltings)-   Shortly after 4:15 PM, passersby noticed them slumped on a bench in The Maltings shopping area.  Witnesses described Sergei Skripal as staring blankly, unresponsive, while Yulia was foaming at the mouth, appearing rigid and unconscious.  First responders initially treated the incident as a possible opioid overdose, given the Skripals' sudden collapse. Upon arrival at Salisbury District Hospital, doctors quickly realized their symptoms were not consistent with drug poisoning.   The UK government later confirmed they had been exposed to Novichok, a Soviet-era military-grade nerve agent."

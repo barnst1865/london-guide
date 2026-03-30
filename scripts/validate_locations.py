@@ -111,7 +111,7 @@ def main():
             writer.writeheader()
             writer.writerows(flagged)
 
-        print(f"Flagged {len(flagged)} entries → {FLAGGED_OUT}")
+        print(f"Flagged {len(flagged)} entries -> {FLAGGED_OUT}")
         for entry in flagged:
             print(f"  [{entry['flag_reason']}] {entry['name']}")
     else:

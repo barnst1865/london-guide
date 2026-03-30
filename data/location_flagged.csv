@@ -1,0 +1,3 @@
+id,name,lat,lon,category,subcategory,neighborhood,address,summary,price_range,kid_friendly,visited,rating,website,google_maps_url,tags,notes,flag_reason
+havant-and-waterlooville,Havant and Waterlooville,50.860619,-0.988772,attractions,football,London,,Football club in London,,true,,,,,sports|football,National League South (Level 6) Stadium: Westleigh Park CLUB INFO: https://www.havantandwaterloovillefc.co.uk,"NEIGHBORHOOD_MISMATCH: neighborhood='London' but coords are 94km from London (50.8606, -0.9888)"
+pooh-corner,Pooh Corner,51.223824,-2.5238809,restaurants,cafe,,,,,,,,,,source:UK 2023,"Google rating: 4.6/5 (1,639 reviews)","OUTSIDE_LONDON: Pooh Corner is 170km from London center (51.2238, -2.5239)"
