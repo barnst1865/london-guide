@@ -36,8 +36,8 @@
   // ---- Subcategory labels ----
   var SUBCATEGORY_LABELS = {
     "restaurant": "Restaurant", "pub": "Pub", "gastropub": "Gastropub",
-    "cafe": "Cafe", "bakery": "Bakery", "wine-bar": "Wine Bar",
-    "cocktail-bar": "Cocktail Bar", "market": "Market",
+    "historic": "Historic", "cafe": "Cafe", "bakery": "Bakery",
+    "wine-bar": "Wine Bar", "cocktail-bar": "Cocktail Bar", "market": "Market",
     "street-food": "Street Food", "afternoon-tea": "Afternoon Tea",
     "ice-cream": "Ice Cream",
     "museum": "Museum", "gallery": "Gallery", "landmark": "Landmark",
@@ -51,7 +51,7 @@
     "missile": "Missile", "activism": "Activism",
     "harry-potter": "Harry Potter", "james-bond": "James Bond",
     "sherlock": "Sherlock", "crown": "The Crown", "muppets": "Muppets",
-    "other-film": "Other Film", "other-tv": "Other TV",
+    "paddington": "Paddington", "other-film": "Other Film", "other-tv": "Other TV",
     "playground": "Playground", "outdoor-adventure": "Outdoor Adventure",
     "theme-park": "Theme Park", "farm": "Farm", "beach": "Beach",
     "battlefield": "Battlefield", "roman": "Roman", "medieval": "Medieval",

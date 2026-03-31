@@ -33,32 +33,57 @@ def save_cache(cache):
         json.dump(cache, f, indent=2, ensure_ascii=False)
 
 
-def geocode(name, neighborhood="", address=""):
-    """Query Nominatim for coordinates."""
-    # Build query string
-    if address:
-        query = f"{name}, {address}"
-    elif neighborhood:
-        query = f"{name}, {neighborhood}, London, UK"
-    else:
-        query = f"{name}, London, UK"
-
+def _nominatim_query(query):
+    """Execute a single Nominatim query."""
     params = urllib.parse.urlencode({
         "q": query,
         "format": "json",
         "limit": 1,
+        "countrycodes": "gb",
     })
-
     url = f"{NOMINATIM_URL}?{params}"
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             if data:
                 return float(data[0]["lat"]), float(data[0]["lon"])
-    except Exception as e:
-        print(f"  Error geocoding '{name}': {e}")
+    except Exception:
+        pass
+    return None, None
+
+
+def geocode(name, neighborhood="", address="", category=""):
+    """Query Nominatim with multiple fallback strategies."""
+    # Strategy 1: address if available
+    if address:
+        lat, lon = _nominatim_query(f"{name}, {address}")
+        if lat: return lat, lon
+
+    # Strategy 2: name + neighborhood + London
+    if neighborhood and "london" not in neighborhood.lower():
+        lat, lon = _nominatim_query(f"{name}, {neighborhood}, London, UK")
+        if lat: return lat, lon
+
+    # Strategy 3: name + London (for restaurants/attractions)
+    if category in ("restaurants", "movie-sites", "kid-friendly", "wmd-sites"):
+        lat, lon = _nominatim_query(f"{name}, London")
+        if lat: return lat, lon
+
+    # Strategy 4: just name + UK (for day-trips and historic sites)
+    lat, lon = _nominatim_query(f"{name}, UK")
+    if lat: return lat, lon
+
+    # Strategy 5: name + category hint
+    type_hints = {
+        "restaurants": "restaurant",
+        "attractions": "museum",
+        "historic-sites": "castle",
+    }
+    hint = type_hints.get(category, "")
+    if hint:
+        lat, lon = _nominatim_query(f"{name} {hint}, London")
+        if lat: return lat, lon
 
     return None, None
 
@@ -98,8 +123,9 @@ def main():
         neighborhood = row.get("neighborhood", "")
         address = row.get("address", "")
 
-        print(f"Geocoding: {name} ({neighborhood})...")
-        lat_val, lon_val = geocode(name, neighborhood, address)
+        category = row.get("category", "")
+        print(f"Geocoding: {name} ({category}/{neighborhood})...")
+        lat_val, lon_val = geocode(name, neighborhood, address, category)
 
         if lat_val is not None:
             row["lat"] = str(lat_val)

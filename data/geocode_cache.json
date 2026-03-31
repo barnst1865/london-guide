@@ -3,549 +3,81 @@
     "lat": 51.5335806,
     "lon": -0.1727021
   },
-  "a-hefty-bill-1f-everyone-orders-the-fancy-steaks-no-private-room-but-can-seat-8": {
-    "lat": null,
-    "lon": null
-  },
-  "aldermaston": {
-    "lat": null,
-    "lon": null
-  },
-  "and-woodhouse-brewery": {
-    "lat": null,
-    "lon": null
-  },
-  "anti-nuclear-activism-legacy": {
-    "lat": null,
-    "lon": null
-  },
-  "are-the-only-food": {
-    "lat": null,
-    "lon": null
-  },
   "balthazar": {
     "lat": 51.5123666,
     "lon": -0.1212353
-  },
-  "bancone": {
-    "lat": null,
-    "lon": null
-  },
-  "berner-s-tavern": {
-    "lat": null,
-    "lon": null
   },
   "blacklock": {
     "lat": 51.5117726,
     "lon": -0.1346407
   },
-  "bolsdale": {
-    "lat": null,
-    "lon": null
-  },
-  "book-good-set-menus-for-a-larger-dinner": {
-    "lat": null,
-    "lon": null
-  },
-  "brasserie-zedel": {
-    "lat": null,
-    "lon": null
-  },
   "bt-tower": {
     "lat": 51.5214383,
     "lon": -0.1388047
-  },
-  "by-or-on-whitehall": {
-    "lat": null,
-    "lon": null
-  },
-  "by-thames-house": {
-    "lat": null,
-    "lon": null
   },
   "cadogan-arms": {
     "lat": 51.4859699,
     "lon": -0.1729707
   },
-  "cancellation-policy-british-food": {
-    "lat": null,
-    "lon": null
-  },
   "cask": {
     "lat": 51.491093,
     "lon": -0.1373223
-  },
-  "caxton-grill": {
-    "lat": null,
-    "lon": null
-  },
-  "champagne-charlles": {
-    "lat": null,
-    "lon": null
-  },
-  "chiltern-firehouse": {
-    "lat": null,
-    "lon": null
-  },
-  "chinatown": {
-    "lat": null,
-    "lon": null
   },
   "churchill-war-rooms": {
     "lat": 51.5022102,
     "lon": -0.129252
   },
-  "cinnamon-club": {
-    "lat": null,
-    "lon": null
-  },
-  "cittle-of-york-huge-and-inexpensive-also-a-sam-smiths": {
-    "lat": null,
-    "lon": null
-  },
-  "connaught-in-mayfair": {
-    "lat": null,
-    "lon": null
-  },
-  "corinthla-also-does-a-very-nice-afternoon-tea-expensive-and-fancy": {
-    "lat": null,
-    "lon": null
-  },
-  "dahessa": {
-    "lat": null,
-    "lon": null
-  },
-  "davy-s-wine-bar": {
-    "lat": null,
-    "lon": null
-  },
-  "dehem": {
-    "lat": null,
-    "lon": null
-  },
-  "dehesa": {
-    "lat": null,
-    "lon": null
-  },
   "delamina": {
     "lat": 51.5163787,
     "lon": -0.1500847
-  },
-  "dishoom": {
-    "lat": null,
-    "lon": null
-  },
-  "dlshoom": {
-    "lat": null,
-    "lon": null
   },
   "duke-s": {
     "lat": 51.5080829,
     "lon": -0.136076
   },
-  "dumplings-legend": {
-    "lat": null,
-    "lon": null
-  },
-  "emberyard": {
-    "lat": null,
-    "lon": null
-  },
-  "entrees-are-30": {
-    "lat": null,
-    "lon": null
-  },
-  "excellent-food-nice-ambiance": {
-    "lat": null,
-    "lon": null
-  },
-  "fallow": {
-    "lat": null,
-    "lon": null
-  },
-  "flight-club": {
-    "lat": null,
-    "lon": null
-  },
-  "from-heddon-st-kitchen": {
-    "lat": null,
-    "lon": null
-  },
-  "further-east": {
-    "lat": null,
-    "lon": null
-  },
-  "gaucho-piccadilly": {
-    "lat": null,
-    "lon": null
-  },
-  "goodman-steak-oust-off-regent-street": {
-    "lat": null,
-    "lon": null
-  },
-  "gordon-s-wine-bar": {
-    "lat": null,
-    "lon": null
-  },
-  "has-plenty-of-beer-and-the-cheapest-pint-in-all-of-london-great-tapas": {
-    "lat": null,
-    "lon": null
-  },
-  "hawksm-r": {
-    "lat": null,
-    "lon": null
-  },
   "heathrow-airport": {
     "lat": 51.467739,
     "lon": -0.4587801
-  },
-  "heddon-street-kitchen-off-regent-street": {
-    "lat": null,
-    "lon": null
-  },
-  "here-not-too-expensive": {
-    "lat": null,
-    "lon": null
-  },
-  "hours-prior-partial-cover-and-heating-if-it-rains-no-option": {
-    "lat": null,
-    "lon": null
-  },
-  "house": {
-    "lat": null,
-    "lon": null
-  },
-  "in-a-category-all-its-own": {
-    "lat": null,
-    "lon": null
-  },
-  "in-the-old-city-of-london": {
-    "lat": null,
-    "lon": null
-  },
-  "in-trafalgar-square": {
-    "lat": null,
-    "lon": null
-  },
-  "is-very-good": {
-    "lat": null,
-    "lon": null
-  },
-  "itsu-sushi-bar-piccadilly": {
-    "lat": null,
-    "lon": null
-  },
-  "ivy-market-grill": {
-    "lat": null,
-    "lon": null
-  },
-  "jeru": {
-    "lat": null,
-    "lon": null
-  },
-  "kerrldge-s": {
-    "lat": null,
-    "lon": null
-  },
-  "kutir": {
-    "lat": null,
-    "lon": null
-  },
-  "line-so-best-to-plan-ahead-if-you-have-a-group": {
-    "lat": null,
-    "lon": null
-  },
-  "litvinenko-poisoning": {
-    "lat": null,
-    "lon": null
-  },
-  "lunch-not-expensive": {
-    "lat": null,
-    "lon": null
-  },
-  "main-dining-room": {
-    "lat": null,
-    "lon": null
-  },
-  "marquis-of-granby-pronounced-mar-kwis": {
-    "lat": null,
-    "lon": null
-  },
-  "morpeth-arms": {
-    "lat": null,
-    "lon": null
-  },
-  "morpeth-arms-oust-down-the-street-from-thames-house": {
-    "lat": null,
-    "lon": null
-  },
-  "mr-fogg-s": {
-    "lat": null,
-    "lon": null
-  },
-  "muggleton-road-amesbury-wiltshire": {
-    "lat": null,
-    "lon": null
-  },
-  "nice-private-room-for-a-group": {
-    "lat": null,
-    "lon": null
-  },
-  "nopi": {
-    "lat": null,
-    "lon": null
-  },
-  "north-of-whitehall-st-james": {
-    "lat": null,
-    "lon": null
-  },
-  "notice": {
-    "lat": null,
-    "lon": null
-  },
-  "nutmeg": {
-    "lat": null,
-    "lon": null
   },
   "nutshell": {
     "lat": 51.5096176,
     "lon": -0.1267517
   },
-  "old-queen-street-cafe": {
-    "lat": null,
-    "lon": null
-  },
   "old-royal-naval-college": {
     "lat": 51.4817844,
     "lon": -0.0066319
-  },
-  "one-or-very-small-group-but-a-classic-british-experience": {
-    "lat": null,
-    "lon": null
-  },
-  "pindar-bunker": {
-    "lat": null,
-    "lon": null
-  },
-  "porterhouse": {
-    "lat": null,
-    "lon": null
-  },
-  "preto": {
-    "lat": null,
-    "lon": null
-  },
-  "prospect-of-whitby": {
-    "lat": null,
-    "lon": null
-  },
-  "quilon": {
-    "lat": null,
-    "lon": null
-  },
-  "radio-rooftop": {
-    "lat": null,
-    "lon": null
   },
   "raf-northolt": {
     "lat": 51.5543813,
     "lon": -0.418074
   },
-  "room-available": {
-    "lat": null,
-    "lon": null
-  },
-  "rovi": {
-    "lat": null,
-    "lon": null
-  },
   "rules": {
     "lat": 51.5108285,
     "lon": -0.1231906
-  },
-  "ryu-sushi-restaurant-mayfair": {
-    "lat": null,
-    "lon": null
-  },
-  "sheekey-s": {
-    "lat": null,
-    "lon": null
-  },
-  "ship-tavern": {
-    "lat": null,
-    "lon": null
-  },
-  "slower": {
-    "lat": null,
-    "lon": null
-  },
-  "smith-and-wollensky": {
-    "lat": null,
-    "lon": null
-  },
-  "smiths": {
-    "lat": null,
-    "lon": null
-  },
-  "social-eating-house-street-xo": {
-    "lat": null,
-    "lon": null
-  },
-  "spend": {
-    "lat": null,
-    "lon": null
-  },
-  "table-companions": {
-    "lat": null,
-    "lon": null
-  },
-  "tamarind": {
-    "lat": null,
-    "lon": null
-  },
-  "tandoor-chophouse": {
-    "lat": null,
-    "lon": null
-  },
-  "tattershall-castle-is-also-popular-in-the-summer": {
-    "lat": null,
-    "lon": null
-  },
-  "temper-soho": {
-    "lat": null,
-    "lon": null
-  },
-  "that-is-quaint-drink-in-the-alleyway-behind-too": {
-    "lat": null,
-    "lon": null
   },
   "the-alfred-tennyson": {
     "lat": 51.4996243,
     "lon": -0.1564424
   },
-  "the-barbary": {
-    "lat": null,
-    "lon": null
-  },
   "the-british-library-euston": {
     "lat": 51.5299119,
     "lon": -0.1276918
-  },
-  "the-clarence": {
-    "lat": null,
-    "lon": null
-  },
-  "the-coal-hole": {
-    "lat": null,
-    "lon": null
-  },
-  "the-delauney": {
-    "lat": null,
-    "lon": null
-  },
-  "the-french-house": {
-    "lat": null,
-    "lon": null
-  },
-  "the-grapes": {
-    "lat": null,
-    "lon": null
-  },
-  "the-harp": {
-    "lat": null,
-    "lon": null
-  },
-  "the-mavffower": {
-    "lat": null,
-    "lon": null
   },
   "the-mill-pub": {
     "lat": 51.5510177,
     "lon": -0.2014191
   },
-  "the-northall-also-in-corinthia": {
-    "lat": null,
-    "lon": null
-  },
-  "the-olde-wine-shades": {
-    "lat": null,
-    "lon": null
-  },
   "the-orange": {
     "lat": 51.4905339,
     "lon": -0.1523463
-  },
-  "the-pride-of-spitlefields": {
-    "lat": null,
-    "lon": null
   },
   "the-red-lion": {
     "lat": 51.5083234,
     "lon": -0.1364346
   },
-  "the-ship-and-shovell": {
-    "lat": null,
-    "lon": null
-  },
-  "the-speaker": {
-    "lat": null,
-    "lon": null
-  },
-  "the-thomas-cubltt": {
-    "lat": null,
-    "lon": null
-  },
-  "the-windsor-castle": {
-    "lat": null,
-    "lon": null
-  },
-  "the-wolesley": {
-    "lat": null,
-    "lon": null
-  },
-  "the-wolseley": {
-    "lat": null,
-    "lon": null
-  },
-  "to-13-really-nice-set-menu-of-shared-small-plates-for-a-group-lots-of-food": {
-    "lat": null,
-    "lon": null
-  },
-  "totally-break-the-bank": {
-    "lat": null,
-    "lon": null
-  },
   "university-college-hospital-euston-road": {
     "lat": 51.5253098,
     "lon": -0.1367726
-  },
-  "vagabond-wine-bar-for-drinks-when-you-re-sick-of-pubs": {
-    "lat": null,
-    "lon": null
-  },
-  "whitehall-proximity": {
-    "lat": null,
-    "lon": null
-  },
-  "wild-honey": {
-    "lat": null,
-    "lon": null
-  },
-  "will-seat-8-later-at-night-there-s-a-dj-so-beware-that-vibe": {
-    "lat": null,
-    "lon": null
-  },
-  "windows-the-route-from-the-tube-takes-you-on-a-walk-through-a-neighborhood": {
-    "lat": null,
-    "lon": null
-  },
-  "would-call-a-boozer": {
-    "lat": null,
-    "lon": null
-  },
-  "ye-olde-mitre": {
-    "lat": null,
-    "lon": null
   },
   "zizzi-restaurant": {
     "lat": 51.4089132,
@@ -563,10 +95,6 @@
     "lat": 51.5136402,
     "lon": -0.1479641
   },
-  "1c-ducks-walk": {
-    "lat": null,
-    "lon": null
-  },
   "221b-baker-st": {
     "lat": 51.5233879,
     "lon": -0.1582367
@@ -574,14 +102,6 @@
   "50-the-marlowes": {
     "lat": 51.5387795,
     "lon": -0.1752796
-  },
-  "abbey-road-pedestrian-crossing": {
-    "lat": null,
-    "lon": null
-  },
-  "abbotsbury-swannery": {
-    "lat": null,
-    "lon": null
   },
   "aberaeron": {
     "lat": 52.2431766,
@@ -591,10 +111,6 @@
     "lat": 51.5595451,
     "lon": -0.180138
   },
-  "ain-t-nothin-but": {
-    "lat": null,
-    "lon": null
-  },
   "alexandra-palace": {
     "lat": 51.5943495,
     "lon": -0.1306402
@@ -603,65 +119,17 @@
     "lat": 50.8966936,
     "lon": -1.6016993
   },
-  "amathus-south-kensington": {
-    "lat": null,
-    "lon": null
-  },
   "american-bar": {
     "lat": 51.5058725,
     "lon": -0.1399203
-  },
-  "andy-s-maritime-antiques-and-army-surplus-store": {
-    "lat": null,
-    "lon": null
-  },
-  "annunciation-marble-arch": {
-    "lat": null,
-    "lon": null
-  },
-  "ashmolean-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "au-plat-d-etain": {
-    "lat": null,
-    "lon": null
-  },
-  "baboo-gelato-cobb-lyme-regis": {
-    "lat": null,
-    "lon": null
-  },
-  "badbury-rings": {
-    "lat": null,
-    "lon": null
   },
   "bali-bali": {
     "lat": 51.5137256,
     "lon": -0.1282428
   },
-  "bamburgh-castle": {
-    "lat": null,
-    "lon": null
-  },
-  "bar-douro-london-bridge": {
-    "lat": null,
-    "lon": null
-  },
   "bar-italia": {
     "lat": 51.5485498,
     "lon": -0.4811978
-  },
-  "battery-steele": {
-    "lat": null,
-    "lon": null
-  },
-  "battle-abbey": {
-    "lat": null,
-    "lon": null
-  },
-  "battle-of-barnet-monument": {
-    "lat": null,
-    "lon": null
   },
   "battle-of-britain-bunker": {
     "lat": 51.54048,
@@ -671,49 +139,9 @@
     "lat": 51.502939,
     "lon": -0.123428
   },
-  "beamish-the-living-museum-of-the-north": {
-    "lat": null,
-    "lon": null
-  },
   "beigel-bake": {
     "lat": 51.5245115,
     "lon": -0.0717527
-  },
-  "bentley-s-oyster-bar-grill": {
-    "lat": null,
-    "lon": null
-  },
-  "berry-bros-rudd-wine-shop": {
-    "lat": null,
-    "lon": null
-  },
-  "blenheim-palace": {
-    "lat": null,
-    "lon": null
-  },
-  "bletchley-park": {
-    "lat": null,
-    "lon": null
-  },
-  "bloom-graze-ltd": {
-    "lat": null,
-    "lon": null
-  },
-  "blue-boar-pub": {
-    "lat": null,
-    "lon": null
-  },
-  "blue-plaque-jim-henson": {
-    "lat": null,
-    "lon": null
-  },
-  "bluebell-railway-sheffield-park-station": {
-    "lat": null,
-    "lon": null
-  },
-  "bosworth-battlefield-heritage-centre": {
-    "lat": null,
-    "lon": null
   },
   "bread-street-kitchen-bar-limehouse": {
     "lat": 51.5096232,
@@ -723,57 +151,17 @@
     "lat": 51.508483,
     "lon": -0.126319
   },
-  "bridge-of-sighs": {
-    "lat": null,
-    "lon": null
-  },
-  "brighton-palace-pier": {
-    "lat": null,
-    "lon": null
-  },
-  "brighton-toy-and-model-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "british-wildlife-centre": {
-    "lat": null,
-    "lon": null
-  },
   "broadway-tower": {
     "lat": 51.4975888,
     "lon": -0.0223439
-  },
-  "bront-parsonage-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "brown-forrest-smokery": {
-    "lat": null,
-    "lon": null
   },
   "brunel-museum": {
     "lat": 51.5016428,
     "lon": -0.0528638
   },
-  "brunel-tunnel-under-river-thames": {
-    "lat": null,
-    "lon": null
-  },
-  "but-first-coffee": {
-    "lat": null,
-    "lon": null
-  },
   "caf-japan": {
     "lat": 51.5711515,
     "lon": -0.1951277
-  },
-  "callaway-s-fish-chips": {
-    "lat": null,
-    "lon": null
-  },
-  "cambridge-punters": {
-    "lat": null,
-    "lon": null
   },
   "cannon-ln": {
     "lat": 51.578043,
@@ -783,97 +171,25 @@
     "lat": 51.4827551,
     "lon": -0.1027726
   },
-  "canterbury-cathedral": {
-    "lat": null,
-    "lon": null
-  },
-  "canterbury-roman-museum": {
-    "lat": null,
-    "lon": null
-  },
   "captain-kidd": {
     "lat": 51.5032724,
     "lon": -0.0579202
-  },
-  "castle-mound": {
-    "lat": null,
-    "lon": null
-  },
-  "chalbury-food-wine": {
-    "lat": null,
-    "lon": null
-  },
-  "chalice-well": {
-    "lat": null,
-    "lon": null
   },
   "charles-dickens-museum": {
     "lat": 51.5235936,
     "lon": -0.1163232
   },
-  "cheddar-gorge": {
-    "lat": null,
-    "lon": null
-  },
-  "cheddar-gorge-and-caves": {
-    "lat": null,
-    "lon": null
-  },
-  "cheddar-gorge-cheese-company": {
-    "lat": null,
-    "lon": null
-  },
-  "cheltenham-model-centre": {
-    "lat": null,
-    "lon": null
-  },
-  "chesil-beach-west": {
-    "lat": null,
-    "lon": null
-  },
   "christ-church-gate": {
     "lat": 51.4980175,
     "lon": -0.1736819
-  },
-  "city-wall-walk": {
-    "lat": null,
-    "lon": null
-  },
-  "clarence-pier": {
-    "lat": null,
-    "lon": null
-  },
-  "clavell-tower": {
-    "lat": null,
-    "lon": null
-  },
-  "cleveland-pools": {
-    "lat": null,
-    "lon": null
   },
   "clifton-nurseries": {
     "lat": 51.5223051,
     "lon": -0.1839096
   },
-  "corinium-museum": {
-    "lat": null,
-    "lon": null
-  },
   "corrochio-s": {
     "lat": 51.5526373,
     "lon": -0.0746865
-  },
-  "cotswold-falconry-centre": {
-    "lat": null,
-    "lon": null
-  },
-  "crab-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "crockford-bridge-farm": {
-    "lat": null,
-    "lon": null
   },
   "crosby-hall": {
     "lat": 51.4826813,
@@ -891,41 +207,9 @@
     "lat": 51.5090514,
     "lon": -0.1881196
   },
-  "diddly-squat-farm-shop": {
-    "lat": null,
-    "lon": null
-  },
-  "dinosaurland-fossil-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "dogpark": {
-    "lat": null,
-    "lon": null
-  },
   "dover-castle": {
     "lat": 51.5004719,
     "lon": -0.0928618
-  },
-  "dropped-pin": {
-    "lat": null,
-    "lon": null
-  },
-  "dunn-s-bakery": {
-    "lat": null,
-    "lon": null
-  },
-  "durdle-door": {
-    "lat": null,
-    "lon": null
-  },
-  "ely-cathedral": {
-    "lat": null,
-    "lon": null
-  },
-  "explosion-museum-of-naval-firepower": {
-    "lat": null,
-    "lon": null
   },
   "fez": {
     "lat": 51.52201,
@@ -935,18 +219,6 @@
     "lat": 51.5700504,
     "lon": -0.1034792
   },
-  "first-v2-rocket-memorial": {
-    "lat": null,
-    "lon": null
-  },
-  "fish-n-fritz": {
-    "lat": null,
-    "lon": null
-  },
-  "five-hundred-acre-wood": {
-    "lat": null,
-    "lon": null
-  },
   "folkies-music": {
     "lat": 51.5465397,
     "lon": -0.2030632
@@ -954,10 +226,6 @@
   "ford-farm": {
     "lat": 51.5212013,
     "lon": 0.1582629
-  },
-  "fuller-s-brewery-shop-tours": {
-    "lat": null,
-    "lon": null
   },
   "george": {
     "lat": 51.5334683,
@@ -967,46 +235,6 @@
     "lat": 51.5129153,
     "lon": -0.0857705
   },
-  "glastonbury-abbey": {
-    "lat": null,
-    "lon": null
-  },
-  "glastonbury-tor": {
-    "lat": null,
-    "lon": null
-  },
-  "go-action-forest-paintballing-laser-tag-kids-adventure-camp": {
-    "lat": null,
-    "lon": null
-  },
-  "graam-bangla": {
-    "lat": null,
-    "lon": null
-  },
-  "granny-s-caf": {
-    "lat": null,
-    "lon": null
-  },
-  "grays-antique-market": {
-    "lat": null,
-    "lon": null
-  },
-  "guinea-grill": {
-    "lat": null,
-    "lon": null
-  },
-  "hadrian-s-wall": {
-    "lat": null,
-    "lon": null
-  },
-  "haggard-alley": {
-    "lat": null,
-    "lon": null
-  },
-  "harbour-stores": {
-    "lat": null,
-    "lon": null
-  },
   "harry-potter-shop-king-s-cross": {
     "lat": 51.5322443,
     "lon": -0.1237654
@@ -1015,37 +243,9 @@
     "lat": 51.5382994,
     "lon": -0.1907515
   },
-  "hawks-stadium": {
-    "lat": null,
-    "lon": null
-  },
   "hedonism-wines": {
     "lat": 51.5107446,
     "lon": -0.1476667
-  },
-  "hemswell-antique-centres": {
-    "lat": null,
-    "lon": null
-  },
-  "herschel-museum-of-astronomy": {
-    "lat": null,
-    "lon": null
-  },
-  "herts-baseball-club-grovehill-ballpark": {
-    "lat": null,
-    "lon": null
-  },
-  "highclere-castle": {
-    "lat": null,
-    "lon": null
-  },
-  "historic-cable-gear-at-enderby-wharf": {
-    "lat": null,
-    "lon": null
-  },
-  "hms-victory": {
-    "lat": null,
-    "lon": null
   },
   "hobbledown-heath": {
     "lat": 51.4587424,
@@ -1055,10 +255,6 @@
     "lat": 51.5318469,
     "lon": -0.2110927
   },
-  "ikigai-coffee": {
-    "lat": null,
-    "lon": null
-  },
   "il-posto": {
     "lat": 51.4957287,
     "lon": -0.1419336
@@ -1066,10 +262,6 @@
   "imperial-war-museum": {
     "lat": 51.4969399,
     "lon": -0.109806
-  },
-  "iwm-duxford": {
-    "lat": null,
-    "lon": null
   },
   "j-sheekey": {
     "lat": 51.5109233,
@@ -1079,37 +271,9 @@
     "lat": 51.5129704,
     "lon": -0.0856635
   },
-  "jane-austen-s-house": {
-    "lat": null,
-    "lon": null
-  },
-  "john-paul-jones-monument": {
-    "lat": null,
-    "lon": null
-  },
-  "jonkers-rare-books": {
-    "lat": null,
-    "lon": null
-  },
-  "julien-plumart": {
-    "lat": null,
-    "lon": null
-  },
   "kappacasein-dairy": {
     "lat": 51.4964307,
     "lon": -0.0688149
-  },
-  "keen-s-cheddar-ltd": {
-    "lat": null,
-    "lon": null
-  },
-  "keith-fawkes": {
-    "lat": null,
-    "lon": null
-  },
-  "kingston-russell-stone-circle": {
-    "lat": null,
-    "lon": null
   },
   "knebworth-house": {
     "lat": 51.4726351,
@@ -1123,14 +287,6 @@
     "lat": 51.5127276,
     "lon": -0.0833953
   },
-  "les-grands-buffets": {
-    "lat": null,
-    "lon": null
-  },
-  "limon": {
-    "lat": null,
-    "lon": null
-  },
   "lindisfarne-castle": {
     "lat": 51.5553952,
     "lon": 0.1269035
@@ -1138,18 +294,6 @@
   "lore-of-the-land": {
     "lat": 51.5220848,
     "lon": -0.1395752
-  },
-  "lulworth-cove": {
-    "lat": null,
-    "lon": null
-  },
-  "lyme-regis-fossil-beach-ammonite-pavement": {
-    "lat": null,
-    "lon": null
-  },
-  "lyme-regis-museum": {
-    "lat": null,
-    "lon": null
   },
   "m-manze-tower-bridge": {
     "lat": 51.4963383,
@@ -1163,25 +307,9 @@
     "lat": 51.6012325,
     "lon": -0.007882
   },
-  "magna-carta-island": {
-    "lat": null,
-    "lon": null
-  },
-  "magna-carta-memorial": {
-    "lat": null,
-    "lon": null
-  },
   "maison-bertaux": {
     "lat": 51.5133153,
     "lon": -0.1301989
-  },
-  "memorial-to-a-a-milne": {
-    "lat": null,
-    "lon": null
-  },
-  "mestizo-mexican-restaurant-tequila-bar": {
-    "lat": null,
-    "lon": null
   },
   "milroy-s-of-soho": {
     "lat": 51.5148192,
@@ -1191,181 +319,45 @@
     "lat": 51.5145023,
     "lon": -0.1267492
   },
-  "monument-to-the-great-fire-of-london": {
-    "lat": null,
-    "lon": null
-  },
-  "mountfitchet-castle-norman-village-cm248ly": {
-    "lat": null,
-    "lon": null
-  },
   "mr-fogg-s-tavern": {
     "lat": 51.51098,
     "lon": -0.1268281
-  },
-  "museum-of-archaeology-and-anthropology": {
-    "lat": null,
-    "lon": null
   },
   "museum-of-cambridge": {
     "lat": 51.5290464,
     "lon": -0.054873
   },
-  "museum-of-classical-archaeology": {
-    "lat": null,
-    "lon": null
-  },
-  "muswell-hillbilly-brewers-taproom": {
-    "lat": null,
-    "lon": null
-  },
   "national-army-museum": {
     "lat": 51.4862582,
     "lon": -0.1602867
-  },
-  "national-memorial-arboretum-alrewas-staffordshire": {
-    "lat": null,
-    "lon": null
-  },
-  "national-museum-of-scotland": {
-    "lat": null,
-    "lon": null
-  },
-  "national-museum-of-the-royal-navy": {
-    "lat": null,
-    "lon": null
-  },
-  "national-railway-museum-york": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-ankerwycke-yew": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-bateman-s": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-cerne-giant": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-dover-s-hill": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-glastonbury-tor": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-hidcote": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-petworth-house-and-park": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-sutton-hoo": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-the-white-cliffs-of-dover": {
-    "lat": null,
-    "lon": null
-  },
-  "national-trust-treasurer-s-house-york": {
-    "lat": null,
-    "lon": null
-  },
-  "new-forest-national-park": {
-    "lat": null,
-    "lon": null
   },
   "newton-s-apple-tree": {
     "lat": 51.4210491,
     "lon": -0.3401833
   },
-  "north-laine-bazaar": {
-    "lat": null,
-    "lon": null
-  },
-  "odiham-castle": {
-    "lat": null,
-    "lon": null
-  },
   "old-bank-of-england": {
     "lat": 51.5161761,
     "lon": -0.0839653
-  },
-  "old-sarum": {
-    "lat": null,
-    "lon": null
   },
   "old-spitalfields-market": {
     "lat": 51.5196,
     "lon": -0.075363
   },
-  "oliver-s-village-caf": {
-    "lat": null,
-    "lon": null
-  },
-  "operation-dynamo-rescue-from-dunkirk": {
-    "lat": null,
-    "lon": null
-  },
-  "original-dubai-shawarma": {
-    "lat": null,
-    "lon": null
-  },
   "ottolenghi-richmond": {
     "lat": 51.4586114,
     "lon": -0.3055999
-  },
-  "oxford-university-museum-of-natural-history": {
-    "lat": null,
-    "lon": null
   },
   "parkland-walk": {
     "lat": 51.5745001,
     "lon": -0.1338736
   },
-  "peak-district-national-park": {
-    "lat": null,
-    "lon": null
-  },
-  "pembroke-college": {
-    "lat": null,
-    "lon": null
-  },
   "peter-pan-statue": {
     "lat": 51.5086177,
     "lon": -0.175919
   },
-  "piglet-s-house": {
-    "lat": null,
-    "lon": null
-  },
-  "piwnica-pod-baranami": {
-    "lat": null,
-    "lon": null
-  },
-  "pooh-car-park": {
-    "lat": null,
-    "lon": null
-  },
   "pooh-corner": {
     "lat": 51.223824,
     "lon": -2.5238809
-  },
-  "pooh-sticks-bridge": {
-    "lat": null,
-    "lon": null
-  },
-  "porters-lodge-peterhouse": {
-    "lat": null,
-    "lon": null
   },
   "portobello-rd": {
     "lat": 51.522305,
@@ -1374,10 +366,6 @@
   "portobello-road-market": {
     "lat": 51.5160858,
     "lon": -0.2051174
-  },
-  "portsmouth-historic-dockyard": {
-    "lat": null,
-    "lon": null
   },
   "prince-alfred": {
     "lat": 51.5244269,
@@ -1395,10 +383,6 @@
     "lat": 51.5151144,
     "lon": -0.1265305
   },
-  "puzzlewood": {
-    "lat": null,
-    "lon": null
-  },
   "queens-park-rangers-football-club": {
     "lat": 51.510754,
     "lon": -0.2300894
@@ -1411,14 +395,6 @@
     "lat": 51.4608257,
     "lon": -0.3088135
   },
-  "rigsby-s-ln": {
-    "lat": null,
-    "lon": null
-  },
-  "river-otter-beaver-walk-otterton": {
-    "lat": null,
-    "lon": null
-  },
   "robin-hood-s-bay": {
     "lat": 54.433222,
     "lon": -0.5344748
@@ -1427,37 +403,9 @@
     "lat": 51.5609825,
     "lon": -0.0740121
   },
-  "rock-and-sole-plaice": {
-    "lat": null,
-    "lon": null
-  },
   "royal-air-force-museum-london": {
     "lat": 51.5980735,
     "lon": -0.240667
-  },
-  "royal-armouries-fort-nelson": {
-    "lat": null,
-    "lon": null
-  },
-  "royal-engineers-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "royal-hampshire-regiment-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "royal-pavilion": {
-    "lat": null,
-    "lon": null
-  },
-  "salisbury-cathedral": {
-    "lat": null,
-    "lon": null
-  },
-  "sally-lunn-s-historic-eating-house-museum": {
-    "lat": null,
-    "lon": null
   },
   "salvino": {
     "lat": 51.5502253,
@@ -1471,10 +419,6 @@
     "lat": 51.5004849,
     "lon": -0.1968745
   },
-  "samuel-smith-s-brewery": {
-    "lat": null,
-    "lon": null
-  },
   "schnitzel-heaven": {
     "lat": 51.5290103,
     "lon": -0.0837544
@@ -1483,41 +427,17 @@
     "lat": 51.5098163,
     "lon": -0.1509327
   },
-  "scudamore-s-mill-lane-punting-station": {
-    "lat": null,
-    "lon": null
-  },
-  "sedgwick-museum-of-earth-sciences": {
-    "lat": null,
-    "lon": null
-  },
   "seven-dials-market": {
     "lat": 51.5140268,
     "lon": -0.1260469
-  },
-  "shakespeare-s-birthplace": {
-    "lat": null,
-    "lon": null
   },
   "shambles": {
     "lat": 51.4274131,
     "lon": -0.3299775
   },
-  "shambles-market": {
-    "lat": null,
-    "lon": null
-  },
   "sherlock-holmes": {
     "lat": 51.5237629,
     "lon": -0.1584743
-  },
-  "sherwood-forest-visitor-centre": {
-    "lat": null,
-    "lon": null
-  },
-  "short-road-pizza": {
-    "lat": null,
-    "lon": null
   },
   "simpson-s-in-the-strand": {
     "lat": 51.5105048,
@@ -1539,14 +459,6 @@
     "lat": 51.1315549,
     "lon": -0.0188517
   },
-  "spitfire-hurricane-memorial-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "sports-trading-cards-uk-ltd": {
-    "lat": null,
-    "lon": null
-  },
   "st-augustine-s-abbey": {
     "lat": 51.4911487,
     "lon": 0.1436629
@@ -1555,10 +467,6 @@
     "lat": 51.4419671,
     "lon": -0.3325545
   },
-  "st-margaret-s-beach": {
-    "lat": null,
-    "lon": null
-  },
   "st-martin-s-church": {
     "lat": 51.5767396,
     "lon": -0.4262431
@@ -1566,10 +474,6 @@
   "st-michael-s-church": {
     "lat": 51.5688545,
     "lon": -0.1502499
-  },
-  "st-nicholas-church-graveyard": {
-    "lat": null,
-    "lon": null
   },
   "stonehenge": {
     "lat": 51.4054013,
@@ -1583,22 +487,6 @@
     "lat": 51.5172654,
     "lon": -0.0634614
   },
-  "tewkesbury-battlefield": {
-    "lat": null,
-    "lon": null
-  },
-  "thames-ditton-miniature-railways": {
-    "lat": null,
-    "lon": null
-  },
-  "the-agc-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "the-alnwick-garden": {
-    "lat": null,
-    "lon": null
-  },
   "the-bald-faced-stag": {
     "lat": 51.5893111,
     "lon": -0.1642404
@@ -1606,18 +494,6 @@
   "the-barley-mow-marylebone": {
     "lat": 51.5196986,
     "lon": -0.155659
-  },
-  "the-bear-inn": {
-    "lat": null,
-    "lon": null
-  },
-  "the-black-dog-beer-house": {
-    "lat": null,
-    "lon": null
-  },
-  "the-black-horse": {
-    "lat": null,
-    "lon": null
   },
   "the-blackfriar": {
     "lat": 51.5121465,
@@ -1643,26 +519,6 @@
     "lat": 51.5068786,
     "lon": -0.1948694
   },
-  "the-d-day-story": {
-    "lat": null,
-    "lon": null
-  },
-  "the-dawn-seal": {
-    "lat": null,
-    "lon": null
-  },
-  "the-deli-warehouse": {
-    "lat": null,
-    "lon": null
-  },
-  "the-devonshire-grassington": {
-    "lat": null,
-    "lon": null
-  },
-  "the-dickens-inn": {
-    "lat": null,
-    "lon": null
-  },
   "the-dog-and-duck": {
     "lat": 51.5140001,
     "lon": -0.1319603
@@ -1671,105 +527,37 @@
     "lat": 51.4905085,
     "lon": -0.2348574
   },
-  "the-duke-of-hamilton": {
-    "lat": null,
-    "lon": null
-  },
   "the-dusty-knuckle-bakery": {
     "lat": 51.5471196,
     "lon": -0.0739135
-  },
-  "the-eclipse-inn": {
-    "lat": null,
-    "lon": null
-  },
-  "the-engineer-s-house": {
-    "lat": null,
-    "lon": null
   },
   "the-faltering-fullback": {
     "lat": 51.5685203,
     "lon": -0.1081989
   },
-  "the-fitzwilliam-museum": {
-    "lat": null,
-    "lon": null
-  },
   "the-flask-highgate": {
     "lat": 51.5699116,
     "lon": -0.1508738
-  },
-  "the-grazing-goat-pub-boutique-hotel-marylebone": {
-    "lat": null,
-    "lon": null
-  },
-  "the-great-glen-jd-wetherspoon": {
-    "lat": null,
-    "lon": null
   },
   "the-grenadier": {
     "lat": 51.5014537,
     "lon": -0.1549077
   },
-  "the-gurkha-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "the-hampstead-butcher-providore": {
-    "lat": null,
-    "lon": null
-  },
-  "the-hand-marigold-free-house": {
-    "lat": null,
-    "lon": null
-  },
   "the-harp-covent-garden": {
     "lat": 51.5097191,
     "lon": -0.1259555
-  },
-  "the-heffalump-trap": {
-    "lat": null,
-    "lon": null
-  },
-  "the-historic-dockyard-chatham": {
-    "lat": null,
-    "lon": null
   },
   "the-hole-in-the-wall": {
     "lat": 51.5295385,
     "lon": 0.0245524
   },
-  "the-hoop-and-grapes": {
-    "lat": null,
-    "lon": null
-  },
-  "the-horniman-at-hays": {
-    "lat": null,
-    "lon": null
-  },
   "the-hut-by-the-heath": {
     "lat": 51.5554783,
     "lon": -0.1498306
   },
-  "the-jane-austen-centre": {
-    "lat": null,
-    "lon": null
-  },
-  "the-king-s-head-aylesbury": {
-    "lat": null,
-    "lon": null
-  },
   "the-lamb-flag-covent-garden": {
     "lat": 51.5117167,
     "lon": -0.1256609
-  },
-  "the-lamb-inn": {
-    "lat": null,
-    "lon": null
-  },
-  "the-lord-nelson-burnham-thorpe": {
-    "lat": null,
-    "lon": null
   },
   "the-map-house": {
     "lat": 51.4977845,
@@ -1783,29 +571,13 @@
     "lat": 51.3573435,
     "lon": 0.0315866
   },
-  "the-museum-of-english-rural-life": {
-    "lat": null,
-    "lon": null
-  },
   "the-old-bell-tavern": {
     "lat": 51.5140401,
     "lon": -0.1051743
   },
-  "the-old-buttermarket": {
-    "lat": null,
-    "lon": null
-  },
-  "the-original-cheddar-cheese-co": {
-    "lat": null,
-    "lon": null
-  },
   "the-original-maids-of-honour": {
     "lat": 51.4807386,
     "lon": -0.2883268
-  },
-  "the-oxenham-arms-restaurant": {
-    "lat": null,
-    "lon": null
   },
   "the-parakeet-pub": {
     "lat": 51.5497566,
@@ -1819,33 +591,9 @@
     "lat": 51.5620311,
     "lon": -0.1051355
   },
-  "the-polar-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "the-pop-up-farm": {
-    "lat": null,
-    "lon": null
-  },
   "the-postal-museum": {
     "lat": 51.5247243,
     "lon": -0.1139982
-  },
-  "the-prince-s-head-richmond": {
-    "lat": null,
-    "lon": null
-  },
-  "the-record-album": {
-    "lat": null,
-    "lon": null
-  },
-  "the-red-lion-sun": {
-    "lat": null,
-    "lon": null
-  },
-  "the-rifleman-s-museum": {
-    "lat": null,
-    "lon": null
   },
   "the-roman-baths": {
     "lat": 51.5327746,
@@ -1855,29 +603,13 @@
     "lat": 51.5503124,
     "lon": -0.1329323
   },
-  "the-royal-logistic-corps-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "the-royal-navy-submarine-museum": {
-    "lat": null,
-    "lon": null
-  },
   "the-royal-standard-of-england": {
     "lat": 51.4767777,
     "lon": 0.0187041
   },
-  "the-scallop-shell": {
-    "lat": null,
-    "lon": null
-  },
   "the-seven-stars": {
     "lat": 51.4870402,
     "lon": -0.2031196
-  },
-  "the-sherlock-holmes-museum": {
-    "lat": null,
-    "lon": null
   },
   "the-spaniards-inn": {
     "lat": 51.5694081,
@@ -1895,10 +627,6 @@
     "lat": 51.5409325,
     "lon": -0.1138144
   },
-  "the-tank-museum": {
-    "lat": null,
-    "lon": null
-  },
   "the-tea-garden": {
     "lat": 51.5136364,
     "lon": -0.1247718
@@ -1906,10 +634,6 @@
   "the-town-mill": {
     "lat": 51.2063934,
     "lon": -1.4786436
-  },
-  "the-trusty-servant-inn": {
-    "lat": null,
-    "lon": null
   },
   "the-vault-1894": {
     "lat": 51.5043533,
@@ -1927,57 +651,17 @@
     "lat": 51.4744249,
     "lon": -0.2003146
   },
-  "the-william-morris-society": {
-    "lat": null,
-    "lon": null
-  },
   "the-woodbine": {
     "lat": 51.559525,
     "lon": -0.0983328
-  },
-  "the-world-of-james-herriot": {
-    "lat": null,
-    "lon": null
-  },
-  "thetravelmuseum": {
-    "lat": null,
-    "lon": null
   },
   "tiger-s-diner": {
     "lat": 51.5062847,
     "lon": -0.2305629
   },
-  "tintagel-castle": {
-    "lat": null,
-    "lon": null
-  },
-  "titanic-s-plaque": {
-    "lat": null,
-    "lon": null
-  },
   "tollingtons": {
     "lat": 51.568303,
     "lon": -0.1108726
-  },
-  "travis-emery-music-bookshop": {
-    "lat": null,
-    "lon": null
-  },
-  "trinity-hall-cambridge": {
-    "lat": null,
-    "lon": null
-  },
-  "tropical-birdland": {
-    "lat": null,
-    "lon": null
-  },
-  "university-museum-of-zoology": {
-    "lat": null,
-    "lon": null
-  },
-  "ure-museum-of-greek-archaeology": {
-    "lat": null,
-    "lon": null
   },
   "veeraswamy": {
     "lat": 51.5098955,
@@ -1986,14 +670,6 @@
   "victoria-and-albert-museum": {
     "lat": 51.4968838,
     "lon": -0.1716372
-  },
-  "vios-caf": {
-    "lat": null,
-    "lon": null
-  },
-  "volk-s-electric-railway": {
-    "lat": null,
-    "lon": null
   },
   "warwick-castle": {
     "lat": 51.5220216,
@@ -2007,22 +683,6 @@
     "lat": 51.5666602,
     "lon": -0.0912657
   },
-  "westway-climbing": {
-    "lat": null,
-    "lon": null
-  },
-  "whipple-museum-of-the-history-of-science": {
-    "lat": null,
-    "lon": null
-  },
-  "whipsnade-zoo": {
-    "lat": null,
-    "lon": null
-  },
-  "whitby-beach": {
-    "lat": null,
-    "lon": null
-  },
   "white-cross": {
     "lat": 51.4589495,
     "lon": -0.3083628
@@ -2031,53 +691,13 @@
     "lat": 51.3956773,
     "lon": 0.1075171
   },
-  "white-wells": {
-    "lat": null,
-    "lon": null
-  },
   "wild-honey-st-james": {
     "lat": 51.5124409,
     "lon": -0.1432991
   },
-  "wildwood-trust": {
-    "lat": null,
-    "lon": null
-  },
   "wiltons-restaurant": {
     "lat": 51.5076994,
     "lon": -0.1392041
-  },
-  "winchester-city-museum": {
-    "lat": null,
-    "lon": null
-  },
-  "winnie-the-pooh-house": {
-    "lat": null,
-    "lon": null
-  },
-  "wistman-s-wood": {
-    "lat": null,
-    "lon": null
-  },
-  "wolvesey-castle-old-bishop-s-palace": {
-    "lat": null,
-    "lon": null
-  },
-  "wookey-hole-caves": {
-    "lat": null,
-    "lon": null
-  },
-  "word-on-the-water-the-london-bookbarge": {
-    "lat": null,
-    "lon": null
-  },
-  "wordsworth-grasmere": {
-    "lat": null,
-    "lon": null
-  },
-  "xtreme-falconry-at-dorset-falconry-park": {
-    "lat": null,
-    "lon": null
   },
   "ye-olde-cheshire-cheese": {
     "lat": 51.5143424,
@@ -2087,12 +707,1244 @@
     "lat": 51.5184299,
     "lon": -0.1073828
   },
-  "york-minster": {
-    "lat": null,
-    "lon": null
-  },
   "young-v-a": {
     "lat": 51.5290464,
     "lon": -0.054873
+  },
+  "1c-ducks-walk": {
+    "lat": 51.4585056,
+    "lon": -0.3113473
+  },
+  "abbey-road-pedestrian-crossing": {
+    "lat": null,
+    "lon": null
+  },
+  "abbotsbury-swannery": {
+    "lat": 50.6592937,
+    "lon": -2.6007478
+  },
+  "ain-t-nothin-but": {
+    "lat": null,
+    "lon": null
+  },
+  "aldermaston": {
+    "lat": 51.4931222,
+    "lon": -0.3197589
+  },
+  "amathus-south-kensington": {
+    "lat": null,
+    "lon": null
+  },
+  "andy-s-maritime-antiques-and-army-surplus-store": {
+    "lat": null,
+    "lon": null
+  },
+  "annunciation-marble-arch": {
+    "lat": null,
+    "lon": null
+  },
+  "anti-nuclear-activism-legacy": {
+    "lat": null,
+    "lon": null
+  },
+  "ashmolean-museum": {
+    "lat": 51.7554961,
+    "lon": -1.2602575
+  },
+  "au-plat-d-etain": {
+    "lat": null,
+    "lon": null
+  },
+  "baboo-gelato-cobb-lyme-regis": {
+    "lat": null,
+    "lon": null
+  },
+  "badbury-rings": {
+    "lat": null,
+    "lon": null
+  },
+  "bamburgh-castle": {
+    "lat": 55.6094439,
+    "lon": -1.7112671
+  },
+  "bancone": {
+    "lat": 51.5113311,
+    "lon": -0.1363918
+  },
+  "bar-douro-london-bridge": {
+    "lat": null,
+    "lon": null
+  },
+  "battery-steele": {
+    "lat": null,
+    "lon": null
+  },
+  "battle-abbey": {
+    "lat": 50.9150519,
+    "lon": 0.486062
+  },
+  "battle-of-barnet-monument": {
+    "lat": null,
+    "lon": null
+  },
+  "beamish-the-living-museum-of-the-north": {
+    "lat": null,
+    "lon": null
+  },
+  "bentley-s-oyster-bar-grill": {
+    "lat": null,
+    "lon": null
+  },
+  "berner-s-tavern": {
+    "lat": null,
+    "lon": null
+  },
+  "berry-bros-rudd-wine-shop": {
+    "lat": null,
+    "lon": null
+  },
+  "blenheim-palace": {
+    "lat": 51.8419448,
+    "lon": -1.3626293
+  },
+  "bletchley-park": {
+    "lat": 51.9974937,
+    "lon": -0.7410593
+  },
+  "bloom-graze-ltd": {
+    "lat": null,
+    "lon": null
+  },
+  "blue-boar-pub": {
+    "lat": 53.9574159,
+    "lon": -1.0813218
+  },
+  "blue-plaque-jim-henson": {
+    "lat": null,
+    "lon": null
+  },
+  "bluebell-railway-sheffield-park-station": {
+    "lat": null,
+    "lon": null
+  },
+  "bolsdale": {
+    "lat": null,
+    "lon": null
+  },
+  "bosworth-battlefield-heritage-centre": {
+    "lat": 52.5994265,
+    "lon": -1.4153435
+  },
+  "brasserie-zedel": {
+    "lat": 51.5105975,
+    "lon": -0.13555
+  },
+  "bridge-of-sighs": {
+    "lat": null,
+    "lon": null
+  },
+  "brighton-palace-pier": {
+    "lat": null,
+    "lon": null
+  },
+  "brighton-toy-and-model-museum": {
+    "lat": 50.8287115,
+    "lon": -0.1409461
+  },
+  "british-wildlife-centre": {
+    "lat": 51.1738505,
+    "lon": -0.0476445
+  },
+  "bront-parsonage-museum": {
+    "lat": 53.8311966,
+    "lon": -1.9574451
+  },
+  "brown-forrest-smokery": {
+    "lat": null,
+    "lon": null
+  },
+  "brunel-tunnel-under-river-thames": {
+    "lat": null,
+    "lon": null
+  },
+  "but-first-coffee": {
+    "lat": null,
+    "lon": null
+  },
+  "callaway-s-fish-chips": {
+    "lat": 50.7129688,
+    "lon": -2.428298
+  },
+  "cambridge-punters": {
+    "lat": null,
+    "lon": null
+  },
+  "canterbury-cathedral": {
+    "lat": 51.2797999,
+    "lon": 1.082766
+  },
+  "canterbury-roman-museum": {
+    "lat": 51.2786327,
+    "lon": 1.0815044
+  },
+  "castle-mound": {
+    "lat": 51.7959992,
+    "lon": -0.0802427
+  },
+  "caxton-grill": {
+    "lat": 51.4987447,
+    "lon": -0.1340051
+  },
+  "chalbury-food-wine": {
+    "lat": 50.6436924,
+    "lon": -2.4305808
+  },
+  "chalice-well": {
+    "lat": 51.1437803,
+    "lon": -2.7060151
+  },
+  "champagne-charlles": {
+    "lat": null,
+    "lon": null
+  },
+  "cheddar-gorge": {
+    "lat": 51.2825942,
+    "lon": -2.7656541
+  },
+  "cheddar-gorge-and-caves": {
+    "lat": null,
+    "lon": null
+  },
+  "cheddar-gorge-cheese-company": {
+    "lat": 51.2804985,
+    "lon": -2.7726436
+  },
+  "cheltenham-model-centre": {
+    "lat": 51.8976404,
+    "lon": -2.0706808
+  },
+  "chesil-beach-west": {
+    "lat": null,
+    "lon": null
+  },
+  "chiltern-firehouse": {
+    "lat": null,
+    "lon": null
+  },
+  "cinnamon-club": {
+    "lat": 51.4975224,
+    "lon": -0.129607
+  },
+  "city-wall-walk": {
+    "lat": 51.7502219,
+    "lon": -1.2535069
+  },
+  "clarence-pier": {
+    "lat": 50.7856997,
+    "lon": -1.1013856
+  },
+  "clavell-tower": {
+    "lat": 50.6074289,
+    "lon": -2.1297719
+  },
+  "cleveland-pools": {
+    "lat": 51.3908421,
+    "lon": -2.3473774
+  },
+  "connaught-in-mayfair": {
+    "lat": null,
+    "lon": null
+  },
+  "corinium-museum": {
+    "lat": 51.7174829,
+    "lon": -1.9706796
+  },
+  "cotswold-falconry-centre": {
+    "lat": 51.998453,
+    "lon": -1.7337697
+  },
+  "crab-museum": {
+    "lat": 51.3898799,
+    "lon": 1.3819994
+  },
+  "crockford-bridge-farm": {
+    "lat": 51.3669618,
+    "lon": -0.4853871
+  },
+  "dahessa": {
+    "lat": 51.0477997,
+    "lon": 0.1608954
+  },
+  "davy-s-wine-bar": {
+    "lat": 51.5182305,
+    "lon": -0.1153431
+  },
+  "dehem": {
+    "lat": null,
+    "lon": null
+  },
+  "dehesa": {
+    "lat": 51.5127881,
+    "lon": -0.1392886
+  },
+  "diddly-squat-farm-shop": {
+    "lat": 51.9162894,
+    "lon": -1.5417594
+  },
+  "dinosaurland-fossil-museum": {
+    "lat": 50.7263426,
+    "lon": -2.9340065
+  },
+  "dishoom": {
+    "lat": 51.5124271,
+    "lon": -0.126856
+  },
+  "dlshoom": {
+    "lat": null,
+    "lon": null
+  },
+  "dogpark": {
+    "lat": null,
+    "lon": null
+  },
+  "dropped-pin": {
+    "lat": null,
+    "lon": null
+  },
+  "dumplings-legend": {
+    "lat": 51.5117338,
+    "lon": -0.1314656
+  },
+  "dunn-s-bakery": {
+    "lat": 51.3712583,
+    "lon": 1.1298817
+  },
+  "durdle-door": {
+    "lat": 50.62119,
+    "lon": -2.2769164
+  },
+  "ely-cathedral": {
+    "lat": 52.3986555,
+    "lon": 0.2637479
+  },
+  "emberyard": {
+    "lat": null,
+    "lon": null
+  },
+  "explosion-museum-of-naval-firepower": {
+    "lat": 50.8073997,
+    "lon": -1.1262883
+  },
+  "fallow": {
+    "lat": 51.5094184,
+    "lon": -0.1327361
+  },
+  "first-v2-rocket-memorial": {
+    "lat": null,
+    "lon": null
+  },
+  "fish-n-fritz": {
+    "lat": 50.6083897,
+    "lon": -2.45369
+  },
+  "five-hundred-acre-wood": {
+    "lat": 51.0740379,
+    "lon": 0.1205417
+  },
+  "flight-club": {
+    "lat": 51.5219828,
+    "lon": -0.0864063
+  },
+  "fuller-s-brewery-shop-tours": {
+    "lat": null,
+    "lon": null
+  },
+  "gaucho-piccadilly": {
+    "lat": null,
+    "lon": null
+  },
+  "glastonbury-abbey": {
+    "lat": 51.146387,
+    "lon": -2.7154745
+  },
+  "glastonbury-tor": {
+    "lat": 51.1441926,
+    "lon": -2.7000374
+  },
+  "go-action-forest-paintballing-laser-tag-kids-adventure-camp": {
+    "lat": null,
+    "lon": null
+  },
+  "goodman-steak-oust-off-regent-street": {
+    "lat": null,
+    "lon": null
+  },
+  "gordon-s-wine-bar": {
+    "lat": 51.5079244,
+    "lon": -0.1233137
+  },
+  "graam-bangla": {
+    "lat": null,
+    "lon": null
+  },
+  "granny-s-caf": {
+    "lat": 50.821669,
+    "lon": -0.1417114
+  },
+  "grays-antique-market": {
+    "lat": null,
+    "lon": null
+  },
+  "guinea-grill": {
+    "lat": null,
+    "lon": null
+  },
+  "hadrian-s-wall": {
+    "lat": 55.0145273,
+    "lon": -2.3287606
+  },
+  "haggard-alley": {
+    "lat": 57.0052145,
+    "lon": -5.8281527
+  },
+  "harbour-stores": {
+    "lat": 50.4316374,
+    "lon": -3.5577813
+  },
+  "hawks-stadium": {
+    "lat": null,
+    "lon": null
+  },
+  "hawksm-r": {
+    "lat": null,
+    "lon": null
+  },
+  "heddon-street-kitchen-off-regent-street": {
+    "lat": null,
+    "lon": null
+  },
+  "hemswell-antique-centres": {
+    "lat": 53.3996664,
+    "lon": -0.5709322
+  },
+  "herschel-museum-of-astronomy": {
+    "lat": 51.3825066,
+    "lon": -2.3669406
+  },
+  "herts-baseball-club-grovehill-ballpark": {
+    "lat": null,
+    "lon": null
+  },
+  "highclere-castle": {
+    "lat": 51.3266026,
+    "lon": -1.3605135
+  },
+  "historic-cable-gear-at-enderby-wharf": {
+    "lat": null,
+    "lon": null
+  },
+  "hms-victory": {
+    "lat": 50.8018133,
+    "lon": -1.1096133
+  },
+  "ikigai-coffee": {
+    "lat": 50.8264505,
+    "lon": -0.1423045
+  },
+  "itsu-sushi-bar-piccadilly": {
+    "lat": null,
+    "lon": null
+  },
+  "ivy-market-grill": {
+    "lat": null,
+    "lon": null
+  },
+  "iwm-duxford": {
+    "lat": 52.0914147,
+    "lon": 0.1288363
+  },
+  "jane-austen-s-house": {
+    "lat": null,
+    "lon": null
+  },
+  "jeru": {
+    "lat": null,
+    "lon": null
+  },
+  "john-paul-jones-monument": {
+    "lat": null,
+    "lon": null
+  },
+  "jonkers-rare-books": {
+    "lat": null,
+    "lon": null
+  },
+  "julien-plumart": {
+    "lat": 50.826978,
+    "lon": -0.1420942
+  },
+  "keen-s-cheddar-ltd": {
+    "lat": null,
+    "lon": null
+  },
+  "keith-fawkes": {
+    "lat": null,
+    "lon": null
+  },
+  "kerrldge-s": {
+    "lat": null,
+    "lon": null
+  },
+  "kingston-russell-stone-circle": {
+    "lat": 50.6885238,
+    "lon": -2.5989436
+  },
+  "kutir": {
+    "lat": 51.4916273,
+    "lon": -0.1614837
+  },
+  "les-grands-buffets": {
+    "lat": null,
+    "lon": null
+  },
+  "limon": {
+    "lat": null,
+    "lon": null
+  },
+  "litvinenko-poisoning": {
+    "lat": null,
+    "lon": null
+  },
+  "lulworth-cove": {
+    "lat": 50.6175997,
+    "lon": -2.2466287
+  },
+  "lyme-regis-fossil-beach-ammonite-pavement": {
+    "lat": null,
+    "lon": null
+  },
+  "lyme-regis-museum": {
+    "lat": 50.7248078,
+    "lon": -2.932474
+  },
+  "magna-carta-island": {
+    "lat": 51.4464303,
+    "lon": -0.563033
+  },
+  "magna-carta-memorial": {
+    "lat": 53.6922408,
+    "lon": -1.3100316
+  },
+  "marquis-of-granby-pronounced-mar-kwis": {
+    "lat": null,
+    "lon": null
+  },
+  "memorial-to-a-a-milne": {
+    "lat": null,
+    "lon": null
+  },
+  "mestizo-mexican-restaurant-tequila-bar": {
+    "lat": null,
+    "lon": null
+  },
+  "monument-to-the-great-fire-of-london": {
+    "lat": null,
+    "lon": null
+  },
+  "morpeth-arms": {
+    "lat": 51.4893791,
+    "lon": -0.1286787
+  },
+  "morpeth-arms-oust-down-the-street-from-thames-house": {
+    "lat": null,
+    "lon": null
+  },
+  "mountfitchet-castle-norman-village-cm248ly": {
+    "lat": null,
+    "lon": null
+  },
+  "mr-fogg-s": {
+    "lat": 51.51098,
+    "lon": -0.1268281
+  },
+  "muggleton-road-amesbury-wiltshire": {
+    "lat": 51.1575923,
+    "lon": -1.7652617
+  },
+  "museum-of-archaeology-and-anthropology": {
+    "lat": 52.202799,
+    "lon": 0.1209726
+  },
+  "museum-of-classical-archaeology": {
+    "lat": 52.2006233,
+    "lon": 0.1104744
+  },
+  "muswell-hillbilly-brewers-taproom": {
+    "lat": null,
+    "lon": null
+  },
+  "national-memorial-arboretum-alrewas-staffordshire": {
+    "lat": 52.7284813,
+    "lon": -1.730011
+  },
+  "national-museum-of-scotland": {
+    "lat": 55.9470714,
+    "lon": -3.1893355
+  },
+  "national-museum-of-the-royal-navy": {
+    "lat": 54.6905726,
+    "lon": -1.2077102
+  },
+  "national-railway-museum-york": {
+    "lat": 53.9604958,
+    "lon": -1.0961102
+  },
+  "national-trust-ankerwycke-yew": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-bateman-s": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-cerne-giant": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-dover-s-hill": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-glastonbury-tor": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-hidcote": {
+    "lat": 52.0839403,
+    "lon": -1.7440793
+  },
+  "national-trust-petworth-house-and-park": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-sutton-hoo": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-the-white-cliffs-of-dover": {
+    "lat": null,
+    "lon": null
+  },
+  "national-trust-treasurer-s-house-york": {
+    "lat": null,
+    "lon": null
+  },
+  "new-forest-national-park": {
+    "lat": 50.8557268,
+    "lon": -1.5956844
+  },
+  "nopi": {
+    "lat": 51.5117142,
+    "lon": -0.1384649
+  },
+  "north-laine-bazaar": {
+    "lat": 50.8261223,
+    "lon": -0.1392143
+  },
+  "odiham-castle": {
+    "lat": 51.2613778,
+    "lon": -0.9616129
+  },
+  "old-queen-street-cafe": {
+    "lat": 51.5009507,
+    "lon": -0.1299914
+  },
+  "old-sarum": {
+    "lat": 51.093448,
+    "lon": -1.8047034
+  },
+  "oliver-s-village-caf": {
+    "lat": null,
+    "lon": null
+  },
+  "operation-dynamo-rescue-from-dunkirk": {
+    "lat": null,
+    "lon": null
+  },
+  "original-dubai-shawarma": {
+    "lat": null,
+    "lon": null
+  },
+  "oxford-university-museum-of-natural-history": {
+    "lat": 51.7586258,
+    "lon": -1.2556186
+  },
+  "peak-district-national-park": {
+    "lat": 53.3158274,
+    "lon": -1.727034
+  },
+  "pembroke-college": {
+    "lat": 52.201955,
+    "lon": 0.1197113
+  },
+  "piglet-s-house": {
+    "lat": 54.0221201,
+    "lon": -1.0018151
+  },
+  "pindar-bunker": {
+    "lat": null,
+    "lon": null
+  },
+  "piwnica-pod-baranami": {
+    "lat": null,
+    "lon": null
+  },
+  "pooh-car-park": {
+    "lat": null,
+    "lon": null
+  },
+  "pooh-sticks-bridge": {
+    "lat": null,
+    "lon": null
+  },
+  "porterhouse": {
+    "lat": 51.5102527,
+    "lon": -0.1234105
+  },
+  "porters-lodge-peterhouse": {
+    "lat": null,
+    "lon": null
+  },
+  "portsmouth-historic-dockyard": {
+    "lat": 50.8004657,
+    "lon": -1.109484
+  },
+  "preto": {
+    "lat": 51.4929167,
+    "lon": -0.1404383
+  },
+  "prospect-of-whitby": {
+    "lat": 51.5070711,
+    "lon": -0.0510742
+  },
+  "puzzlewood": {
+    "lat": 51.77736,
+    "lon": -2.6136933
+  },
+  "quilon": {
+    "lat": 51.4987428,
+    "lon": -0.1375558
+  },
+  "radio-rooftop": {
+    "lat": 51.5117626,
+    "lon": -0.1186761
+  },
+  "rigsby-s-ln": {
+    "lat": 51.6357713,
+    "lon": -1.96083
+  },
+  "river-otter-beaver-walk-otterton": {
+    "lat": null,
+    "lon": null
+  },
+  "rock-and-sole-plaice": {
+    "lat": null,
+    "lon": null
+  },
+  "rovi": {
+    "lat": 51.5176105,
+    "lon": -0.138651
+  },
+  "royal-armouries-fort-nelson": {
+    "lat": null,
+    "lon": null
+  },
+  "royal-engineers-museum": {
+    "lat": 51.3922388,
+    "lon": 0.5378341
+  },
+  "royal-hampshire-regiment-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "royal-pavilion": {
+    "lat": 50.8223914,
+    "lon": -0.1376506
+  },
+  "ryu-sushi-restaurant-mayfair": {
+    "lat": null,
+    "lon": null
+  },
+  "salisbury-cathedral": {
+    "lat": 51.0649546,
+    "lon": -1.7972913
+  },
+  "sally-lunn-s-historic-eating-house-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "samuel-smith-s-brewery": {
+    "lat": null,
+    "lon": null
+  },
+  "scudamore-s-mill-lane-punting-station": {
+    "lat": null,
+    "lon": null
+  },
+  "sedgwick-museum-of-earth-sciences": {
+    "lat": 52.203069,
+    "lon": 0.1219693
+  },
+  "shakespeare-s-birthplace": {
+    "lat": 52.1938833,
+    "lon": -1.7080084
+  },
+  "shambles-market": {
+    "lat": 53.959317,
+    "lon": -1.0806121
+  },
+  "sheekey-s": {
+    "lat": 51.5109233,
+    "lon": -0.1276968
+  },
+  "sherwood-forest-visitor-centre": {
+    "lat": 53.1983291,
+    "lon": -1.0671268
+  },
+  "ship-tavern": {
+    "lat": 51.5172518,
+    "lon": -0.1191791
+  },
+  "short-road-pizza": {
+    "lat": null,
+    "lon": null
+  },
+  "smith-and-wollensky": {
+    "lat": null,
+    "lon": null
+  },
+  "smiths": {
+    "lat": 51.5168819,
+    "lon": -0.478651
+  },
+  "social-eating-house-street-xo": {
+    "lat": null,
+    "lon": null
+  },
+  "spend": {
+    "lat": 53.0553525,
+    "lon": -1.7584643
+  },
+  "spitfire-hurricane-memorial-museum": {
+    "lat": 51.3502309,
+    "lon": 1.3498078
+  },
+  "sports-trading-cards-uk-ltd": {
+    "lat": null,
+    "lon": null
+  },
+  "st-margaret-s-beach": {
+    "lat": 51.1506306,
+    "lon": 1.3860125
+  },
+  "st-nicholas-church-graveyard": {
+    "lat": 51.9205891,
+    "lon": -0.1964369
+  },
+  "tamarind": {
+    "lat": 51.5070638,
+    "lon": -0.1472482
+  },
+  "tandoor-chophouse": {
+    "lat": null,
+    "lon": null
+  },
+  "tattershall-castle-is-also-popular-in-the-summer": {
+    "lat": null,
+    "lon": null
+  },
+  "temper-soho": {
+    "lat": 51.5134966,
+    "lon": -0.1357685
+  },
+  "tewkesbury-battlefield": {
+    "lat": 51.9836555,
+    "lon": -2.1496775
+  },
+  "thames-ditton-miniature-railways": {
+    "lat": null,
+    "lon": null
+  },
+  "the-agc-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-alnwick-garden": {
+    "lat": null,
+    "lon": null
+  },
+  "the-barbary": {
+    "lat": 51.5144072,
+    "lon": -0.1261845
+  },
+  "the-bear-inn": {
+    "lat": 51.3478785,
+    "lon": -2.2495722
+  },
+  "the-black-dog-beer-house": {
+    "lat": null,
+    "lon": null
+  },
+  "the-black-horse": {
+    "lat": 52.4119174,
+    "lon": -1.9735247
+  },
+  "the-clarence": {
+    "lat": 51.4882995,
+    "lon": -0.2043861
+  },
+  "the-coal-hole": {
+    "lat": 51.5103169,
+    "lon": -0.1211722
+  },
+  "the-d-day-story": {
+    "lat": null,
+    "lon": null
+  },
+  "the-dawn-seal": {
+    "lat": null,
+    "lon": null
+  },
+  "the-delauney": {
+    "lat": null,
+    "lon": null
+  },
+  "the-deli-warehouse": {
+    "lat": null,
+    "lon": null
+  },
+  "the-devonshire-grassington": {
+    "lat": null,
+    "lon": null
+  },
+  "the-dickens-inn": {
+    "lat": 51.4140369,
+    "lon": 0.872518
+  },
+  "the-duke-of-hamilton": {
+    "lat": 55.5818054,
+    "lon": -5.1585897
+  },
+  "the-eclipse-inn": {
+    "lat": 51.0621699,
+    "lon": -1.3148421
+  },
+  "the-engineer-s-house": {
+    "lat": 52.2124687,
+    "lon": 0.1428396
+  },
+  "the-fitzwilliam-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-french-house": {
+    "lat": 51.475685,
+    "lon": -0.2004675
+  },
+  "the-grapes": {
+    "lat": 51.50885,
+    "lon": -0.0339611
+  },
+  "the-grazing-goat-pub-boutique-hotel-marylebone": {
+    "lat": null,
+    "lon": null
+  },
+  "the-great-glen-jd-wetherspoon": {
+    "lat": null,
+    "lon": null
+  },
+  "the-gurkha-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-hampstead-butcher-providore": {
+    "lat": null,
+    "lon": null
+  },
+  "the-hand-marigold-free-house": {
+    "lat": null,
+    "lon": null
+  },
+  "the-harp": {
+    "lat": 51.5097191,
+    "lon": -0.1259555
+  },
+  "the-heffalump-trap": {
+    "lat": 51.069097,
+    "lon": 0.0929058
+  },
+  "the-historic-dockyard-chatham": {
+    "lat": null,
+    "lon": null
+  },
+  "the-hoop-and-grapes": {
+    "lat": null,
+    "lon": null
+  },
+  "the-horniman-at-hays": {
+    "lat": null,
+    "lon": null
+  },
+  "the-jane-austen-centre": {
+    "lat": null,
+    "lon": null
+  },
+  "the-king-s-head-aylesbury": {
+    "lat": 51.8167568,
+    "lon": -0.8135748
+  },
+  "the-lamb-inn": {
+    "lat": 53.8068695,
+    "lon": -1.9457256
+  },
+  "the-lord-nelson-burnham-thorpe": {
+    "lat": null,
+    "lon": null
+  },
+  "the-mavffower": {
+    "lat": null,
+    "lon": null
+  },
+  "the-museum-of-english-rural-life": {
+    "lat": null,
+    "lon": null
+  },
+  "the-northall-also-in-corinthia": {
+    "lat": null,
+    "lon": null
+  },
+  "the-old-buttermarket": {
+    "lat": 51.2789473,
+    "lon": 1.0812379
+  },
+  "the-olde-wine-shades": {
+    "lat": 51.5104998,
+    "lon": -0.0880621
+  },
+  "the-original-cheddar-cheese-co": {
+    "lat": 51.2818208,
+    "lon": -2.7670591
+  },
+  "the-oxenham-arms-restaurant": {
+    "lat": null,
+    "lon": null
+  },
+  "the-polar-museum": {
+    "lat": 52.1984473,
+    "lon": 0.1262691
+  },
+  "the-pop-up-farm": {
+    "lat": null,
+    "lon": null
+  },
+  "the-pride-of-spitlefields": {
+    "lat": null,
+    "lon": null
+  },
+  "the-prince-s-head-richmond": {
+    "lat": null,
+    "lon": null
+  },
+  "the-record-album": {
+    "lat": 50.8290983,
+    "lon": -0.1417777
+  },
+  "the-red-lion-sun": {
+    "lat": null,
+    "lon": null
+  },
+  "the-rifleman-s-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-royal-logistic-corps-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-royal-navy-submarine-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-scallop-shell": {
+    "lat": 51.3829186,
+    "lon": -2.3657781
+  },
+  "the-sherlock-holmes-museum": {
+    "lat": null,
+    "lon": null
+  },
+  "the-ship-and-shovell": {
+    "lat": 51.5076753,
+    "lon": -0.1247318
+  },
+  "the-speaker": {
+    "lat": 51.4969047,
+    "lon": -0.1322608
+  },
+  "the-tank-museum": {
+    "lat": 50.6943977,
+    "lon": -2.2408812
+  },
+  "the-thomas-cubltt": {
+    "lat": null,
+    "lon": null
+  },
+  "the-trusty-servant-inn": {
+    "lat": 50.8982316,
+    "lon": -1.6011921
+  },
+  "the-william-morris-society": {
+    "lat": null,
+    "lon": null
+  },
+  "the-windsor-castle": {
+    "lat": 51.3625914,
+    "lon": -0.168538
+  },
+  "the-wolesley": {
+    "lat": null,
+    "lon": null
+  },
+  "the-wolseley": {
+    "lat": 51.5073927,
+    "lon": -0.1409072
+  },
+  "the-world-of-james-herriot": {
+    "lat": 54.2332638,
+    "lon": -1.3450086
+  },
+  "thetravelmuseum": {
+    "lat": null,
+    "lon": null
+  },
+  "tintagel-castle": {
+    "lat": 50.6686663,
+    "lon": -4.762152
+  },
+  "titanic-s-plaque": {
+    "lat": null,
+    "lon": null
+  },
+  "travis-emery-music-bookshop": {
+    "lat": null,
+    "lon": null
+  },
+  "trinity-hall-cambridge": {
+    "lat": 52.2276427,
+    "lon": 0.1521346
+  },
+  "tropical-birdland": {
+    "lat": 52.6314202,
+    "lon": -1.2968909
+  },
+  "university-museum-of-zoology": {
+    "lat": null,
+    "lon": null
+  },
+  "ure-museum-of-greek-archaeology": {
+    "lat": null,
+    "lon": null
+  },
+  "vagabond-wine-bar-for-drinks-when-you-re-sick-of-pubs": {
+    "lat": null,
+    "lon": null
+  },
+  "vios-caf": {
+    "lat": 50.8218278,
+    "lon": -0.1401237
+  },
+  "volk-s-electric-railway": {
+    "lat": null,
+    "lon": null
+  },
+  "westway-climbing": {
+    "lat": null,
+    "lon": null
+  },
+  "whipple-museum-of-the-history-of-science": {
+    "lat": 52.2028831,
+    "lon": 0.1194846
+  },
+  "whipsnade-zoo": {
+    "lat": 51.8472915,
+    "lon": -0.5442472
+  },
+  "whitby-beach": {
+    "lat": null,
+    "lon": null
+  },
+  "white-wells": {
+    "lat": 53.9169048,
+    "lon": -1.8218204
+  },
+  "whitehall-proximity": {
+    "lat": null,
+    "lon": null
+  },
+  "wild-honey": {
+    "lat": 51.5124409,
+    "lon": -0.1432991
+  },
+  "wildwood-trust": {
+    "lat": null,
+    "lon": null
+  },
+  "winchester-city-museum": {
+    "lat": 51.0619958,
+    "lon": -1.3149391
+  },
+  "winnie-the-pooh-house": {
+    "lat": null,
+    "lon": null
+  },
+  "wistman-s-wood": {
+    "lat": 50.5779392,
+    "lon": -3.9612094
+  },
+  "wolvesey-castle-old-bishop-s-palace": {
+    "lat": null,
+    "lon": null
+  },
+  "wookey-hole-caves": {
+    "lat": 51.2291716,
+    "lon": -2.6717502
+  },
+  "word-on-the-water-the-london-bookbarge": {
+    "lat": null,
+    "lon": null
+  },
+  "wordsworth-grasmere": {
+    "lat": 54.4577624,
+    "lon": -3.0229785
+  },
+  "xtreme-falconry-at-dorset-falconry-park": {
+    "lat": null,
+    "lon": null
+  },
+  "ye-olde-mitre": {
+    "lat": 51.5184299,
+    "lon": -0.1073828
+  },
+  "york-minster": {
+    "lat": 53.9623561,
+    "lon": -1.0820834
+  },
+  "the-ship-tavern": {
+    "lat": 52.9765682,
+    "lon": -0.0226647
+  },
+  "the-george-inn-norton-st-philip": {
+    "lat": 51.3014439,
+    "lon": -2.325386
   }
 }
