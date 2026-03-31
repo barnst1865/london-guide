@@ -168,6 +168,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1773324,
+          51.5320532
+        ]
+      },
+      "properties": {
+        "id": "abbey-road-pedestrian-crossing",
+        "name": "Abbey Road Pedestrian Crossing",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "An abbey is a type of monastery used by members of a religious order under the governance of an abbot or abbess. …",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK Music",
+        "notes": "Google rating: 4.6/5 (1,524 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.6007478,
           50.6592937
         ]
@@ -276,6 +303,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1396147,
+          51.5129742
+        ]
+      },
+      "properties": {
+        "id": "ain-t-nothin-but",
+        "name": "Ain't Nothin' But",
+        "category": "restaurants",
+        "subcategory": "cocktail-bar",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.6/5 (3,930 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.3197589,
           51.4931222
         ]
@@ -357,6 +411,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1770798,
+          51.4928616
+        ]
+      },
+      "properties": {
+        "id": "amathus-south-kensington",
+        "name": "Amathus South Kensington",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.9/5 (35 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1399203,
           51.5058725
         ]
@@ -377,6 +458,87 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (1,062 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0821452,
+          50.7851645
+        ]
+      },
+      "properties": {
+        "id": "andy-s-maritime-antiques-and-army-surplus-store",
+        "name": "Andy's Maritime Antiques And Army Surplus Store",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (63 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1585507,
+          51.5144081
+        ]
+      },
+      "properties": {
+        "id": "annunciation-marble-arch",
+        "name": "Annunciation, Marble Arch",
+        "category": "historic-sites",
+        "subcategory": "medieval",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (34 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0569338,
+          51.5329074
+        ]
+      },
+      "properties": {
+        "id": "anti-nuclear-activism-legacy",
+        "name": "Anti-Nuclear Activism & Legacy",
+        "category": "wmd-sites",
+        "subcategory": "missile",
+        "neighborhood": "",
+        "address": "",
+        "summary": "15. Aldermaston Marches (London to Aldermaston) Since 1958, activists have marched from London to the Atomic Weapons Establishment (AWE) in Aldermaston to protest nuclear weapons. The Campaign for Nuc",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "lear Disarmament (CND) remains active today."
       }
     },
     {
@@ -431,6 +593,60 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (11,506 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9361061,
+          50.722877
+        ]
+      },
+      "properties": {
+        "id": "baboo-gelato-cobb-lyme-regis",
+        "name": "Baboo Gelato Cobb Lyme Regis",
+        "category": "restaurants",
+        "subcategory": "ice-cream",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (125 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0535419,
+          50.826308
+        ]
+      },
+      "properties": {
+        "id": "badbury-rings",
+        "name": "Badbury Rings",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (922 reviews)"
       }
     },
     {
@@ -546,6 +762,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0953824,
+          51.5043951
+        ]
+      },
+      "properties": {
+        "id": "bar-douro-london-bridge",
+        "name": "Bar Douro London Bridge",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Nov 6, 2024 · 压力单位bar是什么意思,跟pa怎么换算巴（bar）是一种压强单位，它在工程领域中被广泛使用。1巴（bar）等于10的5次方帕（Pa），这是帕斯卡（Pa）的简称，即一平方米上承受一牛顿 …",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (1,938 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.4811978,
           51.5485498
         ]
@@ -627,6 +870,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1989125,
+          51.6658479
+        ]
+      },
+      "properties": {
+        "id": "battle-of-barnet-monument",
+        "name": "Battle of Barnet Monument",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.3/5 (38 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.4646286,
           51.54048
         ]
@@ -681,6 +951,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6586264,
+          54.8849317
+        ]
+      },
+      "properties": {
+        "id": "beamish-the-living-museum-of-the-north",
+        "name": "Beamish - The Living Museum of the North",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (26,233 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0717527,
           51.5245115
         ]
@@ -701,6 +998,87 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.4/5 (14,120 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1376725,
+          51.5095467
+        ]
+      },
+      "properties": {
+        "id": "bentley-s-oyster-bar-grill",
+        "name": "Bentley's Oyster Bar & Grill",
+        "category": "restaurants",
+        "subcategory": "historic",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:London Historic Restaurants and Pubs",
+        "notes": "Google rating: 4.5/5 (2,015 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1361045,
+          51.5166544
+        ]
+      },
+      "properties": {
+        "id": "berner-s-tavern",
+        "name": "Berner's Tavern",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "Expensive Mac & Cheese with brisket . . . Trust!",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1378713,
+          51.5054835
+        ]
+      },
+      "properties": {
+        "id": "berry-bros-rudd-wine-shop",
+        "name": "Berry Bros. & Rudd Wine Shop",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (613 reviews)"
       }
     },
     {
@@ -789,6 +1167,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.8294981,
+          57.0059114
+        ]
+      },
+      "properties": {
+        "id": "bloom-graze-ltd",
+        "name": "Bloom & Graze Ltd",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Bloom Nutrition provides health and wellness supplements for women, with high quality ingredients to support energy, gut …",
+        "price_range": "$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (109 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.0813218,
           53.9574159
         ]
@@ -809,6 +1214,87 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.4/5 (2,045 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1712161,
+          51.5549091
+        ]
+      },
+      "properties": {
+        "id": "blue-plaque-jim-henson",
+        "name": "Blue Plaque: Jim Henson",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Great Muppet Caper",
+        "notes": "Google rating: 5.0/5 (3 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0003621,
+          50.9953406
+        ]
+      },
+      "properties": {
+        "id": "bluebell-railway-sheffield-park-station",
+        "name": "Bluebell Railway - (Sheffield Park, Station)",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (3,793 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1480409,
+          51.4943993
+        ]
+      },
+      "properties": {
+        "id": "bolsdale",
+        "name": "Bolsdale",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "(also locations in Mayfair and Canary Wharf): Jazz music dining spot. This",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -978,6 +1464,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0589445,
+          53.6815525
+        ]
+      },
+      "properties": {
+        "id": "bridge-of-sighs",
+        "name": "Bridge of Sighs",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (810 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136738,
+          50.8168555
+        ]
+      },
+      "properties": {
+        "id": "brighton-palace-pier",
+        "name": "Brighton Palace Pier",
+        "category": "kid-friendly",
+        "subcategory": "theme-park",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (36,947 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1409461,
           50.8287115
         ]
@@ -1113,6 +1653,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.8591456,
+          51.0006181
+        ]
+      },
+      "properties": {
+        "id": "brown-forrest-smokery",
+        "name": "Brown & Forrest Smokery",
+        "category": "restaurants",
+        "subcategory": "market",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (242 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0528638,
           51.5016428
         ]
@@ -1140,6 +1707,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0527454,
+          51.5019571
+        ]
+      },
+      "properties": {
+        "id": "brunel-tunnel-under-river-thames",
+        "name": "Brunel Tunnel Under River Thames",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 3.9/5 (8 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1388047,
           51.5214383
         ]
@@ -1160,6 +1754,33 @@
         "google_maps_url": "",
         "tags": "",
         "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1062306,
+          51.5775278
+        ]
+      },
+      "properties": {
+        "id": "but-first-coffee",
+        "name": "But First, Coffee",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (194 reviews)"
       }
     },
     {
@@ -1241,6 +1862,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (377 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1181619,
+          52.2114059
+        ]
+      },
+      "properties": {
+        "id": "cambridge-punters",
+        "name": "Cambridge Punters",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (540 reviews)"
       }
     },
     {
@@ -1518,6 +2166,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.124207,
+          51.508037
+        ]
+      },
+      "properties": {
+        "id": "champagne-charlles",
+        "name": "Champagne Charlles",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Whitehall/Charing Cross",
+        "address": "",
+        "summary": "good mid-range choice when you want to take a group but not",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1163232,
           51.5235936
         ]
@@ -1599,6 +2274,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.7655959,
+          51.2819653
+        ]
+      },
+      "properties": {
+        "id": "cheddar-gorge-and-caves",
+        "name": "Cheddar Gorge and Caves",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (9,981 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.7726436,
           51.2804985
         ]
@@ -1673,6 +2375,60 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (250 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6242357,
+          50.6594012
+        ]
+      },
+      "properties": {
+        "id": "chesil-beach-west",
+        "name": "Chesil Beach (West)",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (45 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1549693,
+          51.5187389
+        ]
+      },
+      "properties": {
+        "id": "chiltern-firehouse",
+        "name": "Chiltern Firehouse",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "• Salt Yard (Fitzrovia)",
+        "address": "",
+        "summary": "mostly seafood, expensive, long wine list. Noisy at dinner.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -1889,6 +2645,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (1,384 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1498169,
+          51.5102521
+        ]
+      },
+      "properties": {
+        "id": "connaught-in-mayfair",
+        "name": "Connaught in Mayfair",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "very expensive and posh",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -2382,6 +3165,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1397753,
+          51.5131089
+        ]
+      },
+      "properties": {
+        "id": "dlshoom",
+        "name": "Dlshoom",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Piccadilly/Regent Street",
+        "address": "",
+        "summary": "very popular Indian restaurant; branches in carnaby branch and Covent",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0928618,
           51.5004719
         ]
@@ -2571,6 +3381,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1365367,
+          51.5153922
+        ]
+      },
+      "properties": {
+        "id": "emberyard",
+        "name": "EmberYard",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Mayfair",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.091531,
           51.654871
         ]
@@ -2699,6 +3536,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.1/5 (834 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2642236,
+          51.4822234
+        ]
+      },
+      "properties": {
+        "id": "first-v2-rocket-memorial",
+        "name": "First V2 rocket Memorial",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (7 reviews)"
       }
     },
     {
@@ -2868,6 +3732,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2491826,
+          51.4877229
+        ]
+      },
+      "properties": {
+        "id": "fuller-s-brewery-shop-tours",
+        "name": "Fuller's Brewery Shop & Tours",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.9/5 (1,800 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1379257,
+          51.5097608
+        ]
+      },
+      "properties": {
+        "id": "gaucho-piccadilly",
+        "name": "Gaucho Piccadilly",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Piccadilly/Regent Street",
+        "address": "",
+        "summary": "really nice private room, set menus for groups. Argentine steak",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1377191,
           51.5334683
         ]
@@ -2976,6 +3894,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0825831,
+          51.2997977
+        ]
+      },
+      "properties": {
+        "id": "go-action-forest-paintballing-laser-tag-kids-adventure-camp",
+        "name": "GO Action Forest - Paintballing / Laser Tag / Kids Adventure Camp",
+        "category": "kid-friendly",
+        "subcategory": "outdoor-adventure",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (77 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1422646,
+          51.513143
+        ]
+      },
+      "properties": {
+        "id": "goodman-steak-oust-off-regent-street",
+        "name": "Goodman Steak Oust off Regent Street) -",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Mayfair",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1233137,
           51.5079244
         ]
@@ -3003,6 +3975,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0714707,
+          51.5188667
+        ]
+      },
+      "properties": {
+        "id": "graam-bangla",
+        "name": "Graam Bangla",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (1,896 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1417114,
           50.821669
         ]
@@ -3023,6 +4022,60 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.9/5 (197 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1486451,
+          51.5137017
+        ]
+      },
+      "properties": {
+        "id": "grays-antique-market",
+        "name": "Grays Antique Market",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.1/5 (306 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1450022,
+          51.5110889
+        ]
+      },
+      "properties": {
+        "id": "guinea-grill",
+        "name": "Guinea Grill",
+        "category": "restaurants",
+        "subcategory": "historic",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:London Historic Restaurants and Pubs",
+        "notes": "Google rating: 4.6/5 (2,322 reviews)"
       }
     },
     {
@@ -3246,6 +4299,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1474146,
+          51.4988079
+        ]
+      },
+      "properties": {
+        "id": "hawks-stadium",
+        "name": "Hawks Stadium",
+        "category": "attractions",
+        "subcategory": "sports",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Dec 24, 2024 · Definitely the Hawks need to trade more with the donks cuz as a whole it was AAA and just the draft stock was a great haul at least B+",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.9/5 (80 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136162,
+          51.509721
+        ]
+      },
+      "properties": {
+        "id": "hawksm-r",
+        "name": "Hawksm~r",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Piccadilly/Regent Street",
+        "address": "",
+        "summary": "Air St branch off Piccadilly; nice steaks and seafood, but you could run up",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.4587801,
           51.467739
         ]
@@ -3258,6 +4365,33 @@
         "neighborhood": "",
         "address": "",
         "summary": "Entry point for Lugovoi and Kovtun into London, with polonium-210 traces found on their flight and in airport lounges.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1393293,
+          51.5106881
+        ]
+      },
+      "properties": {
+        "id": "heddon-street-kitchen-off-regent-street",
+        "name": "Heddon Street Kitchen (off Regent Street)",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "Requires a credit card and must cancel at least 48",
         "price_range": "",
         "kid_friendly": false,
         "visited": false,
@@ -3354,6 +4488,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.4572534,
+          51.7764432
+        ]
+      },
+      "properties": {
+        "id": "herts-baseball-club-grovehill-ballpark",
+        "name": "Herts Baseball Club Grovehill Ballpark",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Hertfordshire (/ ˈhɑːrtfərdʃɪər - ʃər / ⓘ, HART-fərd-sheer, -⁠shər; often abbreviated Herts) is a ceremonial county in the East of England.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (77 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3605135,
           51.3266026
         ]
@@ -3374,6 +4535,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (6,186 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.002514,
+          51.490401
+        ]
+      },
+      "properties": {
+        "id": "historic-cable-gear-at-enderby-wharf",
+        "name": "Historic Cable Gear at Enderby Wharf",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Historical is used as the general term for describing history, such as 'the historical record,' while historic is now usually …",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 5.0/5 (2 reviews)"
       }
     },
     {
@@ -3543,6 +4731,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.139827,
+          51.507942
+        ]
+      },
+      "properties": {
+        "id": "itsu-sushi-bar-piccadilly",
+        "name": "Itsu Sushi Bar, Piccadilly",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Earlier that day, Litvinenko met with Mario Scaramella near Piccadilly Circus. This location was initially suspected but later ruled out as the poisoning site.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1227007,
+          51.5113708
+        ]
+      },
+      "properties": {
+        "id": "ivy-market-grill",
+        "name": "Ivy Market Grill",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Covent Garden",
+        "address": "",
+        "summary": "good for a group, more affordable than the actual Ivy",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.1288363,
           52.0914147
         ]
@@ -3624,6 +4866,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.989005,
+          51.133093
+        ]
+      },
+      "properties": {
+        "id": "jane-austen-s-house",
+        "name": "Jane Austen's House",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Why Shop Jane? Save Big With Daily Deals, find up to 65% off boutique products every day.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (1,953 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1427422,
+          51.5081733
+        ]
+      },
+      "properties": {
+        "id": "jeru",
+        "name": "Jeru",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Mayfair",
+        "address": "",
+        "summary": "Mediterranean. Swanky place, mid-level expensive. Has a semi-private table that",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1420942,
           50.826978
         ]
@@ -3671,6 +4967,87 @@
         "google_maps_url": "",
         "tags": "source:London Historic Restaurants and Pubs",
         "notes": "Google rating: 4.6/5 (590 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.430688,
+          51.069281
+        ]
+      },
+      "properties": {
+        "id": "keen-s-cheddar-ltd",
+        "name": "Keen's Cheddar Ltd",
+        "category": "restaurants",
+        "subcategory": "market",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Comfortable, durable & sustainable KEEN® shoes for hiking, casual, work & adventure. Made to last with ethically sourced leather and recycled materials.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (38 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1777091,
+          51.5565059
+        ]
+      },
+      "properties": {
+        "id": "keith-fawkes",
+        "name": "Keith Fawkes",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 3.7/5 (57 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1246626,
+          51.5067787
+        ]
+      },
+      "properties": {
+        "id": "kerrldge-s",
+        "name": "Kerrldge's",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Whitehall/Charing Cross",
+        "address": "",
+        "summary": "Kerrldge's (in the Corinthia) elegant steak house vibe. Expensive pricing.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -3894,6 +5271,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1015987,
+          51.5286416
+        ]
+      },
+      "properties": {
+        "id": "litvinenko-poisoning",
+        "name": "Litvinenko Poisoning",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Millennium Hotel, Mayfair (Grosvenor Square, London) - The primary crime scene where Litvinenko was poisoned on November 1, 2006, after meeting Andrei Lugovoi and Dmitry Kovtun at the Pine Bar. Poloni",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "um-210 traces were later found in the teapot and throughout the hotel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1395752,
           51.5220848
         ]
@@ -3941,6 +5345,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (2,040 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9504735,
+          50.7167825
+        ]
+      },
+      "properties": {
+        "id": "lyme-regis-fossil-beach-ammonite-pavement",
+        "name": "Lyme Regis Fossil Beach (Ammonite Pavement)",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (648 reviews)"
       }
     },
     {
@@ -4137,6 +5568,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1308751,
+          51.5066131
+        ]
+      },
+      "properties": {
+        "id": "marquis-of-granby-pronounced-mar-kwis",
+        "name": "Marquis of Granby (pronounced Mar Kwis)",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "maybe good for lunch",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0961284,
+          51.0695939
+        ]
+      },
+      "properties": {
+        "id": "memorial-to-a-a-milne",
+        "name": "Memorial to A.A.Milne",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (120 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1580526,
+          51.5057858
+        ]
+      },
+      "properties": {
+        "id": "mestizo-mexican-restaurant-tequila-bar",
+        "name": "Mestizo Mexican Restaurant & Tequila Bar",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (8,992 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.050743,
           51.485872
         ]
@@ -4218,6 +5730,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.085942,
+          51.510143
+        ]
+      },
+      "properties": {
+        "id": "monument-to-the-great-fire-of-london",
+        "name": "Monument to the Great Fire of London",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "The meaning of MONUMENT is a burial vault : sepulchre. How to use monument in a sentence.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.5/5 (13,525 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1286787,
           51.4893791
         ]
@@ -4238,6 +5777,60 @@
         "google_maps_url": "",
         "tags": "",
         "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1287178,
+          51.4894082
+        ]
+      },
+      "properties": {
+        "id": "morpeth-arms-oust-down-the-street-from-thames-house",
+        "name": "Morpeth Arms Oust down the street from Thames House)",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "Basic pub, not covered, but easy",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.201252,
+          51.9021458
+        ]
+      },
+      "properties": {
+        "id": "mountfitchet-castle-norman-village-cm248ly",
+        "name": "Mountfitchet Castle & Norman Village , CM248LY",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (1,718 reviews)"
       }
     },
     {
@@ -4407,6 +6000,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1439526,
+          51.5906845
+        ]
+      },
+      "properties": {
+        "id": "muswell-hillbilly-brewers-taproom",
+        "name": "Muswell Hillbilly Brewers Taproom",
+        "category": "restaurants",
+        "subcategory": "cocktail-bar",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.7/5 (169 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1602867,
           51.4862582
         ]
@@ -4542,6 +6162,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.5565205,
+          51.4447053
+        ]
+      },
+      "properties": {
+        "id": "national-trust-ankerwycke-yew",
+        "name": "National Trust - Ankerwycke Yew",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (205 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3794615,
+          50.9892644
+        ]
+      },
+      "properties": {
+        "id": "national-trust-bateman-s",
+        "name": "National Trust - Bateman's",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (3,239 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4747127,
+          50.8136996
+        ]
+      },
+      "properties": {
+        "id": "national-trust-cerne-giant",
+        "name": "National Trust - Cerne Giant",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.2/5 (718 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8021806,
+          52.0551461
+        ]
+      },
+      "properties": {
+        "id": "national-trust-dover-s-hill",
+        "name": "National Trust - Dover's Hill",
+        "category": "day-trips",
+        "subcategory": "countryside",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen…",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (554 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6986939,
+          51.1447093
+        ]
+      },
+      "properties": {
+        "id": "national-trust-glastonbury-tor",
+        "name": "National Trust - Glastonbury Tor",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen… en verder ;-)",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (4,412 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7440793,
           52.0839403
         ]
@@ -4562,6 +6317,114 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (4,714 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6109393,
+          50.9881311
+        ]
+      },
+      "properties": {
+        "id": "national-trust-petworth-house-and-park",
+        "name": "National Trust - Petworth House and Park",
+        "category": "attractions",
+        "subcategory": "park",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (4,836 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3409679,
+          52.0943714
+        ]
+      },
+      "properties": {
+        "id": "national-trust-sutton-hoo",
+        "name": "National Trust - Sutton Hoo",
+        "category": "day-trips",
+        "subcategory": "national-park",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.5/5 (4,589 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3376595,
+          51.1316189
+        ]
+      },
+      "properties": {
+        "id": "national-trust-the-white-cliffs-of-dover",
+        "name": "National Trust - The White Cliffs of Dover",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Top.Vlaanderen – Vlamingen even weg… Bijzondere plekken & events: Opaalkust, Frans-, West- en Zeeuws-Vlaanderen… en verder ;-)",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (6,498 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0807761,
+          53.9629956
+        ]
+      },
+      "properties": {
+        "id": "national-trust-treasurer-s-house-york",
+        "name": "National Trust - Treasurer's House, York",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (1,269 reviews)"
       }
     },
     {
@@ -4866,6 +6729,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1730062,
+          51.548496
+        ]
+      },
+      "properties": {
+        "id": "oliver-s-village-caf",
+        "name": "Oliver's Village Café",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Bei s.Oliver findest du Outfits, die sich ideal miteinander kombinieren lassen. Damenmode online kaufen: Entdecke Deine Lieblingsstücke bei s.Oliver",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (515 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3239531,
+          51.1267289
+        ]
+      },
+      "properties": {
+        "id": "operation-dynamo-rescue-from-dunkirk",
+        "name": "Operation Dynamo: Rescue From Dunkirk",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (241 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1740128,
+          51.523103
+        ]
+      },
+      "properties": {
+        "id": "original-dubai-shawarma",
+        "name": "Original Dubai Shawarma",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "At Original Dubai Shawarma, we take pride in reimagining the dining experience with a modern twist. Located at 436 Edgware Road, our …",
+        "price_range": "$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 3.5/5 (47 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.3055999,
           51.4586114
         ]
@@ -5055,6 +6999,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1265894,
+          51.5050141
+        ]
+      },
+      "properties": {
+        "id": "pindar-bunker",
+        "name": "PINDAR Bunker",
+        "category": "wmd-sites",
+        "subcategory": "nuclear",
+        "neighborhood": "Whitehall, London",
+        "address": "",
+        "summary": "A top-secret nuclear war command bunker, PINDAR was constructed in the 1990s to ensure government continuity in the event of a nuclear strike. Though off-limits to the public, its existence is officia",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": "lly acknowledged."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1001078,
+          51.0792698
+        ]
+      },
+      "properties": {
+        "id": "pooh-car-park",
+        "name": "Pooh Car Park",
+        "category": "attractions",
+        "subcategory": "park",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.3/5 (224 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.5238809,
           51.223824
         ]
@@ -5082,6 +7080,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.0975953,
+          51.08526
+        ]
+      },
+      "properties": {
+        "id": "pooh-sticks-bridge",
+        "name": "Pooh Sticks Bridge",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Winnie-the-Pooh (also known as Edward Bear, Pooh Bear or simply Pooh) is a fictional anthropomorphic teddy bear created by the English author A. A. Milne and the English illustrator E. H. Shepard.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.5/5 (942 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1234105,
           51.5102527
         ]
@@ -5102,6 +7127,33 @@
         "google_maps_url": "",
         "tags": "",
         "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1189221,
+          52.2009076
+        ]
+      },
+      "properties": {
+        "id": "porters-lodge-peterhouse",
+        "name": "Porters' Lodge Peterhouse",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 5.0/5 (1 reviews)"
       }
     },
     {
@@ -5595,6 +7647,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.3044758,
+          50.6597258
+        ]
+      },
+      "properties": {
+        "id": "river-otter-beaver-walk-otterton",
+        "name": "River Otter beaver walk (Otterton)",
+        "category": "day-trips",
+        "subcategory": "countryside",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 5.0/5 (7 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.5344748,
           54.433222
         ]
@@ -5642,6 +7721,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (9,085 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1251287,
+          51.5148151
+        ]
+      },
+      "properties": {
+        "id": "rock-and-sole-plaice",
+        "name": "Rock and Sole Plaice",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:London Historic Restaurants and Pubs",
+        "notes": "Google rating: 4.3/5 (5,319 reviews)"
       }
     },
     {
@@ -5703,6 +7809,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1388334,
+          50.8608518
+        ]
+      },
+      "properties": {
+        "id": "royal-armouries-fort-nelson",
+        "name": "Royal Armouries: Fort Nelson",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (4,283 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.5378341,
           51.3922388
         ]
@@ -5723,6 +7856,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (996 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.318286,
+          51.0616631
+        ]
+      },
+      "properties": {
+        "id": "royal-hampshire-regiment-museum",
+        "name": "Royal Hampshire Regiment Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (123 reviews)"
       }
     },
     {
@@ -5784,6 +7944,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1461347,
+          51.5104331
+        ]
+      },
+      "properties": {
+        "id": "ryu-sushi-restaurant-mayfair",
+        "name": "Ryu Sushi Restaurant, Mayfair",
+        "category": "wmd-sites",
+        "subcategory": "radiological",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Another site contaminated with polonium, where Lugovoi and Kovtun dined before meeting Litvinenko.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7972913,
           51.0649546
         ]
@@ -5804,6 +7991,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (16,004 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3582423,
+          51.3807534
+        ]
+      },
+      "properties": {
+        "id": "sally-lunn-s-historic-eating-house-museum",
+        "name": "Sally Lunn’s Historic Eating House & Museum",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (6,016 reviews)"
       }
     },
     {
@@ -5892,6 +8106,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.261378,
+          53.883796
+        ]
+      },
+      "properties": {
+        "id": "samuel-smith-s-brewery",
+        "name": "Samuel Smith's Brewery",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 2.7/5 (147 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0837544,
           51.5290103
         ]
@@ -5939,6 +8180,33 @@
         "google_maps_url": "",
         "tags": "source:London Historic Restaurants and Pubs",
         "notes": "Google rating: 4.6/5 (2,888 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.115891,
+          52.2015045
+        ]
+      },
+      "properties": {
+        "id": "scudamore-s-mill-lane-punting-station",
+        "name": "Scudamore's Mill Lane Punting Station",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (1,034 reviews)"
       }
     },
     {
@@ -6189,6 +8457,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0551,
+          51.524689
+        ]
+      },
+      "properties": {
+        "id": "short-road-pizza",
+        "name": "Short Road Pizza",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (60 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1206359,
           51.5105048
         ]
@@ -6270,6 +8565,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1221005,
+          51.5094648
+        ]
+      },
+      "properties": {
+        "id": "smith-and-wollensky",
+        "name": "Smith and Wollensky",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Whitehall/Charing Cross",
+        "address": "",
+        "summary": "American steakhouse; lots of private rooms so not too hard to",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.478651,
           51.5168819
         ]
@@ -6282,6 +8604,33 @@
         "neighborhood": "Belgravia",
         "address": "",
         "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136716,
+          51.513833
+        ]
+      },
+      "properties": {
+        "id": "social-eating-house-street-xo",
+        "name": "Social Eating House, Street XO",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Marylebone",
+        "address": "",
+        "summary": "mostly in Mayfair, although some close to Regent St.",
         "price_range": "",
         "kid_friendly": false,
         "visited": false,
@@ -6371,6 +8720,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (2,432 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0246307,
+          51.3859507
+        ]
+      },
+      "properties": {
+        "id": "sports-trading-cards-uk-ltd",
+        "name": "Sports Trading Cards UK Ltd",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.9/5 (39 reviews)"
       }
     },
     {
@@ -6648,6 +9024,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1257249,
+          51.5091812
+        ]
+      },
+      "properties": {
+        "id": "tandoor-chophouse",
+        "name": "Tandoor Chophouse",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "best black dahl [noisy]",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1225705,
+          51.5044418
+        ]
+      },
+      "properties": {
+        "id": "tattershall-castle-is-also-popular-in-the-summer",
+        "name": "Tattershall castle is also popular In the Summer",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "it's a pub on a boat on the Thames, nice if the weather is good.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0634614,
           51.5172654
         ]
@@ -6729,6 +9159,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.3319897,
+          51.3833409
+        ]
+      },
+      "properties": {
+        "id": "thames-ditton-miniature-railways",
+        "name": "Thames Ditton Miniature Railways",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (283 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.728631,
+          51.2816332
+        ]
+      },
+      "properties": {
+        "id": "the-agc-museum",
+        "name": "The AGC Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符 …",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.3/5 (8 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1564424,
           51.4996243
         ]
@@ -6749,6 +9233,33 @@
         "google_maps_url": "",
         "tags": "",
         "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7003653,
+          55.412146
+        ]
+      },
+      "properties": {
+        "id": "the-alnwick-garden",
+        "name": "The Alnwick Garden",
+        "category": "attractions",
+        "subcategory": "garden",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (10,889 reviews)"
       }
     },
     {
@@ -6857,6 +9368,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.3/5 (650 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3018468,
+          51.4856143
+        ]
+      },
+      "properties": {
+        "id": "the-black-dog-beer-house",
+        "name": "The Black Dog Beer House",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.8/5 (1,294 reviews)"
       }
     },
     {
@@ -7134,6 +9672,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.089412,
+          50.779641
+        ]
+      },
+      "properties": {
+        "id": "the-d-day-story",
+        "name": "The D-Day Story",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (2,608 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1837153,
+          51.5371897
+        ]
+      },
+      "properties": {
+        "id": "the-dawn-seal",
+        "name": "The Dawn Seal",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (113 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1182237,
+          51.5131702
+        ]
+      },
+      "properties": {
+        "id": "the-delauney",
+        "name": "The Delauney",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "Covent Garden",
+        "address": "",
+        "summary": "1920's style brasserie-style restaurant. Serves breakfast, lunch, and",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1412959,
+          51.4749391
+        ]
+      },
+      "properties": {
+        "id": "the-deli-warehouse",
+        "name": "The Deli Warehouse",
+        "category": "restaurants",
+        "subcategory": "market",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (164 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.997712,
+          54.072419
+        ]
+      },
+      "properties": {
+        "id": "the-devonshire-grassington",
+        "name": "The Devonshire Grassington",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.3/5 (1,597 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.072,
           51.5072
         ]
@@ -7350,6 +10023,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.1195238,
+          52.2002134
+        ]
+      },
+      "properties": {
+        "id": "the-fitzwilliam-museum",
+        "name": "The Fitzwilliam Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (8,944 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1508738,
           51.5699116
         ]
@@ -7431,6 +10131,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1581324,
+          51.5152794
+        ]
+      },
+      "properties": {
+        "id": "the-grazing-goat-pub-boutique-hotel-marylebone",
+        "name": "The Grazing Goat Pub & Boutique Hotel Marylebone",
+        "category": "restaurants",
+        "subcategory": "gastropub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符 …",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.4/5 (2,257 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1137605,
+          56.8164482
+        ]
+      },
+      "properties": {
+        "id": "the-great-glen-jd-wetherspoon",
+        "name": "The Great Glen - JD Wetherspoon",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符 …",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.0/5 (4,476 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1549077,
           51.5014537
         ]
@@ -7451,6 +10205,87 @@
         "google_maps_url": "",
         "tags": "source:Pubs",
         "notes": "Google rating: 4.6/5 (2,580 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3202738,
+          51.0624704
+        ]
+      },
+      "properties": {
+        "id": "the-gurkha-museum",
+        "name": "The Gurkha Museum",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (240 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1676623,
+          51.5706288
+        ]
+      },
+      "properties": {
+        "id": "the-hampstead-butcher-providore",
+        "name": "The Hampstead Butcher & Providore",
+        "category": "restaurants",
+        "subcategory": "market",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中 …",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.1/5 (189 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0821758,
+          51.4973533
+        ]
+      },
+      "properties": {
+        "id": "the-hand-marigold-free-house",
+        "name": "The Hand & Marigold Free House",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.6/5 (280 reviews)"
       }
     },
     {
@@ -7539,6 +10374,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.5279192,
+          51.3940905
+        ]
+      },
+      "properties": {
+        "id": "the-historic-dockyard-chatham",
+        "name": "The Historic Dockyard Chatham",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (5,595 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.0245524,
           51.5295385
         ]
@@ -7566,6 +10428,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0741506,
+          51.514227
+        ]
+      },
+      "properties": {
+        "id": "the-hoop-and-grapes",
+        "name": "The Hoop and Grapes",
+        "category": "restaurants",
+        "subcategory": "historic",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:London Historic Restaurants and Pubs",
+        "notes": "Google rating: 4.6/5 (3,973 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0829614,
+          51.5061511
+        ]
+      },
+      "properties": {
+        "id": "the-horniman-at-hays",
+        "name": "The Horniman at Hays",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.4/5 (9,901 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1498306,
           51.5554783
         ]
@@ -7586,6 +10502,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 5.0/5 (259 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3631619,
+          51.3841064
+        ]
+      },
+      "properties": {
+        "id": "the-jane-austen-centre",
+        "name": "The Jane Austen Centre",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.2/5 (4,456 reviews)"
       }
     },
     {
@@ -7674,6 +10617,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.7548015,
+          52.9386596
+        ]
+      },
+      "properties": {
+        "id": "the-lord-nelson-burnham-thorpe",
+        "name": "The Lord Nelson, Burnham Thorpe",
+        "category": "restaurants",
+        "subcategory": "cocktail-bar",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.3/5 (318 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1654957,
           51.4977845
         ]
@@ -7694,6 +10664,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (126 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0536173,
+          51.5018403
+        ]
+      },
+      "properties": {
+        "id": "the-mavffower",
+        "name": "The Mavffower",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "Supposedly where the mayflower departed; old-school pub, dark paneling, original",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -7775,6 +10772,60 @@
         "google_maps_url": "",
         "tags": "",
         "notes": "ing the attack, the pub was sealed off and underwent extensive decontamination before reopening."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9599044,
+          51.4492185
+        ]
+      },
+      "properties": {
+        "id": "the-museum-of-english-rural-life",
+        "name": "The Museum of English Rural Life",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (309 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124057,
+          51.506692
+        ]
+      },
+      "properties": {
+        "id": "the-northall-also-in-corinthia",
+        "name": "The Northall (also in Corinthia)",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Whitehall/Charing Cross",
+        "address": "",
+        "summary": "also expensive and better for a few people, they have a",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
       }
     },
     {
@@ -7944,6 +10995,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.9124846,
+          50.7258613
+        ]
+      },
+      "properties": {
+        "id": "the-oxenham-arms-restaurant",
+        "name": "The Oxenham Arms Restaurant",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (50 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1405029,
           51.5497566
         ]
@@ -8052,6 +11130,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.419588,
+          51.8202622
+        ]
+      },
+      "properties": {
+        "id": "the-pop-up-farm",
+        "name": "The Pop Up Farm",
+        "category": "kid-friendly",
+        "subcategory": "farm",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (396 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1139982,
           51.5247243
         ]
@@ -8072,6 +11177,60 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.6/5 (5,511 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0711911,
+          51.5189404
+        ]
+      },
+      "properties": {
+        "id": "the-pride-of-spitlefields",
+        "name": "The Pride of Spitlefields",
+        "category": "restaurants",
+        "subcategory": "restaurant",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "The Pride of Spitlefields (Jack the Ripper might have gone ••• Ver small, red carpet, what the brits",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3062366,
+          51.4604829
+        ]
+      },
+      "properties": {
+        "id": "the-prince-s-head-richmond",
+        "name": "The Prince's Head, Richmond",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符 …",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.5/5 (1,997 reviews)"
       }
     },
     {
@@ -8133,6 +11292,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1501335,
+          51.5726274
+        ]
+      },
+      "properties": {
+        "id": "the-red-lion-sun",
+        "name": "The Red Lion & Sun",
+        "category": "restaurants",
+        "subcategory": "gastropub",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符合传统语 …",
+        "price_range": "$$",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:Pubs",
+        "notes": "Google rating: 4.5/5 (997 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6977874,
+          51.2853851
+        ]
+      },
+      "properties": {
+        "id": "the-rifleman-s-museum",
+        "name": "The Rifleman's Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "除了这三类系统性例外，现代英语实践中还存在一些边缘情况。 在新闻标题、广告标语等特殊文体中，常会刻意省略the以达到简练效果，比如手机广告中的\"Thinnest design ever created\"。这种用法虽不符 …",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (259 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.03212,
           51.5327746
         ]
@@ -8180,6 +11393,60 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.3/5 (1,024 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3247159,
+          51.1114621
+        ]
+      },
+      "properties": {
+        "id": "the-royal-logistic-corps-museum",
+        "name": "The Royal Logistic Corps Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (267 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.119596,
+          50.7882151
+        ]
+      },
+      "properties": {
+        "id": "the-royal-navy-submarine-museum",
+        "name": "The Royal Navy Submarine Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (3,194 reviews)"
       }
     },
     {
@@ -8261,6 +11528,33 @@
         "google_maps_url": "",
         "tags": "source:London Historic Restaurants and Pubs",
         "notes": "Google rating: 4.5/5 (1,236 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1585557,
+          51.523767
+        ]
+      },
+      "properties": {
+        "id": "the-sherlock-holmes-museum",
+        "name": "The Sherlock Holmes Museum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.3/5 (21,447 reviews)"
       }
     },
     {
@@ -8484,6 +11778,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1507481,
+          51.4937659
+        ]
+      },
+      "properties": {
+        "id": "the-thomas-cubltt",
+        "name": "The Thomas Cubltt",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "gastropub. Seasonal menu. Private room available.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4786436,
           51.2063934
         ]
@@ -8646,6 +11967,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2355488,
+          51.4905631
+        ]
+      },
+      "properties": {
+        "id": "the-william-morris-society",
+        "name": "The William Morris Society",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (75 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.168538,
           51.3625914
         ]
@@ -8658,6 +12006,33 @@
         "neighborhood": "Belgravia",
         "address": "",
         "summary": "A bit further away but not by much. Sam Smiths",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1409233,
+          51.5074427
+        ]
+      },
+      "properties": {
+        "id": "the-wolesley",
+        "name": "The Wolesley",
+        "category": "restaurants",
+        "subcategory": "cafe",
+        "neighborhood": "Belgravia",
+        "address": "",
+        "summary": "The Wolseley is a popular dining destination in a central location with grand architecture and a historic ambiance. Many travelers admire its …",
         "price_range": "",
         "kid_friendly": false,
         "visited": false,
@@ -8754,6 +12129,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1215852,
+          51.5119031
+        ]
+      },
+      "properties": {
+        "id": "thetravelmuseum",
+        "name": "TheTravelMuseum",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.2305629,
           51.5062847
         ]
@@ -8808,6 +12210,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0044766,
+          51.4805036
+        ]
+      },
+      "properties": {
+        "id": "titanic-s-plaque",
+        "name": "Titanic's Plaque",
+        "category": "historic-sites",
+        "subcategory": "memorial",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.1/5 (19 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1108726,
           51.568303
         ]
@@ -8855,6 +12284,33 @@
         "google_maps_url": "",
         "tags": "sports|football",
         "notes": "Premier League (Level 1) Stadium: Tottenham Hotspur Stadium CLUB INFO: https://www.tottenhamhotspur.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278029,
+          51.5106971
+        ]
+      },
+      "properties": {
+        "id": "travis-emery-music-bookshop",
+        "name": "Travis & Emery Music Bookshop",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (135 reviews)"
       }
     },
     {
@@ -8943,6 +12399,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.1203103,
+          52.2033708
+        ]
+      },
+      "properties": {
+        "id": "university-museum-of-zoology",
+        "name": "University Museum Of Zoology",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (2,232 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9459028,
+          51.4413057
+        ]
+      },
+      "properties": {
+        "id": "ure-museum-of-greek-archaeology",
+        "name": "Ure Museum of Greek Archaeology",
+        "category": "attractions",
+        "subcategory": "museum",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (76 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1438672,
+          51.4976112
+        ]
+      },
+      "properties": {
+        "id": "vagabond-wine-bar-for-drinks-when-you-re-sick-of-pubs",
+        "name": "Vagabond wine bar for drinks when you're sick of pubs",
+        "category": "restaurants",
+        "subcategory": "pub",
+        "neighborhood": "Whitehall/St James's Park/Victoria",
+        "address": "",
+        "summary": "outdoor space uncovered",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1379192,
           51.5098955
         ]
@@ -9017,6 +12554,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.8/5 (315 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1329276,
+          50.8189659
+        ]
+      },
+      "properties": {
+        "id": "volk-s-electric-railway",
+        "name": "Volk's Electric Railway",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (745 reviews)"
       }
     },
     {
@@ -9213,6 +12777,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2205732,
+          51.5155181
+        ]
+      },
+      "properties": {
+        "id": "westway-climbing",
+        "name": "Westway Climbing",
+        "category": "kid-friendly",
+        "subcategory": "sports",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (442 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.1194846,
           52.2028831
         ]
@@ -9260,6 +12851,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.5/5 (16,986 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6161503,
+          54.4911078
+        ]
+      },
+      "properties": {
+        "id": "whitby-beach",
+        "name": "Whitby Beach",
+        "category": "day-trips",
+        "subcategory": "coast",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.7/5 (6,985 reviews)"
       }
     },
     {
@@ -9402,6 +13020,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.1173892,
+          51.3315336
+        ]
+      },
+      "properties": {
+        "id": "wildwood-trust",
+        "name": "Wildwood Trust",
+        "category": "attractions",
+        "subcategory": "zoo",
+        "neighborhood": "",
+        "address": "",
+        "summary": "Millions have grown up loving those Wildwood days and today Wildwoods, New Jersey remains the premiere vacation destiation on the East Coast.",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (2,627 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1392041,
           51.5076994
         ]
@@ -9483,6 +13128,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.0975953,
+          51.08526
+        ]
+      },
+      "properties": {
+        "id": "winnie-the-pooh-house",
+        "name": "Winnie The Pooh House",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.6/5 (82 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.9612094,
           50.5779392
         ]
@@ -9503,6 +13175,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.7/5 (872 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3102186,
+          51.0590832
+        ]
+      },
+      "properties": {
+        "id": "wolvesey-castle-old-bishop-s-palace",
+        "name": "Wolvesey Castle (Old Bishop's Palace)",
+        "category": "historic-sites",
+        "subcategory": "castle",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.4/5 (1,028 reviews)"
       }
     },
     {
@@ -9537,6 +13236,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1234795,
+          51.535412
+        ]
+      },
+      "properties": {
+        "id": "word-on-the-water-the-london-bookbarge",
+        "name": "Word On The Water - The London Bookbarge",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.8/5 (1,409 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.0229785,
           54.4577624
         ]
@@ -9557,6 +13283,33 @@
         "google_maps_url": "",
         "tags": "source:UK 2023",
         "notes": "Google rating: 4.5/5 (1,270 reviews)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3718883,
+          50.7071075
+        ]
+      },
+      "properties": {
+        "id": "xtreme-falconry-at-dorset-falconry-park",
+        "name": "Xtreme Falconry at Dorset Falconry Park",
+        "category": "attractions",
+        "subcategory": "landmark",
+        "neighborhood": "",
+        "address": "",
+        "summary": "",
+        "price_range": "",
+        "kid_friendly": false,
+        "visited": false,
+        "rating": null,
+        "website": "",
+        "google_maps_url": "",
+        "tags": "source:UK 2023",
+        "notes": "Google rating: 4.9/5 (482 reviews)"
       }
     },
     {
