@@ -1,0 +1,53 @@
+---
+import '../styles/global.css';
+import { site, u, SHOW_DRAFTS } from '../lib/data';
+
+interface Props {
+  title?: string;
+  description?: string;
+  current?: string;
+}
+const { title, description = site.tagline, current } = Astro.props;
+const fullTitle = title ? `${title} · ${site.title}` : site.title;
+const nav = [
+  { href: u(''), label: 'Themes', key: 'home' },
+  { href: u('map/'), label: 'Map', key: 'map' },
+  { href: u('trails/'), label: 'Trails', key: 'trails' },
+  { href: u('practical/'), label: 'Practical London', key: 'practical' },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Private guide shared by link: keep it out of search engines. -->
+    <meta name="robots" content="noindex, nofollow" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={u('favicon.svg')} />
+  </head>
+  <body>
+    {SHOW_DRAFTS && (
+      <div class="draft-banner">Preview mode: draft places and themes are shown. They won't appear on the published site.</div>
+    )}
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href={u('')}>Where We'd Take You <span>in London</span></a>
+        <nav class="nav" aria-label="Main">
+          {nav.map((n) => (
+            <a href={n.href} aria-current={current === n.key ? 'page' : undefined}>{n.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>A personal guide from our family for the people who come to visit us. The opinions are ours. Opening times and prices change, so check before you go.</p>
+      </div>
+    </footer>
+  </body>
+</html>

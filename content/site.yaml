@@ -1,0 +1,5 @@
+# Site-wide settings. See PROJECT_INSTRUCTIONS.md §5.4 and §9.
+title: "Where We'd Take You in London"
+tagline: "The places we send our friends and family — past the usual tourist circuit."
+# Places with badge "wishlist" (On our list) are hidden while this is false.
+showWishlist: false

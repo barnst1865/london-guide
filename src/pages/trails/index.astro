@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadAll, u } from '../../lib/data';
+const { trails } = await loadAll();
+---
+<Base title="Trails" current="trails">
+  <div class="wrap">
+    <h1>Trails</h1>
+    <p class="lede">Routes that string several places together into a half-day or a full day out.</p>
+    {trails.length === 0 ? <p class="muted">Trails are coming soon.</p> : (
+      <div class="grid">
+        {trails.map((t) => (
+          <a class="card" href={u(`trails/${t.id}/`)}>
+            <h3>{t.data.title}</h3>
+            <p>{t.data.summary}</p>
+            <div class="meta"><span>{t.data.stops.length} stops</span><span>{t.data.duration}</span>{t.data.visibility === 'draft' && <span class="badge draft">Draft</span>}</div>
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+</Base>

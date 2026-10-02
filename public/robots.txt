@@ -1,0 +1,3 @@
+# This is a private guide shared by link. Please don't index it.
+User-agent: *
+Disallow: /

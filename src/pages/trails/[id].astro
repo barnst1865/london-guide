@@ -1,0 +1,35 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
+import { loadAll, toMapPoint, u, typeInfo } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const { trails } = await loadAll();
+  return trails.map((t) => ({ params: { id: t.id }, props: { trail: t } }));
+}
+const { trail } = Astro.props;
+const { places, themes } = await loadAll();
+const { Content } = await render(trail);
+const stops = trail.data.stops.map((s) => ({ ...s, place: places.find((p) => p.id === s.place)! }));
+---
+<Base title={trail.data.title} description={trail.data.summary}>
+  <div class="wrap">
+    <p class="eyebrow">Trail · {trail.data.duration} · {trail.data.mode}</p>
+    <h1>{trail.data.title}</h1>
+    {trail.data.visibility === 'draft' && <p><span class="badge draft">Draft trail</span></p>}
+    <div class="prose"><Content /></div>
+    <Map points={stops.map((s) => toMapPoint(s.place, themes))} route />
+    <h2>The stops</h2>
+    <ol class="stops prose">
+      {stops.map((s) => (
+        <li>
+          <h3><a href={u(`places/${s.place.id}/`)}>{s.place.data.name}</a></h3>
+          <span class="muted"><span class="dot" style={`--c:${typeInfo(s.place.data.type).color}`}></span>{typeInfo(s.place.data.type).single} · {s.place.data.area}</span>
+          <p style="margin:6px 0 0">{s.place.data.summary}</p>
+          {s.note && <p class="note">{s.note}</p>}
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>

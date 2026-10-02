@@ -1,0 +1,55 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import { loadAll, toMapPoint, u, typeInfo } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const { themes } = await loadAll();
+  return themes.map((t) => ({ params: { id: t.id }, props: { theme: t } }));
+}
+const { theme } = Astro.props;
+const { places, themes, trails } = await loadAll();
+const { Content } = await render(theme);
+const mine = places.filter((p) => p.data.themes.includes(theme.id));
+const featured = theme.data.featured.map((s) => mine.find((p) => p.id === s)).filter(Boolean) as typeof mine;
+const rest = mine.filter((p) => !featured.includes(p));
+const byType = [...new Set(rest.map((p) => p.data.type))].map((t) => ({ t, list: rest.filter((p) => p.data.type === t) }));
+const myTrails = trails.filter((t) => t.data.themes.includes(theme.id));
+---
+<Base title={theme.data.title} description={theme.data.blurb}>
+  <div class="wrap">
+    <p class="eyebrow" style={`color:${theme.data.color}`}>Theme</p>
+    <h1>{theme.data.title}</h1>
+    {theme.data.visibility === 'draft' && <p><span class="badge draft">Draft theme</span></p>}
+    <div class="prose"><Content /></div>
+
+    {mine.length === 0 ? (
+      <p class="muted">We're still writing this one. Check back soon.</p>
+    ) : (
+      <>
+        <Map points={mine.map((p) => toMapPoint(p, themes))} />
+        <p><a href={u(`map/?theme=${theme.id}`)}>Open these on the big map →</a></p>
+        {myTrails.length > 0 && (
+          <>
+            <h2>Trails</h2>
+            <ul>{myTrails.map((t) => <li><a href={u(`trails/${t.id}/`)}>{t.data.title}</a>: {t.data.summary}</li>)}</ul>
+          </>
+        )}
+        {featured.length > 0 && (
+          <>
+            <h2>Start here</h2>
+            <div class="grid">{featured.map((p) => <PlaceCard place={p} />)}</div>
+          </>
+        )}
+        {byType.map(({ t, list }) => (
+          <>
+            <h2>{typeInfo(t).label}</h2>
+            <div class="grid">{list.map((p) => <PlaceCard place={p} />)}</div>
+          </>
+        ))}
+      </>
+    )}
+  </div>
+</Base>

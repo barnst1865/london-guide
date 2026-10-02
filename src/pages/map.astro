@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import Map from '../components/Map.astro';
+import { loadAll, toMapPoint, typeInfo } from '../lib/data';
+import { TYPES } from '../lib/vocab.mjs';
+
+const { places, themes } = await loadAll();
+const points = places.map((p) => toMapPoint(p, themes));
+const types = Object.keys(TYPES).filter((t) => places.some((p) => p.data.type === t));
+---
+<Base title="Map" current="map">
+  <div class="wrap">
+    <h1 style="margin-bottom:0">The map</h1>
+    <form id="map-filters" class="map-filters" onsubmit="return false">
+      <select name="theme" aria-label="Theme">
+        <option value="">All themes</option>
+        {themes.map((t) => <option value={t.id}>{t.data.short}</option>)}
+      </select>
+      <select name="type" aria-label="Type">
+        <option value="">All types</option>
+        {types.map((t) => <option value={t}>{typeInfo(t).label}</option>)}
+      </select>
+      <label><input type="checkbox" name="fav" value="1" /> Favourites only</label>
+      <label><input type="checkbox" name="kid-friendly" value="1" /> Kid-friendly</label>
+      <label><input type="checkbox" name="free" value="1" /> Free</label>
+      <label><input type="checkbox" name="rainy-day" value="1" /> Rainy day</label>
+      <span id="map-count" class="map-count" aria-live="polite"></span>
+    </form>
+    <Map points={points} size="full" filters />
+  </div>
+</Base>

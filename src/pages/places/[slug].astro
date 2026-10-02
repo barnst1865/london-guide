@@ -1,0 +1,67 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import { loadAll, toMapPoint, u, typeInfo, badgeInfo, directionsUrl, priceLabel } from '../../lib/data';
+import { TAGS } from '../../lib/vocab.mjs';
+
+export async function getStaticPaths() {
+  const { places } = await loadAll();
+  return places.map((p) => ({ params: { slug: p.id }, props: { place: p } }));
+}
+const { place } = Astro.props;
+const { places, themes } = await loadAll();
+const d = place.data;
+const { Content } = await render(place);
+const myThemes = d.themes.map((id) => themes.find((t) => t.id === id)).filter(Boolean) as typeof themes;
+const pairs = d.pair_with.map((s) => places.find((p) => p.id === s)).filter(Boolean) as typeof places;
+const directions = directionsUrl(place);
+const price = priceLabel(d.price, d.type);
+const statusNote = { seasonal: 'Seasonal: check dates before you go', 'temporarily-closed': 'Temporarily closed' }[d.status as string];
+---
+<Base title={d.name} description={d.summary}>
+  <div class="wrap">
+    <div class="place-head">
+      <p class="eyebrow">
+        <span class="dot" style={`--c:${typeInfo(d.type).color}`}></span>{typeInfo(d.type).single} · {d.area}
+      </p>
+      <h1>{d.name}</h1>
+      <div class="badges">
+        <span class:list={['badge', d.badge]}>{badgeInfo(d.badge).label}</span>
+        {d.visibility === 'draft' && <span class="badge draft">Draft</span>}
+        {statusNote && <span class="badge">{statusNote}</span>}
+      </div>
+    </div>
+
+    <div class="layout-2">
+      <article class="prose">
+        <p class="lede">{d.summary}</p>
+        <Content />
+        {myThemes.length > 0 && (
+          <p class="muted">Part of: {myThemes.map((t, i) => <>{i > 0 && ', '}<a href={u(`themes/${t.id}/`)}>{t.data.short}</a></>)}</p>
+        )}
+      </article>
+
+      <aside class="facts">
+        <dl>
+          {d.address && d.location_precision === 'exact' && <><dt>Address</dt><dd>{d.address}</dd></>}
+          {d.location_precision !== 'exact' && <><dt>Location</dt><dd>{d.area} (approximate)</dd></>}
+          {d.stations.length > 0 && <><dt>Nearest</dt><dd>{d.stations.join(', ')}</dd></>}
+          {price && <><dt>Cost</dt><dd>{price}</dd></>}
+          {d.tags.length > 0 && <><dt>Notes</dt><dd>{d.tags.map((t) => TAGS[t as keyof typeof TAGS]).join(', ')}</dd></>}
+          {d.website && <><dt>Website</dt><dd><a href={d.website} rel="noopener">{new URL(d.website).hostname.replace(/^www\./, '')}</a></dd></>}
+        </dl>
+        {directions && <a class="button" href={directions} rel="noopener">Directions</a>}
+        <div style="margin-top:14px"><Map points={[toMapPoint(place, themes)]} size="small" /></div>
+      </aside>
+    </div>
+
+    {pairs.length > 0 && (
+      <section>
+        <h2>Pair it with</h2>
+        <div class="grid">{pairs.map((p) => <PlaceCard place={p} />)}</div>
+      </section>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+Thumbs.db
+# Raw, private source material: never published (PROJECT_INSTRUCTIONS.md §3)
+sources/*
+!sources/README.md

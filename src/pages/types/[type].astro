@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import { loadAll, toMapPoint, typeInfo, u } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const { places } = await loadAll();
+  return [...new Set(places.map((p) => p.data.type))].map((type) => ({ params: { type } }));
+}
+const { type } = Astro.params;
+const { places, themes } = await loadAll();
+const list = places.filter((p) => p.data.type === type);
+const info = typeInfo(type!);
+---
+<Base title={info.label}>
+  <div class="wrap">
+    <p class="eyebrow">Browse by type</p>
+    <h1>{info.label}</h1>
+    <Map points={list.map((p) => toMapPoint(p, themes))} />
+    <p><a href={u(`map/?type=${type}`)}>Open on the big map →</a></p>
+    <div class="grid">{list.map((p) => <PlaceCard place={p} />)}</div>
+  </div>
+</Base>
