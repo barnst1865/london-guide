@@ -1,9 +1,9 @@
 ---
-title: "Pubs with History"
-short: "Historic pubs"
+title: "Historic Pubs & Restaurants"
+short: "Historic pubs & restaurants"
 order: 6
 color: "#9c3b2a"
-blurb: "Pubs older than our country, with fireplaces, low beams and good stories."
+blurb: "Pubs and restaurants older than our grandparents, with fireplaces, low beams and good stories."
 featured: []
 visibility: public
 ---

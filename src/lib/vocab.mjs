@@ -9,6 +9,7 @@ export const TYPES = {
   bar: { label: 'Bars', single: 'Bar', color: '#a13d6b' },
   restaurant: { label: 'Restaurants', single: 'Restaurant', color: '#c77d1a' },
   cafe: { label: 'Cafés', single: 'Café', color: '#9a7b4f' },
+  'quick-bite': { label: 'Quick bites', single: 'Quick bite', color: '#d4699a' },
   'market-shop': { label: 'Markets & shops', single: 'Market / shop', color: '#4f8a3c' },
   'park-walk': { label: 'Parks & walks', single: 'Park / walk', color: '#2e7d5b' },
   entertainment: { label: 'Entertainment', single: 'Entertainment', color: '#d0532c' },

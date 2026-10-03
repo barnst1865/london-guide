@@ -11,4 +11,4 @@ Quick rules:
 - Topic sessions edit `content/` and `planning/` only, never `src/` or the schema; put requests in `planning/requests.md`.
 - Never commit anything identifying our family, where we live, or our work (§3). Raw sources go in git-ignored `sources/`.
 - Run `npm run check` before finishing; it fails on invalid content.
-- Skim `planning/ideas.md` at the start. Log each session in `planning/sessions/` and update `planning/backlog.md`.
+- Skim `planning/ideas.md` and `planning/launch-plan.md` at the start. Log each session in `planning/sessions/` and update `planning/backlog.md`.

@@ -75,7 +75,7 @@ Themes are the heart of the guide. Each has its own page with an intro written i
 | `medieval-old-london` | **Medieval & Old London** | Temple Church, St Bartholomew the Great, Southwark Cathedral, London Wall remnants, Guildhall Roman amphitheatre, Charterhouse, Eltham Palace, Westminster Abbey Chapter House |
 | `transit-hidden-city` | **Transit & the Hidden City** (engineering, infrastructure, under the streets) | Hidden London tours, LT Museum Acton Depot open days, Brunel Museum, Postal Museum & Mail Rail, Crossness Pumping Station, Elizabeth line architecture, Thames Clipper, Kew Bridge Steam Museum |
 | `science-curious` | **Science, Medicine & the Curious** (including geology) | Hunterian Museum, Old Operating Theatre, Grant Museum of Zoology, Wellcome Collection, Sir John Soane's Museum, Horniman, Royal Observatory, NHM geology galleries, Broad Street pump |
-| `historic-pubs` | **Pubs with History** | Ye Olde Cheshire Cheese, Ye Olde Mitre, Cittie of Yorke, Olde Wine Shades, Mayflower, Prospect of Whitby, The Grapes, The Harp, French House, Seven Stars |
+| `historic-pubs` | **Historic Pubs & Restaurants** (id unchanged). Rule: any pub or restaurant **75+ years old** that we include carries this theme | Ye Olde Cheshire Cheese, Ye Olde Mitre, Cittie of Yorke, Olde Wine Shades, Mayflower, Prospect of Whitby, The Grapes, The Harp, French House, Seven Stars |
 | `eat` | **Where We Eat** (by occasion and cuisine) | Dishoom, Punjab, Barbary, Sichuan spots, Indian (Cinnamon Club, Quilon, Kutir), Rules (angle), Brasserie Zédel, Dumplings' Legend |
 | `drinks` | **Bars, Cocktails & Wine** | Gordon's Wine Bar, Duke's, Connaught Bar, Mr Fogg's, Radio Rooftop |
 | `markets-food-shops` | **Markets & Food Shopping** | Borough, Maltby Street, Columbia Road, Neal's Yard Dairy, Gelateria La Romana |
@@ -98,7 +98,7 @@ Theme files live in `content/themes/<id>.md` (§6.2).
 
 Types drive map marker icons and the "Browse by type" menus.
 
-`historic-site` · `museum` · `church` · `pub` · `bar` · `restaurant` · `cafe` · `market-shop` · `park-walk` · `entertainment` · `sport-venue` · `viewpoint` · `tour` · `day-trip`
+`historic-site` · `museum` · `church` · `pub` · `bar` · `restaurant` · `cafe` · `quick-bite` (ice cream, bakeries, desserts: not a sit-down meal) · `market-shop` · `park-walk` · `entertainment` · `sport-venue` · `viewpoint` · `tour` · `day-trip`
 
 ### 5.3 Trails (ordered routes)
 
@@ -272,13 +272,15 @@ The site build validates every file against this schema and **fails loudly** on 
 - **Spelling:** American spelling for our prose (the audience is American). Keep British proper names as they are ("Theatre", "Centre"). Explain Britishisms on first use or link to the site glossary.
 - **Avoid:** exact hours, exact prices, superlatives we can't stand behind ("best in London" only if we mean it and say it's our opinion), "hidden gem", "nestled", "boasts", and clichés generally.
 - **Sensitive history:** factual and respectful (see §3). It's fine to be fascinated, but never flippant about victims.
+- **Legends:** a good story we can't verify may be included if it's clearly labelled as such ("apocryphally…", "the story goes…"). Never state it as fact.
+- **What earns a place (restaurants, cafés, bars):** prefer places that are long-established, good value, quirky or one-of-a-kind, or unexpectedly good. Skip the mediocre, the trendy-new, chains and the overpriced, unless we have a specific reason (e.g. a kid-friendly stop on a river walk, or good non-alcoholic options).
 - **Kids:** say honestly what works for which ages ("teens will love it; under-8s will be bored after 20 minutes").
 
 ---
 
 ## 8. Fact-checking and freshness
 
-- **Every factual claim** (dates, "oldest", "only", who did what where) is checked against at least one reliable source: the venue's own site, Historic England, the museum, reputable press, or official inquiry reports (e.g., the Litvinenko and Dawn Sturgess inquiries). Record the URLs in `sources:`.
+- **Every factual claim** (dates, "oldest", "only", who did what where) is checked against at least one reliable source. Anything we can't verify is either cut or labelled as legend (§7): the venue's own site, Historic England, the museum, reputable press, or official inquiry reports (e.g., the Litvinenko and Dawn Sturgess inquiries). Record the URLs in `sources:`.
 - **Known issues in the existing WMD draft to correct:** PINDAR's construction date (1980s, operational about 1992), the Broad Street pump framing (epidemiology, not "biological warfare research"), RAF Northolt's "nuclear bomber" role (likely wrong), BT Tower's "built to withstand nuclear attack" claim (check), Markov's hospital (St James' Balham, which has since closed and is not the same as St George's), and the "Ryu Sushi" reference (verify the venue name). Treat every claim in that draft as unverified.
 - **Open/closed status:** restaurants and bars change constantly. Before a place goes `public`, confirm it's still trading and at that address. Several entries on the office list may have moved or closed.
 - **Coordinates:** take them from the venue's own location or a Google Maps or OpenStreetMap lookup, then spot-check on the map. For `street` or `area` precision, place the pin on a public landmark.
@@ -293,7 +295,7 @@ The site build validates every file against this schema and **fails loudly** on 
 | Concern | Choice | Why |
 |---|---|---|
 | Site generator | **Astro** (static output) | Content collections give schema validation on our Markdown files; fast static pages; easy to run on Windows |
-| Map | **Leaflet** + OpenStreetMap or CARTO tiles + marker clustering | Free, no API key, works well on mobile |
+| Map | **Leaflet** + OpenStreetMap tiles (no API key; CARTO now needs one) + marker clustering | Free, no API key, works well on mobile |
 | Search | **Pagefind** (phase 4) | Static, client-side search with no server |
 | Hosting | **GitHub Pages** via a GitHub Actions workflow on push to `main` | Free; the build runs validation automatically |
 | Styling | Hand-written CSS with a small design system (light/dark, mobile-first) | No framework lock-in |
@@ -320,6 +322,7 @@ london-guide/
 │   ├── backlog.md               ← status of every theme and workstream
 │   ├── ideas.md                 ← brainstormed features and content ideas (family input)
 │   ├── sessions/YYYY-MM-DD-<topic>.md   ← one log per working session
+│   ├── launch-plan.md           ← what's needed to go live, and which sessions do it
 │   └── requests.md              ← schema or site change requests from theme sessions
 ├── tools/                       ← import, geocode, validate and stale scripts
 └── sources/                     ← GIT-IGNORED raw inputs (Takeout, office list, old drafts)
@@ -392,19 +395,18 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 
 ## 11. Source material and how to process it
 
-| Source | Status | Handling |
+All raw sources live in the private, git-ignored `sources/` folder (see `sources/README.md`). Never quote list names, notes or addresses from them into `content/` or `planning/`.
+
+| Source | Location | Handling |
 |---|---|---|
-| `UK WMD Tour - Fleshed OUt.docx` | Draft WMD tour (nuclear, radiological, chemical, biological, missiles, activism) | Goes to the `spies-cold-war` and `wartime-london` themes plus a **WMD Tour** trail. Full fact-check and privacy pass (§3, §8). |
-| `London Restaurants.docx` | Office list: restaurants, pubs and bars around Whitehall, Covent Garden, Mayfair and the City | Goes to the `eat`, `historic-pubs` and `drinks` themes. Places we've been get `favourite` or `like`; the rest get `tip`. Descriptions are rewritten from scratch with no work framing. Verify that each place is still open. |
-| `UK Tour Guide - 8 June 2025.pdf` | OneNote export of the two documents above | Reference only (duplicate). |
-| Google Takeout: `Saved Places.json` | 26 starred places, mostly US and Europe | London-relevant ones only (very few). |
-| Google Takeout: `Reviews.json` | 10 reviews; London 5-star reviews include Oliver's Village Café, Punjab, Mon Plaisir, Gelateria La Romana, Dishoom Battersea, Arcade Battersea | Strong `favourite` or `like` candidates. |
-| Google Takeout: `London Football Teams.kmz` | Map of London clubs, tiers 1–7 | Goes to the `sport` theme (possibly a "groundhopping" trail). |
-| **Google Takeout: Saved lists (MISSING)** | Not in the current export. The main list is the shared list **"UK 2023"** (co-owned). Its share link can't be read automatically, because Google blocks automated fetching. | **Re-export** (see below). This is the main "hodgepodge" to triage. If "UK 2023" doesn't appear in your export, the list's owner exports it from their own account. |
-
-**Re-exporting the Google Maps saved lists:** go to takeout.google.com, choose "Deselect all", then tick **Saved** (this holds your lists: Favourites, Want to go, Starred, and custom lists). Optionally also tick "Maps (your places)" again. Export, and put the zip in `sources/google-maps/`. Each list arrives as a CSV of names, notes and Google Maps URLs, without coordinates, so a triage session will resolve locations.
-
-**Google Maps triage workstream** (its own topic session): extract London and day-trip entries into `planning/triage/google-maps-triage.csv` with columns name / list / url / proposed type / proposed theme(s) / proposed badge / decision / notes. Work through it with the user in batches of 25–40, then hand accepted places to the relevant theme sessions (or write them directly if the theme is already in progress).
+| **Google Maps triage results** | `sources/triage/google-maps-triage.csv` | **Start here for any theme.** 502 rows (London and day trips) with `decision` (include/skip), `proposed_type`, `proposed_themes`, `proposed_badge` (a `?` means "confirm we've been"), notes with the family's angle, and approximate coords (re-geocode from the address; don't trust the decoded coords). |
+| WMD tour draft | `sources/docs/UK WMD Tour - Fleshed OUt.docx` | Goes to the `spies-cold-war` and `wartime-london` themes plus the **WMD Tour** trail. Full fact-check and privacy pass (§3, §8); known errors are listed in §8. |
+| Office restaurant and pub list | `sources/docs/London Restaurants.docx` | Goes to `eat`, `historic-pubs` and `drinks`. Places we've been get `favourite` or `like`; the rest get `tip`. Rewrite from scratch with no work framing. Verify each is still open. |
+| OneNote export | `sources/docs/UK Tour Guide - 8 June 2025.pdf` | Duplicate of the two documents above; reference only. |
+| Our 5-star Google reviews | `sources/google-maps/takeout/Reviews.json` | Already folded into the triage. |
+| London Football Teams map | `sources/google-maps/takeout/London Football Teams.kmz` | `sport` theme (possibly a groundhopping trail). |
+| Raw Google saved lists | `sources/google-maps/saved/` | Already triaged; consult only for detail the triage notes lack. |
+| Historic England list | `sources/National_Heritage_List_for_England_NHLE_*.csv` | Fact-checking listing grades and dates. |
 
 ---
 
@@ -415,7 +417,7 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 | **0. Foundations** | Agree these instructions; decide the open items in §13; create the repo; re-export Google saved lists | Master |
 | **1. Skeleton** | Build the Astro site, schema, map, theme and place pages, and the deploy workflow, using about 10 seed places (pubs plus WMD) to prove it end to end | Master |
 | **2. First themes** | Suggested order: Pubs with History → Spies & Cold War (WMD tour) → Where We Eat → Wartime London → Transit & Hidden City | Topic sessions |
-| **3. Google Maps triage** | Process the saved lists and distribute to themes | Topic session |
+| **3. Google Maps triage** | Done 2026-10-03 (a handful still to research); results in `sources/triage/` | Topic session |
 | **4. Polish and launch** | Practical London page, glossary, trails, search, home-page picks, a mobile check, then share with friends and family | Master |
 | **5. Ongoing** | Add places at any time; annual `stale` sweep; new themes as interests grow | Any |
 
