@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadAll, u } from '../../lib/data';
+import { GUIDE_GROUPS } from '../../lib/vocab.mjs';
+
+const { guides } = await loadAll();
+const groups = Object.entries(GUIDE_GROUPS)
+  .map(([key, g]) => ({ key, ...g, list: guides.filter((x) => x.data.group === key) }))
+  .filter((g) => g.list.length > 0);
+---
+<Base title="Guides" current="guides">
+  <div class="wrap">
+    <h1>Guides</h1>
+    <p class="lede">Longer reads: how London works, what's worth it in the busy bits, and the stories behind the places.</p>
+    {groups.length === 0 && <p class="muted">We're still writing these. Check back soon.</p>}
+    {groups.map((g) => (
+      <section id={g.key}>
+        <h2>{g.label}</h2>
+        <p class="muted">{g.blurb}</p>
+        <div class="grid">
+          {g.list.map((x) => (
+            <a class="card" href={u(`guides/${x.id}/`)}>
+              <h3>{x.data.title}</h3>
+              <p>{x.data.summary}</p>
+              {x.data.visibility === 'draft' && <div class="meta"><span class="badge draft">Draft</span></div>}
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>

@@ -12,7 +12,7 @@ Needs [Node.js](https://nodejs.org) 22 or newer.
 npm install
 npm run dev      # http://localhost:4321/london-guide/ (shows drafts, with a yellow banner)
 npm run check    # full build; fails on any invalid content file
-npm run stale    # places whose facts haven't been checked in 12+ months
+npm run stale    # places and guides whose facts haven't been checked in 12+ months
 ```
 
 ## Add a place
@@ -29,8 +29,8 @@ npm run stale    # places whose facts haven't been checked in 12+ months
 | `content/places/` | One Markdown file per place |
 | `content/themes/` | One file per theme (title, colour, intro) |
 | `content/trails/` | Ordered routes through several places |
-| `content/site.yaml` | Site settings (e.g. `showWishlist`) |
-| `content/practical.md` | The Practical London page |
+| `content/site.yaml` | Site settings (`showWishlist`, home-page `startHere` themes) |
+| `content/guides/` | Written guides and essays (Practical London, Around town, Essays, Living here) |
 | `src/` | Site code (layouts, pages, map) |
 | `planning/` | Backlog, session logs, change requests |
 | `sources/` | Private raw material (git-ignored) |

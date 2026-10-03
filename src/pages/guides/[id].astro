@@ -1,0 +1,42 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import { loadAll, toMapPoint, u } from '../../lib/data';
+import { GUIDE_GROUPS } from '../../lib/vocab.mjs';
+
+export async function getStaticPaths() {
+  const { guides } = await loadAll();
+  return guides.map((g) => ({ params: { id: g.id }, props: { guide: g } }));
+}
+const { guide } = Astro.props;
+const { places, themes } = await loadAll();
+const { Content } = await render(guide);
+const d = guide.data;
+const group = GUIDE_GROUPS[d.group as keyof typeof GUIDE_GROUPS];
+// Places that aren't visible (drafts, wishlist) are quietly left out.
+const mine = d.places.map((s) => places.find((p) => p.id === s)).filter(Boolean) as typeof places;
+const myThemes = d.themes.map((id) => themes.find((t) => t.id === id)).filter(Boolean) as typeof themes;
+---
+<Base title={d.title} description={d.summary}>
+  <div class="wrap">
+    <p class="eyebrow"><a href={u(`guides/#${d.group}`)}>Guides · {group.label}</a></p>
+    <h1>{d.title}</h1>
+    {d.visibility === 'draft' && <p><span class="badge draft">Draft guide</span></p>}
+    <article class="prose guide">
+      <p class="lede">{d.summary}</p>
+      <Content />
+      {myThemes.length > 0 && (
+        <p class="muted">Related themes: {myThemes.map((t, i) => <>{i > 0 && ', '}<a href={u(`themes/${t.id}/`)}>{t.data.short}</a></>)}</p>
+      )}
+    </article>
+    {mine.length > 0 && (
+      <section>
+        <h2>Places in this guide</h2>
+        <Map points={mine.map((p) => toMapPoint(p, themes))} />
+        <div class="grid" style="margin-top:16px">{mine.map((p) => <PlaceCard place={p} />)}</div>
+      </section>
+    )}
+  </div>
+</Base>

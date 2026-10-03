@@ -44,3 +44,11 @@ export const TAGS = {
 
 export const STATUSES = ['open', 'seasonal', 'closed', 'temporarily-closed'];
 export const PRECISIONS = ['exact', 'street', 'area'];
+
+// Guide groups, in the order they appear on the Guides page (§5.6).
+export const GUIDE_GROUPS = {
+  practical: { label: 'Practical London', blurb: 'How to get around, eat out and fit in.' },
+  area: { label: 'Around town', blurb: "What's actually good in the busiest parts of town." },
+  essay: { label: 'Essays', blurb: 'Longer reads on the things we love about London.' },
+  'living-here': { label: 'Living here', blurb: 'For people moving to London rather than visiting.' },
+};

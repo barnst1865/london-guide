@@ -13,7 +13,7 @@ const { trails } = await loadAll();
           <a class="card" href={u(`trails/${t.id}/`)}>
             <h3>{t.data.title}</h3>
             <p>{t.data.summary}</p>
-            <div class="meta"><span>{t.data.stops.length} stops</span><span>{t.data.duration}</span>{t.data.visibility === 'draft' && <span class="badge draft">Draft</span>}</div>
+            <div class="meta"><span>{t.data.stops.filter((s) => s.place).length} stops</span><span>{t.data.duration}</span>{t.data.visibility === 'draft' && <span class="badge draft">Draft</span>}</div>
           </a>
         ))}
       </div>

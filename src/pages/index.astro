@@ -1,54 +1,103 @@
 ---
+// Browse-first home page (§2, §9.3): themes, trails and guides up front, then the map.
 import Base from '../layouts/Base.astro';
+import Map from '../components/Map.astro';
 import PlaceCard from '../components/PlaceCard.astro';
-import { loadAll, site, u, typeInfo, SHOW_DRAFTS } from '../lib/data';
-import { TYPES } from '../lib/vocab.mjs';
+import { loadAll, site, u, typeInfo, toMapPoint, SHOW_DRAFTS } from '../lib/data';
+import { TYPES, GUIDE_GROUPS } from '../lib/vocab.mjs';
 
-const { places, themes, trails } = await loadAll();
+const { places, themes, trails, guides } = await loadAll();
 const countFor = (id: string) => places.filter((p) => p.data.themes.includes(id)).length;
 // On the published site, only themes with at least one place appear.
-const shownThemes = themes.filter((t) => SHOW_DRAFTS || countFor(t.id) > 0);
+const shown = themes.filter((t) => SHOW_DRAFTS || countFor(t.id) > 0);
+const startHere = (site.startHere ?? []).map((id) => shown.find((t) => t.id === id)).filter(Boolean) as typeof shown;
+const otherThemes = shown.filter((t) => !startHere.includes(t));
+const featuredTrails = (trails.some((t) => t.data.featured) ? trails.filter((t) => t.data.featured) : trails).slice(0, 3);
+const featuredGuides = (guides.some((g) => g.data.featured) ? guides.filter((g) => g.data.featured) : guides).slice(0, 4);
 const favourites = places.filter((p) => p.data.badge === 'favourite').slice(0, 6);
 const types = Object.keys(TYPES)
   .map((t) => ({ t, n: places.filter((p) => p.data.type === t).length }))
   .filter((x) => x.n > 0);
+const plural = (n: number, w: string) => `${n} ${w}${n === 1 ? '' : 's'}`;
 ---
 <Base current="home">
   <section class="hero wrap">
     <p class="eyebrow">A guide for our friends and family</p>
     <h1>{site.title}</h1>
-    <p class="lede">{site.tagline}</p>
-    <div class="prose">
-      <p>You've probably already got the Tower and the British Museum on your list, and they're worth it. This is everything else: the places we take people when they visit, organized by what you're into. Pick a theme, open the map, or follow one of our trails.</p>
-    </div>
-    <div class="actions">
-      <a class="button" href={u('map/')}>Open the map</a>
-      {trails.length > 0 && <a class="button secondary" href={u('trails/')}>Follow a trail</a>}
-      <a class="button secondary" href={u('practical/')}>Practical London</a>
-    </div>
+    <p class="lede">You've probably already got the Tower and the British Museum on your list, and they're worth it. This is everything else: the places we take people when they visit, organized by what you're into.</p>
   </section>
 
-  <section class="wrap" id="themes">
-    <h2>What are you into?</h2>
-    <div class="grid">
-      {shownThemes.map((t) => (
-        <a class="card theme-tile" href={u(`themes/${t.id}/`)} style={`--c:${t.data.color}`}>
-          <h3>{t.data.title}</h3>
-          <p>{t.data.blurb}</p>
-          <span class="count">{countFor(t.id) ? `${countFor(t.id)} place${countFor(t.id) === 1 ? '' : 's'}` : 'Coming soon'}</span>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  {types.length > 0 && (
+  {startHere.length > 0 && (
     <section class="wrap">
-      <h2>Or browse by type</h2>
-      <ul class="chips">
-        {types.map(({ t, n }) => (
-          <li><a href={u(`types/${t}/`)}><span class="dot" style={`--c:${typeInfo(t).color}`}></span>{typeInfo(t).label} <span class="muted">{n}</span></a></li>
+      <h2>Start here</h2>
+      <div class="grid start-here">
+        {startHere.map((t) => (
+          <a class="card theme-tile" href={u(`themes/${t.id}/`)} style={`--c:${t.data.color}`}>
+            <h3>{t.data.title}</h3>
+            <p>{t.data.blurb}</p>
+            <span class="count">{countFor(t.id) ? plural(countFor(t.id), 'place') : 'Coming soon'}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {otherThemes.length > 0 && (
+    <section class="wrap" id="themes">
+      <h2>{startHere.length ? 'More themes' : 'What are you into?'}</h2>
+      <ul class="compact-themes">
+        {otherThemes.map((t) => (
+          <li><a href={u(`themes/${t.id}/`)} style={`--c:${t.data.color}`}>{t.data.short}<span class="n">{countFor(t.id) || 'soon'}</span></a></li>
         ))}
       </ul>
+    </section>
+  )}
+
+  {featuredTrails.length > 0 && (
+    <section class="wrap">
+      <div class="section-head"><h2>Trails</h2><a href={u('trails/')}>All trails →</a></div>
+      <div class="grid">
+        {featuredTrails.map((t) => (
+          <a class="card" href={u(`trails/${t.id}/`)}>
+            <h3>{t.data.title}</h3>
+            <p>{t.data.summary}</p>
+            <div class="meta"><span>{plural(t.data.stops.filter((s) => s.place).length, 'stop')}</span><span>{t.data.duration}</span>{t.data.visibility === 'draft' && <span class="badge draft">Draft</span>}</div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {featuredGuides.length > 0 && (
+    <section class="wrap">
+      <div class="section-head"><h2>Guides</h2><a href={u('guides/')}>All guides →</a></div>
+      <div class="grid">
+        {featuredGuides.map((g) => (
+          <a class="card" href={u(`guides/${g.id}/`)}>
+            <p class="eyebrow">{GUIDE_GROUPS[g.data.group as keyof typeof GUIDE_GROUPS].label}</p>
+            <h3>{g.data.title}</h3>
+            <p>{g.data.summary}</p>
+            {g.data.visibility === 'draft' && <div class="meta"><span class="badge draft">Draft</span></div>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {places.length > 0 && (
+    <section class="wrap">
+      <div class="section-head"><h2>On the map</h2><a href={u('map/')}>Open the full map →</a></div>
+      <div class="map-teaser">
+        <Map points={places.map((p) => toMapPoint(p, themes))} />
+        <div>
+          <p class="muted" style="margin-top:0">Or browse by type:</p>
+          <ul class="chips">
+            {types.map(({ t, n }) => (
+              <li><a href={u(`types/${t}/`)}><span class="dot" style={`--c:${typeInfo(t).color}`}></span>{typeInfo(t).label} <span class="muted">{n}</span></a></li>
+            ))}
+          </ul>
+        </div>
+      </div>
     </section>
   )}
 
@@ -57,5 +106,9 @@ const types = Object.keys(TYPES)
       <h2>Family favourites</h2>
       <div class="grid">{favourites.map((p) => <PlaceCard place={p} />)}</div>
     </section>
+  )}
+
+  {shown.length === 0 && (
+    <section class="wrap"><p class="muted">We're busy writing. The first places will appear here soon.</p></section>
   )}
 </Base>

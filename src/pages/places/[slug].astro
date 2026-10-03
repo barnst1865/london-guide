@@ -38,6 +38,9 @@ const statusNote = { seasonal: 'Seasonal: check dates before you go', 'temporari
       <article class="prose">
         <p class="lede">{d.summary}</p>
         <Content />
+        {d.kids_say && (
+          <blockquote class="kids-say"><p>“{d.kids_say}”</p><footer>Our kids</footer></blockquote>
+        )}
         {myThemes.length > 0 && (
           <p class="muted">Part of: {myThemes.map((t, i) => <>{i > 0 && ', '}<a href={u(`themes/${t.id}/`)}>{t.data.short}</a></>)}</p>
         )}

@@ -2,7 +2,8 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Map from '../../components/Map.astro';
-import { loadAll, toMapPoint, u, typeInfo } from '../../lib/data';
+import { loadAll, toMapPoint, waypointPoint, u, typeInfo } from '../../lib/data';
+import { TAGS } from '../../lib/vocab.mjs';
 
 export async function getStaticPaths() {
   const { trails } = await loadAll();
@@ -11,24 +12,59 @@ export async function getStaticPaths() {
 const { trail } = Astro.props;
 const { places, themes } = await loadAll();
 const { Content } = await render(trail);
-const stops = trail.data.stops.map((s) => ({ ...s, place: places.find((p) => p.id === s.place)! }));
+const d = trail.data;
+const stops = d.stops.map((s) => ({ ...s, p: s.place ? places.find((x) => x.id === s.place) : undefined }));
+const points = stops.map((s) => (s.p ? { ...toMapPoint(s.p, themes), optional: s.optional } : waypointPoint(s)));
+const placeName = (slug?: string) => places.find((p) => p.id === slug)?.data.name;
 ---
-<Base title={trail.data.title} description={trail.data.summary}>
+<Base title={d.title} description={d.summary}>
   <div class="wrap">
-    <p class="eyebrow">Trail · {trail.data.duration} · {trail.data.mode}</p>
-    <h1>{trail.data.title}</h1>
-    {trail.data.visibility === 'draft' && <p><span class="badge draft">Draft trail</span></p>}
-    <div class="prose"><Content /></div>
-    <Map points={stops.map((s) => toMapPoint(s.place, themes))} route />
+    <p class="eyebrow">Trail · {d.duration} · {d.mode}</p>
+    <h1>{d.title}</h1>
+    {d.visibility === 'draft' && <p><span class="badge draft">Draft trail</span></p>}
+    <div class="prose">
+      <p class="lede">{d.summary}</p>
+      {d.tags.length > 0 && <p class="muted">{d.tags.map((t) => TAGS[t as keyof typeof TAGS]).join(' · ')}</p>}
+      <Content />
+    </div>
+    <Map points={points} route />
+
+    {d.variants.length > 0 && (
+      <aside class="variants prose">
+        <h2>Ways to do it</h2>
+        <dl>
+          {d.variants.map((v) => (
+            <>
+              <dt>{v.name}</dt>
+              <dd>{v.description}{v.ends_at && placeName(v.ends_at) && <> Ends at {placeName(v.ends_at)}.</>}</dd>
+            </>
+          ))}
+        </dl>
+      </aside>
+    )}
+
     <h2>The stops</h2>
     <ol class="stops prose">
       {stops.map((s) => (
-        <li>
-          <h3><a href={u(`places/${s.place.id}/`)}>{s.place.data.name}</a></h3>
-          <span class="muted"><span class="dot" style={`--c:${typeInfo(s.place.data.type).color}`}></span>{typeInfo(s.place.data.type).single} · {s.place.data.area}</span>
-          <p style="margin:6px 0 0">{s.place.data.summary}</p>
-          {s.note && <p class="note">{s.note}</p>}
-        </li>
+        <>
+          {s.segment && <li class="segment-head">{s.segment}</li>}
+          {s.p ? (
+            <li class:list={[s.optional && 'optional']}>
+              <h3>
+                <a href={u(`places/${s.p.id}/`)}>{s.p.data.name}</a>
+                {s.optional && <span class="opt-label">Optional</span>}
+              </h3>
+              <span class="muted"><span class="dot" style={`--c:${typeInfo(s.p.data.type).color}`}></span>{typeInfo(s.p.data.type).single} · {s.p.data.area}</span>
+              <p style="margin:6px 0 0">{s.p.data.summary}</p>
+              {s.note && <p class="note">{s.note}</p>}
+            </li>
+          ) : (
+            <li class="waypoint">
+              <h3>{s.waypoint}</h3>
+              {s.note && <p class="note">{s.note}</p>}
+            </li>
+          )}
+        </>
       ))}
     </ol>
   </div>

@@ -7,6 +7,7 @@ interface Point {
   id: string; name: string; type: string; typeLabel: string; color: string;
   themes: string[]; themeTitles: string[]; badge: string; badgeLabel: string; tags: string[];
   summary: string; area: string; lat: number; lng: number; precise: boolean; draft: boolean; url: string;
+  waypoint?: boolean; optional?: boolean;
 }
 
 const LONDON: L.LatLngTuple = [51.507, -0.1];
@@ -21,6 +22,11 @@ function el(tag: string, cls?: string, text?: string) {
 
 function popup(p: Point) {
   const box = el('div');
+  if (p.waypoint) {
+    box.append(el('h4', '', p.name));
+    if (p.summary) box.append(el('p', '', p.summary));
+    return box;
+  }
   box.append(el('h4', '', p.name));
   box.append(el('div', 'pmeta', `${p.typeLabel} · ${p.area} · ${p.badgeLabel}${p.draft ? ' · DRAFT' : ''}`));
   box.append(el('p', '', p.summary));
@@ -32,7 +38,7 @@ function popup(p: Point) {
 }
 
 function marker(p: Point) {
-  const cls = ['lg-pin', p.badge === 'favourite' ? 'fav' : '', p.precise ? '' : 'area'].join(' ');
+  const cls = ['lg-pin', p.badge === 'favourite' ? 'fav' : '', p.precise ? '' : 'area', p.waypoint ? 'wp' : '', p.optional ? 'opt' : ''].join(' ');
   const icon = L.divIcon({
     className: '',
     html: `<div class="${cls}" style="--c:${p.color}"></div>`,

@@ -3,3 +3,5 @@ title: "Where We'd Take You in London"
 tagline: "The places we send our friends and family — past the usual tourist circuit."
 # Places with badge "wishlist" (On our list) are hidden while this is false.
 showWishlist: false
+# Up to 3 theme ids shown large in the home page's "Start here" row (only themes with places appear).
+startHere: [spies-cold-war, historic-pubs, eat]

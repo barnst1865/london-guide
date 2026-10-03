@@ -1,6 +1,6 @@
 # Where We'd Take You in London — Project Instructions
 
-**Version:** 0.3 · **Last updated:** 2026-10-01 · **Owner:** master planning session
+**Version:** 0.4 · **Last updated:** 2026-10-01 · **Owner:** master planning session
 
 This is the single source of truth for the project. **Every Claude session working on the guide reads this file first.** If something here is wrong or missing, raise it with the master session rather than working around it.
 
@@ -19,6 +19,8 @@ It is:
 
 Audience: adults and families (including kids and teens) visiting from the US, mostly first- or second-time London visitors. They have already heard of the British Museum and the Tower, and they're looking to us for what they wouldn't find on their own.
 
+Secondary audience: **people moving to London**. They're served by the "Living here" guides (§5.6), worded generically ("people moving here"), with no employer or posting references (§3).
+
 ---
 
 ## 2. Guiding principles
@@ -28,7 +30,8 @@ Audience: adults and families (including kids and teens) visiting from the US, m
 3. **Honest about what we've done.** Every place carries a badge saying whether we've been and how much we liked it (§5.4).
 4. **Accurate.** Historical claims are fact-checked against reliable sources before publishing (§8).
 5. **Useful on the ground.** Give the nearest station, whether to book, whether it's good for kids, and what's nearby to pair it with.
-6. **Durable.** Avoid details that go stale fast, such as exact opening hours, prices and named staff. Link to the venue's site instead.
+6. **Durable.** Avoid details that go stale fast, such as exact opening hours, prices and named staff. Link to the venue's site instead. For rules, fees and charges (transport, pets, driving), link to the official source; our value is experience and tacit advice.
+7. **Browse-first.** The site is for browsing: themes, trails, guides and the map. No interactive planners, quizzes, checklists or "build my day" tools (family decision; see `planning/ideas.md` #4–#6, #15).
 
 ---
 
@@ -81,6 +84,7 @@ Themes are the heart of the guide. Each has its own page with an intro written i
 | `wild-london` | **Parks, Walks & Wild London** (including foraging, canals and the Thames) | Hampstead Heath, Richmond Park, Regent's Canal walk, Walthamstow Wetlands, Crystal Palace dinosaurs, Thames foreshore (note PLA permit rules) |
 | `kids` | **With Kids** (and teens) | Horniman, Science Museum Wonderlab, Mudchute Farm, Diana Memorial Playground, Cutty Sark, Crystal Palace dinosaurs |
 | `day-trips` | **Day Trips** | See §4 |
+| `only-in-london` | **Only in London**: British oddities | Places and experiences that are odd in themselves (idea #13). How-to-get-by advice belongs in the Practical London guides |
 
 Theme files live in `content/themes/<id>.md` (§6.2).
 
@@ -100,6 +104,10 @@ Types drive map marker icons and the "Browse by type" menus.
 
 A trail is an ordered sequence of places with walking or transport notes between them, drawn as a route on the map. Examples: the **WMD Tour**, a **City of London historic pub crawl**, and a **Cold War walk around Whitehall**. Trails reference places by slug and don't duplicate place content.
 
+### 5.3a Trail structure
+
+Trails can have **named segments** (e.g. "Hammersmith to Barnes"), **optional stops** (detours, shown dashed), **waypoints** (a named point that isn't a place, like a bridge crossing, used to shape the route), and **variants** (shorter or longer ways to do it, optionally naming the stop where a variant ends). See §6.3.
+
 ### 5.4 Badges (exactly one per place)
 
 | badge | Label shown | Meaning |
@@ -116,6 +124,19 @@ A trail is an ordered sequence of places with walking or transport notes between
 Price uses `price: 1–4` (£ to ££££) for food and drink, and `£0` / `£` / `££` / `£££` for attractions. Use the scale only, never actual prices.
 
 ---
+
+### 5.6 Guides (standalone written pages)
+
+Guides are written pages that aren't about a single place: how-to advice, essays, area mini-guides. Each is one file in `content/guides/<id>.md`, in one of four groups:
+
+| group | Label shown | For |
+|---|---|---|
+| `practical` | Practical London | Getting around, pub etiquette, eating out, glossary |
+| `area` | Around town | What's actually good in the busiest districts (idea #25) |
+| `essay` | Essays | Longer reads, e.g. historic pubs and restaurants |
+| `living-here` | Living here | For people moving to London: dogs, cars, and so on |
+
+A guide can list `places` (shown as cards and on a map at the end) and link to anything inline with the internal link syntax (§6.6). The old Practical London page now redirects to the Guides page. Any session may draft a guide; new groups are a master-session change.
 
 ## 6. Data model
 
@@ -155,6 +176,8 @@ Body: 80–200 words in our voice (see §7).
 **Our tip:** one practical line (e.g., "Sam Smith's pub: no phones at the bar, cash-light prices, go downstairs").
 ```
 
+Optional: `kids_say: "..."` (≤140 chars), a one-line quote from our kids, shown on the place page as "Our kids". No names or ages (§3).
+
 **Required:** `name`, `type`, `themes` (≥1), `badge`, `summary`, `area`, `coords`, `location_precision`, `status`, `visibility`. `last_verified` is required before a place can be `public`; the build refuses public places without it.
 **Optional:** everything else.
 
@@ -178,23 +201,62 @@ Intro essay, 150–300 words, in our voice: why we love this theme, and how to a
 
 ```yaml
 ---
-title: The WMD Tour
-themes: [spies-cold-war]
-mode: mixed                      # walk | transit | mixed
-duration: Full day
+title: Thames Path from Hammersmith
+summary: A riverside walk with pub stops, great with kids and dogs.   # ≤200 chars
+themes: [wild-london, historic-pubs]
+mode: walk                       # walk | transit | mixed
+duration: Half day
+tags: [kid-friendly, dog-friendly, outdoors]
+featured: true                   # show on the home page
 stops:
-  - place: broad-street-pump
-    note: Start in Soho...
-  - place: millennium-hotel-mayfair
-    note: 15-minute walk west...
+  - place: blue-anchor           # a place, by slug
+    segment: Hammersmith to Chiswick   # optional: starts a named section
+    note: Start on the north bank...
+  - waypoint: Hammersmith Bridge # a point that isn't a place file
+    coords: [51.4883, -0.2302]
+    note: Cross here if the bridge is open to pedestrians.
+  - place: william-morris-society
+    optional: true               # a detour, shown dashed
+variants:
+  - name: Short version
+    description: Finish after the White Hart.
+    ends_at: white-hart-barnes   # optional: must be a stop on this trail
 visibility: draft
 ---
 Introduction to the trail.
 ```
 
-### 6.4 Validation
+Each stop has either `place`, or `waypoint` + `coords`. A trail is hidden if any required stop isn't public; optional stops that aren't public are simply left out.
 
-The site build validates every file against this schema and **fails loudly** on errors: missing required fields, unknown theme, type, tag or badge, malformed coordinates, a trail pointing to a non-existent slug, or a duplicate slug. Running `npm run check` before finishing any session is mandatory.
+### 6.5 Guide file — `content/guides/<id>.md`
+
+```yaml
+---
+title: Pub etiquette
+summary: Order at the bar, rounds, last orders...   # ≤200 chars
+group: practical                 # practical | area | essay | living-here
+order: 2                         # order within the group
+themes: [historic-pubs]          # related themes (linked at the end)
+places: [ye-olde-cheshire-cheese]  # shown as cards and on a map at the end
+featured: false                  # show on the home page
+visibility: draft
+last_verified: 2026-10-03        # required once public
+sources: []
+---
+Body in our voice, with ## headings.
+```
+
+### 6.6 Internal links
+
+In any Markdown body, link to other pages with `[text](place:slug)`, `[text](theme:id)`, `[text](trail:id)` or `[text](guide:id)`. The build turns these into correct links and **fails if the target doesn't exist**. Don't write `/places/...` paths by hand, because the site lives under a base path.
+
+### 6.7 Site settings — `content/site.yaml`
+
+`title`, `tagline`, `showWishlist` (§5.4), and `startHere`: up to three theme ids shown large at the top of the home page.
+
+### 6.8 Validation
+
+The site build validates every file against this schema and **fails loudly** on errors: missing required fields, unknown theme, type, tag or badge, malformed coordinates, a trail, guide or variant pointing to a non-existent slug, a broken internal link (§6.6), or a duplicate slug. Running `npm run check` before finishing any session is mandatory.
 
 **Previewing drafts:** `npm run dev` shows draft places, themes and trails (with a yellow banner) so they can be reviewed locally; the published build never includes them. On the published home page, themes appear only once they have at least one public place.
 
@@ -249,30 +311,31 @@ london-guide/
 │   ├── places/<slug>.md
 │   ├── themes/<id>.md
 │   ├── trails/<id>.md
-│   ├── site.yaml                ← site-wide settings (title, showWishlist, …)
-│   └── practical.md             ← the Practical London page
+│   ├── guides/<id>.md
+│   └── site.yaml                ← site-wide settings (title, showWishlist, startHere)
 ├── src/                         ← Astro site code (master session only)
 ├── public/                      ← static assets: icons, our own photos, robots.txt
 ├── .github/workflows/deploy.yml ← builds and publishes on push to main
 ├── planning/
 │   ├── backlog.md               ← status of every theme and workstream
+│   ├── ideas.md                 ← brainstormed features and content ideas (family input)
 │   ├── sessions/YYYY-MM-DD-<topic>.md   ← one log per working session
 │   └── requests.md              ← schema or site change requests from theme sessions
 ├── tools/                       ← import, geocode, validate and stale scripts
 └── sources/                     ← GIT-IGNORED raw inputs (Takeout, office list, old drafts)
 ```
 
-### 9.3 Pages (MVP)
+### 9.3 Pages
 
-- **Home:** a short welcome in our voice, theme tiles, "If you only have one day / a weekend" picks, and a map teaser.
-- **Map:** full-screen map with markers styled by type; filters for theme, type, badge and key tags (kid-friendly, free, rainy-day); clustering; popups linking to place pages; a "Directions" button that opens Google or Apple Maps.
-- **Theme pages:** intro essay, featured places, all places, and a mini-map.
+- **Home (browse-first):** a short welcome; a "Start here" row of up to three themes (`startHere` in `site.yaml`); the remaining themes as a compact list; featured trails; featured guides; a map teaser with browse-by-type chips; family favourites. On the published site, themes appear only once they have a public place.
+- **Map:** full-screen map with markers styled by type; filters for theme, type, favourites and key tags (kid-friendly, free, rainy-day); clustering; popups linking to place pages. Filters are kept in the URL, so a filtered map can be linked.
+- **Theme pages:** intro essay, featured places, places grouped by type, trails in the theme, and a mini-map.
 - **Browse by type:** Eat, Drink, Museums, Historic sites, and so on.
-- **Place pages:** description, our tip, practical box, mini-map, "pair with", and the themes it belongs to.
-- **Trail pages:** ordered stops, route on the map, and leg notes.
-- **Practical London:** getting around (contactless, Citymapper), booking culture, tipping, Sundays, a pub etiquette primer, and a glossary of Britishisms.
+- **Place pages:** description, "Our kids" quote (optional), our tip, practical box with directions, mini-map, "pair with", and the themes it belongs to.
+- **Trail pages:** summary, route map (places, waypoints, optional stops), "Ways to do it" variants, and stops grouped by segment.
+- **Guides:** an index grouped as Practical London, Around town, Essays and Living here, plus one page per guide, with its places on a map at the end.
 
-**Later:** "Near me" (geolocation), search, a printable or offline trail view, photos.
+**Later (parked ideas):** "Near me" (geolocation), search, a printable or offline trail view, photos.
 
 ### 9.4 Images
 
@@ -290,6 +353,12 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 - Reviews output from topic sessions for consistency, duplicates, privacy and style.
 - Processes `planning/requests.md`.
 
+**Ideas session** (an ongoing brainstorm with the family):
+
+- Captures feature and content ideas in `planning/ideas.md`, with a kind, a source role (never names) and a status.
+- Doesn't build anything. Ideas move on only when the master session accepts them into `backlog.md` or `requests.md`, or when a theme session picks up a content idea.
+- Every other session should skim `planning/ideas.md` at the start, and theme sessions should pick up `content` ideas for their theme.
+
 **Topic sessions** (one per theme, or per workstream such as "Google Maps triage"):
 
 - Start a new Cowork session **in the same claude.ai Project, with the same folder connected**.
@@ -303,7 +372,7 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 
 ### 10.3 Topic-session workflow
 
-1. **Orient.** Read this file, the backlog, the theme file, and the existing places (by name, type and themes) to avoid duplicates.
+1. **Orient.** Read this file, the backlog, `planning/ideas.md` (for ideas tagged with this theme), the theme file, and the existing places (by name, type and themes) to avoid duplicates.
 2. **Interview.** Ask what we've done, what we loved, stories worth telling, and which places from the source material belong here.
 3. **Propose.** Suggest a candidate list mixing our known places and beyond-the-obvious ideas, each with a one-line pitch.
 4. **Triage with the user.** For each candidate, decide include / wishlist / skip, plus a badge and a type.
@@ -362,3 +431,7 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 | 4 | **Spelling** | Decided: American spelling for our prose; British proper names unchanged |
 | 5 | **Wishlist visibility** | Decided: hidden for now, behind the `showWishlist` switch in `content/site.yaml` |
 | 6 | **Themes** | Decided: themes are a living list. Sessions can add draft themes and update existing ones; the master session approves and orders them (§5.1). The starter list in §5.1 stands until a session changes it |
+| 7 | **Browse-first** | Decided: no planners, quizzes or checklists (§2.7) |
+| 8 | **Guides** | Decided: a Guides section of standalone pages, grouped as Practical London, Around town, Essays and Living here (§5.6). Practical London became guides |
+| 9 | **People moving here** | Decided: served by the "Living here" guide group, worded generically (§1) |
+| 10 | **New theme** | Added `only-in-london` (idea #13) |
