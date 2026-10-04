@@ -85,6 +85,8 @@ Themes are the heart of the guide. Each has its own page with an intro written i
 | `kids` | **With Kids** (and teens) | Horniman, Science Museum Wonderlab, Mudchute Farm, Diana Memorial Playground, Cutty Sark, Crystal Palace dinosaurs |
 | `day-trips` | **Day Trips** | See §4 |
 | `only-in-london` | **Only in London**: British oddities | Places and experiences that are odd in themselves (idea #13). How-to-get-by advice belongs in the Practical London guides |
+| `on-screen-on-record` | **On Screen & On Record**: film, TV and music landmarks | Great Muppet Caper locations, Abbey Road crossing, the Oasis album-cover street, Leadenhall Market. Many exteriors are private buildings: street-level only (§3) |
+| `writers-artists-makers` | **Writers, Artists & Makers** | Charles Dickens Museum, William Blake sites, William Morris Gallery and Society, Foundling Museum, Sherlock Holmes Museum |
 
 Theme files live in `content/themes/<id>.md` (§6.2).
 
@@ -399,7 +401,7 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 
 | Source | Location | Handling |
 |---|---|---|
-| **Google Maps triage results** | `sources/triage/google-maps-triage.csv` | **Start here for any theme.** 502 rows (London and day trips) with `decision` (include/skip), `proposed_type`, `proposed_themes`, `proposed_badge` (a `?` means "confirm we've been"), notes with the family's angle, and approximate coords (re-geocode from the address; don't trust the decoded coords). |
+| **Google Maps triage results** | `sources/triage/google-maps-triage.csv` | **Start here for any theme.** 503 rows (London and day trips) with `decision` (include/skip), `proposed_type`, `proposed_themes`, `proposed_badge` (a `?` means "confirm we've been"), notes with the family's angle, and approximate coords (re-geocode from the address; don't trust the decoded coords). |
 | WMD tour draft | `sources/docs/UK WMD Tour - Fleshed OUt.docx` | Goes to the `spies-cold-war` and `wartime-london` themes plus the **WMD Tour** trail. Full fact-check and privacy pass (§3, §8); known errors are listed in §8. |
 | Office restaurant and pub list | `sources/docs/London Restaurants.docx` | Goes to `eat`, `historic-pubs` and `drinks`. Places we've been get `favourite` or `like`; the rest get `tip`. Rewrite from scratch with no work framing. Verify each is still open. |
 | OneNote export | `sources/docs/UK Tour Guide - 8 June 2025.pdf` | Duplicate of the two documents above; reference only. |
@@ -437,3 +439,4 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 8 | **Guides** | Decided: a Guides section of standalone pages, grouped as Practical London, Around town, Essays and Living here (§5.6). Practical London became guides |
 | 9 | **People moving here** | Decided: served by the "Living here" guide group, worded generically (§1) |
 | 10 | **New theme** | Added `only-in-london` (idea #13) |
+| 11 | **More themes** | Added `on-screen-on-record` (film, TV, music landmarks) and `writers-artists-makers` (2026-10-03). Both post-launch |

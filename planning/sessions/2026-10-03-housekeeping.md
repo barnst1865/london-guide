@@ -9,3 +9,8 @@
 - Updated §11 of PROJECT_INSTRUCTIONS.md with where every source now lives.
 - Left pointer notes in the old OneDrive London-Guide folder so no session works from its stale copies.
 - **For the user:** you can delete `planning/triage/.gitkeep` (harmless if left).
+
+## Consolidation (later the same day)
+- Everything from the old OneDrive `London-Guide` folder is now in `sources/`: all Google Takeout lists, starred and labelled places, My Maps exports and the original zip files. The OneDrive folder is only an archive now and can be deleted.
+- The triage file reviewed by the Google Maps session (503 rows; 7 decisions changed and 1 pub added) is now the canonical `sources/triage/google-maps-triage.csv`.
+- **For the user:** delete the duplicate `sources/triage/google-maps-triagev1.csv`.
