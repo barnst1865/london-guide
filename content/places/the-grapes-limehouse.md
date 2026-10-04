@@ -2,22 +2,28 @@
 name: "The Grapes"
 type: pub
 themes: [historic-pubs]
-tags: []
+tags: [dog-friendly]
 price: 2
-summary: "A narrow riverside pub in Limehouse that Dickens knew, now co-owned by Sir Ian McKellen."
+summary: "A slim 18th-century pub backing onto the Thames in Limehouse, co-owned by Sir Ian McKellen. Gandalf's staff is behind the bar. Adults only."
 area: "Limehouse"
 address: "76 Narrow Street, London E14 8BP"
-coords: [51.5099, -0.0347]   # approximate, verify
+coords: [51.50885, -0.03396]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
 location_precision: exact
 stations: [Limehouse, Westferry]
+website: https://thegrapes.co.uk
 pair_with: [prospect-of-whitby]
 status: open
-visibility: draft
-# last_verified: YYYY-MM-DD   # required before visibility: public
-sources: []
+visibility: public
+last_verified: 2026-10-04
+sources:
+  - https://historicengland.org.uk/listing/the-list/list-entry/1260573
+  - https://pubheritage.camra.org.uk/pubs/2250
+  - https://www.morningadvertiser.co.uk/Article/2011/09/12/Sir-Ian-McKellen-buys-historic-East-London-pub
+  - https://thegrapes.co.uk
 ---
-<!-- SEED DRAFT from the master setup session. Facts, coordinates, badge and wording must be checked and rewritten in the theme session before this goes public. -->
 
-A slim old pub backing onto the Thames, with a famous staff in the corner (yes, Gandalf's).
+The Grapes is a narrow, wood-paneled pub backing straight onto the river, on one of the few stretches of old Limehouse waterfront to survive. The building is 18th century, and tradition says there has been a pub here since the 1580s. It's widely held to be the model for the Six Jolly Fellowship Porters in Dickens's *Our Mutual Friend*, a riverside tavern "of a dropsical appearance." The stories that Walter Raleigh set sail from here and that Dickens danced on the tables are legend.
 
-**Our tip:** Small and popular, so go at an off-peak time.
+Since 2011 it has been co-owned by the actor Sir Ian McKellen, and the staff he carried as Gandalf stands behind the bar. Next door, in 1981, the politician David Owen and three colleagues launched a new political party, the SDP, with a declaration issued from his house.
+
+**Our tip:** No under-18s and no table bookings, and it's small, so go at an off-peak time. Pair it with the [Prospect of Whitby](place:prospect-of-whitby), 20 minutes' walk west along the river.

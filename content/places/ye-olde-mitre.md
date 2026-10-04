@@ -1,23 +1,29 @@
 ---
 name: "Ye Olde Mitre"
 type: pub
-themes: [historic-pubs]
-tags: [quick-visit]
-price: 1
-summary: "A tiny Tudor-era pub hidden down an alley in Hatton Garden. You'd walk past it if you didn't know."
-area: "Hatton Garden"
-address: "1 Ely Court, London EC1N 6SJ"
-coords: [51.5187, -0.1076]   # approximate, verify
+themes: [historic-pubs, medieval-old-london]
+tags: [quick-visit, rainy-day]
+price: 2
+summary: "A tiny pub down a hidden alley off Hatton Garden, on the grounds of a medieval bishop's palace, with an old tree trunk in the bar."
+area: "Holborn (Hatton Garden)"
+address: "1 Ely Court, Ely Place, London EC1N 6SJ"
+coords: [51.51843, -0.10738]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
 location_precision: exact
-stations: [Chancery Lane, Farringdon]
-pair_with: [ye-olde-cheshire-cheese]
+stations: [Farringdon, Chancery Lane]
+website: https://www.yeoldemitreholborn.co.uk/
+pair_with: [cittie-of-yorke, ye-olde-cheshire-cheese]
 status: open
-visibility: draft
-# last_verified: YYYY-MM-DD   # required before visibility: public
-sources: []
+visibility: public
+last_verified: 2026-10-04
+sources:
+  - https://historicengland.org.uk/listing/the-list/list-entry/1078281
+  - https://londonpubsgroup.camra.org.uk/viewnode.php?id=28006
+  - https://camra.org.uk/pubs/olde-mitre-hatton-garden-156323
+  - https://www.yeoldemitreholborn.co.uk/
 ---
-<!-- SEED DRAFT from the master setup session. Facts, coordinates, badge and wording must be checked and rewritten in the theme session before this goes public. -->
 
-Tucked into a passage between Hatton Garden and Ely Place, the Mitre has roots in the 1540s, and its story is bound up with the Bishops of Ely's London palace.
+You have to know where to look. A narrow passage between Hatton Garden and Ely Place leads to this tiny pub of small, wood-paneled rooms. The building dates from about 1773, with a mock-Tudor interior added in the early 20th century, but the site's story is older. This was the land of the bishops of Ely's medieval London palace, and the pub says it was founded in 1546 for the bishop's servants (that date is its own claim).
 
-**Our tip:** Find the alley entrance from Hatton Garden. It's small, so go early or mid-afternoon.
+In a corner of the front bar, behind glass, is the trunk of what's believed to be a cherry tree that marked the boundary between the bishop's land and that of Sir Christopher Hatton, Elizabeth I's favorite and later her Lord Chancellor. Legend has it that the queen danced around it. There's no kitchen, just toasties and snacks, so come for a drink and eat elsewhere.
+
+**Our tip:** Find the alley from Hatton Garden or Ely Place. It's closed on Sundays, and small, so go early.

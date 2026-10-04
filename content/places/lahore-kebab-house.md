@@ -2,29 +2,29 @@
 name: "Lahore Kebab House"
 type: restaurant
 themes: [eat]
-tags: []
+tags: [group-friendly]
 price: 1
-summary: "Whitechapel's other great Punjabi grill, feeding the East End since the early 1970s. Bring your own drinks."
+summary: "A big, plain Punjabi grill house on a Whitechapel back street since the early '70s. Lamb chops, karahis, bring your own drinks. Closed for now."
 area: "Whitechapel"
 address: "2-10 Umberston Street, London E1 1PY"
-coords: [51.5142, -0.0631]   # postcode centroid (postcodes.io); spot-check on the map
+coords: [51.51418, -0.06308]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
 location_precision: exact
-stations: [Aldgate East, Whitechapel]
-pair_with: []
-status: open
-visibility: draft
-last_verified: 2026-10-03
+stations: [Whitechapel, Aldgate East, Shadwell]
+pair_with: [tayyabs, beigel-bake]
+status: temporarily-closed
+visibility: public
+last_verified: 2026-10-04
 sources:
   - https://www.eastlondonlines.co.uk/2013/02/hunt-for-authentic-pakistani-food-in-east-london/
-  - https://spitalfieldslife.com/2013/11/02/the-lahori-chefs-of-whitechapel/
-  - https://www.dawn.com/news/amp/1142799
-  - https://wanderlog.com/place/details/1386000/
+  - https://www.timeout.com/london/restaurants/lahore-kebab-house
+  - https://hardens.com/az/restaurants/london/e1/lahore-kebab-house.htm
+  - https://www.timeout.com/london/things-to-do/whitechapel-area-guide
+  - https://curry-heute.com/2026/08/14/whitechapel-lahore-kebab-house-dilpasand-restaurant/
 ---
+<!-- Research draft rewritten 2026-10-04 after a family visit. TEMPORARILY CLOSED since about early August 2026 (Curry Heute 14 Aug 2026; Google 'temporarily closed'; website down); no reason or reopening date found. Re-check before any visit and flip status back to open when it reopens. -->
 
-<!-- RESEARCH DRAFT 2026-10-03 (eat: long-standing locals, Criteria set 1). See planning/research/value-restaurants.md. VERIFY OPEN STATUS: Google listing showed 'Temporarily Closed' (via Wanderlog, 2026-10-03), but a Tripadvisor review is dated May 2026. Early 1970s (owner quoted by EastLondonLines 2013); same street throughout, expanded into neighbouring units. Google 4.0 (4,626). -->
+Whitechapel has been fighting what Time Out once called "the great battle of the Whitechapel lamb chop" for decades, and Lahore Kebab House is one side of it. The owner's family bought a small café on Umberston Street in the early 1970s and grew it, unit by unit, into a huge, loud, fluorescent-lit canteen. It's not a place for a quiet dinner. It's a place for a crowd, platters of sizzling chops, karahis in their iron pans and plenty of fresh naan.
 
-It's on our list because it's one of the two Whitechapel grill houses (Tayyabs is the other) that East London's Pakistani community has trusted for fifty years. The owner's brother bought it from a café owner in the early 1970s, and it has grown along Umberston Street ever since. Pakistan's *Dawn* newspaper called the lamb chops "to die for," and the owner counts Pakistani prime ministers and presidents among past diners.
+We liked it, and we'd happily send friends to compare it with [Tayyabs](place:tayyabs), a few streets away. **For now, though, it appears to be closed**: since about August 2026 its listing has said "temporarily closed" and its website has been down, with no word on why or when it will reopen.
 
-Go for the grill and the karahis.
-
-**Our tip:** It's bring-your-own, so pick up drinks on the way. Check it's open before you go; its Google listing was showing "temporarily closed" when we last looked.
+**Our tip:** Check that it has reopened before you make the trip. If it has, it's bring-your-own, so pick up drinks on the way and order the lamb chops.

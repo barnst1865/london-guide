@@ -1,24 +1,31 @@
 ---
 name: "Ye Olde Cheshire Cheese"
 type: pub
-themes: [historic-pubs]
-tags: [rainy-day, group-friendly]
+themes: [historic-pubs, medieval-old-london]
+badge: favourite
+tags: [rainy-day, group-friendly, dog-friendly]
 price: 1
-summary: "A warren of dark, wood-panelled rooms off Fleet Street, rebuilt right after the Great Fire of 1666."
+summary: "A warren of dark, paneled rooms and vaulted cellars off Fleet Street, rebuilt soon after the Great Fire. The pub we take everyone to first."
 area: "Fleet Street"
 address: "145 Fleet Street, London EC4A 2BU"
-coords: [51.5143, -0.1072]   # approximate, verify
+coords: [51.51434, -0.10718]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
 location_precision: exact
-stations: [Chancery Lane, Blackfriars, City Thameslink]
-pair_with: [ye-olde-mitre]
+stations: [City Thameslink, Blackfriars, Chancery Lane]
+pair_with: [ye-olde-mitre, old-bell-tavern, the-black-friar]
 status: open
-visibility: draft
-# last_verified: YYYY-MM-DD   # required before visibility: public
+visibility: public
+last_verified: 2026-10-04
 sources:
-  - https://historicengland.org.uk/
+  - https://historicengland.org.uk/listing/the-list/list-entry/1064662
+  - https://londonpubsgroup.camra.org.uk/viewnode.php?id=28676
+  - https://camra.org.uk/pubs/olde-cheshire-cheese-london-156637
+  - https://www.thedrinksbusiness.com/2019/04/uk-pub-chain-samuel-smiths-bans-mobile-phones/
 ---
-<!-- SEED DRAFT from the master setup session. Facts, coordinates, badge and wording must be checked and rewritten in the theme session before this goes public. -->
 
-Down a narrow alley off Fleet Street, the Cheshire Cheese is a maze of small, dark rooms and staircases that has served drinkers since it was rebuilt after the Great Fire. Literary London drank here, and it still feels like it.
+Go down Wine Office Court, a narrow passage off Fleet Street, and the Cheshire Cheese opens into a maze of small, dark-paneled rooms with sawdust on the floors, old fireplaces, and staircases that keep going down into vaulted cellars. Historic England dates the building to the late 1600s, soon after the Great Fire of 1666 destroyed its predecessor.
 
-**Our tip:** It's a Samuel Smith's pub: cheap, own-brand beer, and no phones or laptops in the bar. Explore the cellar rooms.
+Literary London has always claimed it. Dr. Johnson lived around the corner in Gough Square, and the story goes that he drank here, though there's no record that he did; Dickens is said to have been a regular too. What's certain is Polly, a famously foul-mouthed African grey parrot whose death in 1926 was reported in newspapers around the world. She's still here, stuffed, above the bar.
+
+It's a Samuel Smith's pub, which means cheap own-brand beer and a few house rules. Explore every room before you settle: first-timers always find one they missed.
+
+**Our tip:** Sam Smith's rules apply: no phones or laptops in the bar (step outside to take a call) and no swearing. Head downstairs to the cellar bars.
