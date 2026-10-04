@@ -14,7 +14,9 @@ const { places, themes, trails } = await loadAll();
 const { Content } = await render(theme);
 const mine = places.filter((p) => p.data.themes.includes(theme.id));
 const featured = theme.data.featured.map((s) => mine.find((p) => p.id === s)).filter(Boolean) as typeof mine;
-const rest = mine.filter((p) => !featured.includes(p));
+const rest = mine.filter((p) => !featured.includes(p) && p.data.depth !== 'listing');
+// Quick listings (§6.1) go in a compact list after the written-up places.
+const listings = mine.filter((p) => !featured.includes(p) && p.data.depth === 'listing');
 const byType = [...new Set(rest.map((p) => p.data.type))].map((t) => ({ t, list: rest.filter((p) => p.data.type === t) }));
 const myTrails = trails.filter((t) => t.data.themes.includes(theme.id));
 ---
@@ -49,6 +51,21 @@ const myTrails = trails.filter((t) => t.data.themes.includes(theme.id));
             <div class="grid">{list.map((p) => <PlaceCard place={p} />)}</div>
           </>
         ))}
+        {listings.length > 0 && (
+          <section>
+            <h2>More places we recommend</h2>
+            <ul class="listing-list">
+              {listings.map((p) => (
+                <li>
+                  <a href={u(`places/${p.id}/`)}>{p.data.name}</a>
+                  {p.data.badge === 'favourite' && <span class="badge favourite">★</span>}
+                  <span class="muted"> · <span class="dot" style={`--c:${typeInfo(p.data.type).color}`}></span>{typeInfo(p.data.type).single} · {p.data.area}</span>
+                  <div class="muted">{p.data.summary}</div>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </>
     )}
   </div>

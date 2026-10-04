@@ -187,3 +187,14 @@ a.card:hover { border-color: var(--muted); }
 .compact-themes .n { margin-left: auto; color: var(--muted); font-size: .8rem; }
 .map-teaser { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); align-items: start; }
 @media (min-width: 860px) { .map-teaser { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); } }
+
+/* Dark mode: OSM has no dark tiles, so darken them with a filter. */
+.lg-tiles-dark { filter: invert(1) hue-rotate(180deg) brightness(.95) contrast(.9); }
+
+/* Quick listings (§6.1) */
+.listing-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
+.listing-list li { padding: 10px 12px; border-left: 3px solid var(--line); background: var(--surface); border-radius: 0 8px 8px 0; }
+.listing-list a { font-weight: 600; }
+.listing-list .muted { font-size: .9rem; }
+.listing-list .badge { margin-left: 6px; }
+.listing-note { font-size: .9rem; font-style: italic; }

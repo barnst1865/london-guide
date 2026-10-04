@@ -36,3 +36,9 @@ Work through the sessions in this order; sessions 1–5 can run in parallel. Sta
 - **Commit and push after every session.** Drafts never show, so pushing is safe.
 - **Sessions on this computer can't run `npm run check`** (no command line), so they hand off to you: run `npm run check` in the LondonGuide folder before pushing, and `npm run dev` to preview drafts at http://localhost:4321/london-guide/. If a push ever breaks the build, the live site stays on the last good version and the Actions tab shows why.
 - **Visiting wishlist restaurants:** after each visit, change the badge to `like` or `favourite`, add a line in our voice, and set `visibility: public`. You can do this by hand or in any session.
+
+## After launch
+
+1. **Quick listings:** put the remaining ~140 triage places on the map as short listings (three sessions; prompts in `planning/session-prompts.md`).
+2. **Theme build-outs:** turn listings into full pages theme by theme, and write intros for the themes that don't have one yet.
+3. **Day trips:** resume the 130 parked day-trip rows and settle the two open day-trip questions in `planning/requests.md`.

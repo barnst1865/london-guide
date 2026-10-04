@@ -43,3 +43,32 @@ Start each one as a new Cowork session in the **London Guide** project, with the
 > We're working on Where We'd Take You in London. Read `CLAUDE.md`, `PROJECT_INSTRUCTIONS.md`, `planning/launch-plan.md`, `planning/backlog.md`, `planning/requests.md` and `planning/ideas.md` in the connected LondonGuide folder, and list `content/places/` before creating anything. If a place file already exists (another session may have written it), add your theme to it instead of duplicating it. Note: `sources/triage/handoff.md` was written before the badge change. `favourite` is now the only badge, it's optional, and the schema already allows it (§5.4).
 >
 > This is **Session 6: the fifth launch theme, [`kids` (With Kids) OR `wild-london` (Parks, Walks & Wild London, plus the Thames Path trail from idea #24)]**. Sources: that theme's section of `sources/triage/handoff.md`, plus [for wild-london: idea #24's route and stops]. Goal for launch: **at least 5–8 public places**, the theme intro, 3–4 `featured`, [and for wild-london: the Thames Path trail, using segments, optional stops, waypoints for bridge crossings, and short and long variants (§6.3)]. Interview me first, then propose, sort, research and write as in §10.3. Set `visibility: public` only on places I've approved that have `last_verified`. Finish by logging the session, updating the backlog row, and listing the files you changed so I can run `npm run check`, then commit and push.
+
+---
+
+# Quick-listing sessions (after launch)
+
+These put the ~140 remaining London places from the Google Maps triage on the site as **quick listings** (`depth: listing`, §6.1): verified facts and a one-line summary, with full write-ups later as each theme is built out. Three sessions, which can run in parallel. Day-trip rows, the deferred spy rows and whole streets (e.g. Brick Lane, which becomes an area guide) are out of scope.
+
+## Shared prompt (fill in the [brackets])
+
+> We're working on Where We'd Take You in London. Read `CLAUDE.md`, `PROJECT_INSTRUCTIONS.md` (especially §3, §6.1 "Quick listings", §7, §8), `planning/backlog.md` and `planning/requests.md` in the connected LondonGuide folder, and list `content/places/`.
+>
+> This is a **quick-listing session for [THEMES]**. Source: `sources/triage/google-maps-triage.csv`, rows where `decision` is `include`, `scope` is `london`, and the first theme in `proposed_themes` is one of [THEMES]. Skip any row that already has a place file (check by name; some names differ, e.g. "The Red Lion, Mayfair" is `red-lion-duke-of-york-street`). Skip whole streets or districts (§5.6).
+>
+> For each place:
+> 1. **Verify** that it's still open and at that address (recent reviews, its website, press), then find the nearest station and the official website. Geocode the coordinates from the address; don't use the triage's approximate coords.
+> 2. **Write a listing file**: `depth: listing`, the type and themes from the triage, `badge: favourite` only where the triage says favourite, sensible tags, a summary (≤160 chars) in our voice built on the family's angle in the triage notes, and optionally one or two sentences plus an **Our tip:** line if the notes have one. Fill in `sources` and `last_verified`. Follow §3 for location precision (private homes and film exteriors are street-level only) and §7 for legends.
+> 3. Set `visibility: public` once facts are verified. If a place has closed or moved, or you can't verify it, leave it as a draft and say why in a comment.
+>
+> Work in **batches of about 15**. Before writing each batch, show me a short table (name, type, area, open status, one-line summary) so I can drop or correct anything. After writing, record each new slug in a `place_file` column of the triage CSV.
+>
+> Finish by logging the session in `planning/sessions/`, updating the backlog rows for these themes, and listing the files you changed so I can run `npm run check`, then commit and push.
+
+## The three sessions
+
+| Session | [THEMES] | About how many |
+|---|---|---|
+| Listings A | `historic-pubs`, `drinks` | ~48 |
+| Listings B | `eat`, `markets-food-shops` | ~49 |
+| Listings C | `on-screen-on-record`, `kids`, `science-curious`, `transit-hidden-city`, `writers-artists-makers`, `only-in-london`, `play-games-music`, `medieval-old-london`, `wild-london` | ~36 |

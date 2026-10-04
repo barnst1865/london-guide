@@ -38,6 +38,8 @@ const places = defineCollection({
       sources: z.array(z.string()).default([]),
       // Optional one-liner from our kids, shown as a quote. No names or ages (§3).
       kids_say: z.string().max(140).optional(),
+      // `listing` = quick listing (summary + practical facts, little or no body); `full` = written-up page (§6.1).
+      depth: z.enum(['full', 'listing']).default('full'),
     })
     .refine((d) => d.visibility === 'draft' || d.last_verified, {
       message: 'public places must have last_verified (facts checked before publishing)',

@@ -38,6 +38,7 @@ const statusNote = { seasonal: 'Seasonal: check dates before you go', 'temporari
       <article class="prose">
         <p class="lede">{d.summary}</p>
         <Content />
+        {d.depth === 'listing' && <p class="muted listing-note">A short listing for now: we'll write this one up properly soon.</p>}
         {d.kids_say && (
           <blockquote class="kids-say"><p>“{d.kids_say}”</p><footer>Our kids</footer></blockquote>
         )}

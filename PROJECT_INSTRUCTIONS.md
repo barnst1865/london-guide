@@ -180,6 +180,8 @@ Body: 80–200 words in our voice (see §7).
 **Our tip:** one practical line (e.g., "Sam Smith's pub: no phones at the bar, cash-light prices, go downstairs").
 ```
 
+**Quick listings.** `depth: listing` marks a short entry: all the usual front matter (verified address, coordinates, station, status, `last_verified`, sources) and a summary in our voice, but little or no body. Listings appear on the map, on type pages and in a compact "More places we recommend" list at the end of their theme page; the place page says a fuller write-up is coming. When a theme session writes one up properly, it removes `depth: listing` (the default is `full`). Listings let every place we recommend reach the map before it gets a full page.
+
 Optional: `kids_say: "..."` (≤140 chars), a one-line quote from our kids, shown on the place page as "Our kids". No names or ages (§3).
 
 **Required:** `name`, `type`, `themes` (≥1), `summary`, `area`, `coords`, `location_precision`, `status`, `visibility`. `last_verified` is required before a place can be `public`; the build refuses public places without it.
@@ -446,3 +448,4 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 13 | **Markets & Shops** | `markets-food-shops` retitled "Markets & Shops" to include specialist non-food shops (id unchanged) |
 | 14 | **Streets and districts** | Handled as "Around town" area guides, not place files (§5.6) |
 | 15 | **Pre-launch review** | 2026-10-04: themes need 3+ public places to appear on the home page; links to drafts render as plain text; research-note comments are stripped from pages; temporarily closed places go back to draft |
+| 16 | **Quick listings** | 2026-10-04: remaining triage places go on the site first as `depth: listing` entries (verified facts and a one-line summary), then become full pages as themes are built out (§6.1) |
