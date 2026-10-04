@@ -12,7 +12,7 @@ location_precision: exact
 stations: [Whitechapel, Aldgate East, Shadwell]
 pair_with: [tayyabs, beigel-bake]
 status: temporarily-closed
-visibility: public
+visibility: draft
 last_verified: 2026-10-04
 sources:
   - https://www.eastlondonlines.co.uk/2013/02/hunt-for-authentic-pakistani-food-in-east-london/

@@ -252,11 +252,11 @@ Body in our voice, with ## headings.
 
 ### 6.6 Internal links
 
-In any Markdown body, link to other pages with `[text](place:slug)`, `[text](theme:id)`, `[text](trail:id)` or `[text](guide:id)`. The build turns these into correct links and **fails if the target doesn't exist**. Don't write `/places/...` paths by hand, because the site lives under a base path.
+In any Markdown body, link to other pages with `[text](place:slug)`, `[text](theme:id)`, `[text](trail:id)` or `[text](guide:id)`. The build turns these into correct links and **fails if the target doesn't exist**. On the published site, a link to a draft (or closed) target is shown as plain italic text instead of a dead link. `<!-- comments -->` in bodies are for research notes: they stay in the repo but are stripped from published pages (the repo is still public, so keep §3 in mind). Don't write `/places/...` paths by hand, because the site lives under a base path.
 
 ### 6.7 Site settings — `content/site.yaml`
 
-`title`, `tagline`, and `startHere`: up to three theme ids shown large at the top of the home page. (The old `showWishlist` switch was retired with the wishlist badge.)
+`title`, `tagline`, `startHere` (up to three theme ids shown large at the top of the home page) and `minThemePlaces` (a theme appears on the published home page only once it has at least this many public places; currently 3). (The old `showWishlist` switch was retired with the wishlist badge.)
 
 ### 6.8 Validation
 
@@ -445,3 +445,4 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 12 | **Whose recommendations** | Decided 2026-10-04: the guide gathers recommendations from the family and trusted friends and colleagues who've been; it doesn't claim we've visited everything. Research-only finds stay as drafts until someone we trust has been (§2.3, §5.4) |
 | 13 | **Markets & Shops** | `markets-food-shops` retitled "Markets & Shops" to include specialist non-food shops (id unchanged) |
 | 14 | **Streets and districts** | Handled as "Around town" area guides, not place files (§5.6) |
+| 15 | **Pre-launch review** | 2026-10-04: themes need 3+ public places to appear on the home page; links to drafts render as plain text; research-note comments are stripped from pages; temporarily closed places go back to draft |

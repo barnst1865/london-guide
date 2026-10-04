@@ -2,4 +2,6 @@
 title: "Where We'd Take You in London"
 tagline: "The places we send our friends and family — past the usual tourist circuit."
 # Up to 3 theme ids shown large in the home page's "Start here" row (only themes with places appear).
-startHere: [historic-pubs, eat, wild-london]
+startHere: [spies-cold-war, historic-pubs, eat]
+# On the published home page, a theme appears only once it has at least this many public places.
+minThemePlaces: 3

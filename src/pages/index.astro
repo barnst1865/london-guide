@@ -9,7 +9,7 @@ import { TYPES, GUIDE_GROUPS } from '../lib/vocab.mjs';
 const { places, themes, trails, guides } = await loadAll();
 const countFor = (id: string) => places.filter((p) => p.data.themes.includes(id)).length;
 // On the published site, only themes with at least one place appear.
-const shown = themes.filter((t) => SHOW_DRAFTS || countFor(t.id) > 0);
+const shown = themes.filter((t) => SHOW_DRAFTS || countFor(t.id) >= (site.minThemePlaces ?? 1));
 const startHere = (site.startHere ?? []).map((id) => shown.find((t) => t.id === id)).filter(Boolean) as typeof shown;
 const otherThemes = shown.filter((t) => !startHere.includes(t));
 const featuredTrails = (trails.some((t) => t.data.featured) ? trails.filter((t) => t.data.featured) : trails).slice(0, 3);

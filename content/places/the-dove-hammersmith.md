@@ -23,7 +23,7 @@ sources:
   - https://www.dovehammersmith.co.uk/
 ---
 
-The Dove is where our walks along the river at Hammersmith tend to stop. It was licensed by 1740, when it was the Doves Coffee House, and the building, an early-18th-century riverside house with a later front, hasn't changed much since. Inside are low ceilings and old paneling; out back, a small terrace hangs over the Thames.
+The Dove is where our walks along the river at Hammersmith tend to stop. It was probably serving drinks by around 1740 and is first recorded as the Doves Coffee House in 1790, and the building, an early-18th-century riverside house with a later front, hasn't changed much since. Inside are low ceilings and old paneling; out back, a small terrace hangs over the Thames.
 
 Just inside the door is a snug barely bigger than a closet, once listed by Guinness as the smallest public bar in Britain. The legends pile up from there: James Thomson is supposed to have written "Rule, Britannia!" upstairs, and Charles II and Nell Gwyn are said to have met here. Neither is documented.
 

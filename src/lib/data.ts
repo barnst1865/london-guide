@@ -15,6 +15,8 @@ export interface SiteConfig {
   tagline: string;
   /** Theme ids shown as the large "Start here" row on the home page. */
   startHere?: string[];
+  /** Minimum public places before a theme shows on the home page. */
+  minThemePlaces?: number;
 }
 
 export const site: SiteConfig = loadYaml(
