@@ -2,7 +2,6 @@
 name: "Halepi"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: [late-night]
 price: 3
 summary: "London's first Greek-Cypriot restaurant, at the same Bayswater address since 1966: souvla, kleftiko and a proper taverna feel."

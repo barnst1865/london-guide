@@ -2,7 +2,6 @@
 name: "Mohsen"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "A tiny family-run Persian dining room opposite Olympia since the mid-'90s: fresh-baked bread, kebabs and low prices."

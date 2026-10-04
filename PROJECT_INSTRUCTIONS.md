@@ -27,7 +27,7 @@ Secondary audience: **people moving to London**. They're served by the "Living h
 
 1. **Our voice, our opinions.** Write as "we": personal, warm, and a bit wry. Say *why we love it*, not just what it is. A short anecdote beats a Wikipedia summary.
 2. **Beyond the obvious.** Big-name sites are included only when we have a specific angle on them, such as the best entrance, the room most people miss, or what to pair it with. Default to the less-known.
-3. **Honest about what we've done.** Every place carries a badge saying whether we've been and how much we liked it (§5.4).
+3. **Confident recommendations.** The guide gathers recommendations from our family and from trusted friends and colleagues who have been there. If a place is on the site, we're confident it's worth a visit, but we don't claim to have personally visited everything. The only badge is ★ Family favourite, for places we've been to more than once and actively send people to (§5.4). Describe first-hand experiences ("we sat by the fire…") only where they're ours; otherwise recommend plainly ("friends who live nearby swear by it" is fine, but not required).
 4. **Accurate.** Historical claims are fact-checked against reliable sources before publishing (§8).
 5. **Useful on the ground.** Give the nearest station, whether to book, whether it's good for kids, and what's nearby to pair it with.
 6. **Durable.** Avoid details that go stale fast, such as exact opening hours, prices and named staff. Link to the venue's site instead. For rules, fees and charges (transport, pets, driving), link to the official source; our value is experience and tacit advice.
@@ -60,7 +60,7 @@ The site is public, so these rules apply to every file in the repository, not ju
 
 ## 5. How content is organized
 
-There are four ways to cut the content. A place has **one type**, **one or more themes**, **one badge**, and **any number of tags**.
+There are four ways to cut the content. A place has **one type**, **one or more themes**, **any number of tags**, and optionally the **favourite** badge.
 
 ### 5.1 Themes (curated, cross-cutting, "what are you into?")
 
@@ -78,7 +78,7 @@ Themes are the heart of the guide. Each has its own page with an intro written i
 | `historic-pubs` | **Historic Pubs & Restaurants** (id unchanged). Rule: any pub or restaurant **75+ years old** that we include carries this theme | Ye Olde Cheshire Cheese, Ye Olde Mitre, Cittie of Yorke, Olde Wine Shades, Mayflower, Prospect of Whitby, The Grapes, The Harp, French House, Seven Stars |
 | `eat` | **Where We Eat** (by occasion and cuisine) | Dishoom, Punjab, Barbary, Sichuan spots, Indian (Cinnamon Club, Quilon, Kutir), Rules (angle), Brasserie Zédel, Dumplings' Legend |
 | `drinks` | **Bars, Cocktails & Wine** | Gordon's Wine Bar, Duke's, Connaught Bar, Mr Fogg's, Radio Rooftop |
-| `markets-food-shops` | **Markets & Food Shopping** | Borough, Maltby Street, Columbia Road, Neal's Yard Dairy, Gelateria La Romana |
+| `markets-food-shops` | **Markets & Shops**: markets, food shops and specialist shops (antiques, maps, books, toys) | Borough, Maltby Street, Columbia Road, Neal's Yard Dairy, Gelateria La Romana |
 | `sport` | **Sport**: watch it, tour it, run it | Lord's (incl. Eton v Harrow), The Oval, football from Premier League to non-league groundhopping (from our Football Teams map), Wimbledon, Twickenham, Marathon viewing spots |
 | `play-games-music` | **Play, Games & Live Music** | Arcade Battersea, board-game cafés, retro arcades, Flight Club, live-music venues in the rock and Americana tradition |
 | `wild-london` | **Parks, Walks & Wild London** (including foraging, canals and the Thames) | Hampstead Heath, Richmond Park, Regent's Canal walk, Walthamstow Wetlands, Crystal Palace dinosaurs, Thames foreshore (note PLA permit rules) |
@@ -110,14 +110,14 @@ A trail is an ordered sequence of places with walking or transport notes between
 
 Trails can have **named segments** (e.g. "Hammersmith to Barnes"), **optional stops** (detours, shown dashed), **waypoints** (a named point that isn't a place, like a bridge crossing, used to shape the route), and **variants** (shorter or longer ways to do it, optionally naming the stop where a variant ends). See §6.3.
 
-### 5.4 Badges (exactly one per place)
+### 5.4 The favourite badge (optional)
 
 | badge | Label shown | Meaning |
 |---|---|---|
 | `favourite` | ★ Family favourite | We've been more than once and actively send people there |
-| `like` | We like it | We've been and would recommend it |
-| `tip` | Trusted tip | We haven't been, but someone we trust recommends it |
-| `wishlist` | On our list | We want to go. **Hidden for now.** Controlled by one switch, `showWishlist`, in `content/site.yaml`; flipping it to `true` shows these places site-wide with no other changes |
+| *(none)* | *(nothing shown)* | Recommended: we're confident it's worth a visit |
+
+There are no other badges (decided 2026-10-04; `like`, `tip` and `wishlist` were retired and now fail the build). A place goes public when we're confident recommending it, from our own visit or a trusted friend's or colleague's. Places found only through research (e.g. the restaurant research drafts) stay at `visibility: draft` until someone we trust has been. The map's "Favourites only" filter and the home page's "Family favourites" row use this badge.
 
 ### 5.5 Tags (controlled vocabulary; add new ones via the master session)
 
@@ -138,6 +138,8 @@ Guides are written pages that aren't about a single place: how-to advice, essays
 | `essay` | Essays | Longer reads, e.g. historic pubs and restaurants |
 | `living-here` | Living here | For people moving to London: dogs, cars, and so on |
 
+**Streets and districts** (Brick Lane, Carnaby Street, and so on) are handled as `area` guides linking to their standout places, not as place files. A single-spot sight on a street (e.g. the Abbey Road crossing) is still a place file.
+
 A guide can list `places` (shown as cards and on a map at the end) and link to anything inline with the internal link syntax (§6.6). The old Practical London page now redirects to the Guides page. Any session may draft a guide; new groups are a master-session change.
 
 ## 6. Data model
@@ -153,7 +155,7 @@ Slug: lowercase, hyphenated, unique, stable (e.g., `ye-olde-cheshire-cheese`). N
 name: Ye Olde Cheshire Cheese
 type: pub
 themes: [historic-pubs, medieval-old-london]
-badge: favourite
+badge: favourite                # optional; the only allowed value
 tags: [rainy-day, group-friendly]
 price: 1
 summary: >-                     # ≤160 chars; shown on cards and map popups
@@ -180,7 +182,7 @@ Body: 80–200 words in our voice (see §7).
 
 Optional: `kids_say: "..."` (≤140 chars), a one-line quote from our kids, shown on the place page as "Our kids". No names or ages (§3).
 
-**Required:** `name`, `type`, `themes` (≥1), `badge`, `summary`, `area`, `coords`, `location_precision`, `status`, `visibility`. `last_verified` is required before a place can be `public`; the build refuses public places without it.
+**Required:** `name`, `type`, `themes` (≥1), `summary`, `area`, `coords`, `location_precision`, `status`, `visibility`. `last_verified` is required before a place can be `public`; the build refuses public places without it.
 **Optional:** everything else.
 
 ### 6.2 Theme file — `content/themes/<id>.md`
@@ -254,11 +256,11 @@ In any Markdown body, link to other pages with `[text](place:slug)`, `[text](the
 
 ### 6.7 Site settings — `content/site.yaml`
 
-`title`, `tagline`, `showWishlist` (§5.4), and `startHere`: up to three theme ids shown large at the top of the home page.
+`title`, `tagline`, and `startHere`: up to three theme ids shown large at the top of the home page. (The old `showWishlist` switch was retired with the wishlist badge.)
 
 ### 6.8 Validation
 
-The site build validates every file against this schema and **fails loudly** on errors: missing required fields, unknown theme, type, tag or badge, malformed coordinates, a trail, guide or variant pointing to a non-existent slug, a broken internal link (§6.6), or a duplicate slug. Running `npm run check` before finishing any session is mandatory.
+The site build validates every file against this schema and **fails loudly** on errors: missing required fields, unknown theme, type or tag, any badge other than `favourite`, malformed coordinates, a trail, guide or variant pointing to a non-existent slug, a broken internal link (§6.6), or a duplicate slug. Running `npm run check` before finishing any session is mandatory.
 
 **Previewing drafts:** `npm run dev` shows draft places, themes and trails (with a yellow banner) so they can be reviewed locally; the published build never includes them. On the published home page, themes appear only once they have at least one public place.
 
@@ -316,7 +318,7 @@ london-guide/
 │   ├── themes/<id>.md
 │   ├── trails/<id>.md
 │   ├── guides/<id>.md
-│   └── site.yaml                ← site-wide settings (title, showWishlist, startHere)
+│   └── site.yaml                ← site-wide settings (title, tagline, startHere)
 ├── src/                         ← Astro site code (master session only)
 ├── public/                      ← static assets: icons, our own photos, robots.txt
 ├── .github/workflows/deploy.yml ← builds and publishes on push to main
@@ -380,7 +382,7 @@ Version 1 has no photos, which keeps it simple and safe. If added later, use **o
 1. **Orient.** Read this file, the backlog, `planning/ideas.md` (for ideas tagged with this theme), the theme file, and the existing places (by name, type and themes) to avoid duplicates.
 2. **Interview.** Ask what we've done, what we loved, stories worth telling, and which places from the source material belong here.
 3. **Propose.** Suggest a candidate list mixing our known places and beyond-the-obvious ideas, each with a one-line pitch.
-4. **Triage with the user.** For each candidate, decide include / wishlist / skip, plus a badge and a type.
+4. **Triage with the user.** For each candidate, decide include or skip, a type, and whether it's a family favourite. Places we haven't been to yet but want to vet stay as drafts.
 5. **Research and verify.** Check facts, open status, address, coordinates and station (§8).
 6. **Draft.** Write place files with `visibility: draft`, plus the theme intro and an optional trail.
 7. **Review.** The user reads the drafts, edits voice and adds anecdotes, then the place is flipped to `public`.
@@ -401,9 +403,9 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 
 | Source | Location | Handling |
 |---|---|---|
-| **Google Maps triage results** | `sources/triage/google-maps-triage.csv` | **Start here for any theme.** 503 rows (London and day trips) with `decision` (include/skip), `proposed_type`, `proposed_themes`, `proposed_badge` (a `?` means "confirm we've been"), notes with the family's angle, and approximate coords (re-geocode from the address; don't trust the decoded coords). |
+| **Google Maps triage results** | `sources/triage/google-maps-triage.csv` | **Start here for any theme.** 503 rows (London and day trips) with `decision` (include/skip), `proposed_type`, `proposed_themes`, `proposed_badge` (only `favourite` is meaningful now; anything else is ignored), notes with the family's angle, and approximate coords (re-geocode from the address; don't trust the decoded coords). |
 | WMD tour draft | `sources/docs/UK WMD Tour - Fleshed OUt.docx` | Goes to the `spies-cold-war` and `wartime-london` themes plus the **WMD Tour** trail. Full fact-check and privacy pass (§3, §8); known errors are listed in §8. |
-| Office restaurant and pub list | `sources/docs/London Restaurants.docx` | Goes to `eat`, `historic-pubs` and `drinks`. Places we've been get `favourite` or `like`; the rest get `tip`. Rewrite from scratch with no work framing. Verify each is still open. |
+| Office restaurant and pub list | `sources/docs/London Restaurants.docx` | Goes to `eat`, `historic-pubs` and `drinks`. Include only places we're confident recommending; mark `favourite` where it applies. Rewrite from scratch with no work framing. Verify each is still open. |
 | OneNote export | `sources/docs/UK Tour Guide - 8 June 2025.pdf` | Duplicate of the two documents above; reference only. |
 | Our 5-star Google reviews | `sources/google-maps/takeout/Reviews.json` | Already folded into the triage. |
 | London Football Teams map | `sources/google-maps/takeout/London Football Teams.kmz` | `sport` theme (possibly a groundhopping trail). |
@@ -433,10 +435,13 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 2 | **Repo location** | Decided: a dedicated folder on the desktop's C: drive, outside OneDrive. Raw sources get copied into its git-ignored `sources/` so sessions only need this one folder |
 | 3 | **GitHub** | Decided: the user's existing GitHub account (connected to Claude). Repo named once the site is named. Default flow: sessions commit locally and **the user pushes** (pushing = publishing, so this is the review gate). Revisit if direct pushes from sessions turn out to be easy |
 | 4 | **Spelling** | Decided: American spelling for our prose; British proper names unchanged |
-| 5 | **Wishlist visibility** | Decided: hidden for now, behind the `showWishlist` switch in `content/site.yaml` |
+| 5 | **Badges** | Decided 2026-10-04: `favourite` is the only badge and is optional. `like`, `tip`, `wishlist` and the `showWishlist` switch were retired. Unvetted places stay as drafts (§5.4) |
 | 6 | **Themes** | Decided: themes are a living list. Sessions can add draft themes and update existing ones; the master session approves and orders them (§5.1). The starter list in §5.1 stands until a session changes it |
 | 7 | **Browse-first** | Decided: no planners, quizzes or checklists (§2.7) |
 | 8 | **Guides** | Decided: a Guides section of standalone pages, grouped as Practical London, Around town, Essays and Living here (§5.6). Practical London became guides |
 | 9 | **People moving here** | Decided: served by the "Living here" guide group, worded generically (§1) |
 | 10 | **New theme** | Added `only-in-london` (idea #13) |
 | 11 | **More themes** | Added `on-screen-on-record` (film, TV, music landmarks) and `writers-artists-makers` (2026-10-03). Both post-launch |
+| 12 | **Whose recommendations** | Decided 2026-10-04: the guide gathers recommendations from the family and trusted friends and colleagues who've been; it doesn't claim we've visited everything. Research-only finds stay as drafts until someone we trust has been (§2.3, §5.4) |
+| 13 | **Markets & Shops** | `markets-food-shops` retitled "Markets & Shops" to include specialist non-food shops (id unchanged) |
+| 14 | **Streets and districts** | Handled as "Around town" area guides, not place files (§5.6) |

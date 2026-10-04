@@ -2,7 +2,6 @@
 name: "Asakusa"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 2
 summary: "A dark, unchanged izakaya near Mornington Crescent where the menu is handwritten and much of the room speaks Japanese."

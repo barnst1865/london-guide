@@ -28,7 +28,7 @@ const statusNote = { seasonal: 'Seasonal: check dates before you go', 'temporari
       </p>
       <h1>{d.name}</h1>
       <div class="badges">
-        <span class:list={['badge', d.badge]}>{badgeInfo(d.badge).label}</span>
+        {d.badge && <span class:list={['badge', d.badge]}>{badgeInfo(d.badge)?.label}</span>}
         {d.visibility === 'draft' && <span class="badge draft">Draft</span>}
         {statusNote && <span class="badge">{statusNote}</span>}
       </div>

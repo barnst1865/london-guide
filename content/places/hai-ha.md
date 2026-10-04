@@ -2,7 +2,6 @@
 name: "Hai Ha"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "A Hackney Vietnamese restaurant whose pavement tables fill with Vietnamese regulars. Northern dishes like cha ca la vong."

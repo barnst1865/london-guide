@@ -2,7 +2,6 @@
 name: "Georgi Markov and the Umbrella (Waterloo Bridge)"
 type: historic-site
 themes: [spies-cold-war]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [free, quick-visit, outdoors]
 price: 0
 summary: "In 1978 a Bulgarian dissident was jabbed with a ricin pellet, reportedly from an umbrella, while waiting for a bus here."

@@ -2,7 +2,6 @@
 name: "First V-2 Rocket on London"
 type: historic-site
 themes: [wartime-london]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [free, quick-visit]
 price: 0
 summary: "A memorial on a quiet Chiswick street marks the first V-2 rocket to hit London, on 8 September 1944."

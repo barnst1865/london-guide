@@ -2,7 +2,6 @@
 name: "Satay House"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "London's longest-running Malaysian restaurant, open since 1973 on a quiet street behind Edgware Road and still run by the founding family."

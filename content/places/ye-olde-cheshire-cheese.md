@@ -2,7 +2,6 @@
 name: "Ye Olde Cheshire Cheese"
 type: pub
 themes: [historic-pubs]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [rainy-day, group-friendly]
 price: 1
 summary: "A warren of dark, wood-panelled rooms off Fleet Street, rebuilt right after the Great Fire of 1666."

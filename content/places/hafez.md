@@ -2,7 +2,6 @@
 name: "Hafez"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 2
 summary: "A Bayswater Persian family restaurant since 1983, with its own bread oven, saffron rice and slow stews. Iranian Londoners still recommend it."

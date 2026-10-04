@@ -2,7 +2,6 @@
 name: "Tokyo Diner"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 2
 summary: "Japanese home cooking in a former Chinatown launderette since 1992. No tipping, Japanese staff, and curry rice done right."

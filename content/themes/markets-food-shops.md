@@ -1,9 +1,9 @@
 ---
-title: "Markets & Food Shopping"
-short: "Markets & food"
+title: "Markets & Shops"
+short: "Markets & shops"
 order: 9
 color: "#5a8a2e"
-blurb: "Markets, cheesemongers and the food to bring home."
+blurb: "Markets, cheesemongers and specialist shops: antiques, maps, books, toys and food to bring home."
 featured: []
 visibility: public
 ---

@@ -2,7 +2,6 @@
 name: "The Mayflower"
 type: pub
 themes: [historic-pubs]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [rainy-day]
 price: 2
 summary: "A riverside pub in old Rotherhithe, close to where the Mayflower set out in 1620."

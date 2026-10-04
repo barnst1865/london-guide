@@ -15,7 +15,7 @@ const shownTags = d.tags.filter((x) => ['kid-friendly', 'free', 'rainy-day', 'bo
   <div class="meta">
     <span><span class="dot" style={`--c:${t.color}`}></span>{t.single}</span>
     <span>{d.area}</span>
-    <span class:list={['badge', d.badge]}>{badgeInfo(d.badge).short}</span>
+    {d.badge && <span class:list={['badge', d.badge]}>{badgeInfo(d.badge)?.short}</span>}
     {d.visibility === 'draft' && <span class="badge draft">Draft</span>}
     {shownTags.map((x) => <span class="tag">{TAGS[x as keyof typeof TAGS]}</span>)}
   </div>

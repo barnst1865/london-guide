@@ -22,7 +22,7 @@ Work through the sessions in this order; sessions 1–5 can run in parallel. Sta
 | 1 | **Google Maps triage: finish and hand off** | The last few rows researched and decided in `sources/triage/google-maps-triage.csv` | 0 |
 | 2 | **Theme: Historic Pubs & Restaurants** (+ City pub crawl trail) | ~8–12 public places, theme intro, 1 trail | 1 helps |
 | 3 | **Themes: Spies & Cold War + Wartime London** (+ WMD Tour) | ~10–15 public places, both intros, WMD Tour trail (London part) | 0 (WMD doc) |
-| 4 | **Theme: Where We Eat** (finish) | Our own restaurants (Google reviews, office list, triage), wishlist entries we've visited re-badged, intro | 1 helps |
+| 4 | **Theme: Where We Eat** (finish) | Our own restaurants (Google reviews, office list, triage), research drafts we've now tried rewritten and published, intro | 1 helps |
 | 5 | **Guides: Practical London** | 4 guides written and public | — |
 | 6 | **Fifth theme** (Parks & walks + Thames Path, or With kids) | ~5–8 places, intro, optionally the Thames Path trail | 1 helps |
 | 7 | **Master: pre-launch review** (this coordinating session) | Fixes, home text, launch checklist ticked, then share the link | 2–6 |
@@ -35,4 +35,4 @@ Work through the sessions in this order; sessions 1–5 can run in parallel. Sta
 
 - **Commit and push after every session.** Drafts never show, so pushing is safe.
 - **Sessions on this computer can't run `npm run check`** (no command line), so they hand off to you: run `npm run check` in the LondonGuide folder before pushing, and `npm run dev` to preview drafts at http://localhost:4321/london-guide/. If a push ever breaks the build, the live site stays on the last good version and the Actions tab shows why.
-- **Visiting wishlist restaurants:** after each visit, change the badge to `like` or `favourite`, add a line in our voice, and set `visibility: public`. You can do this by hand or in any session.
+- **The restaurant research drafts:** these stay as drafts until we're confident recommending them, usually after a visit. Then rewrite the "It's on our list because…" text in our own voice, add `badge: favourite` if it earned it, set `last_verified`, and set `visibility: public`. You can do this by hand or in any session.

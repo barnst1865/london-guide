@@ -29,7 +29,7 @@ npm run stale    # places and guides whose facts haven't been checked in 12+ mon
 | `content/places/` | One Markdown file per place |
 | `content/themes/` | One file per theme (title, colour, intro) |
 | `content/trails/` | Ordered routes through several places |
-| `content/site.yaml` | Site settings (`showWishlist`, home-page `startHere` themes) |
+| `content/site.yaml` | Site settings (title, tagline, home-page `startHere` themes) |
 | `content/guides/` | Written guides and essays (Practical London, Around town, Essays, Living here) |
 | `src/` | Site code (layouts, pages, map) |
 | `planning/` | Backlog, session logs, change requests |

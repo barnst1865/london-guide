@@ -15,7 +15,7 @@ const { places, themes } = await loadAll();
 const { Content } = await render(guide);
 const d = guide.data;
 const group = GUIDE_GROUPS[d.group as keyof typeof GUIDE_GROUPS];
-// Places that aren't visible (drafts, wishlist) are quietly left out.
+// Places that aren't visible (drafts) are quietly left out.
 const mine = d.places.map((s) => places.find((p) => p.id === s)).filter(Boolean) as typeof places;
 const myThemes = d.themes.map((id) => themes.find((t) => t.id === id)).filter(Boolean) as typeof themes;
 ---

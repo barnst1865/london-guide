@@ -2,7 +2,6 @@
 name: "Mangal Ocakbaşı"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "Dalston's original Turkish charcoal grill, cooking lamb over the coals in front of you since the late '80s. Bring your own bottle."

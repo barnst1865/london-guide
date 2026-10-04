@@ -2,7 +2,6 @@
 name: "Esarn Kheaw"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "A family-run northeastern Thai kitchen in Shepherd's Bush since 1992, with Isaan cooking you rarely see in London. Brace for the chilli."

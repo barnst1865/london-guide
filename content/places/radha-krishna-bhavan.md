@@ -2,7 +2,6 @@
 name: "Radha Krishna Bhavan"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 2
 summary: "Tooting's long-running Keralan restaurant, kitsch interior and all, known for coconut seafood curries. Ragam's sister."

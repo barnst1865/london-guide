@@ -2,7 +2,6 @@
 name: "Churchill War Rooms"
 type: museum
 themes: [wartime-london, spies-cold-war]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [rainy-day, booking-essential, teen-appeal]
 price: "\u00a3\u00a3"
 summary: "The underground bunker where Churchill's government ran the war, left almost exactly as it was in 1945."

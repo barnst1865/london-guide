@@ -13,7 +13,6 @@ export type TrailStop = Trail['data']['stops'][number];
 export interface SiteConfig {
   title: string;
   tagline: string;
-  showWishlist: boolean;
   /** Theme ids shown as the large "Start here" row on the home page. */
   startHere?: string[];
 }
@@ -46,7 +45,6 @@ export function loadAll() {
 
     const places = allPlaces
       .filter((p) => visible(p.data.visibility))
-      .filter((p) => site.showWishlist || p.data.badge !== 'wishlist')
       .filter((p) => p.data.status !== 'closed')
       .sort((a, b) => a.data.name.localeCompare(b.data.name));
     const placeIds = new Set(places.map((p) => p.id));
@@ -105,7 +103,8 @@ export function u(p = '') {
 }
 
 export const typeInfo = (t: string) => TYPES[t as keyof typeof TYPES];
-export const badgeInfo = (b: string) => BADGES[b as keyof typeof BADGES];
+/** Badge display info, or undefined for places without a badge. */
+export const badgeInfo = (b?: string) => (b ? BADGES[b as keyof typeof BADGES] : undefined);
 
 /** Compact data for the map (no body text). Imprecise locations get no directions link. */
 export function toMapPoint(p: Place, themes: Theme[]) {
@@ -118,8 +117,8 @@ export function toMapPoint(p: Place, themes: Theme[]) {
     color: typeInfo(d.type).color,
     themes: d.themes,
     themeTitles: d.themes.map((t) => themes.find((x) => x.id === t)?.data.short ?? t),
-    badge: d.badge,
-    badgeLabel: badgeInfo(d.badge).label,
+    badge: d.badge ?? '',
+    badgeLabel: badgeInfo(d.badge)?.label ?? '',
     tags: d.tags,
     summary: d.summary,
     area: d.area,

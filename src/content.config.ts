@@ -1,7 +1,7 @@
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
-import { TYPES, BADGES, TAGS, STATUSES, PRECISIONS, GUIDE_GROUPS } from './lib/vocab.mjs';
+import { TYPES, TAGS, STATUSES, PRECISIONS, GUIDE_GROUPS } from './lib/vocab.mjs';
 
 const keys = (o: Record<string, unknown>) => Object.keys(o) as [string, ...string[]];
 const slug = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'must be lowercase-hyphenated');
@@ -14,7 +14,13 @@ const places = defineCollection({
       name: z.string().min(1),
       type: z.enum(keys(TYPES)),
       themes: z.array(slug).min(1),
-      badge: z.enum(keys(BADGES)),
+      // Only `favourite` (§5.4). Leftover like / tip / wishlist values fail the build so they get cleaned up.
+      badge: z
+        .string()
+        .refine((b) => b === 'favourite', {
+          message: "badge can only be 'favourite' (or leave it out). like / tip / wishlist were retired on 2026-10-04",
+        })
+        .optional(),
       tags: z.array(z.enum(keys(TAGS))).default([]),
       price: z.union([z.number().int().min(0).max(4), z.string()]).optional(),
       summary: z.string().min(1).max(160),

@@ -2,7 +2,6 @@
 name: "Lahore Kebab House"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "Whitechapel's other great Punjabi grill, feeding the East End since the early 1970s. Bring your own drinks."

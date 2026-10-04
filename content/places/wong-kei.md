@@ -2,7 +2,6 @@
 name: "Wong Kei"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "Chinatown's famous five-floor Cantonese canteen, a British-Chinese institution known for cheap plates and brusque service."

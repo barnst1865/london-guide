@@ -19,11 +19,9 @@ export const TYPES = {
   'day-trip': { label: 'Day trips', single: 'Day trip', color: '#556270' },
 };
 
+// Badges (§5.4): only `favourite`. A place with no badge is simply recommended.
 export const BADGES = {
   favourite: { label: '★ Family favourite', short: 'Favourite' },
-  like: { label: 'We like it', short: 'We like it' },
-  tip: { label: 'Trusted tip', short: 'Trusted tip' },
-  wishlist: { label: 'On our list', short: 'On our list' },
 };
 
 export const TAGS = {

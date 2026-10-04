@@ -2,7 +2,6 @@
 name: "Prospect of Whitby"
 type: pub
 themes: [historic-pubs]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: []
 price: 2
 summary: "Claims to be London's oldest riverside pub, with a noose hanging over the Thames out back."

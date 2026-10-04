@@ -28,7 +28,7 @@ function popup(p: Point) {
     return box;
   }
   box.append(el('h4', '', p.name));
-  box.append(el('div', 'pmeta', `${p.typeLabel} · ${p.area} · ${p.badgeLabel}${p.draft ? ' · DRAFT' : ''}`));
+  box.append(el('div', 'pmeta', [p.typeLabel, p.area, p.badgeLabel, p.draft ? 'DRAFT' : ''].filter(Boolean).join(' · ')));
   box.append(el('p', '', p.summary));
   if (!p.precise) box.append(el('p', 'pmeta', 'Approximate location'));
   const a = el('a', '', 'Read more →') as HTMLAnchorElement;
@@ -60,11 +60,12 @@ export async function initMaps() {
     const points: Point[] = JSON.parse(host.querySelector('script')?.textContent || '[]');
 
     const map = L.map(host, { scrollWheelZoom: host.classList.contains('full'), zoomControl: true });
-    const style = dark() ? 'dark_all' : 'rastertiles/voyager';
-    L.tileLayer(`https://{s}.basemaps.cartocdn.com/${style}/{z}/{x}/{y}{r}.png`, {
+    // OpenStreetMap's standard tiles: free, no API key, attribution required.
+    // (CARTO basemaps started requiring an API key, so we moved off them.)
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
-      subdomains: 'abcd',
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      className: dark() ? 'lg-tiles-dark' : '',
     }).addTo(map);
 
     const useCluster = points.length > 25;

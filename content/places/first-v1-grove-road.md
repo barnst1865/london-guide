@@ -2,7 +2,6 @@
 name: "First V-1 Flying Bomb on London"
 type: historic-site
 themes: [wartime-london]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [free, quick-visit]
 price: 0
 summary: "A plaque on a railway bridge in Bow marks where the first V-1 'doodlebug' hit London, on 13 June 1944."

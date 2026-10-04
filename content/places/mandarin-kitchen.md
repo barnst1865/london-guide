@@ -2,7 +2,6 @@
 name: "Mandarin Kitchen"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 3
 summary: "The Queensway Cantonese seafood restaurant, open since 1978, where Hong Kong and Singaporean visitors queue for lobster noodles."

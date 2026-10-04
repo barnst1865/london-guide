@@ -2,7 +2,6 @@
 name: "Gifto's Lahore Karahi"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: [group-friendly]
 price: 2
 summary: "Southall's big, loud Lahori grill house, where local families book Ramadan iftars. A restaurant since 1994, a Southall grocery before that."

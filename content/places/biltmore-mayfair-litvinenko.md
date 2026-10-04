@@ -2,7 +2,6 @@
 name: "Litvinenko and the Polonium Tea (Grosvenor Square)"
 type: historic-site
 themes: [spies-cold-war]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [free, quick-visit]
 price: 0
 summary: "The hotel where Alexander Litvinenko was poisoned with polonium-210 in 2006. It has since been renamed."

@@ -2,7 +2,6 @@
 name: "Lalibela"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 1
 summary: "A cozy two-floor Ethiopian restaurant in Tufnell Park, open since the early '90s: shared platters on injera and a coffee ceremony."

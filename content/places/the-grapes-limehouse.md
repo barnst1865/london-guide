@@ -2,7 +2,6 @@
 name: "The Grapes"
 type: pub
 themes: [historic-pubs]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: []
 price: 2
 summary: "A narrow riverside pub in Limehouse that Dickens knew, now co-owned by Sir Ian McKellen."

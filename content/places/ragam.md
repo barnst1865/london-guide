@@ -2,7 +2,6 @@
 name: "Ragam"
 type: restaurant
 themes: [eat]
-badge: wishlist        # not visited yet; change to favourite / like once we've been
 tags: []
 price: 2
 summary: "A Keralan canteen near Goodge Street serving dosas and coconut curries since 1985, at a fraction of the prices around it."

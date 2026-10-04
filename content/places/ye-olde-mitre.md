@@ -2,7 +2,6 @@
 name: "Ye Olde Mitre"
 type: pub
 themes: [historic-pubs]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [quick-visit]
 price: 1
 summary: "A tiny Tudor-era pub hidden down an alley in Hatton Garden. You'd walk past it if you didn't know."

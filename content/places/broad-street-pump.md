@@ -2,7 +2,6 @@
 name: "John Snow's Broad Street Pump"
 type: historic-site
 themes: [science-curious]
-badge: tip            # TBD in theme session: favourite | like | tip | wishlist
 tags: [free, quick-visit]
 price: 0
 summary: "A replica pump in Soho marks where John Snow traced the 1854 cholera outbreak, a founding moment for epidemiology."
