@@ -7,7 +7,7 @@ price: 2
 summary: "A slim 18th-century pub backing onto the Thames in Limehouse, co-owned by Sir Ian McKellen. Gandalf's staff is behind the bar. Adults only."
 area: "Limehouse"
 address: "76 Narrow Street, London E14 8BP"
-coords: [51.50885, -0.03396]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.50882, -0.03398]   # Pin checked 2026-10-04: OpenStreetMap way 195200692 (76 Narrow Street, E14 8BP)
 location_precision: exact
 stations: [Limehouse, Westferry]
 website: https://thegrapes.co.uk

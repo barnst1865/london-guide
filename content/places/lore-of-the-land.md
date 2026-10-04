@@ -8,7 +8,7 @@ price: 3
 summary: "A Georgian corner pub in Fitzrovia, trading since 1829 and reopened by film director Guy Ritchie in 2019. Famous for its Sunday roast."
 area: "Fitzrovia"
 address: "4 Conway Street, London W1T 6BB"
-coords: [51.52208, -0.13958]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.52211, -0.13961]   # Pin checked 2026-10-04: OpenStreetMap way 745483505 (4 Conway Street)
 location_precision: exact
 stations: [Warren Street, Great Portland Street]
 pair_with: []

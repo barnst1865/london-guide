@@ -8,7 +8,7 @@ price: 1
 summary: "A traditional pie-and-mash shop on Tower Bridge Road, in the Manze family since 1902. Pie, mash, parsley liquor and jellied eels."
 area: "Bermondsey (Tower Bridge Road)"
 address: "87 Tower Bridge Road, London SE1 4TW"
-coords: [51.49653, -0.08273]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49634, -0.08275]   # Pin checked 2026-10-04: OpenStreetMap node 677316017
 location_precision: exact
 stations: [Bermondsey, London Bridge]
 website: https://www.manze.co.uk/

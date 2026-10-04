@@ -7,7 +7,7 @@ price: 2
 summary: "A wedge-shaped Arts and Crafts pub covered inside and out with jolly friars in marble, bronze and mosaic. Nothing else in London looks like it."
 area: "Blackfriars"
 address: "174 Queen Victoria Street, London EC4V 4EG"
-coords: [51.51215, -0.10364]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51215, -0.10365]   # Pin checked 2026-10-04: OpenStreetMap way 166320158 (174 Queen Victoria Street)
 location_precision: exact
 stations: [Blackfriars, Mansion House, St Paul's]
 website: https://www.nicholsonspubs.co.uk/restaurants/london/theblackfriarblackfriarslondon

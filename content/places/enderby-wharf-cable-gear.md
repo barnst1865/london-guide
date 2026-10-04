@@ -8,7 +8,7 @@ price: "£0"
 summary: "Cable-handling gear from the transatlantic-cable era on Enderby Wharf, where the Great Eastern's 1860s telegraph cables were made. Now a protected monument."
 area: "Greenwich Peninsula"
 address: "Enderby Wharf, Telegraph Avenue, London SE10 0TH"
-coords: [51.49036, 0.00325]
+coords: [51.49023, 0.00355]   # Pin checked 2026-10-04: OpenStreetMap way 386743654 (Enderby Wharf)
 location_precision: exact
 stations: [North Greenwich, Cutty Sark for Maritime Greenwich]
 status: open

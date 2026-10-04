@@ -7,7 +7,7 @@ price: 2
 summary: "A casual Japanese cafe on Finchley Road for sushi and set meals, run by the Atariya group. It claims to have invented deep-fried inside-out rolls."
 area: "Golders Green / Temple Fortune"
 address: "626 Finchley Road, London NW11 7RR"
-coords: [51.57121, -0.19499]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.57115, -0.19513]   # Pin checked 2026-10-04: OpenStreetMap node 6231732750
 location_precision: exact
 stations: [Golders Green]
 website: https://www.atariya.co.uk/restaurants/cafe-japan/

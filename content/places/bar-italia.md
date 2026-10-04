@@ -7,7 +7,7 @@ price: 1
 summary: "Soho's 1949 Italian espresso bar, open almost round the clock, under the attic where John Logie Baird first demonstrated television."
 area: "Soho"
 address: "22 Frith Street, London W1D 4RF"
-coords: [51.51376, -0.13140]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51342, -0.13124]   # Pin checked 2026-10-04: OpenStreetMap node 372519553
 location_precision: exact
 stations: [Tottenham Court Road, Leicester Square]
 website: https://www.baritaliasoho.co.uk

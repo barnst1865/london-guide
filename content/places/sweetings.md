@@ -7,7 +7,7 @@ price: 3
 summary: "A City fish restaurant on the same corner since 1889: counter seats, no bookings, weekday lunch only, and Black Velvet in a silver tankard."
 area: "City of London (Mansion House)"
 address: "39 Queen Victoria Street, London EC4N 4SF"
-coords: [51.51245, -0.09282]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51247, -0.09273]   # Pin checked 2026-10-04: OpenStreetMap way 1472842943
 location_precision: exact
 stations: [Mansion House, Cannon Street, Bank]
 pair_with: [olde-wine-shades, jamaica-wine-house, george-and-vulture]

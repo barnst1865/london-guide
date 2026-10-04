@@ -7,7 +7,7 @@ price: 2
 summary: "A Georgian pub just off the river at Hammersmith Terrace, with a big shady garden and an old-fashioned skittle alley."
 area: "Hammersmith"
 address: "2 South Black Lion Lane, London W6 9TJ"
-coords: [51.49022, -0.24181]
+coords: [51.49023, -0.24167]   # Pin checked 2026-10-04: OpenStreetMap way 176710324 (pub, South Black Lion Lane)
 location_precision: exact
 stations: [Stamford Brook, Ravenscourt Park]
 website: https://www.blacklion.london

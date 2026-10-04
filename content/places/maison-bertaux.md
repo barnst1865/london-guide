@@ -7,7 +7,7 @@ price: 1
 summary: "A tiny, slightly chaotic Soho patisserie that has been making cakes on Greek Street since 1871. Pastries in the window, tea upstairs."
 area: "Soho"
 address: "28 Greek Street, London W1D 5DQ"
-coords: [51.51332, -0.13017]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51333, -0.13020]   # Pin checked 2026-10-04: OpenStreetMap way 349935005
 location_precision: exact
 stations: [Leicester Square, Tottenham Court Road]
 website: https://www.maisonbertaux.com

@@ -23,7 +23,7 @@ sources:
   - https://britishlistedbuildings.co.uk/101358184
 ---
 
-<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites; this departs from the no-house-number default in section 3 by the owner's decision. Pin is the individual Grade II listing coordinate. -->
+<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites. House numbers chosen by the family are allowed under section 3 (decision 17). Pin is the individual Grade II listing coordinate. -->
 
 Fan sources (the Muppet Wiki) name this house as 'Highbrow Street' in The Great Muppet Caper, and we've walked past and confirmed it. The Henson Company's archive calls the location 'Highbrow House' in Holland Park but doesn't name a house. Holland Park itself, with its Kyoto Garden, is the better stop afterward.
 

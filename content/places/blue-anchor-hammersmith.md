@@ -8,7 +8,7 @@ price: 2
 summary: "A small, old riverside pub right by Hammersmith Bridge, with tables on the Thames Path and rowing crews sliding past."
 area: "Hammersmith"
 address: "13 Lower Mall, London W6 9DJ"
-coords: [51.48958, -0.23086]
+coords: [51.48958, -0.23086]   # Pin checked 2026-10-04: OpenStreetMap way 174088740 (Lower Mall, W6 9DJ matches)
 location_precision: exact
 stations: [Hammersmith]
 website: https://www.blueanchorlondon.com

@@ -7,7 +7,7 @@ price: 2
 summary: "A Victorian pub on Kew Green, back under its old name after a 2025 refit, with front tables facing the cricket."
 area: "Kew Green"
 address: "79 Kew Green, Richmond TW9 3AH"
-coords: [51.48531, -0.28883]
+coords: [51.48551, -0.28855]   # Pin checked 2026-10-04: OpenStreetMap way 411799022 (79 Kew Green, TW9 3AH)
 location_precision: exact
 stations: [Kew Bridge, Kew Gardens]
 website: https://www.theroseandcrowntw9.com/

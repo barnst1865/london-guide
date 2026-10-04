@@ -8,7 +8,7 @@ price: 1
 summary: "A family bakery on Crouch End's Broadway since 1946, with roots it traces to 1820. Known for bread, doughnuts and cream cakes."
 area: "Crouch End"
 address: "6 The Broadway, London N8 9SN"
-coords: [51.57831, -0.12352]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.57847, -0.12373]   # Pin checked 2026-10-04: OpenStreetMap node 12633199519
 location_precision: exact
 stations: [Crouch Hill, Hornsey]
 website: https://dunns-bakery.co.uk/

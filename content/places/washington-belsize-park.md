@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II Victorian corner pub of about 1865 with a three-star CAMRA interior: back-painted mirrors, a mosaic floor and George Washington over the door."
 area: "Belsize Park"
 address: "50 England’s Lane, London NW3 4UE"
-coords: [51.54594, -0.16245]
+coords: [51.54570, -0.16280]   # Pin checked 2026-10-04: OpenStreetMap way 409316355 (50 England's Lane, NW3 4UE)
 location_precision: exact
 stations: [Belsize Park, Chalk Farm, Swiss Cottage]
 website: https://www.thewashingtonhampstead.co.uk

@@ -7,7 +7,7 @@ tags: [quick-visit, sunday]
 summary: "A family-run Turkish nut roaster on Green Lanes: warm roasted nuts, dried fruit and Turkish delight. A fixture here for well over a decade."
 area: "Harringay (Green Lanes)"
 address: "443 Green Lanes, London N4 1HA"
-coords: [51.57911, -0.09941]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.57927, -0.09930]   # Pin checked 2026-10-04: OpenStreetMap node 6264647473
 location_precision: exact
 stations: [Harringay Green Lanes, Harringay, Manor House]
 status: open

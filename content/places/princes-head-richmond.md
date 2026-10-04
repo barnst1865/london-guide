@@ -7,7 +7,7 @@ price: 2
 summary: "A Fuller’s pub on Richmond Green whose exterior stands in for the Crown & Anchor in Ted Lasso: an 18th-century house, probably rebuilt about 1900."
 area: "Richmond Green"
 address: "28 The Green, Richmond TW9 1LX"
-coords: [51.46043, -0.30657]
+coords: [51.46040, -0.30640]   # Pin checked 2026-10-04: OpenStreetMap way 316636977 (27-28 The Green, TW9 1LX)
 location_precision: exact
 stations: [Richmond]
 pair_with: [cricketers-richmond]

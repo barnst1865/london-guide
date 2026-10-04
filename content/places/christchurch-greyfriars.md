@@ -7,7 +7,7 @@ price: "£0"
 summary: "A Wren church gutted on the last Sunday of 1940, kept as a rose garden with wooden towers where the columns stood. The steeple is now somebody's house."
 area: "City of London / St Paul's"
 address: "Newgate Street at King Edward Street, London EC1A 7BA"
-coords: [51.51582, -0.09934]
+coords: [51.51587, -0.09903]   # Pin checked 2026-10-04: OpenStreetMap way 240129732 (Christchurch Greyfriars Garden)
 location_precision: exact
 stations: [St Paul's, City Thameslink, Barbican]
 website: https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/christchurch-greyfriars-church-garden

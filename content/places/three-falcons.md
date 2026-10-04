@@ -7,7 +7,7 @@ price: 2
 summary: "An old corner pub near Lord's and Little Venice reborn as an Indian gastropub: butter chicken and lamb chops with your pint."
 area: "Lisson Grove (near St John's Wood)"
 address: "1 Orchardson Street, London NW8 8NG"
-coords: [51.52410, -0.17461]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52410, -0.17462]   # Pin checked 2026-10-04: OpenStreetMap node 12599552601 (the pub)
 location_precision: exact
 stations: [Edgware Road (Bakerloo line), Warwick Avenue, Edgware Road]
 website: https://threefalcons.com

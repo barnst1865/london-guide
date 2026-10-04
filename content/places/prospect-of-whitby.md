@@ -7,7 +7,7 @@ price: 2
 summary: "A flagstoned Thames-side pub in Wapping with a pewter bar, river views, and a noose hung over the water for effect."
 area: "Wapping"
 address: "57 Wapping Wall, London E1W 3SH"
-coords: [51.50707, -0.05107]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.50710, -0.05109]   # Pin checked 2026-10-04: OpenStreetMap way 204148499 (57 Wapping Wall, E1W 3SH)
 location_precision: exact
 stations: [Wapping]
 website: https://www.greeneking.co.uk/pubs/greater-london/prospect-of-whitby

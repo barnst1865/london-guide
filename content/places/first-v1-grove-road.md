@@ -7,7 +7,7 @@ price: "£0"
 summary: "A blue plaque on a railway bridge in Bow marks where the first V-1 'doodlebug' fell on London, at 4:25 in the morning on 13 June 1944, killing six."
 area: "Bow / Mile End"
 address: "Railway bridge over Grove Road (at Antill Road), London E3"
-coords: [51.52774, -0.03707]
+coords: [51.52784, -0.03729]   # Pin checked 2026-10-04: OpenStreetMap node 672751536 ("First flying bomb on London" memorial)
 location_precision: exact
 stations: [Mile End, Bow Road, Bethnal Green]
 website: https://www.english-heritage.org.uk/visit/blue-plaques/flying-bomb/

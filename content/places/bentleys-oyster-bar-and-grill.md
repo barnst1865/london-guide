@@ -7,7 +7,7 @@ price: 3
 summary: "A Piccadilly oyster bar founded in 1916 and run by chef Richard Corrigan since 2005: oysters at the bar, a grill upstairs and a heated terrace."
 area: "Piccadilly"
 address: "11-15 Swallow Street, London W1B 4DG"
-coords: [51.50950, -0.13774]
+coords: [51.50949, -0.13770]   # Pin checked 2026-10-04: OpenStreetMap way 290306916 (postcode W1B 4DG matches)
 location_precision: exact
 stations: [Piccadilly Circus, Green Park]
 website: https://www.bentleys.org/

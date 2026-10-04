@@ -7,7 +7,7 @@ price: 2
 summary: "An Irish pub on Kilburn High Road with inter-war wood paneling and live Irish music at weekends. The Grade II* Black Lion next door is a different pub."
 area: "Kilburn (High Road)"
 address: "264-266 Kilburn High Road, London NW6 2BY"
-coords: [51.54351, -0.19954]
+coords: [51.54346, -0.19953]   # Pin checked 2026-10-04: OpenStreetMap way 579402933 (264-266 Kilburn High Road)
 location_precision: exact
 stations: [Brondesbury, Kilburn, Kilburn High Road]
 website: https://www.sircc.pub

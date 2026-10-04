@@ -8,7 +8,7 @@ price: "£0"
 summary: "The old Museum of Childhood, reopened in 2023 as Young V&A: free, hands-on, and built for kids up to about 14."
 area: "Bethnal Green"
 address: "Cambridge Heath Road, London E2 9PA"
-coords: [51.52777, -0.05518]
+coords: [51.52897, -0.05533]   # Pin checked 2026-10-04: OpenStreetMap main entrance on way 10790633 (Cambridge Heath Road, E2 9PA)
 location_precision: exact
 stations: [Bethnal Green, Cambridge Heath]
 website: https://www.vam.ac.uk/young/

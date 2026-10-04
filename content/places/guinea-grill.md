@@ -7,7 +7,7 @@ price: 3
 summary: "A small Mayfair pub down a mews with a steak-and-pie grill room behind it. The pub’s 1423 date is a claim; the building is from around the 1720s."
 area: "Mayfair"
 address: "30 Bruton Place, London W1J 6NL"
-coords: [51.51108, -0.14500]
+coords: [51.51107, -0.14500]   # Pin checked 2026-10-04: OpenStreetMap node 14229421747 ("The Guinea", 30 Bruton Place)
 location_precision: exact
 stations: [Bond Street, Green Park, Oxford Circus]
 website: https://www.theguinea.co.uk/

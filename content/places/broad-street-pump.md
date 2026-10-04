@@ -7,7 +7,7 @@ price: "£0"
 summary: "A handle-less replica pump in Soho marks the spot where John Snow traced the 1854 cholera outbreak to the water, and invented epidemiology on the way."
 area: "Soho"
 address: "Broadwick Street (outside the John Snow pub), London W1F 9QJ"
-coords: [51.51319, -0.13667]
+coords: [51.51330, -0.13666]   # Pin checked 2026-10-04: OpenStreetMap node 3109631637 (Dr John Snow memorial outside the pub)
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus, Tottenham Court Road]
 website: https://johnsnowsociety.org/

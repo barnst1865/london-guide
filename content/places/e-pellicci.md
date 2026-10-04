@@ -7,7 +7,7 @@ price: 1
 summary: "A family-run Italian caff in Bethnal Green since 1900, with a listed Art Deco interior of marquetry panels and a full English to match."
 area: "Bethnal Green"
 address: "332 Bethnal Green Road, London E2 0AG"
-coords: [51.52626, -0.06470]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52650, -0.06338]   # Pin checked 2026-10-04: OpenStreetMap node 1024570955
 location_precision: exact
 stations: [Bethnal Green (Overground), Bethnal Green (Central line), Shoreditch High Street]
 pair_with: [beigel-bake, tayyabs]

@@ -8,7 +8,7 @@ price: 2
 summary: "A small 1950s American soda-shop-style ice cream parlor in Primrose Hill, with a jukebox and neon. It reportedly scoops dog ice cream too."
 area: "Primrose Hill"
 address: "3 Erskine Road, London NW3 3AJ"
-coords: [51.54202, -0.15724]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.54191, -0.15750]   # Pin checked 2026-10-04: OpenStreetMap node 12504412966
 location_precision: exact
 stations: [Chalk Farm, Camden Town]
 website: https://www.reeniesicecreambar.com

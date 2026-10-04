@@ -8,7 +8,7 @@ price: 1
 summary: "A warren of dark, paneled rooms and vaulted cellars off Fleet Street, rebuilt soon after the Great Fire. The pub we take everyone to first."
 area: "Fleet Street"
 address: "145 Fleet Street, London EC4A 2BU"
-coords: [51.51434, -0.10718]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51434, -0.10719]   # Pin checked 2026-10-04: OpenStreetMap way 60186067 (145 Fleet Street)
 location_precision: exact
 stations: [City Thameslink, Blackfriars, Chancery Lane]
 pair_with: [ye-olde-mitre, old-bell-tavern, the-black-friar]

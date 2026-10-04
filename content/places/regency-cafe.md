@@ -7,7 +7,7 @@ price: 1
 summary: "A black-tiled Art Deco greasy spoon near Westminster since 1946, familiar from films like Layer Cake, Pride and Rocketman."
 area: "Pimlico / Westminster"
 address: "17-19 Regency Street, London SW1P 4BY"
-coords: [51.49419, -0.13219]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49401, -0.13212]   # Pin checked 2026-10-04: OpenStreetMap way 100822479
 location_precision: exact
 stations: [Pimlico, St James's Park, Victoria]
 pair_with: [churchill-war-rooms]

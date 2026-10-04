@@ -7,7 +7,7 @@ price: 2
 summary: "A Victorian Islington pub turned modern 'desi pub', serving South Indian food from Tamil Nadu: roti, okra fries, Chettinad curries and a pint."
 area: "Barnsbury / Islington"
 address: "115 Hemingford Road, London N1 1BZ"
-coords: [51.54158, -0.11375]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.54093, -0.11381]   # Pin checked 2026-10-04: OpenStreetMap node 11240921537
 location_precision: exact
 stations: [Caledonian Road & Barnsbury, Caledonian Road, Highbury & Islington]
 website: https://www.thetamilprince.com

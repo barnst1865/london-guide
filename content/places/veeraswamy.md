@@ -7,7 +7,7 @@ price: 4
 summary: "Billed as Britain’s oldest Indian restaurant, open since 1926 on Regent Street, with a Michelin star and a dress-up feel."
 area: "Piccadilly Circus / Regent Street"
 address: "Victory House, 99 Regent Street, London W1B 4RS"
-coords: [51.50996, -0.13793]
+coords: [51.50990, -0.13792]   # Pin checked 2026-10-04: OpenStreetMap node 623366167 (99 Regent Street); OSM postcode W1B 4EZ, venue site W1B 4RS, file kept
 location_precision: exact
 stations: [Piccadilly Circus, Oxford Circus, Green Park]
 website: https://www.veeraswamy.com/

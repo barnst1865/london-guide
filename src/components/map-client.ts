@@ -7,8 +7,9 @@ interface Point {
   id: string; name: string; type: string; typeLabel: string; color: string;
   themes: string[]; themeTitles: string[]; badge: string; badgeLabel: string; tags: string[];
   summary: string; area: string; lat: number; lng: number; precise: boolean; draft: boolean; url: string;
-  waypoint?: boolean; optional?: boolean;
+  waypoint?: boolean; optional?: boolean; num?: number;
 }
+interface Route { main: L.LatLngTuple[]; spurs: L.LatLngTuple[][]; alts: L.LatLngTuple[][] }
 
 const LONDON: L.LatLngTuple = [51.507, -0.1];
 const dark = () => window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -38,6 +39,17 @@ function popup(p: Point) {
 }
 
 function marker(p: Point) {
+  if (p.num) {
+    // Trail stop: numbered like the stop list; optional stops are dashed, as in the list.
+    const icon = L.divIcon({
+      className: '',
+      html: `<div class="lg-num${p.optional ? ' opt' : ''}">${p.num}</div>`,
+      iconSize: [26, 26],
+      iconAnchor: [13, 13],
+      popupAnchor: [0, -13],
+    });
+    return L.marker([p.lat, p.lng], { icon, title: `${p.num}. ${p.name}`, alt: `${p.num}. ${p.name}` }).bindPopup(() => popup(p));
+  }
   const cls = ['lg-pin', p.badge === 'favourite' ? 'fav' : '', p.precise ? '' : 'area', p.waypoint ? 'wp' : '', p.optional ? 'opt' : ''].join(' ');
   const icon = L.divIcon({
     className: '',
@@ -68,7 +80,8 @@ export async function initMaps() {
       className: dark() ? 'lg-tiles-dark' : '',
     }).addTo(map);
 
-    const useCluster = points.length > 25;
+    const route: Route | undefined = host.dataset.route ? JSON.parse(host.dataset.route) : undefined;
+    const useCluster = !route && points.length > 25;
     const layer: L.LayerGroup = useCluster
       ? (L as any).markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 40 })
       : L.layerGroup();
@@ -82,8 +95,11 @@ export async function initMaps() {
       else map.setView(LONDON, 11);
     };
 
-    if (host.dataset.route && points.length > 1) {
-      L.polyline(points.map((p) => [p.lat, p.lng] as L.LatLngTuple), { color: '#b3261e', weight: 3, opacity: .7, dashArray: '6 6' }).addTo(map);
+    if (route) {
+      const red = '#b3261e';
+      if (route.main.length > 1) L.polyline(route.main, { color: red, weight: 4, opacity: .75 }).addTo(map);
+      route.spurs.forEach((s) => L.polyline(s, { color: red, weight: 3, opacity: .7, dashArray: '1 7', lineCap: 'round' }).addTo(map));
+      route.alts.forEach((s) => L.polyline(s, { color: red, weight: 3, opacity: .7, dashArray: '8 8' }).addTo(map));
     }
 
     render(points);
@@ -112,7 +128,9 @@ export async function initMaps() {
           (!fav || p.badge === 'favourite') &&
           tags.every((t) => p.tags.includes(t)));
         render(list);
-        if (count) count.textContent = `${list.length} place${list.length === 1 ? '' : 's'}`;
+        if (count) count.textContent = list.length
+          ? `${list.length} place${list.length === 1 ? '' : 's'}`
+          : 'No places match these filters. Try removing one.';
         const q = new URLSearchParams();
         if (theme) q.set('theme', theme);
         if (type) q.set('type', type);

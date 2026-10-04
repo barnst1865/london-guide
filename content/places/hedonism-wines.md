@@ -8,7 +8,7 @@ price: 4
 summary: "A huge Mayfair wine and spirits shop, open since 2012, with around 10,000 bottles by its own count and machines for tasting by the small pour."
 area: "Mayfair"
 address: "3-7 Davies Street, London W1K 3DJ"
-coords: [51.51087, -0.14716]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51074, -0.14770]   # Pin checked 2026-10-04: OpenStreetMap way 211519231
 location_precision: exact
 stations: [Bond Street, Green Park]
 website: https://www.hedonism.co.uk/

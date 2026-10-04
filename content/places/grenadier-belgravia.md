@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny Belgravia mews pub with banknotes on the ceiling and a sentry box outside. The officers’ mess and ghost stories are legend."
 area: "Belgravia"
 address: "18 Wilton Row, London SW1X 7NR"
-coords: [51.50128, -0.15471]
+coords: [51.50148, -0.15491]   # Pin checked 2026-10-04: OpenStreetMap node 13235500301 (18 Wilton Row; way 556177108 agrees)
 location_precision: exact
 stations: [Hyde Park Corner, Knightsbridge, Victoria]
 website: https://www.grenadierbelgravia.com

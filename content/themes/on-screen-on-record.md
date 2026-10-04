@@ -7,7 +7,7 @@ blurb: "Film, TV and music landmarks, from Muppet Caper locations to famous albu
 featured: []
 visibility: public
 ---
-<!-- Added 2026-10-03 (triage request: proposed "movies" theme, plus music landmarks). Covers film and TV locations and pop-music landmarks. Many film exteriors are private homes or offices: describe from the street, use location_precision street/area, no house numbers (§3). Live-music venues stay in play-games-music. Intro to be written in a theme session (150–300 words, our voice). -->
+<!-- Added 2026-10-03 (triage request: proposed "movies" theme, plus music landmarks). Covers film and TV locations and pop-music landmarks. Many film exteriors are private homes or offices: describe from the street, use location_precision street/area unless the family has chosen to identify the building with its house number (§3). Live-music venues stay in play-games-music. Intro to be written in a theme session (150–300 words, our voice). -->
 
 <!-- Intro drafted by the master session on 2026-10-04 after the quick listings, from the theme's public places (it was showing a placeholder once the theme passed minThemePlaces). Family: edit freely, especially to add your own experiences. -->
 

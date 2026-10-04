@@ -23,7 +23,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_Great_Muppet_Caper
 ---
 
-<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites; this departs from the no-house-number default in section 3 by the owner's decision. -->
+<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites. House numbers chosen by the family are allowed under section 3 (decision 17). -->
 
 Fan sources (the Muppet Wiki) name this building as the hotel's exterior in The Great Muppet Caper, and we've walked past and confirmed it. The Jim Henson Company's own archive puts the hotel on Westbourne Terrace but doesn't name a building, so call it fan lore, not official record. The pin is on the terrace, not the door.
 

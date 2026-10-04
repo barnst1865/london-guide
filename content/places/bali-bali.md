@@ -7,7 +7,7 @@ price: 2
 summary: "A small, family-run Indonesian restaurant on Shaftesbury Avenue since 1986. Beef rendang, satay and a good-value pre-theater menu."
 area: "Covent Garden / Cambridge Circus"
 address: "150 Shaftesbury Avenue, London WC2H 8HL"
-coords: [51.51381, -0.12819]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51373, -0.12824]   # Pin checked 2026-10-04: OpenStreetMap node 6016243285
 location_precision: exact
 stations: [Leicester Square, Covent Garden, Tottenham Court Road]
 website: https://balibalirestaurant.com

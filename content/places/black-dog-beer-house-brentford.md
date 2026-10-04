@@ -7,7 +7,7 @@ price: 2
 summary: "A craft-beer free house in a landmark corner pub rebuilt about 1900, reopened in 2018, with two log fires and a rear beer garden."
 area: "Brentford"
 address: "17 Albany Road, Brentford TW8 0NF"
-coords: [51.48563, -0.30227]
+coords: [51.48554, -0.30182]   # Pin checked 2026-10-04: OpenStreetMap node 6337495198 ("The Black Dog", no address tag; the only pub of that name nearby)
 location_precision: exact
 stations: [Brentford, Kew Bridge]
 website: https://www.blackdogbeerhouse.co.uk

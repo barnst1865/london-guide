@@ -8,7 +8,7 @@ price: "££"
 summary: "Dickens's only surviving London home, a Georgian townhouse in Bloomsbury where he wrote Oliver Twist, set out as if he has just stepped out."
 area: "Bloomsbury"
 address: "48 Doughty Street, London WC1N 2LX"
-coords: [51.5236, -0.11624]
+coords: [51.52359, -0.11632]   # Pin checked 2026-10-04: OpenStreetMap node 334631276 (48-49 Doughty Street)
 location_precision: exact
 stations: [Russell Square, Chancery Lane]
 website: https://dickensmuseum.com/

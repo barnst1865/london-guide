@@ -7,7 +7,7 @@ price: 2
 summary: "A Richmond Green pub on a site that held the Crickett Players by 1770, rebuilt after an 1844 fire, with pavement seating and a function room."
 area: "Richmond Green"
 address: "The Green, Richmond TW9 1LX"
-coords: [51.46043, -0.30657]
+coords: [51.46052, -0.30615]   # Pin checked 2026-10-04: OpenStreetMap way 316636978 (24 The Green)
 location_precision: exact
 stations: [Richmond]
 website: https://www.cricketersrichmond.com

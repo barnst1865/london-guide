@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny, glittering Victorian gin palace of 1821 lined with diamond-cut mirrors, said to be where a 1960s Soviet mole met his handlers."
 area: "St James's"
 address: "2 Duke of York Street, London SW1Y 6JP"
-coords: [51.50833, -0.13639]
+coords: [51.50832, -0.13643]   # Pin checked 2026-10-04: OpenStreetMap node 675867856 ("The Red Lion", Duke of York Street)
 location_precision: exact
 stations: [Piccadilly Circus, Green Park]
 website: https://www.redlionmayfair.co.uk/

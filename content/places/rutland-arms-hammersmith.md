@@ -7,7 +7,7 @@ price: 2
 summary: "Next door to the Blue Anchor: a roomier Victorian riverside pub with rowing sculls on the ceiling and tables by the water."
 area: "Hammersmith"
 address: "15 Lower Mall, London W6 9DJ"
-coords: [51.48971, -0.23118]
+coords: [51.48968, -0.23113]   # Pin checked 2026-10-04: OpenStreetMap way 174088756 (15 Lower Mall, W6 9DJ)
 location_precision: exact
 stations: [Hammersmith]
 website: https://www.greeneking.co.uk/pubs/greater-london/rutland-arms

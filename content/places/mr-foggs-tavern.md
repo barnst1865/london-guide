@@ -7,7 +7,7 @@ price: 2
 summary: "A Victorian-explorer theme pub in a Grade II corner building on St Martin’s Lane, with taxidermy, singalongs and a gin parlour. The Fogg backstory is fiction."
 area: "Covent Garden"
 address: "58 St Martin’s Lane, London WC2N 4EA"
-coords: [51.51083, -0.12681]
+coords: [51.51099, -0.12686]   # Pin checked 2026-10-04: OpenStreetMap way 160683906 (58 St Martin's Lane)
 location_precision: exact
 stations: [Leicester Square, Covent Garden, Charing Cross]
 website: https://mr-foggs.com/tavern

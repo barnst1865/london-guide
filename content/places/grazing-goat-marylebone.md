@@ -7,7 +7,7 @@ price: 3
 summary: "A smart Marylebone gastropub with boutique rooms near Marble Arch, in the old Bricklayers Arms (licensees on record from 1825); renamed in 2011."
 area: "Marylebone"
 address: "6 New Quebec Street, London W1H 7RQ"
-coords: [51.51530, -0.15806]
+coords: [51.51527, -0.15814]   # Pin checked 2026-10-04: OpenStreetMap node 6351723681 (6 New Quebec Street)
 location_precision: exact
 stations: [Marble Arch, Bond Street]
 website: https://www.cubitthouse.co.uk/the-grazing-goat-boutique-hotel-marylebone/

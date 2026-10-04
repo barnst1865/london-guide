@@ -7,7 +7,7 @@ price: "£0"
 summary: "Three bronze firefighters aim a hose at St Paul's, copied from a photo taken in Cannon Street the morning after a 1941 raid. Around the base, 2,200 names."
 area: "City of London / St Paul's"
 address: "Carter Lane Gardens, Sermon Lane, London EC4M 8BX"
-coords: [51.51290, -0.09845]
+coords: [51.51289, -0.09838]   # Pin checked 2026-10-04: OpenStreetMap node 441950766 (Sermon Lane)
 location_precision: exact
 stations: [St Paul's, Mansion House, Blackfriars]
 website: https://firefightersmemorial.org.uk

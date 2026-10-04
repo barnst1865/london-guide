@@ -7,7 +7,7 @@ price: 3
 summary: "A Fleet Street wine bar for the journalists and barristers of old, with business roots in 1879. The inspiration for Rumpole’s Pomeroy’s. Weekdays only."
 area: "Fleet Street"
 address: "47 Fleet Street, London EC4Y 1BJ"
-coords: [51.51405, -0.10920]
+coords: [51.51400, -0.10918]   # Pin checked 2026-10-04: OpenStreetMap way 220275742 (47 Fleet Street)
 location_precision: exact
 stations: [City Thameslink, Chancery Lane, Temple]
 website: https://www.davy.co.uk/wine-bar/el-vino-fleet-street/

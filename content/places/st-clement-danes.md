@@ -7,7 +7,7 @@ price: "£0"
 summary: "Wren's church on its island in the Strand, gutted on the last night of the Blitz and rebuilt as the RAF's church, with a thousand squadron badges in the floor."
 area: "Strand / Aldwych"
 address: "Strand, London WC2R 1DH"
-coords: [51.51319, -0.11386]
+coords: [51.51313, -0.11375]   # Pin checked 2026-10-04: OpenStreetMap way 25904232 (Strand, WC2R 1DH)
 location_precision: exact
 stations: [Temple, Charing Cross, Holborn]
 website: https://stclementdanesraf.org

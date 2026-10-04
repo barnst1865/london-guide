@@ -7,7 +7,7 @@ price: "£0"
 summary: "London's biggest Royal Park: open grassland, ancient oaks and hundreds of wild deer, with a protected view to St Paul's 12 miles away."
 area: "Richmond"
 address: "King Henry's Mound, Pembroke Lodge Gardens, Richmond Park"
-coords: [51.44493, -0.29474]
+coords: [51.44492, -0.29477]   # Pin checked 2026-10-04: OpenStreetMap node 402735697 (King Henry VIII's Mound viewpoint)
 location_precision: exact
 stations: [Richmond]
 website: https://www.royalparks.org.uk/visit/parks/richmond-park

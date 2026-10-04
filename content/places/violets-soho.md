@@ -7,7 +7,7 @@ price: 2
 summary: "A small Soho café-restaurant on Berwick Street serving Georgian food: cheese-filled khachapuri, soup dumplings and walnut-stuffed aubergine."
 area: "Soho"
 address: "19 Berwick Street, London W1F 0PX"
-coords: [51.51373, -0.13482]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51368, -0.13489]   # Pin checked 2026-10-04: OpenStreetMap node 12183985987
 location_precision: exact
 stations: [Tottenham Court Road, Oxford Circus, Piccadilly Circus]
 website: https://violetsrestaurant.co.uk

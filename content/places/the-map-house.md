@@ -7,7 +7,7 @@ tags: [rainy-day, quick-visit]
 summary: "A Knightsbridge shop of antique maps, globes and prints, in business since 1907 by its own account. Good for browsing even if you're not buying."
 area: "Knightsbridge"
 address: "54 Beauchamp Place, London SW3 1NY"
-coords: [51.49769, -0.16537]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49778, -0.16550]   # Pin checked 2026-10-04: OpenStreetMap node 2645604178
 location_precision: exact
 stations: [Knightsbridge, South Kensington]
 website: https://www.themaphouse.com/

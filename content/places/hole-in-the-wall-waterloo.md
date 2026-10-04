@@ -8,7 +8,7 @@ price: 1
 summary: "A no-frills pub in a railway arch opposite Waterloo station, with trains rumbling overhead and a long row of cask ales."
 area: "Waterloo"
 address: "5 Mepham Street, London SE1 8SQ"
-coords: [51.50411, -0.11372]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.50411, -0.11372]   # Pin checked 2026-10-04: OpenStreetMap node 266324793 (5 Mepham Street)
 location_precision: exact
 stations: [Waterloo]
 pair_with: [gordons-wine-bar]

@@ -7,7 +7,7 @@ price: "£0"
 summary: "A bombed-out City church turned into a garden: Wren's spire still stands over roofless Gothic walls now draped in climbers, with a fountain where the nave was."
 area: "City of London / Tower"
 address: "St Dunstan's Hill, London EC3R 5DD"
-coords: [51.5102, -0.0828]
+coords: [51.50969, -0.08256]   # Pin checked 2026-10-04: OpenStreetMap way 237522043 (the ruins and garden)
 location_precision: exact
 stations: [Monument, Tower Hill, Fenchurch Street]
 website: https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/st-dunstan-in-the-east-church-garden

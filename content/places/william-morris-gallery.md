@@ -8,7 +8,7 @@ price: "£0"
 summary: "The Georgian house where the Morris family lived from 1848 is now a free gallery of William Morris's textiles, wallpapers and ideas, beside Lloyd Park."
 area: "Walthamstow"
 address: "Lloyd Park, Forest Road, London E17 4PP"
-coords: [51.59125, -0.02035]
+coords: [51.59122, -0.02029]   # Pin checked 2026-10-04: OpenStreetMap main entrance on way 181770911 (Forest Road, E17 4PP)
 location_precision: exact
 stations: [Walthamstow Central, Blackhorse Road]
 website: https://wmgallery.org.uk/

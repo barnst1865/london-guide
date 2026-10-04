@@ -8,7 +8,7 @@ price: 2
 summary: "A tiny Kingly Street blues bar with live music nearly every night, cask ale and walls of blues memorabilia: one of Soho's good small music rooms."
 area: "Soho"
 address: "20 Kingly Street, London W1B 5PZ"
-coords: [51.51298, -0.13953]
+coords: [51.51300, -0.13950]   # Pin checked 2026-10-04: OpenStreetMap way 273610380 (address matches)
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus]
 website: https://aintnothinbut.co.uk/

@@ -7,7 +7,7 @@ price: 3
 summary: "A neoclassical corner pub-hotel by Primrose Hill park, opened in 1854–55, with Victorian stained glass and a terrace; refurbished by Young’s in 2025."
 area: "Primrose Hill"
 address: "49 Regent’s Park Road, London NW1 8XD"
-coords: [51.54086, -0.15772]
+coords: [51.54054, -0.15772]   # Pin checked 2026-10-04: OpenStreetMap way 107530526 (49 Regent's Park Road)
 location_precision: exact
 stations: [Chalk Farm, Camden Town]
 website: https://www.thequeensprimrosehill.co.uk/

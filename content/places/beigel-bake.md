@@ -7,7 +7,7 @@ price: 1
 summary: "Brick Lane's 24-hour beigel bakery since 1974: hot salt beef piled into a chewy beigel with mustard, for the price of a coffee elsewhere."
 area: "Brick Lane / Spitalfields"
 address: "159 Brick Lane, London E1 6SB"
-coords: [51.52412, -0.07170]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52452, -0.07174]   # Pin checked 2026-10-04: OpenStreetMap way 271641402
 location_precision: exact
 stations: [Shoreditch High Street, Aldgate East, Liverpool Street]
 pair_with: [e-pellicci, tayyabs]

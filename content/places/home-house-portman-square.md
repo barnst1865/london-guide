@@ -7,7 +7,7 @@ price: "£0"
 summary: "Robert Adam's finest London town house, home of the Courtauld Institute for 57 years, and the flat upstairs where Anthony Blunt confessed to MI5 in 1964."
 area: "Marylebone"
 address: "20 Portman Square, London W1H 6LW"
-coords: [51.5162, -0.1567]
+coords: [51.51640, -0.15673]   # Pin checked 2026-10-04: OpenStreetMap way 678323728 (Home House, Portman Square)
 location_precision: exact
 stations: [Marble Arch, Bond Street, Baker Street]
 pair_with: [bentinck-street-flat]

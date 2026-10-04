@@ -8,7 +8,7 @@ price: 2
 summary: "A family-run, self-service Italian cafe in the middle of Russell Square gardens, with tables outside and in. Good for coffee and gelato near the British Museum."
 area: "Bloomsbury (Russell Square)"
 address: "Russell Square, London WC1B 5EH"
-coords: [51.52305, -0.12650]   # postcode centroid (postcodes.io), checked 2026-10-04; covers the whole square, the cafe is inside the gardens, spot-check the pin
+coords: [51.52222, -0.12572]   # Pin checked 2026-10-04: OpenStreetMap way 75302749 (the cafe inside the gardens)
 location_precision: exact
 stations: [Russell Square, Holborn]
 website: https://caffetropea.co.uk

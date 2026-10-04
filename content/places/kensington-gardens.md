@@ -7,7 +7,7 @@ price: "£0"
 summary: "The calmer western half of Hyde Park: Peter Pan's statue, the Italian Gardens, the Round Pond and Kensington Palace."
 area: "Kensington Gardens"
 address: "Kensington Gardens, London W2"
-coords: [51.50862, -0.17594]
+coords: [51.51148, -0.17590]   # Pin checked 2026-10-04: OpenStreetMap node 21494027 (Marlborough Gate on Bayswater Road, by Lancaster Gate and the Italian Gardens)
 location_precision: exact
 stations: [Lancaster Gate, Queensway, High Street Kensington]
 website: https://www.royalparks.org.uk/visit/parks/kensington-gardens

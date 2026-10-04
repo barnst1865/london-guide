@@ -17,6 +17,8 @@ export interface SiteConfig {
   startHere?: string[];
   /** Minimum public places before a theme shows on the home page. */
   minThemePlaces?: number;
+  /** Hand-picked "Family favourites" for the home page, each with a one-line reason. */
+  homeFavourites?: { place: string; why?: string }[];
 }
 
 export const site: SiteConfig = loadYaml(
@@ -86,8 +88,11 @@ function validate(places: Place[], themes: Theme[], trails: Trail[], guides: Gui
     badTheme(f, tr.data.themes);
     badPlace(f, 'stop', tr.data.stops.flatMap((s) => (s.place ? [s.place] : [])));
     const stopIds = new Set(tr.data.stops.map((s) => s.place));
-    for (const v of tr.data.variants)
+    const stopNames = new Set(tr.data.stops.flatMap((s) => [s.place, s.waypoint].filter(Boolean)));
+    for (const v of tr.data.variants) {
       if (v.ends_at && !stopIds.has(v.ends_at)) errors.push(`${f}: variant "${v.name}" ends_at "${v.ends_at}" is not a stop on this trail`);
+      if (v.branches_at && !stopNames.has(v.branches_at)) errors.push(`${f}: variant "${v.name}" branches_at "${v.branches_at}" is not a stop or waypoint on this trail`);
+    }
   }
   for (const g of guides) {
     badTheme(`guides/${g.id}.md`, g.data.themes);
@@ -95,6 +100,8 @@ function validate(places: Place[], themes: Theme[], trails: Trail[], guides: Gui
   }
   for (const id of site.startHere ?? [])
     if (!themeIds.has(id)) errors.push(`site.yaml: startHere "${id}" is not a theme`);
+  for (const f of site.homeFavourites ?? [])
+    if (!placeIds.has(f.place)) errors.push(`site.yaml: homeFavourites "${f.place}" is not a place`);
   if (errors.length) throw new Error('Content validation failed:\n  ' + errors.join('\n  '));
 }
 
@@ -156,11 +163,21 @@ export function waypointPoint(s: TrailStop) {
   };
 }
 
+/**
+ * Directions link. Searches by name and street address rather than our pin, so Google Maps
+ * takes people to the real entrance even where our coordinates are a postcode centroid.
+ * Falls back to the coordinates only when there's no address and the pin is exact.
+ * Places pinned only to an area get no directions link.
+ */
 export function directionsUrl(p: Place) {
-  if (p.data.location_precision !== 'exact') return undefined;
+  const prec = p.data.location_precision;
+  if (prec === 'area') return undefined;
   if (p.data.google_maps_url) return p.data.google_maps_url;
+  const base = 'https://www.google.com/maps/dir/?api=1&destination=';
+  if (p.data.address) return base + encodeURIComponent(`${p.data.name}, ${p.data.address}`);
+  if (prec !== 'exact') return undefined;
   const [lat, lng] = p.data.coords;
-  return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
+  return `${base}${lat},${lng}`;
 }
 
 export function priceLabel(price: number | string | undefined, type: string) {

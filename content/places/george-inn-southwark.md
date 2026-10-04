@@ -7,7 +7,7 @@ price: 2
 summary: "London's last galleried coaching inn, rebuilt after a great fire in 1676 and owned by the National Trust. Grab a table in the cobbled yard."
 area: "Borough / London Bridge"
 address: "75-77 Borough High Street, London SE1 1NH"
-coords: [51.50419, -0.08999]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.50419, -0.08999]   # Pin checked 2026-10-04: OpenStreetMap node 14181043737 (75-77 Borough High Street)
 location_precision: exact
 stations: [London Bridge, Borough]
 website: https://www.nationaltrust.org.uk/visit/london/george-inn

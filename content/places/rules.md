@@ -7,7 +7,7 @@ price: 4
 summary: "On Maiden Lane since 1798 and London's oldest restaurant by its own reckoning: game, pies and puddings in plush, picture-crammed rooms."
 area: "Covent Garden"
 address: "35 Maiden Lane, London WC2E 7LB"
-coords: [51.51083, -0.12319]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51082, -0.12319]   # Pin checked 2026-10-04: OpenStreetMap way 558928361 (Maiden Lane, WC2E 7LB)
 location_precision: exact
 stations: [Covent Garden, Charing Cross, Leicester Square]
 website: https://rules.co.uk/

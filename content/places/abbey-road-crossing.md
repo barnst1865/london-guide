@@ -8,7 +8,7 @@ price: "£0"
 summary: "The zebra crossing from The Beatles' 1969 Abbey Road cover, Grade II listed since 2010. It's a working road, so we wait for a gap before the photo."
 area: "St John's Wood"
 address: "Abbey Road, outside Abbey Road Studios, London NW8 9AY"
-coords: [51.5321, -0.1774]
+coords: [51.53225, -0.17763]   # Pin checked 2026-10-04: OpenStreetMap node 8483013119 (the crossing)
 location_precision: exact
 stations: ["St John's Wood", Swiss Cottage, Kilburn Park]
 website: https://www.abbeyroad.com/crossing

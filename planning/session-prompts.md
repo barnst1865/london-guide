@@ -22,7 +22,7 @@ Start each one as a new Cowork session in the **London Guide** project, with the
 >
 > This is **Session 3: the `spies-cold-war` and `wartime-london` themes, plus the WMD Tour trail**. Sources: my WMD tour draft (`sources/docs/UK WMD Tour - Fleshed OUt.docx`), the `spies-cold-war` and `wartime-london` sections of `sources/triage/handoff.md`, the 11 deferred spy sites (GM104–GM115) in `sources/triage/google-maps-triage.csv` (I'll tell you what I decided after checking my book), the 6 seed drafts in `content/places/`, and idea #9 (Blitz scars walk).
 >
-> Goal for launch: **at least 5 public places in each theme**, both theme intros, and the **WMD Tour trail** for its London stops (Salisbury and Aldermaston go in the trail text or later as day trips). Treat every claim in my WMD draft as unverified; §8 lists known errors. Apply §3 strictly: no house numbers for private homes; describe active government and military sites only from public sources; and keep the tone serious about victims. Interview me first, then propose, sort, research and write as in §10.3. Set `visibility: public` only on places I've approved that have `last_verified`. Finish by logging the session, updating both backlog rows, and listing the files you changed so I can run `npm run check`, then commit and push.
+> Goal for launch: **at least 5 public places in each theme**, both theme intros, and the **WMD Tour trail** for its London stops (Salisbury and Aldermaston go in the trail text or later as day trips). Treat every claim in my WMD draft as unverified; §8 lists known errors. Apply §3 strictly: house numbers only where the family has chosen to identify the building; describe active government and military sites only from public sources; and keep the tone serious about victims. Interview me first, then propose, sort, research and write as in §10.3. Set `visibility: public` only on places I've approved that have `last_verified`. Finish by logging the session, updating both backlog rows, and listing the files you changed so I can run `npm run check`, then commit and push.
 
 ## Session 4: Where We Eat (finish)
 
@@ -58,7 +58,7 @@ These put the ~140 remaining London places from the Google Maps triage on the si
 >
 > For each place:
 > 1. **Verify** that it's still open and at that address (recent reviews, its website, press), then find the nearest station and the official website. Geocode the coordinates from the address; don't use the triage's approximate coords.
-> 2. **Write a listing file**: `depth: listing`, the type and themes from the triage, `badge: favourite` only where the triage says favourite, sensible tags, a summary (≤160 chars) in our voice built on the family's angle in the triage notes, and optionally one or two sentences plus an **Our tip:** line if the notes have one. Fill in `sources` and `last_verified`. Follow §3 for location precision (private homes and film exteriors are street-level only) and §7 for legends.
+> 2. **Write a listing file**: `depth: listing`, the type and themes from the triage, `badge: favourite` only where the triage says favourite, sensible tags, a summary (≤160 chars) in our voice built on the family's angle in the triage notes, and optionally one or two sentences plus an **Our tip:** line if the notes have one. Fill in `sources` and `last_verified`. Follow §3 for location precision (private homes are street-level only, and no house numbers unless the family has chosen them) and §7 for legends.
 > 3. Set `visibility: public` once facts are verified. If a place has closed or moved, or you can't verify it, leave it as a draft and say why in a comment.
 >
 > Work in **batches of about 15**. Before writing each batch, show me a short table (name, type, area, open status, one-line summary) so I can drop or correct anything. After writing, record each new slug in a `place_file` column of the triage CSV.
@@ -72,3 +72,51 @@ These put the ~140 remaining London places from the Google Maps triage on the si
 | Listings A | `historic-pubs`, `drinks` | ~48 |
 | Listings B | `eat`, `markets-food-shops` | ~49 |
 | Listings C | `on-screen-on-record`, `kids`, `science-curious`, `transit-hidden-city`, `writers-artists-makers`, `only-in-london`, `play-games-music`, `medieval-old-london`, `wild-london` | ~36 |
+
+
+---
+
+# Post-review sessions (2026-10-04)
+
+An outside review of the live site led to a batch of site fixes by the master session (see `planning/sessions/2026-10-04-master-review-fixes.md`) and these sessions. They can run in parallel: the pin check touches coordinates and trail waypoints, and the occasions session touches `occasions:` only.
+
+## Pin check
+
+> We're working on Where We'd Take You in London. Read `CLAUDE.md`, `PROJECT_INSTRUCTIONS.md` (especially §3, §5.3a "How the map draws a trail", §6.1, §6.3 and §8), `planning/backlog.md` and `planning/requests.md` in the connected LondonGuide folder.
+>
+> This is the **pin check**. Many public places are marked `location_precision: exact` but are pinned to a postcode centroid, so the pin can sit a street or more from the door. Directions now search Google Maps by name and address, so the job is to make the **map pins** honest.
+>
+> **Scope, in this order:**
+> 1. Public places marked `exact` whose comments mention a postcode centroid, an approximate pin or a pin to check (about 66; list them first with a script).
+> 2. Other public restaurants, cafés, quick bites, pubs, bars and shops marked `exact`.
+> 3. Large or awkward sites: parks and gardens (pin the entrance most visitors use, such as a named gate), canal-side places (pin the towpath access) and big museums (pin the main visitor entrance).
+>
+> **Method:** take coordinates only from a source that shows the actual building or entrance: the OpenStreetMap object for the venue or its entrance, a Historic England listing for listed buildings, or the venue's own map or contact page. If this session can't reach map services, use the built-in browser on my computer to look at openstreetmap.org, or give me a batch list and I'll drop pins in Google Maps and paste the coordinates back. Never guess or nudge coordinates by eye.
+>
+> **For each place:**
+> - **Confirmed:** update `coords` (5 decimals), keep `exact`, replace the centroid comment with `<!-- Pin checked YYYY-MM-DD: source -->`, and make sure `address` is complete with a postcode.
+> - **Can't confirm:** set `location_precision: street` and say why in a comment. Directions still work from the address.
+> - **Large sites:** if the right entrance isn't obvious, name it in the **Our tip:** line.
+>
+> **Trails:** preview each of the four trail maps in `npm run dev`. Where the straight line cuts across the river or through blocks in a way that misleads, add `path_only` waypoints (§6.3) with coordinates checked on OpenStreetMap. On the Thames Path, look at Dukes Meadows, the Mortlake towpath, Chiswick Bridge to the National Archives, and the National Archives to Kew Bridge branch.
+>
+> Work in **batches of about 20**. Before writing each batch, show me a table: place, the problem, the new coordinates, the source, and how far the pin moved. Don't change descriptions except to fix a wrong fact you notice (flag it). Don't edit `src/`; put any code requests in `planning/requests.md`. Finish by logging the session, adding a "Pin check" row to the backlog, and listing the files you changed so I can run `npm run check`, then commit and push.
+
+## Eating by occasion
+
+> We're working on Where We'd Take You in London. Read `CLAUDE.md`, `PROJECT_INSTRUCTIONS.md` (especially §2.7 browse-first, §6.1 `occasions`, §7 and §8), `planning/backlog.md`, `planning/requests.md` and `content/themes/eat.md` in the connected LondonGuide folder.
+>
+> This is the **eating-by-occasion session**. Theme pages now show a "Pick by occasion" section built from each place's `occasions` field. The allowed values are `breakfast-brunch`, `quick-lunch`, `cheap-cheerful`, `dinner-with-friends`, `sunday-roast`, `afternoon-tea` and `special-occasion`. Nothing is tagged yet.
+>
+> **Scope:** public places in `eat` and `drinks`, plus any pub in `historic-pubs` that serves food we'd send people for (a Sunday roast especially).
+>
+> **Steps:**
+> 1. **Interview me first.** For each occasion, ask which places we'd actually send people to. That's the value.
+> 2. **Propose a table:** place, area, suggested occasions, and the fact behind each. Only tag what's true now: `sunday-roast` only if the current menu shows one, `afternoon-tea` only if it's served, `breakfast-brunch` only if it opens for it, `special-occasion` for places worth dressing up and booking for. Most places get one or two occasions, three at most. Aim for about 4–10 places per occasion, spread across areas and prices.
+> 3. **Write** the `occasions:` field into the files I approve. Don't change anything else, except optionally one sentence in the `eat` intro pointing to "Pick by occasion".
+>
+> If an occasion we need is missing from the list, ask for it in `planning/requests.md` rather than editing `src/`. Finish by logging the session, updating the `eat` and `drinks` backlog rows, and listing the files you changed so I can run `npm run check`, then commit and push.
+
+## Home-page favourites (short; can be done in any session or by hand)
+
+> We're working on Where We'd Take You in London. Read `CLAUDE.md` and §6.7 of `PROJECT_INSTRUCTIONS.md`. Help me pick about six places for `homeFavourites` in `content/site.yaml`, from the places with `badge: favourite`. Aim for a spread of areas and kinds of place, and for each one ask me for, or help me word, one line in our voice on why it's ours. Write the list into `site.yaml`, then list the files you changed so I can run `npm run check`, then commit and push.

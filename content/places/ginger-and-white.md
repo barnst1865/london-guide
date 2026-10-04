@@ -8,8 +8,8 @@ price: 2
 summary: "A tiny walk-in brunch cafe in a Hampstead lane, open since 2009, known for its cakes. No bookings, so expect a wait at weekends."
 area: "Hampstead (Perrins Court)"
 address: "4A-5A Perrins Court, London NW3 1QS"
-coords: [51.55570, -0.17773]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
-location_precision: exact
+coords: [51.55570, -0.17773]   # Pin not confirmed 2026-10-04: no OpenStreetMap object for the cafe, and no venue map reference; precision set to street, directions work from the address
+location_precision: street
 stations: [Hampstead, Hampstead Heath]
 website: https://www.gingerandwhite.com
 status: open

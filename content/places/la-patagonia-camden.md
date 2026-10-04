@@ -8,7 +8,7 @@ price: 3
 summary: "An independent Argentine steak grill on Camden High Street, with charcoal-grilled steaks, empanadas and Malbec. Open for more than a decade."
 area: "Camden Town"
 address: "31 Camden High Street, London NW1 7JE"
-coords: [51.53498, -0.13927]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.53530, -0.13953]   # Pin checked 2026-10-04: OpenStreetMap way 225442608
 location_precision: exact
 stations: [Mornington Crescent, Camden Town]
 status: open

@@ -42,7 +42,7 @@ The site is public, so these rules apply to every file in the repository, not ju
 - **No identifying family details.** No surnames, no first names of the kids, no photos showing our faces or the kids' faces, and no mention of our employers, jobs, posting or work locations. "Our family" / "we" is the voice.
 - **No home location.** Nothing that reveals where we live: no "our local", no "around the corner from us", no neighbourhood-of-residence hints, and no kids' schools or clubs. A place can be a favourite without saying why it's convenient for us.
 - **No work-derived framing.** Anything from work-sourced lists (e.g., the office restaurant list) is rewritten from scratch for visitors. References to official functions, specific government buildings' staff habits ("full of X folks"), or colleagues' preferences are removed.
-- **No private residences pinned.** Where history happened at a private home (e.g., Litvinenko's house, Skripal's former house, Amesbury), use `location_precision: area` or `street`, describe the site in text, and never give a house number. Prefer a nearby public landmark as the map pin.
+- **House numbers: the family decides.** If the family chooses to include a specific house number, the building is noteworthy enough to be publicly identified (a blue-plaque house, a famous film exterior, a historic address), so give the full address and pin it as precisely as the coordinates allow. Sessions don't add house numbers on their own initiative: for history at a private home the family hasn't chosen to identify (e.g., Litvinenko's house, Skripal's former house), use `location_precision: area` or `street`, describe the site in text, and prefer a nearby public landmark as the pin. Either way, private buildings are described as seen from the street, and nothing may reveal where we or our friends live (see above).
 - **Active government and military sites** (e.g., Thames House, Vauxhall Cross, RAF Northolt, AWE Aldermaston) are included only as things visible from public places, described from public sources. No advice on photographing them, approaching their perimeters, or anything about their security.
 - **Respect for victims.** The spy and WMD material involves real people who died or were injured, including bystanders (e.g., Dawn Sturgess). The tone there is curious and serious, never jokey.
 - **Robots.** The site ships with `noindex` meta tags and a `robots.txt` that disallows crawling. The link is shared directly with friends and family.
@@ -110,6 +110,8 @@ A trail is an ordered sequence of places with walking or transport notes between
 
 Trails can have **named segments** (e.g. "Hammersmith to Barnes"), **optional stops** (detours, shown dashed), **waypoints** (a named point that isn't a place, like a bridge crossing, used to shape the route), and **variants** (shorter or longer ways to do it, optionally naming the stop where a variant ends). See §6.3.
 
+**How the map draws a trail** (since 2026-10-04): a solid line through the required stops and waypoints in order; a dotted spur from the previous main-route stop to each optional stop within 1.5 km (optional stops further away are marked but not joined); and a dashed line for each alternative ending, from its `branches_at` stop. Markers are numbered to match the stop list. The line is straight between points, so the map is captioned as a rough guide. To make it follow the real path (round a river bend, along a towpath), add `path_only` waypoints with coordinates you've checked on a map.
+
 ### 5.4 The favourite badge (optional)
 
 | badge | Label shown | Meaning |
@@ -157,6 +159,7 @@ type: pub
 themes: [historic-pubs, medieval-old-london]
 badge: favourite                # optional; the only allowed value
 tags: [rainy-day, group-friendly]
+occasions: [quick-lunch, dinner-with-friends]   # optional, mainly eat/drinks: breakfast-brunch, quick-lunch, cheap-cheerful, dinner-with-friends, sunday-roast, afternoon-tea, special-occasion. Theme pages group places by these under "Pick by occasion"
 price: 1
 summary: >-                     # ≤160 chars; shown on cards and map popups
   A warren of dark, firelit rooms rebuilt right after the Great Fire — the pub we take everyone to first.
@@ -223,10 +226,17 @@ stops:
     note: Cross here if the bridge is open to pedestrians.
   - place: william-morris-society
     optional: true               # a detour, shown dashed
+  - waypoint: Dukes Meadows bend # shapes the map line only: no marker, not listed
+    coords: [51.4790, -0.2560]   # illustrative only: check real coordinates on a map
+    path_only: true
 variants:
   - name: Short version
     description: Finish after the White Hart.
     ends_at: white-hart-barnes   # optional: must be a stop on this trail
+  - name: Long version
+    description: Stay on the towpath to Kew Bridge.
+    ends_at: rose-and-crown-kew  # an optional stop = an alternative ending...
+    branches_at: National Archives (leave the river)   # ...drawn from here (a place slug or waypoint name)
 visibility: draft
 ---
 Introduction to the trail.
@@ -258,7 +268,7 @@ In any Markdown body, link to other pages with `[text](place:slug)`, `[text](the
 
 ### 6.7 Site settings — `content/site.yaml`
 
-`title`, `tagline`, `startHere` (up to three theme ids shown large at the top of the home page) and `minThemePlaces` (a theme appears on the published home page only once it has at least this many public places; currently 3). (The old `showWishlist` switch was retired with the wishlist badge.)
+`title`, `tagline`, `startHere` (up to three theme ids shown large at the top of the home page), `minThemePlaces` (a theme appears on the published home page only once it has at least this many public places; currently 3) and `homeFavourites` (the hand-picked "Family favourites" on the home page: a list of `{ place, why }`, where `why` is one line in our voice; while it's empty the home page shows the first six favourites alphabetically). (The old `showWishlist` switch was retired with the wishlist badge.)
 
 ### 6.8 Validation
 
@@ -336,12 +346,12 @@ london-guide/
 
 ### 9.3 Pages
 
-- **Home (browse-first):** a short welcome; a "Start here" row of up to three themes (`startHere` in `site.yaml`); the remaining themes as a compact list; featured trails; featured guides; a map teaser with browse-by-type chips; family favourites. On the published site, themes appear only once they have a public place.
-- **Map:** full-screen map with markers styled by type; filters for theme, type, favourites and key tags (kid-friendly, free, rainy-day); clustering; popups linking to place pages. Filters are kept in the URL, so a filtered map can be linked.
+- **Home (browse-first):** a short welcome with quick links (Explore the map, Before you visit, Walks and trails, and Moving here once a Living here guide is public); a "Start here" row of up to three themes (`startHere` in `site.yaml`); the remaining themes as a compact list; featured trails; featured guides; a map teaser with browse-by-type chips; family favourites (`homeFavourites`). The first nav item is "Home". On the published site, themes appear only once they have a public place.
+- **Map:** full-screen map with markers styled by type; filters for theme, type, favourites and key tags (kid-friendly, free, rainy-day), offering only themes and types that have public places; clustering; popups linking to place pages. Filters are kept in the URL, so a filtered map can be linked.
 - **Theme pages:** intro essay, featured places, places grouped by type, trails in the theme, and a mini-map.
 - **Browse by type:** Eat, Drink, Museums, Historic sites, and so on.
-- **Place pages:** description, "Our kids" quote (optional), our tip, practical box with directions, mini-map, "pair with", and the themes it belongs to.
-- **Trail pages:** summary, route map (places, waypoints, optional stops), "Ways to do it" variants, and stops grouped by segment.
+- **Place pages:** description, "Our kids" quote (optional), our tip, practical box with directions (the link searches Google Maps by name and address, not by our pin, so it works at `exact` or `street` precision; `area` places get none), mini-map, "pair with", and the themes it belongs to.
+- **Trail pages:** summary, route map (numbered markers, main line, detours and alternative endings; see §5.3a) with a caption, "Ways to do it" variants, and stops grouped by segment.
 - **Guides:** an index grouped as Practical London, Around town, Essays and Living here, plus one page per guide, with its places on a map at the end.
 
 **Later (parked ideas):** "Near me" (geolocation), search, a printable or offline trail view, photos.
@@ -449,3 +459,4 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 14 | **Streets and districts** | Handled as "Around town" area guides, not place files (§5.6) |
 | 15 | **Pre-launch review** | 2026-10-04: themes need 3+ public places to appear on the home page; links to drafts render as plain text; research-note comments are stripped from pages; temporarily closed places go back to draft |
 | 16 | **Quick listings** | 2026-10-04: remaining triage places go on the site first as `depth: listing` entries (verified facts and a one-line summary), then become full pages as themes are built out (§6.1) |
+| 17 | **House numbers** | Decided 2026-10-04: the blanket no-house-numbers rule is replaced. A house number the family chooses to include means the building is noteworthy enough to be identified; sessions don't add them on their own (§3). First used for the three Great Muppet Caper buildings |

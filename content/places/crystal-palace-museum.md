@@ -8,7 +8,7 @@ price: "£0"
 summary: "A free one-room museum in the only surviving Crystal Palace Company building: models, photos and relics of Paxton's glass palace. Fridays and Sundays."
 area: "Crystal Palace"
 address: "Anerley Hill, London SE19 2BA"
-coords: [51.41856, -0.07449]
+coords: [51.41971, -0.07663]   # Pin checked 2026-10-04: OpenStreetMap way 4960905 (Crystal Palace Museum, Anerley Hill, SE19 2BA)
 location_precision: exact
 stations: [Crystal Palace, Penge West]
 website: https://www.crystalpalaceparktrust.org/pages/crystal-palace-museum

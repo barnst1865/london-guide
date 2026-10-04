@@ -8,7 +8,7 @@ price: 2
 summary: "A pub on Kew Green in a converted row of shops, a short walk from the gardens. Pavement tables, a rear courtyard and Sunday roasts."
 area: "Kew (Kew Green)"
 address: "3-5 Kew Green, Richmond TW9 3AA"
-coords: [51.48366, -0.28915]   # postcode centroid (postcodes.io), checked 2026-10-04; Kew Green is large, so spot-check the pin
+coords: [51.48293, -0.28698]   # Pin checked 2026-10-04: OpenStreetMap way 620486357, which agrees with the DesignMyNight listing coordinate (OSM spells the street Kew Road; listings say 3-5 Kew Green, which we keep)
 location_precision: exact
 stations: [Kew Gardens, Kew Bridge]
 website: https://thebotanistkew.co.uk

@@ -7,7 +7,7 @@ price: "£"
 summary: "Seventy-six steps down in Uxbridge to the Fighter Command ops room where Churchill watched the Battle of Britain on 15 September 1940, kept as it was that day."
 area: "Uxbridge"
 address: "Wren Avenue, Uxbridge UB10 0BE"
-coords: [51.54125, -0.46528]
+coords: [51.54090, -0.46466]   # Pin checked 2026-10-04: OpenStreetMap way 132133793 (Battle of Britain Bunker - RAF Uxbridge; OSM postcode UB10 0GG, file says UB10 0BE, not changed)
 location_precision: exact
 stations: [Uxbridge]
 website: https://battleofbritainbunker.co.uk/

@@ -72,7 +72,7 @@ main > .wrap:first-child { padding-top: 24px; }
 .site-footer { border-top: 1px solid var(--line); padding: 24px 0 40px; font-size: .9rem; color: var(--muted); }
 
 /* Cards & grids */
-.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr)); }
 .card {
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
   padding: 16px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 6px;
@@ -178,10 +178,10 @@ a.card:hover { border-color: var(--muted); }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 .section-head h2 { margin-bottom: .3em; }
 .section-head a { font-size: .95rem; }
-.start-here { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+.start-here { grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); }
 .start-here .card { padding: 22px; }
 .start-here .card h3 { font-size: 1.35rem; }
-.compact-themes { display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); list-style: none; padding: 0; margin: 0; }
+.compact-themes { display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr)); list-style: none; padding: 0; margin: 0; }
 .compact-themes a { display: flex; gap: 10px; align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-left: 4px solid var(--c); border-radius: 8px; background: var(--surface); color: var(--text); text-decoration: none; }
 .compact-themes a:hover { border-color: var(--muted); border-left-color: var(--c); }
 .compact-themes .n { margin-left: auto; color: var(--muted); font-size: .8rem; }
@@ -192,9 +192,38 @@ a.card:hover { border-color: var(--muted); }
 .lg-tiles-dark { filter: invert(1) hue-rotate(180deg) brightness(.95) contrast(.9); }
 
 /* Quick listings (§6.1) */
-.listing-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
+.listing-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); }
 .listing-list li { padding: 10px 12px; border-left: 3px solid var(--line); background: var(--surface); border-radius: 0 8px 8px 0; }
 .listing-list a { font-weight: 600; }
 .listing-list .muted { font-size: .9rem; }
 .listing-list .badge { margin-left: 6px; }
 .listing-note { font-size: .9rem; font-style: italic; }
+
+/* Trail maps: numbered stop markers and caption */
+.lg-num {
+  width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center;
+  background: #16263d; color: #fff; font: 700 13px/1 system-ui, sans-serif;
+  border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.35), 0 1px 3px rgba(0,0,0,.4);
+}
+.lg-num.opt { background: #fff; color: #16263d; border: 2px dashed #16263d; }
+.map-caption { font-size: .9rem; color: var(--muted); margin: 8px 0 0; max-width: 68ch; }
+
+/* Home: quick links under the welcome */
+.quick-links { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0 0; padding: 0; list-style: none; }
+.fav-why { font-size: .9rem; font-style: italic; color: var(--muted); margin: 6px 2px 0; }
+.fav-item { display: flex; flex-direction: column; }
+.fav-item .card { flex: 1; }
+
+/* Keyboard focus and skip link */
+:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; border-radius: 4px; }
+.card:focus-visible, .compact-themes a:focus-visible, .chips a:focus-visible { outline-offset: 3px; }
+.leaflet-marker-icon:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
+.skip-link { position: absolute; left: 8px; top: -60px; z-index: 1000; background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 6px; text-decoration: none; }
+.skip-link:focus { top: 8px; }
+.map-list-note { font-size: .9rem; color: var(--muted); margin: 8px 0 0; }
+main:focus { outline: none; }
+
+/* Theme pages: pick by occasion */
+.occasion-grid { display: grid; gap: 8px 24px; grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr)); }
+.occasion-grid h3 { font-size: 1.05rem; margin: .6em 0 .3em; }
+.occasion-grid ul { margin: 0; padding-left: 1.1em; font-size: .95rem; }

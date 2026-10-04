@@ -8,7 +8,7 @@ price: 2
 summary: "A Soho chocolate shop and cafe known for its triple hot chocolate (milk, gianduia and dark). There's usually a queue."
 area: "Soho"
 address: "41 Broadwick Street, London W1F 9QL"
-coords: [51.51323, -0.13671]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51327, -0.13671]   # Pin checked 2026-10-04: OpenStreetMap node 5536112071
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus, Tottenham Court Road]
 website: https://www.italianbearchocolate.com

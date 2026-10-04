@@ -8,7 +8,7 @@ price: 2
 summary: "An Italian bakery and deli in a Hackney railway arch, from the team behind Ombra. Maritozzi and Roman pizza, a short walk from Columbia Road."
 area: "Hackney (Andrews Road)"
 address: "322 Andrews Road, London E8 4RP"
-coords: [51.53493, -0.05746]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.53451, -0.05784]   # Pin checked 2026-10-04: OpenStreetMap node 10882805054
 location_precision: exact
 stations: [Cambridge Heath, London Fields]
 website: https://forno.london

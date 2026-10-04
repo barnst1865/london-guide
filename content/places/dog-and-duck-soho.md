@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny 1897 Soho corner pub whose tiled, mirrored Grade II interior Historic England calls an exceptional survival. George Orwell is said to have drunk here."
 area: "Soho"
 address: "18 Bateman Street, London W1D 3AJ"
-coords: [51.51400, -0.13200]
+coords: [51.51400, -0.13196]   # Pin checked 2026-10-04: OpenStreetMap node 14178896030 (18 Bateman Street, W1D 3AJ)
 location_precision: exact
 stations: [Tottenham Court Road, Leicester Square, Piccadilly Circus]
 website: https://www.nicholsonspubs.co.uk/restaurants/london/thedogandducksoholondon

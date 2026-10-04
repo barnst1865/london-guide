@@ -8,8 +8,8 @@ price: 4
 summary: "Afternoon tea in the lounge of the grand 1865 Langham hotel. A splurge. The hotel's claim to have started the tradition there is unproven."
 area: "Marylebone / Fitzrovia (Portland Place)"
 address: "1c Portland Place, London W1B 1JA"
-coords: [51.51773, -0.14392]   # postcode centroid (postcodes.io), checked 2026-10-04; large hotel building
-location_precision: exact
+coords: [51.51773, -0.14392]   # Pin not confirmed 2026-10-04: OpenStreetMap has no object for The Langham or its Palm Court near Portland Place; precision set to street, directions work from the address
+location_precision: street
 stations: [Oxford Circus, Regent's Park, Great Portland Street]
 website: https://www.langhamhotels.com/en/the-langham/london/dining/palm-court/
 status: open

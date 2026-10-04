@@ -3,7 +3,7 @@ title: "Medieval & Old London"
 short: "Old London"
 order: 3
 color: "#8a5a2b"
-blurb: "Roman walls, Templar churches and the medieval city hiding between the office blocks."
+blurb: "A Saxon arch, a Tudor gatehouse, the Great Fire and the gallows: old London hiding between the office blocks."
 featured: [all-hallows-by-the-tower, ye-olde-cheshire-cheese, ye-olde-mitre]
 visibility: public
 ---

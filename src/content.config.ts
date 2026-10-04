@@ -1,7 +1,7 @@
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
-import { TYPES, TAGS, STATUSES, PRECISIONS, GUIDE_GROUPS } from './lib/vocab.mjs';
+import { TYPES, TAGS, OCCASIONS, STATUSES, PRECISIONS, GUIDE_GROUPS } from './lib/vocab.mjs';
 
 const keys = (o: Record<string, unknown>) => Object.keys(o) as [string, ...string[]];
 const slug = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'must be lowercase-hyphenated');
@@ -22,6 +22,7 @@ const places = defineCollection({
         })
         .optional(),
       tags: z.array(z.enum(keys(TAGS))).default([]),
+      occasions: z.array(z.enum(keys(OCCASIONS))).default([]),   // §6.1: e.g. [quick-lunch, dinner-with-friends]
       price: z.union([z.number().int().min(0).max(4), z.string()]).optional(),
       summary: z.string().min(1).max(160),
       area: z.string().min(1),
@@ -73,9 +74,15 @@ const stop = z
     note: z.string().optional(),
     optional: z.boolean().default(false),   // shown as an optional detour
     segment: z.string().optional(),         // starts a new named section of the trail at this stop
+    // A waypoint used only to bend the map line along the real path (e.g. round a river bend).
+    // Not numbered, not listed, no marker. Use coordinates you've checked on a map.
+    path_only: z.boolean().default(false),
   })
   .refine((s) => (s.place ? !s.waypoint && !s.coords : !!s.waypoint && !!s.coords), {
     message: 'each stop needs either `place`, or `waypoint` + `coords` (not both)',
+  })
+  .refine((s) => !s.path_only || (!!s.waypoint && !s.optional), {
+    message: '`path_only` is only for waypoints on the main route (not places or optional stops)',
   });
 
 const trails = defineCollection({
@@ -88,8 +95,10 @@ const trails = defineCollection({
     duration: z.string(),
     stops: z.array(stop).min(2),
     // Ways to shorten or extend the trail, e.g. { name: "Short version", description: "...", ends_at: white-hart-barnes }
+    // If ends_at is an optional stop (an alternative ending), branches_at names the stop where it
+    // leaves the main route (a place slug or a waypoint name); the map draws the ending from there.
     variants: z
-      .array(z.object({ name: z.string(), description: z.string(), ends_at: slug.optional() }))
+      .array(z.object({ name: z.string(), description: z.string(), ends_at: slug.optional(), branches_at: z.string().optional() }))
       .default([]),
     featured: z.boolean().default(false),   // shown on the home page
     tags: z.array(z.enum(keys(TAGS))).default([]),

@@ -7,7 +7,7 @@ tags: [quick-visit]
 summary: "Lock & Co. says it's the world's oldest hat shop: on St James's Street since 1765, and maker of the first bowler in 1849. Browsers welcome."
 area: "St James's"
 address: "6 St James's Street, London SW1A 1EF"
-coords: [51.50545, -0.1380]
+coords: [51.50572, -0.13822]   # Pin checked 2026-10-04: OpenStreetMap way 276075215 ("Lock & Co", 6 St James's Street)
 location_precision: exact
 stations: [Green Park]
 website: https://www.lockhatters.com

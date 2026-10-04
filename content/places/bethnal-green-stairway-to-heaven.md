@@ -7,7 +7,7 @@ price: "£0"
 summary: "An inverted wooden staircase by Bethnal Green station remembers the 173 people crushed on the shelter stairs on 3 March 1943. No bomb fell that night."
 area: "Bethnal Green"
 address: "Bethnal Green Gardens, corner of Cambridge Heath Road and Roman Road, London E2"
-coords: [51.52722, -0.05556]
+coords: [51.52722, -0.05514]   # Pin checked 2026-10-04: OpenStreetMap way 1201502228 (Stairway to Heaven Memorial)
 location_precision: exact
 stations: [Bethnal Green, Cambridge Heath]
 website: https://www.stairwaytoheavenmemorial.org/

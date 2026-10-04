@@ -7,7 +7,7 @@ price: "£0"
 summary: "The chapel on Birdcage Walk where a V-1 fell during Sunday service in June 1944, killing 121. The gold mosaic apse survived; everything around it is 1963."
 area: "St James's / Westminster"
 address: "Wellington Barracks, Birdcage Walk, London SW1E 6HQ"
-coords: [51.49999, -0.13764]
+coords: [51.50005, -0.13613]   # Pin checked 2026-10-04: OpenStreetMap node 4749096025 (The Guards Museum, Birdcage Walk side); the chapel is way 26637290
 location_precision: exact
 stations: [St James's Park, Victoria, Westminster]
 website: https://www.householddivision.org.uk/guards-chapel

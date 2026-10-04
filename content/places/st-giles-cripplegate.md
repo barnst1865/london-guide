@@ -7,7 +7,7 @@ price: "£0"
 summary: "A medieval church that survived the Great Fire, was gutted by the Blitz, and stands restored on an island in the Barbican's lake. Milton is buried here."
 area: "Barbican"
 address: "Fore Street, London EC2Y 8DA"
-coords: [51.51874, -0.09388]
+coords: [51.51884, -0.09388]   # Pin checked 2026-10-04: OpenStreetMap main entrance on way 34038668
 location_precision: exact
 stations: [Barbican, Moorgate]
 website: https://www.stgilescripplegate.com/

@@ -7,7 +7,7 @@ price: 4
 summary: "An old-school St James’s oyster-and-fish restaurant that traces itself to a 1742 stall; formal, with green velvet booths. One for a proper occasion."
 area: "St James’s"
 address: "55 Jermyn Street, London SW1Y 6LX"
-coords: [51.50767, -0.13936]
+coords: [51.50770, -0.13920]   # Pin checked 2026-10-04: OpenStreetMap node 675854609 (55 Jermyn Street)
 location_precision: exact
 stations: [Green Park, Piccadilly Circus]
 website: https://www.wiltons.co.uk/

@@ -8,7 +8,7 @@ price: 2
 summary: "A 17th-century inn on the edge of Hampstead Heath, with a big garden, the old tollhouse opposite, and a pile of legends."
 area: "Hampstead Heath"
 address: "Spaniards Road, London NW3 7JJ"
-coords: [51.56986, -0.17408]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.56987, -0.17408]   # Pin checked 2026-10-04: OpenStreetMap way 334243397 (the pub building; no address tag)
 location_precision: exact
 stations: [Hampstead, Golders Green]
 website: https://www.thespaniardshampstead.co.uk/

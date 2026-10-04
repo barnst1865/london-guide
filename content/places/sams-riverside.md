@@ -7,7 +7,7 @@ price: 3
 summary: "A glamorous brasserie looking straight at Hammersmith Bridge. Come for the early-evening oyster happy hour on weekdays."
 area: "Hammersmith"
 address: "1 Crisp Walk, London W6 9DN"
-coords: [51.48820, -0.22812]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.48826, -0.22814]   # Pin checked 2026-10-04: OpenStreetMap node 11435284032 (OSM spells the street Crisp Road; the venue site says Crisp Walk, which we keep)
 location_precision: exact
 stations: [Hammersmith]
 website: https://www.samsriverside.co.uk

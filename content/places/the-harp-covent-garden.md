@@ -7,7 +7,7 @@ price: 2
 summary: "A narrow, no-TV cask-ale pub by Charing Cross, CAMRA’s National Pub of the Year in 2010 and a long-time favorite of the real-ale crowd."
 area: "Covent Garden"
 address: "47 Chandos Place, London WC2N 4HS"
-coords: [51.50970, -0.12593]
+coords: [51.50970, -0.12595]   # Pin checked 2026-10-04: OpenStreetMap way 558503742 (47 Chandos Place)
 location_precision: exact
 stations: [Charing Cross, Leicester Square, Covent Garden]
 website: https://harpcoventgarden.com/

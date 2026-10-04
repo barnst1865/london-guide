@@ -8,7 +8,7 @@ price: "£0"
 summary: "Barrie paid for it and slipped it in overnight in 1912, letting children believe fairies put it there; look for the animals worn smooth by small hands."
 area: "Kensington Gardens"
 address: "West side of the Long Water, Kensington Gardens, London W2"
-coords: [51.50862, -0.17596]
+coords: [51.50862, -0.17592]   # Pin checked 2026-10-04: OpenStreetMap node 255467667 (Peter Pan Statue)
 location_precision: exact
 stations: [Lancaster Gate, Queensway, Bayswater]
 website: https://www.royalparks.org.uk/visit/parks/kensington-gardens

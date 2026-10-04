@@ -7,7 +7,7 @@ price: 2
 summary: "A wood-paneled 1923 rebuild by Lincoln’s Inn Fields that claims a 1549 founding and hidden Catholic priests: the pub’s own story, and a good one."
 area: "Holborn"
 address: "12 Gate Street, London WC2A 3HP"
-coords: [51.51705, -0.11879]
+coords: [51.51725, -0.11918]   # Pin checked 2026-10-04: OpenStreetMap node 21593236 (12 Gate Street, WC2A 3HP)
 location_precision: exact
 stations: [Holborn, Chancery Lane, Covent Garden]
 website: https://theshiptavern.co.uk/

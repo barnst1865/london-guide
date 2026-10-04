@@ -8,7 +8,7 @@ price: "£"
 summary: "Barnardo's old canalside ragged school, with a recreated Victorian classroom and a costumed-teacher lesson on first Sundays. Hands-on history for kids."
 area: "Mile End"
 address: "46-50 Copperfield Road, London E3 4RR"
-coords: [51.51946, -0.03588]
+coords: [51.51877, -0.03567]   # Pin checked 2026-10-04: OpenStreetMap way 388845373 (46-50 Copperfield Road, E3 4RR)
 location_precision: exact
 stations: [Mile End, Limehouse]
 website: https://raggedschoolmuseum.org.uk/

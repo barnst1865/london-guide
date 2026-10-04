@@ -8,7 +8,7 @@ price: "££"
 summary: "The 1739 Foundling Hospital for abandoned children, with Hogarth's paintings and Handel's music woven through a small, moving museum."
 area: "Bloomsbury"
 address: "40 Brunswick Square, London WC1N 1AZ"
-coords: [51.52548, -0.12076]
+coords: [51.52513, -0.12162]   # Pin checked 2026-10-04: OpenStreetMap entrance on way 28269975 (40 Brunswick Square)
 location_precision: exact
 stations: [Russell Square, "King's Cross St Pancras"]
 website: https://foundlingmuseum.org.uk/

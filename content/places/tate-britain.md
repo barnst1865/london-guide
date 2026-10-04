@@ -7,7 +7,7 @@ price: "£0"
 summary: "The national collection of British art, free, in a Millbank palace whose western wall is still pitted with shrapnel from the bombs of 1940 and 1941."
 area: "Millbank / Pimlico"
 address: "Millbank, London SW1P 4RG"
-coords: [51.49087, -0.12718]
+coords: [51.49081, -0.12688]   # Pin checked 2026-10-04: OpenStreetMap main (Millbank) entrance on way 24553580
 location_precision: exact
 stations: [Pimlico, Vauxhall, Westminster]
 website: https://www.tate.org.uk/visit/tate-britain

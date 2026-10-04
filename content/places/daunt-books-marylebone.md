@@ -8,7 +8,7 @@ tags: [rainy-day, quick-visit, sunday]
 summary: "A bookshop in a 1912 Edwardian building, with oak galleries, a skylit hall and books shelved by country. A family favorite."
 area: "Marylebone"
 address: "83-84 Marylebone High Street, London W1U 4QW"
-coords: [51.52044, -0.15229]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52043, -0.15225]   # Pin checked 2026-10-04: OpenStreetMap way 148887992
 location_precision: exact
 stations: [Baker Street, Bond Street]
 website: https://www.dauntbooks.co.uk

@@ -7,7 +7,7 @@ tags: [rainy-day, quick-visit, sunday]
 summary: "A Tudor-revival store of the 1920s, said to be built from the timbers of two old warships. Come for the building as much as the shopping."
 area: "Soho (Carnaby)"
 address: "Regent Street, London W1B 5AH"
-coords: [51.51365, -0.13997]   # postcode centroid (postcodes.io), checked 2026-10-04; large block, entrance is on Great Marlborough Street
+coords: [51.51372, -0.13998]   # Pin checked 2026-10-04: OpenStreetMap way 272198110 (Liberty London, Regent Street, W1B 5AH; building centroid)
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus]
 website: https://www.libertylondon.com

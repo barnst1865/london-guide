@@ -8,7 +8,7 @@ price: 3
 summary: "A Viennese cafe-restaurant on Marylebone High Street, opened in 2014: schnitzel, strudel and cake in a room styled like an old Vienna cafe."
 area: "Marylebone"
 address: "50 Marylebone High Street, London W1U 5HN"
-coords: [51.52161, -0.15151]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52160, -0.15167]   # Pin checked 2026-10-04: OpenStreetMap node 4690917091
 location_precision: exact
 stations: [Baker Street, Bond Street, Regent's Park]
 website: https://www.fischers.co.uk/

@@ -8,7 +8,7 @@ price: 1
 summary: "Japanese home cooking in a former Chinatown launderette since 1992: katsu curry, donburi and noodles, fast, cheap and with no tipping."
 area: "Chinatown"
 address: "2 Newport Place, London WC2H 7JP"
-coords: [51.51185, -0.12933]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51184, -0.12936]   # Pin checked 2026-10-04: OpenStreetMap node 13550939106 (OSM postcode WC2H 7JJ; the venue site says WC2H 7JP, which we keep)
 location_precision: exact
 stations: [Leicester Square, Piccadilly Circus, Covent Garden]
 website: https://www.tokyodiner.com

@@ -8,7 +8,7 @@ price: 3
 summary: "A Hammersmith seafood restaurant that says it buys day-boat British fish. Opened in 2023 and well rated on booking sites."
 area: "Hammersmith"
 address: "206-208 Hammersmith Road, London W6 7DH"
-coords: [51.49319, -0.22263]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49316, -0.22261]   # Pin checked 2026-10-04: OpenStreetMap node 7263279673
 location_precision: exact
 stations: [Hammersmith]
 website: https://faberrestaurants.co.uk/

@@ -7,7 +7,7 @@ price: "£0"
 summary: "Nearly 800 acres of meadow, woods and swimming ponds in north London, with the whole city spread out below Parliament Hill."
 area: "Hampstead Heath"
 address: "Parliament Hill, Hampstead Heath, London NW5"
-coords: [51.55962, -0.15975]
+coords: [51.55962, -0.15977]   # Pin checked 2026-10-04: OpenStreetMap node 1672235731 (Parliament Hill viewpoint; the peak node agrees). No named gate pinned
 location_precision: exact
 stations: [Hampstead Heath, Gospel Oak, Hampstead]
 website: https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath

@@ -5,3 +5,14 @@ tagline: "The places we send our friends and family — past the usual tourist c
 startHere: [spies-cold-war, historic-pubs, eat]
 # On the published home page, a theme appears only once it has at least this many public places.
 minThemePlaces: 3
+# Hand-picked "Family favourites" for the home page (up to about 6), each with a one-line reason
+# in our voice. Until this list is filled in, the home page shows the first six favourites
+# alphabetically. Aim for a spread of areas and kinds of place. Example:
+#   - place: london-transport-museum
+#     why: "One line, in our voice, on why this one is ours."
+# Current favourites to choose from: blue-anchor-hammersmith, cafe-laville, clifton-nurseries-cafe,
+# daunt-books-marylebone, french-house, gordons-wine-bar, hamleys, hampstead-butcher-and-providore,
+# hole-in-the-wall-waterloo, jamaica-wine-house, kew-gardens, london-transport-museum, lore-of-the-land,
+# national-army-museum, punjab, spaniards-inn, the-dove-hammersmith, tokyo-diner,
+# victoria-and-albert-museum, ye-olde-cheshire-cheese
+homeFavourites: []

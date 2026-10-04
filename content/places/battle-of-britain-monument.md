@@ -7,7 +7,7 @@ price: "£0"
 summary: "A bronze frieze on the Embankment where life-size pilots scramble straight out of the wall at you, with nearly 3,000 names of 'the Few' from 15 nations."
 area: "Victoria Embankment / Westminster"
 address: "Victoria Embankment, by Westminster Pier, London SW1A 2JL"
-coords: [51.50280, -0.12433]
+coords: [51.50294, -0.12343]   # Pin checked 2026-10-04: OpenStreetMap node 25507034 (Battle of Britain Memorial)
 location_precision: exact
 stations: [Westminster, Embankment]
 website: https://www.bbm.org.uk/

@@ -7,7 +7,7 @@ price: "£0"
 summary: "A huge Italianate Catholic church next to the V&A, and by one account a KGB dead-drop point: messages were left between the pillars by the front door."
 area: "Knightsbridge / South Kensington"
 address: "Brompton Road, London SW7 2RP"
-coords: [51.49722, -0.16972]
+coords: [51.49730, -0.16986]   # Pin checked 2026-10-04: OpenStreetMap way 851727368 (Brompton Road)
 location_precision: exact
 stations: [South Kensington, Knightsbridge]
 website: https://www.bromptonoratory.co.uk/

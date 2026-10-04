@@ -7,7 +7,7 @@ price: 3
 summary: "A Greek Street whisky shop with a basement Vault cocktail bar, in a Grade II house of about 1744. It claims to be London’s original whisky specialist."
 area: "Soho"
 address: "3 Greek Street, London W1D 4NX"
-coords: [51.51483, -0.13123]
+coords: [51.51481, -0.13121]   # Pin checked 2026-10-04: OpenStreetMap way 279171121 (3 Greek Street)
 location_precision: exact
 stations: [Tottenham Court Road, Leicester Square, Piccadilly Circus]
 website: https://3greekstreet.com/

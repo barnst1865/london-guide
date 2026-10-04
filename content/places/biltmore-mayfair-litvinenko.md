@@ -7,7 +7,7 @@ price: "£0"
 summary: "The Mayfair hotel bar where Alexander Litvinenko drank polonium-laced tea on 1 November 2006. Renamed since, and still a working hotel."
 area: "Mayfair"
 address: "44 Grosvenor Square, London W1K 2HP"
-coords: [51.51056, -0.15083]
+coords: [51.51061, -0.15104]   # Pin checked 2026-10-04: OpenStreetMap way 38318935 (44 Grosvenor Square)
 location_precision: exact
 stations: [Bond Street, Green Park, Marble Arch]
 website: https://www.thebiltmoremayfair.com/

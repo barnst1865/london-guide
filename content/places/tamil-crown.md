@@ -8,7 +8,7 @@ price: 3
 summary: "An Islington former pub reborn in 2023 as a modern 'desi pub' by the Tamil Prince team. Downstairs bar, a more formal dining room upstairs, Indian Sunday roast."
 area: "Islington (near Angel)"
 address: "16 Elia Street, London N1 8DE"
-coords: [51.53216, -0.10220]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.53201, -0.10184]   # Pin checked 2026-10-04: OpenStreetMap way 67234436
 location_precision: exact
 stations: [Angel, Essex Road]
 website: https://www.thetamilcrown.com/

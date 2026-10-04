@@ -8,7 +8,7 @@ price: 3
 summary: "A French bistro near Seven Dials, open since 1943 and billed as London's oldest family-run French restaurant."
 area: "Covent Garden (Seven Dials)"
 address: "19-21 Monmouth Street, London WC2H 9DD"
-coords: [51.51436, -0.12675]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51450, -0.12678]   # Pin checked 2026-10-04: OpenStreetMap node 13809152817
 location_precision: exact
 stations: [Covent Garden, Leicester Square, Tottenham Court Road]
 website: https://www.monplaisir.co.uk/

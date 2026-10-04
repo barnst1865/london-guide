@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II corner pub of the 1790s with two tiny drinking snugs, screens and brass plaques intact: three stars on CAMRA’s national heritage list."
 area: "Marylebone"
 address: "8 Dorset Street, London W1U 6QW"
-coords: [51.51971, -0.15565]
+coords: [51.51971, -0.15567]   # Pin checked 2026-10-04: OpenStreetMap way 148011247 (8 Dorset Street)
 location_precision: exact
 stations: [Baker Street, Marylebone, Bond Street]
 website: https://thebarleymowmarylebone.com

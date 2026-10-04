@@ -8,7 +8,7 @@ price: 2
 summary: "A family-run Punjabi dining room on Neal Street since 1951, founded in 1946 and run by the same family ever since. Our go-to curry in the West End."
 area: "Covent Garden (Seven Dials)"
 address: "80 Neal Street, London WC2H 9PA"
-coords: [51.51476, -0.12599]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51514, -0.12658]   # Pin checked 2026-10-04: OpenStreetMap way 566375745
 location_precision: exact
 stations: [Covent Garden, Tottenham Court Road, Leicester Square]
 website: https://punjab.co.uk

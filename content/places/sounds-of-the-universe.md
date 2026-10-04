@@ -7,7 +7,7 @@ tags: [rainy-day, quick-visit]
 summary: "Soho's long-running record shop on Broadwick Street: new releases up top, crates of used vinyl below, and home base of the Soul Jazz label."
 area: "Soho"
 address: "7 Broadwick Street, London W1F 0DA"
-coords: [51.51393, -0.13465]
+coords: [51.51394, -0.13467]   # Pin checked 2026-10-04: OpenStreetMap node 14178877186 (7 Broadwick Street)
 location_precision: exact
 stations: [Tottenham Court Road, Oxford Circus, Piccadilly Circus]
 website: https://www.soundsoftheuniverse.com/

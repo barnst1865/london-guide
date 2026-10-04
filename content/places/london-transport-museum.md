@@ -9,7 +9,7 @@ price: "££"
 summary: "Our favorite rainy-day stop: two centuries of London buses, trams and Tube trains inside a Covent Garden market hall, with a play zone for little kids."
 area: "Covent Garden"
 address: "Covent Garden Piazza, London WC2E 7BB"
-coords: [51.51213, -0.12122]
+coords: [51.51189, -0.12161]   # Pin checked 2026-10-04: OpenStreetMap main entrance on way 44599803 (Covent Garden Piazza)
 location_precision: exact
 stations: [Covent Garden, Leicester Square, Charing Cross]
 website: https://www.ltmuseum.co.uk/

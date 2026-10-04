@@ -1,12 +1,14 @@
 ---
 import Base from '../layouts/Base.astro';
 import Map from '../components/Map.astro';
-import { loadAll, toMapPoint, typeInfo } from '../lib/data';
+import { loadAll, toMapPoint, typeInfo, u } from '../lib/data';
 import { TYPES } from '../lib/vocab.mjs';
 
 const { places, themes } = await loadAll();
 const points = places.map((p) => toMapPoint(p, themes));
 const types = Object.keys(TYPES).filter((t) => places.some((p) => p.data.type === t));
+// Only offer themes that have something to show.
+const mapThemes = themes.filter((t) => places.some((p) => p.data.themes.includes(t.id)));
 ---
 <Base title="Map" current="map">
   <div class="wrap">
@@ -14,7 +16,7 @@ const types = Object.keys(TYPES).filter((t) => places.some((p) => p.data.type ==
     <form id="map-filters" class="map-filters" onsubmit="return false">
       <select name="theme" aria-label="Theme">
         <option value="">All themes</option>
-        {themes.map((t) => <option value={t.id}>{t.data.short}</option>)}
+        {mapThemes.map((t) => <option value={t.id}>{t.data.short}</option>)}
       </select>
       <select name="type" aria-label="Type">
         <option value="">All types</option>
@@ -27,5 +29,6 @@ const types = Object.keys(TYPES).filter((t) => places.some((p) => p.data.type ==
       <span id="map-count" class="map-count" aria-live="polite"></span>
     </form>
     <Map points={points} size="full" filters />
+    <p class="map-list-note">Prefer a list? Every place is also listed on its <a href={u('#themes')}>theme page</a> and by type: {types.map((t, i) => <>{i > 0 && ', '}<a href={u(`types/${t}/`)}>{typeInfo(t).label.toLowerCase()}</a></>)}.</p>
   </div>
 </Base>

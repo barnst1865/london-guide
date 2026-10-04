@@ -7,7 +7,7 @@ price: "£££"
 summary: "The bunker under Whitehall where Churchill's government ran the war, with the Map Room left exactly as it was when the lights went off in 1945."
 area: "Westminster"
 address: "Clive Steps, King Charles Street, London SW1A 2AQ"
-coords: [51.50217, -0.12657]
+coords: [51.50221, -0.12930]   # Pin checked 2026-10-04: OpenStreetMap main entrance on way 197206542 (King Charles Street, SW1A 2AQ)
 location_precision: exact
 stations: [Westminster, St James's Park]
 website: https://www.iwm.org.uk/visits/churchill-war-rooms

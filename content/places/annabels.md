@@ -7,7 +7,7 @@ tags: [quick-visit]
 summary: "A walk-by only: a famous Mayfair private club since 1963. Members and guests only, so we look from Berkeley Square."
 area: "Mayfair"
 address: "46 Berkeley Square, London W1J 5AT"
-coords: [51.50913, -0.14635]
+coords: [51.50913, -0.14639]   # Pin checked 2026-10-04: OpenStreetMap way 211547740 (46 Berkeley Square)
 location_precision: exact
 stations: [Green Park, Bond Street]
 website: https://www.annabels.co.uk/

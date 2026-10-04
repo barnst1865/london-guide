@@ -7,7 +7,7 @@ price: "££"
 summary: "Beer has been brewed here by the river at Chiswick for centuries. Tours (over-18s only) end with a tasting; the shop and tap room are open to all."
 area: "Chiswick"
 address: "Griffin Brewery, Chiswick Lane South, London W4 2QB"
-coords: [51.48768, -0.24983]
+coords: [51.48721, -0.24988]   # Pin checked 2026-10-04: OpenStreetMap way 24034913 (Fuller's Griffin Brewery building)
 location_precision: exact
 stations: [Stamford Brook, Turnham Green]
 website: https://fullersbrewery.co.uk/brewery-tours/

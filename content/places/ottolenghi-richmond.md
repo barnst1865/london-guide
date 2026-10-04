@@ -8,7 +8,7 @@ price: 3
 summary: "The Ottolenghi group's all-day restaurant and deli on Hill Street, Richmond. Salads, bakes and cakes to eat in or take away."
 area: "Richmond"
 address: "36-38 Hill Street, Richmond TW9 1TW"
-coords: [51.45862, -0.30552]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.45861, -0.30560]   # Pin checked 2026-10-04: OpenStreetMap node 4317591469
 location_precision: exact
 stations: [Richmond]
 website: https://ottolenghi.co.uk/pages/restaurants/richmond

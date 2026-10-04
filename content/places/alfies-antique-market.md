@@ -7,7 +7,7 @@ tags: [rainy-day, quick-visit]
 summary: "Nearly 100 antique and vintage dealers on four floors of a former department store on Church Street. Open Tuesday to Saturday only."
 area: "Marylebone (Church Street)"
 address: "13-25 Church Street, London NW8 8DT"
-coords: [51.52408, -0.16889]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52418, -0.16875]   # Pin checked 2026-10-04: OpenStreetMap way 400510999
 location_precision: exact
 stations: [Edgware Road (Bakerloo), Marylebone]
 website: https://www.alfiesantiques.com

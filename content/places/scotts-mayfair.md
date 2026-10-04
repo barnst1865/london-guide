@@ -7,7 +7,7 @@ price: 4
 summary: "Mayfair's grand seafood restaurant, in business since the 1850s, with an Ian Fleming past and a darker 1975 chapter when the IRA attacked it twice in a month."
 area: "Mayfair"
 address: "20 Mount Street, London W1K 2HE"
-coords: [51.50988, -0.15100]
+coords: [51.50982, -0.15093]   # Pin checked 2026-10-04: OpenStreetMap node 452416571 (20-22 Mount Street)
 location_precision: exact
 stations: [Bond Street, Green Park, Marble Arch]
 website: https://scotts-mayfair.com/

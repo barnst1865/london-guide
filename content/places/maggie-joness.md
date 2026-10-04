@@ -8,7 +8,7 @@ price: 3
 summary: "A candlelit Kensington restaurant that began as Nan's Kitchen in the 1960s and reopened in 2025 after a fire. Said to be named for Princess Margaret's alias."
 area: "Kensington"
 address: "6 Old Court Place, Kensington, London W8 4PL"
-coords: [51.50280, -0.19038]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.50283, -0.19099]   # Pin checked 2026-10-04: OpenStreetMap node 4878040962
 location_precision: exact
 stations: [High Street Kensington]
 status: open

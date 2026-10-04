@@ -8,7 +8,7 @@ price: 3
 summary: "Seafood in a Covent Garden back alley since 1896, with a crustacean bar for oysters and shellfish. Smart, so book ahead."
 area: "Covent Garden / Leicester Square"
 address: "28-32 St Martin's Court, London WC2N 4AL"
-coords: [51.51090, -0.12758]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51092, -0.12770]   # Pin checked 2026-10-04: OpenStreetMap node 691635154
 location_precision: exact
 stations: [Leicester Square, Charing Cross, Covent Garden]
 website: https://www.j-sheekey.co.uk/

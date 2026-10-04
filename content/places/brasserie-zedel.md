@@ -7,7 +7,7 @@ price: 2
 summary: "A vast, gilded 1930s basement brasserie just off Piccadilly Circus, with a set menu that costs far less than the room suggests."
 area: "Piccadilly"
 address: "20 Sherwood Street, London W1F 7ED"
-coords: [51.51079, -0.13586]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51063, -0.13559]   # Pin checked 2026-10-04: OpenStreetMap node 2905800601
 location_precision: exact
 stations: [Piccadilly Circus, Leicester Square, Oxford Circus]
 website: https://www.brasseriezedel.com

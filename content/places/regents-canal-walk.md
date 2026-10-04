@@ -7,7 +7,7 @@ price: "£0"
 summary: "Two miles of towpath from the houseboats of Little Venice, past London Zoo, to Camden Lock, with a canal boat as the lazy option."
 area: "Little Venice to Camden"
 address: "Warwick Avenue Bridge, Little Venice, London W9"
-coords: [51.52196, -0.18174]
+coords: [51.52195, -0.18177]   # Pin checked 2026-10-04: OpenStreetMap way 41697736 (Warwick Avenue Road Bridge); towpath steps are not mapped separately
 location_precision: exact
 stations: [Warwick Avenue, Camden Town]
 website: https://canalrivertrust.org.uk/enjoy-the-waterways/walking/walking-routes/little-venice-to-camden-walk

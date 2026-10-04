@@ -7,7 +7,7 @@ price: "£0"
 summary: "The national war museum in the old Bedlam asylum, free, with superb Second World War galleries and a Spitfire, a Harrier and a V-2 hanging in the atrium."
 area: "Lambeth"
 address: "Lambeth Road, London SE1 6HZ"
-coords: [51.49601, -0.10833]
+coords: [51.49632, -0.10859]   # Pin checked 2026-10-04: OpenStreetMap main (North) entrance on way 8614496
 location_precision: exact
 stations: [Lambeth North, Elephant & Castle, Waterloo]
 website: https://www.iwm.org.uk/visits/iwm-london

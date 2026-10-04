@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny, eccentric 17th-century pub behind the Royal Courts of Justice, with good food and a resident cat who wears a ruff."
 area: "Holborn (Carey Street)"
 address: "53 Carey Street, London WC2A 2JB"
-coords: [51.51497, -0.11349]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51497, -0.11352]   # Pin checked 2026-10-04: OpenStreetMap way 185312889 (Carey Street, WC2A 2JB)
 location_precision: exact
 stations: [Temple, Chancery Lane, Holborn]
 website: https://thesevenstars1602.co.uk/

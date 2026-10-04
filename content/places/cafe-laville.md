@@ -8,7 +8,7 @@ price: 3
 summary: "An Italian café built on a platform over the mouth of the Maida Hill canal tunnel, with balcony seats looking down the water to Little Venice."
 area: "Little Venice"
 address: "Little Venice Parade, 453 Edgware Road, London W2 1TH"
-coords: [51.52423, -0.17670]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52452, -0.17706]   # Pin checked 2026-10-04: OpenStreetMap way 1089919603
 location_precision: exact
 stations: [Warwick Avenue, Edgware Road (Bakerloo line)]
 pair_with: [clifton-nurseries-cafe, three-falcons]

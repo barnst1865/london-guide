@@ -6,8 +6,8 @@ themes: [markets-food-shops, eat]
 tags: [quick-visit]
 summary: "The UK's largest inland fish market, on the Isle of Dogs since the 1980s. Go very early, wear non-slip shoes; no under-12s on the market floor."
 area: "Poplar / Canary Wharf (Docklands)"
-address: "Trafford Road, Poplar, London E14 5ST"
-coords: [51.50633, -0.01334]   # postcode centroid (postcodes.io), checked 2026-10-04; large site, spot-check the pin
+address: "Trafalgar Way, London E14 5ST"
+coords: [51.50635, -0.01422]   # Pin checked 2026-10-04: OpenStreetMap way 5987139 (the market building; OSM address is Trafalgar Way, E14 5ST)
 location_precision: exact
 stations: [Poplar, Blackwall, Canary Wharf]
 website: https://www.cityoflondon.gov.uk/supporting-businesses/wholesale-markets/billingsgate-market/billingsgate-market-tours-visits-film-photography

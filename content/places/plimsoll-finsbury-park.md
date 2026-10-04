@@ -7,8 +7,8 @@ price: 3
 summary: "A Victorian corner pub near the Emirates, relaunched in 2021 by the Four Legs team and known for its cheeseburger. Book ahead; match days are mayhem."
 area: "Finsbury Park"
 address: "52 St Thomas’s Road, London N4 2QW"
-coords: [51.56121, -0.10470]
-location_precision: exact
+coords: [51.56121, -0.10470]   # Pin not confirmed 2026-10-04: OpenStreetMap has only a "The Plimsoll" restaurant node with no address, 96 m from the current pin, so neither can be confirmed; precision set to street, directions work from the address
+location_precision: street
 stations: [Arsenal, Finsbury Park]
 status: open
 depth: listing

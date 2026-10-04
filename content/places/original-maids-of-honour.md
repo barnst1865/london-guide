@@ -7,7 +7,7 @@ price: 2
 summary: "An old-fashioned tearoom opposite Kew Gardens, home of the Maids of Honour, a little curd tart Richmond bakers have sold since the 1750s."
 area: "Kew"
 address: "288 Kew Road, Richmond TW9 3DU"
-coords: [51.48084, -0.28853]
+coords: [51.48073, -0.28831]   # Pin checked 2026-10-04: OpenStreetMap way 358480382 (288 Kew Road)
 location_precision: exact
 stations: [Kew Gardens, Kew Bridge]
 website: https://theoriginalmaidsofhonour.co.uk/

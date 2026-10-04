@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II Pimlico corner pub of about 1845 on Millbank, with front and side terraces and an upstairs “Spying Room”, named for its river view."
 area: "Pimlico (Millbank)"
 address: "58 Millbank, London SW1P 4RW"
-coords: [51.48931, -0.12884]
+coords: [51.48937, -0.12871]   # Pin checked 2026-10-04: OpenStreetMap way 112544263 (58 Millbank)
 location_precision: exact
 stations: [Pimlico, Vauxhall, Westminster]
 website: https://www.morpetharms.com/

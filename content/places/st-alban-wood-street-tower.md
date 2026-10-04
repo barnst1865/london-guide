@@ -7,7 +7,7 @@ price: "£0"
 summary: "A lone Gothic church tower on a traffic island in the middle of a City street, cars passing both sides. The church burned in 1940; the tower is a private house."
 area: "City of London / Guildhall"
 address: "Wood Street, London EC2V 7AF"
-coords: [51.51585, -0.09436]
+coords: [51.51660, -0.09408]   # Pin checked 2026-10-04: OpenStreetMap way 156190524 (St Alban Church Tower, Wood Street)
 location_precision: exact
 stations: [St Paul's, Moorgate, Bank]
 pair_with: [st-mary-aldermanbury-garden, christchurch-greyfriars]

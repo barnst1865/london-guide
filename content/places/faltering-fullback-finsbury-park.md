@@ -7,7 +7,7 @@ price: 2
 summary: "A Victorian corner pub, built as the Sir Walter Scott, with a CAMRA-recognized interior, a Thai kitchen and a tiered “treehouse” garden."
 area: "Finsbury Park"
 address: "19 Perth Road, London N4 3HB"
-coords: [51.56866, -0.10858]
+coords: [51.56847, -0.10823]   # Pin checked 2026-10-04: OpenStreetMap way 536515003 (19 Perth Road)
 location_precision: exact
 stations: [Finsbury Park, Crouch Hill]
 website: https://falteringfullback.com

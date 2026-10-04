@@ -8,7 +8,7 @@ price: "£"
 summary: "A Victorian ice warehouse by Battlebridge Basin where Carlo Gatti's Norwegian ice trade meets narrowboat life, with an ice well you can peer into."
 area: "King's Cross"
 address: "12-13 New Wharf Road, London N1 9RT"
-coords: [51.53422, -0.1203]
+coords: [51.53423, -0.12024]   # Pin checked 2026-10-04: OpenStreetMap way 190831613 (12-13 New Wharf Road, N1 9RT)
 location_precision: exact
 stations: ["King's Cross St Pancras", "Caledonian Road & Barnsbury"]
 website: https://www.canalmuseum.org.uk/

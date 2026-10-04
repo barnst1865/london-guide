@@ -8,7 +8,7 @@ price: 2
 summary: "Asian-inspired smash burgers and miso fries a few minutes from Victoria station. Opened in 2025."
 area: "Victoria"
 address: "36 Buckingham Palace Road, London SW1W 0RE"
-coords: [51.49733, -0.14480]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49726, -0.14466]   # Pin checked 2026-10-04: OpenStreetMap node 385560828
 location_precision: exact
 stations: [Victoria, St James's Park]
 website: https://hanbaagaasuuteeki.com

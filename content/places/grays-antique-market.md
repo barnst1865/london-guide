@@ -7,7 +7,7 @@ tags: [rainy-day, quick-visit]
 summary: "About 100 antique dealers in a Grade II listed Edwardian building on Davies Street that began life as a showroom for toilets. Closed Sundays."
 area: "Mayfair"
 address: "58 Davies Street, London W1K 5LP"
-coords: [51.51360, -0.14849]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51360, -0.14856]   # Pin checked 2026-10-04: OpenStreetMap way 202193344
 location_precision: exact
 stations: [Bond Street, Oxford Circus]
 website: https://www.graysantiques.com/

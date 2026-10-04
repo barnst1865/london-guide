@@ -8,7 +8,7 @@ price: "££"
 summary: "Victorian glasshouses, a treetop walkway and more than 250 years of botanic gardens by the Thames: a whole day out, and the end of our river walk."
 area: "Kew"
 address: "Victoria Gate, Kew Road, Richmond TW9 3JR"
-coords: [51.47769, -0.29072]
+coords: [51.47787, -0.29066]   # Pin checked 2026-10-04: OpenStreetMap node 21096391 (Victoria Gate)
 location_precision: exact
 stations: [Kew Gardens, Kew Bridge, Richmond]
 website: https://www.kew.org/kew-gardens

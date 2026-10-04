@@ -7,7 +7,7 @@ tags: [sunday, outdoors]
 summary: "A Sunday-only flower and plant market along a Victorian street in the East End, with independent shops and cafes alongside. Go early."
 area: "Bethnal Green / Shoreditch"
 address: "Columbia Road, London E2 7RG"
-coords: [51.52930, -0.06925]   # postcode centroid (postcodes.io), checked 2026-10-04; a street market, so pin is mid-street
+coords: [51.52934, -0.06945]   # Pin checked 2026-10-04: OpenStreetMap way 350349593 (the market stretch; a street market, so the pin is mid-market)
 location_precision: exact
 stations: [Hoxton, Cambridge Heath, Shoreditch High Street]
 website: https://columbiaroadmarket.co.uk/

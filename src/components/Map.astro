@@ -3,7 +3,7 @@
 interface Props {
   points: unknown[];
   size?: 'small' | 'normal' | 'full';
-  route?: boolean;      // draw a line through points in order (trails)
+  route?: { main: [number, number][]; spurs: [number, number][][]; alts: [number, number][][] }; // trail lines
   filters?: boolean;    // wire up the #map-filters form
 }
 const { points, size = 'normal', route = false, filters = false } = Astro.props;
@@ -12,7 +12,7 @@ const id = `map-${Math.random().toString(36).slice(2, 8)}`;
 <div
   id={id}
   class:list={['map', 'lg-map', size !== 'normal' && size]}
-  data-route={route ? '1' : undefined}
+  data-route={route ? JSON.stringify(route) : undefined}
   data-filters={filters ? '1' : undefined}
   role="region"
   aria-label="Map of places"

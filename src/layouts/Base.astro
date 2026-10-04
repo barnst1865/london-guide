@@ -10,7 +10,7 @@ interface Props {
 const { title, description = site.tagline, current } = Astro.props;
 const fullTitle = title ? `${title} · ${site.title}` : site.title;
 const nav = [
-  { href: u(''), label: 'Themes', key: 'home' },
+  { href: u(''), label: 'Home', key: 'home' },
   { href: u('map/'), label: 'Map', key: 'map' },
   { href: u('trails/'), label: 'Trails', key: 'trails' },
   { href: u('guides/'), label: 'Guides', key: 'guides' },
@@ -28,6 +28,7 @@ const nav = [
     <link rel="icon" type="image/svg+xml" href={u('favicon.svg')} />
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
     {SHOW_DRAFTS && (
       <div class="draft-banner">Preview mode: draft places and themes are shown. They won't appear on the published site.</div>
     )}
@@ -41,7 +42,7 @@ const nav = [
         </nav>
       </div>
     </header>
-    <main>
+    <main id="main" tabindex="-1">
       <slot />
     </main>
     <footer class="site-footer">

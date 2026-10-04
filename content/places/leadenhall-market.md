@@ -7,7 +7,7 @@ tags: [free, rainy-day, quick-visit]
 summary: "A Victorian covered market of 1881, built over Roman London's forum. It's also the way into the Leaky Cauldron in the first Harry Potter film."
 area: "City of London"
 address: "Gracechurch Street, London EC3V 1LT"
-coords: [51.51237, -0.08360]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51278, -0.08366]   # Pin checked 2026-10-04: OpenStreetMap way 143113935 (Leadenhall Market, Gracechurch Street, EC3V 1LT)
 location_precision: exact
 stations: [Bank, Monument, Fenchurch Street]
 website: https://leadenhallmarket.co.uk/

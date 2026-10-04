@@ -8,7 +8,7 @@ price: 2
 summary: "A small schnitzel canteen by Victoria Park, with chicken, veal and plant-based schnitzels. It has a second branch in Hoxton."
 area: "Hackney (Victoria Park)"
 address: "83 Lauriston Road, London E9 7HJ"
-coords: [51.53737, -0.04426]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.53794, -0.04455]   # Pin checked 2026-10-04: OpenStreetMap way 595656386
 location_precision: exact
 stations: [Hackney Wick, Homerton]
 status: open

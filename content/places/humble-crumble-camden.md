@@ -8,8 +8,8 @@ price: 2
 summary: "A dessert stall in Camden's Stables Market serving hot fruit crumbles with custard, or topped with blowtorched marshmallow."
 area: "Camden (Stables Market)"
 address: "Unit 739, Camden Market, Chalk Farm Road, London NW1 8AH"
-coords: [51.54234, -0.14774]   # postcode centroid (postcodes.io), checked 2026-10-04; the postcode covers the whole market, spot-check the stall
-location_precision: exact
+coords: [51.54234, -0.14774]   # Pin not confirmed 2026-10-04: a stall inside Camden Market with no OpenStreetMap object; precision set to street (the pin is the market area), directions work from the address
+location_precision: street
 stations: [Chalk Farm, Camden Town]
 website: https://www.humble-crumble.com
 status: open

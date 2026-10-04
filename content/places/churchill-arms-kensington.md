@@ -7,7 +7,7 @@ price: 2
 summary: "A Fuller’s pub buried in flowers in summer and Christmas trees in winter, with a Thai kitchen at the back and a c.1930 interior."
 area: "Kensington (Notting Hill Gate)"
 address: "119 Kensington Church Street, London W8 7LN"
-coords: [51.50655, -0.19474]
+coords: [51.50689, -0.19491]   # Pin checked 2026-10-04: OpenStreetMap way 192794336 (119 Kensington Church Street)
 location_precision: exact
 stations: [Notting Hill Gate, High Street Kensington]
 website: https://www.churchillarmskensington.co.uk

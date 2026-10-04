@@ -7,7 +7,7 @@ price: 1
 summary: "A cozy, eccentric little Belsize Park café hung with the owner's own paintings. Generous breakfasts and a corner for kids."
 area: "Belsize Park"
 address: "92 Belsize Lane, London NW3 5BE"
-coords: [51.54849, -0.17289]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.54845, -0.17296]   # Pin checked 2026-10-04: OpenStreetMap way 945275976
 location_precision: exact
 stations: [Swiss Cottage, Belsize Park, Finchley Road & Frognal]
 website: https://www.oliversvillagecafe.com

@@ -7,7 +7,7 @@ price: "£0"
 summary: "An anonymous 1930s office block on Curzon Street that was MI5's headquarters from 1945 to 1976. No plaque, no sign, which feels about right."
 area: "Mayfair"
 address: "Leconfield House, Curzon Street, London W1J 5JA"
-coords: [51.50659, -0.15008]
+coords: [51.50662, -0.15007]   # Pin checked 2026-10-04: OpenStreetMap way 340662083 (Leconfield House)
 location_precision: exact
 stations: [Green Park, Hyde Park Corner]
 pair_with: [audley-square-spy-lamp-post, biltmore-mayfair-litvinenko, broadway-buildings]

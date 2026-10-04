@@ -7,7 +7,7 @@ price: 3
 summary: "A Kentish Town corner pub, the Oxford Tavern from at least 1861, reopened in 2023 as a dining pub with a wood-fired grill and Monday jazz. Michelin-listed."
 area: "Kentish Town"
 address: "256 Kentish Town Road, London NW5 2AA"
-coords: [51.55001, -0.14045]
+coords: [51.54977, -0.14054]   # Pin checked 2026-10-04: OpenStreetMap way 941142501 (256 Kentish Town Road)
 location_precision: exact
 stations: [Kentish Town, Kentish Town West]
 website: https://theparakeetpub.com

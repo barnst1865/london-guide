@@ -7,7 +7,7 @@ price: 2
 summary: "The roomiest of the Hammersmith riverside pubs, with a terrace on the Thames and an upstairs balcony made for Boat Race day."
 area: "Hammersmith"
 address: "25 Upper Mall, London W6 9TD"
-coords: [51.4903, -0.23997]   # sources differ slightly; spot-check on the map
+coords: [51.49035, -0.23982]   # Pin checked 2026-10-04: OpenStreetMap way 176677099
 location_precision: exact
 stations: [Ravenscourt Park, Stamford Brook]
 website: https://www.oldshiphammersmith.co.uk

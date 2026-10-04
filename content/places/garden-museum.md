@@ -8,7 +8,7 @@ price: "££"
 summary: "A medieval church beside Lambeth Palace, now a garden museum, with Captain Bligh's tomb and the Tradescant plant hunters' tomb in the churchyard."
 area: "Lambeth"
 address: "Lambeth Palace Road, London SE1 7LB"
-coords: [51.49505, -0.1202]
+coords: [51.49495, -0.12009]   # Pin checked 2026-10-04: OpenStreetMap way 117047225 (Garden Museum)
 location_precision: exact
 stations: [Lambeth North, Waterloo]
 website: https://gardenmuseum.org.uk/

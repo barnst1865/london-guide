@@ -9,7 +9,7 @@ price: 3
 summary: "A butcher and deli on Rosslyn Hill that we send people to for good meat, house sausages and sausage rolls."
 area: "Hampstead"
 address: "56 Rosslyn Hill, London NW3 1ND"
-coords: [51.55522, -0.17366]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.55515, -0.17343]   # Pin checked 2026-10-04: OpenStreetMap way 129337432
 location_precision: exact
 stations: [Hampstead, Hampstead Heath, Belsize Park]
 website: https://hampsteadbutcher.com

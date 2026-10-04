@@ -7,7 +7,7 @@ price: 2
 summary: "A Marylebone pub run by the Lucky Saint alcohol-free beer brand, with plenty of good non-alcoholic options. It sells alcohol too."
 area: "Marylebone (Fitzrovia border)"
 address: "58 Devonshire Street, London W1W 5EA"
-coords: [51.52221, -0.14422]
+coords: [51.52222, -0.14416]   # Pin checked 2026-10-04: OpenStreetMap way 110753811 (58 Devonshire Street)
 location_precision: exact
 stations: [Great Portland Street, Regent’s Park, Oxford Circus]
 website: https://luckysaint.co/pages/the-lucky-saint-pub-london-w1

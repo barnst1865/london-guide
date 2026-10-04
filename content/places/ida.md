@@ -7,7 +7,7 @@ price: 2
 summary: "A family-run Italian on a Queen's Park corner since 2007, cooking fresh pasta from the founder's mother's recipes from the Marche."
 area: "Queen's Park"
 address: "222a Kilburn Lane, London W10 4AT"
-coords: [51.53184, -0.21113]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.53187, -0.21107]   # Pin checked 2026-10-04: OpenStreetMap address node for 222a Kilburn Lane (n11073575760)
 location_precision: exact
 stations: [Queen's Park, Kensal Rise]
 website: https://www.idarestaurant.co.uk

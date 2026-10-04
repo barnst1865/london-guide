@@ -7,7 +7,7 @@ price: 2
 summary: "A Victorian corner pub on Bermondsey Street, reopened in March 2025 after years shut, serving only independent UK beers. Local CAMRA pub of the year, 2026."
 area: "Bermondsey"
 address: "244 Bermondsey Street, London SE1 3UH"
-coords: [51.49730, -0.08175]
+coords: [51.49729, -0.08224]   # Pin checked 2026-10-04: OpenStreetMap way 100615020 (244 Bermondsey Street)
 location_precision: exact
 stations: [London Bridge, Borough, Bermondsey]
 status: open

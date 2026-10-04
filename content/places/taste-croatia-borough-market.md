@@ -8,7 +8,7 @@ price: 3
 summary: "A family-run stall in Borough Market selling Croatian food: Pag sheep's cheese, olive oil, truffle products, fig jam and wine."
 area: "London Bridge / Borough"
 address: "Three Crown Square, Borough Market, 8 Southwark Street, London SE1 1TL"
-coords: [51.50537, -0.09050]   # postcode centroid (postcodes.io), checked 2026-10-04; pin is the market, the stall sits somewhere inside
+coords: [51.50521, -0.09023]   # Pin checked 2026-10-04: OpenStreetMap node 10110393018 (the stall inside Borough Market)
 location_precision: exact
 stations: [London Bridge, Borough]
 website: https://boroughmarket.org.uk/traders/taste-croatia

@@ -8,7 +8,7 @@ price: 2
 summary: "Scottish seafood served Spanish tapas style on Stoke Newington Church Street, from the owner of Bar Esteban. Small plates, mostly in the evening."
 area: "Stoke Newington"
 address: "67 Stoke Newington Church Street, London N16 0AR"
-coords: [51.56206, -0.07653]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.56209, -0.07686]   # Pin checked 2026-10-04: OpenStreetMap way 399129126
 location_precision: exact
 stations: [Stoke Newington]
 website: https://www.escocesa.co.uk/

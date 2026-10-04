@@ -8,7 +8,7 @@ price: "£0"
 summary: "Free, in Grade I almshouses on Kingsland Road: walk-through living rooms from 1600 to today, plus gardens out back. It used to be the Geffrye Museum."
 area: "Hoxton"
 address: "136 Kingsland Road, London E2 8EA"
-coords: [51.53156, -0.07624]
+coords: [51.53110, -0.07593]   # Pin checked 2026-10-04: OpenStreetMap entrance on way 706183718 (136 Kingsland Road, E2 8EA)
 location_precision: exact
 stations: [Hoxton]
 website: https://www.museumofthehome.org.uk/

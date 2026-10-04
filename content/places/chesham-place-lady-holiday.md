@@ -23,7 +23,7 @@ sources:
   - https://britishlistedbuildings.co.uk/101066264-29-37-chesham-place-knightsbridge-and-belgravia-ward
 ---
 
-<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites; this departs from the no-house-number default in section 3 by the owner's decision. Weakest of the three: single fan-wiki source for the building. -->
+<!-- Family confirmed the address on foot (2026-10-04) and OK'd the full building address for the three Great Muppet Caper sites. House numbers chosen by the family are allowed under section 3 (decision 17). Weakest of the three: single fan-wiki source for the building. -->
 
 This one rests on a single fan wiki (the Muppet Wiki), so treat it as fan lore, though we've walked past and confirmed the address. The street is a quiet run of grand Belgravia townhouses and embassies, so keep to the pavement and walk on. The pin is on the terrace, not the door.
 

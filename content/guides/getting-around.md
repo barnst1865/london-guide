@@ -1,6 +1,6 @@
 ---
 title: "Getting around"
-summary: "Tap a contactless card or phone, skip the Oyster card, let Citymapper do the thinking, and remember that central London is smaller on foot than the Tube map makes it look."
+summary: "Tap a contactless card or phone (one each), get Visitor Oysters for kids aged 11 to 15, let Citymapper do the thinking, and walk more than the Tube map suggests."
 group: practical
 order: 1
 themes: [transit-hidden-city]
@@ -14,9 +14,12 @@ sources:
   - https://support.apple.com/en-us/105123
   - https://londonblog.tfl.gov.uk/2020/07/16/station-walks/
   - https://tfl.gov.uk/modes/elizabeth-line/getting-to-and-from-heathrow-on-the-elizabeth-line
+  - https://support.visitorshop.tfl.gov.uk/hc/en-gb/articles/28090497795346-Visitor-Oyster-card-vs-Contactless-which-is-best-for-your-London-trip
 ---
 
 London's transport is easy once you've got three habits: tap a card, use one good app, and walk more than you think you need to. Fares, caps and service changes are TfL's business (Transport for London runs the Tube, buses and most of the rest), so we link to their pages rather than quote numbers that will be out of date by the time you read this.
+
+**Traveling with kids?** Children under 11 travel free on most London transport. Children aged 11 to 15 can get half-price fares with the Young Visitor discount, but only on a Visitor Oyster card, not on contactless: once you've arrived, take their card to staff at most Tube stations or a TfL Visitor Centre and ask for it to be added. It lasts 14 days. And everyone aged 11 or over needs their own card or phone to tap: you can't pay for two people with one card. [TfL's comparison](https://support.visitorshop.tfl.gov.uk/hc/en-gb/articles/28090497795346-Visitor-Oyster-card-vs-Contactless-which-is-best-for-your-London-trip) has the details.
 
 ## Paying: tap in, tap out
 
@@ -30,7 +33,7 @@ Three things we'd tell any friend:
 - **If you have an iPhone, turn on Express Transit.** It lets your phone pay at the gate without waking up and waiting for Face ID, which keeps you from holding up the line behind you. [Apple's instructions](https://support.apple.com/en-us/105123) show where the setting lives in the Wallet app.
 - **Check how your card handles foreign fees.** TfL notes that a mobile payment linked to a non-UK bank card may not work, or may carry overseas transaction fees. Ask your bank before you fly.
 
-We don't bother with an Oyster card or a Visitor Oyster for a normal trip, because contactless does the same job without a deposit or a trip to a shop. If you want to run the numbers for a long stay, [TfL has its own comparison](https://visitorshop.tfl.gov.uk/en/visitor-oyster-card-vs-contactless-bank-card-which-saves-you-more-money-london).
+For adults, we don't bother with an Oyster card or a Visitor Oyster on a normal trip, because contactless does the same job without a deposit or a trip to a shop. The exception is kids aged 11 to 15 (see above). If you want to run the numbers for a long stay, [TfL has its own comparison](https://visitorshop.tfl.gov.uk/en/visitor-oyster-card-vs-contactless-bank-card-which-saves-you-more-money-london).
 
 ## The apps we use
 

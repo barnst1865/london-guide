@@ -8,7 +8,7 @@ price: 2
 summary: "An 18th-century riverside pub on the Thames at Hammersmith, with a terrace over the water and a snug once listed as Britain's smallest bar."
 area: "Hammersmith"
 address: "19 Upper Mall, London W6 9TA"
-coords: [51.49051, -0.23486]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.49049, -0.23485]   # Pin checked 2026-10-04: OpenStreetMap way 174088755 (19 Upper Mall, W6 9TA)
 location_precision: exact
 stations: [Ravenscourt Park, Hammersmith]
 website: https://www.dovehammersmith.co.uk/

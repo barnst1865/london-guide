@@ -8,7 +8,7 @@ price: "££"
 summary: "Ride a tiny driverless train through the old Mail Rail tunnels beneath Clerkenwell, then browse the postal history museum across the courtyard."
 area: "Clerkenwell (Mount Pleasant)"
 address: "15-20 Phoenix Place, London WC1X 0DA"
-coords: [51.52476, -0.11406]
+coords: [51.52472, -0.11400]   # Pin checked 2026-10-04: OpenStreetMap node 4973585223 (15-20 Phoenix Place, WC1X 0DA)
 location_precision: exact
 stations: [Farringdon, Russell Square, "King's Cross St Pancras"]
 website: https://www.postalmuseum.org/

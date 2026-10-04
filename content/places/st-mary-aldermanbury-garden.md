@@ -7,7 +7,7 @@ price: "£0"
 summary: "A small garden beside Guildhall in the footprint of a Wren church burned out in 1940. The church itself is still standing, stone by stone, in Fulton, Missouri."
 area: "City of London / Guildhall"
 address: "Aldermanbury at Love Lane, London EC2V"
-coords: [51.51636, -0.09304]
+coords: [51.51645, -0.09306]   # Pin checked 2026-10-04: OpenStreetMap way 164202180 (the churchyard garden)
 location_precision: exact
 stations: [St Paul's, Moorgate, Bank]
 website: https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/st-mary-aldermanbury-garden

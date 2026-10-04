@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II Kentish Town backstreet pub of about 1868, with pineapples on the keystones and a two-star CAMRA interior. A 2001 local campaign saved it from flats."
 area: "Kentish Town"
 address: "51 Leverton Street, London NW5 2NX"
-coords: [51.55349, -0.13950]
+coords: [51.55297, -0.13964]   # Pin checked 2026-10-04: OpenStreetMap node 192399976 (51 Leverton Street, NW5 2NX)
 location_precision: exact
 stations: [Kentish Town, Kentish Town West]
 website: https://www.thepineapplepubnw5.com

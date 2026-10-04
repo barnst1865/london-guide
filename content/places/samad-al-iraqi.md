@@ -8,7 +8,7 @@ price: 2
 summary: "Iraqi cooking near Olympia: masgouf grilled fish, roast lamb quzi, fried kubbah and kebabs, on Kensington High Street."
 area: "Kensington High Street (Olympia)"
 address: "284-286 Kensington High Street, London W14 8NZ"
-coords: [51.49831, -0.20185]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.49829, -0.20172]   # Pin checked 2026-10-04: OpenStreetMap node 1420306053
 location_precision: exact
 stations: [Kensington (Olympia), High Street Kensington]
 website: https://www.samadaliraqirestaurant.co.uk/

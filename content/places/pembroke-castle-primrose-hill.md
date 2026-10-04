@@ -7,7 +7,7 @@ price: 2
 summary: "A big Victorian corner pub by the Primrose Hill railway bridge, with a garden. Its operator calls the “four Camden Castles” tale an urban legend."
 area: "Primrose Hill"
 address: "150 Gloucester Avenue, London NW1 8JA"
-coords: [51.54224, -0.15488]
+coords: [51.54254, -0.15489]   # Pin checked 2026-10-04: OpenStreetMap node 166967411 (150 Gloucester Avenue)
 location_precision: exact
 stations: [Chalk Farm, Camden Town]
 website: https://www.pubsmiths.co.uk/pembroke-primrose-hill

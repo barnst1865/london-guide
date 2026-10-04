@@ -7,7 +7,7 @@ price: 2
 summary: "A dark, wood-lined wine bar in a late-17th-century building by Monument, one of the oldest drinking spots in the City. Weekdays only."
 area: "City of London (Monument)"
 address: "6 Martin Lane, London EC4R 0DP"
-coords: [51.51050, -0.08806]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51050, -0.08803]   # Pin checked 2026-10-04: OpenStreetMap way 809354345 (6 Martin Lane, EC4R 0DP)
 location_precision: exact
 stations: [Monument, Cannon Street]
 website: https://www.davy.co.uk/wine-bar/the-olde-wine-shades/

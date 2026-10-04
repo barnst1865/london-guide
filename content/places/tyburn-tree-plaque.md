@@ -8,7 +8,7 @@ price: "£0"
 summary: "A plain stone on the Marble Arch traffic island marks Tyburn Tree, where London carried out public hangings from 1196 to 1783."
 area: "Marble Arch"
 address: "Traffic island at the Marble Arch junction (Edgware Road / Bayswater Road), London W2"
-coords: [51.51333, -0.16028]
+coords: [51.51327, -0.16033]   # Pin checked 2026-10-04: OpenStreetMap node 1612357132 ("Site of the Tyburn Tree")
 location_precision: exact
 stations: [Marble Arch]
 status: open

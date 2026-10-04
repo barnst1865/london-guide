@@ -8,7 +8,7 @@ price: "£0"
 summary: "Chelsea's free museum of the British soldier, rebuilt in 2017: Napoleon's horse's skeleton, the giant Waterloo model, and a proper soft-play for the under-8s."
 area: "Chelsea"
 address: "Royal Hospital Road, London SW3 4HT"
-coords: [51.48623, -0.16034]
+coords: [51.48620, -0.16033]   # Pin checked 2026-10-04: OpenStreetMap way 10807015 (National Army Museum; no entrance tagged)
 location_precision: exact
 stations: [Sloane Square]
 website: https://www.nam.ac.uk/

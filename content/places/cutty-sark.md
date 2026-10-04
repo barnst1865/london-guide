@@ -8,7 +8,7 @@ price: "££"
 summary: "The 1869 tea clipper herself, lifted above a dry dock so you can walk right underneath the hull. Rebuilt after the 2007 fire and reopened in 2012."
 area: "Greenwich"
 address: "King William Walk, London SE10 9HT"
-coords: [51.48353, -0.00959]
+coords: [51.48284, -0.00956]   # Pin checked 2026-10-04: OpenStreetMap way 25608663 (Cutty Sark, 43 King William Walk, SE10 9HT; the ship's outline, no ticket entrance mapped)
 location_precision: exact
 stations: [Cutty Sark for Maritime Greenwich, Greenwich, Maze Hill]
 website: https://www.rmg.co.uk/cutty-sark

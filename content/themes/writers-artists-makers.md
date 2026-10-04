@@ -7,7 +7,7 @@ blurb: "Where Dickens wrote, Blake engraved and Morris made things beautiful: li
 featured: []
 visibility: public
 ---
-<!-- Added 2026-10-03 from the triage's unthemed cluster: museums and houses of writers, artists and craftspeople (e.g. Dickens, Blake, William Morris, the Foundling Museum, Sherlock Holmes). Former homes that are now private residences get street/area precision only (§3). Intro to be written in a theme session (150–300 words, our voice). -->
+<!-- Added 2026-10-03 from the triage's unthemed cluster: museums and houses of writers, artists and craftspeople (e.g. Dickens, Blake, William Morris, the Foundling Museum, Sherlock Holmes). Former homes that are now private residences get street/area precision unless the family has chosen to identify the building with its house number (§3). Intro to be written in a theme session (150–300 words, our voice). -->
 
 <!-- Intro drafted by the master session on 2026-10-04 after the quick listings, from the theme's public places (it was showing a placeholder once the theme passed minThemePlaces). Family: edit freely, especially to add your own experiences. -->
 

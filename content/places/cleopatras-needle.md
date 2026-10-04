@@ -7,7 +7,7 @@ price: "£0"
 summary: "A 3,500-year-old Egyptian obelisk carrying London's oldest air-raid damage: shrapnel gouges from a German bomb dropped beside a tram on 4 September 1917."
 area: "Victoria Embankment"
 address: "Victoria Embankment (riverside), London WC2N 6PB"
-coords: [51.50852, -0.12034]
+coords: [51.50852, -0.12032]   # Pin checked 2026-10-04: OpenStreetMap way 297331784
 location_precision: exact
 stations: [Embankment, Charing Cross, Temple]
 website: https://memorials.iwm.org.uk/memorial/39718

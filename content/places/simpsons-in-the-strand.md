@@ -8,7 +8,7 @@ price: 4
 summary: "Founded in 1828 as a chess-playing cigar divan and reopened in March 2026 after six years shut, with roast beef carved at the table from silver trolleys."
 area: "Strand"
 address: "100 Strand, London WC2R 0EZ"
-coords: [51.51034, -0.12108]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51050, -0.12064]   # Pin checked 2026-10-04: OpenStreetMap node 554138077 (OSM postcode WC2R 0EW; the venue site says WC2R 0EZ, which we keep)
 location_precision: exact
 stations: [Temple, Charing Cross, Embankment]
 website: https://www.simpsonsinthestrand.co.uk

@@ -7,7 +7,7 @@ price: 2
 summary: "A small independent Soho corner pub at the Berwick Street market end, rebuilt in 1914, with a Jessie Matthews plaque and live music."
 area: "Soho"
 address: "22 Berwick Street, London W1F 0QA"
-coords: [51.51384, -0.13500]
+coords: [51.51383, -0.13501]   # Pin checked 2026-10-04: OpenStreetMap way 156620042 (22 Berwick Street)
 location_precision: exact
 stations: [Piccadilly Circus, Oxford Circus, Tottenham Court Road]
 website: https://theblueposts.net

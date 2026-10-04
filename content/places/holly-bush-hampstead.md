@@ -7,7 +7,7 @@ price: 3
 summary: "A hilltop Hampstead pub in the former stables of Romney’s house, converted about 1807, with a Grade II listing and a two-star CAMRA interior."
 area: "Hampstead"
 address: "22 Holly Mount, London NW3 6SG"
-coords: [51.55756, -0.17918]
+coords: [51.55789, -0.17931]   # Pin checked 2026-10-04: OpenStreetMap way 110467983 (Holly Mount, NW3 6SG)
 location_precision: exact
 stations: [Hampstead, Hampstead Heath]
 website: https://www.hollybushhampstead.co.uk/

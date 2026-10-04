@@ -7,7 +7,7 @@ price: "£0"
 summary: "The Westminster hotel where MI6's sabotage section set up shop in 1938 and where Kim Philby was recruited over tea. Free spy display in the lobby."
 area: "Westminster / St James's Park"
 address: "2 Caxton Street, London SW1H 0QW"
-coords: [51.49917, -0.13472]
+coords: [51.49900, -0.13456]   # Pin checked 2026-10-04: OpenStreetMap node 12996594395 (St. Ermin's tea lounge, 2 Caxton Street, SW1H 0QW)
 location_precision: exact
 stations: [St James's Park, Victoria, Westminster]
 website: https://www.sterminshotel.co.uk/

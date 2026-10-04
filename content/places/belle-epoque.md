@@ -8,7 +8,7 @@ price: 2
 summary: "A French patisserie and cafe on Newington Green, open since 2002 in a Grade II listed building. Pastries, quiches and bread."
 area: "Newington Green"
 address: "37 Newington Green, London N16 9PR"
-coords: [51.55218, -0.08478]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.55217, -0.08478]   # Pin checked 2026-10-04: OpenStreetMap way 373053305
 location_precision: exact
 stations: [Canonbury, Highbury & Islington]
 website: http://belleepoque.co.uk/boutiques/newingtongreen

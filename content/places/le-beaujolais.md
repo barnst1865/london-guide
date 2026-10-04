@@ -7,7 +7,7 @@ price: 2
 summary: "A small, lively French wine bar on a Seven Dials backstreet that we like. The ground floor is open to everyone; the restaurant downstairs is members-only."
 area: "Covent Garden (Seven Dials edge)"
 address: "25 Litchfield Street, London WC2H 9NJ"
-coords: [51.51291, -0.12841]
+coords: [51.51288, -0.12852]   # Pin checked 2026-10-04: OpenStreetMap way 349340729 (25 Litchfield Street)
 location_precision: exact
 stations: [Leicester Square, Covent Garden, Tottenham Court Road]
 website: https://www.lebeaujolais.london/

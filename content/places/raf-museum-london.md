@@ -7,7 +7,7 @@ price: "£0"
 summary: "Six hangars of aircraft on the old Hendon aerodrome, free: Battle of Britain fighters, a Lancaster, a walk-through flying boat and a Vulcan nuclear bomber."
 area: "Colindale / Hendon"
 address: "Grahame Park Way, London NW9 5LL"
-coords: [51.59895, -0.23816]
+coords: [51.59810, -0.23880]   # Pin checked 2026-10-04: OpenStreetMap way 118906069 (RAF Museum site outline; no entrance tagged)
 location_precision: exact
 stations: [Colindale, Mill Hill Broadway]
 website: https://www.rafmuseum.org.uk/london/

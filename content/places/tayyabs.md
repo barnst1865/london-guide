@@ -7,7 +7,7 @@ price: 1
 summary: "Whitechapel's huge, loud Punjabi grill, family-run since 1972. Sizzling lamb chops, dry meat curry and bring-your-own drinks."
 area: "Whitechapel"
 address: "83-89 Fieldgate Street, London E1 1JU"
-coords: [51.51710, -0.06596]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51727, -0.06346]   # Pin checked 2026-10-04: OpenStreetMap node 1784593689
 location_precision: exact
 stations: [Whitechapel, Aldgate East]
 website: https://www.tayyabs.co.uk

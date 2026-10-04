@@ -8,7 +8,7 @@ price: 2
 summary: "A Northumberland Street pub with a replica of Holmes's 221B study upstairs, salvaged from the 1951 Festival of Britain: a fun stop for mystery fans."
 area: "Charing Cross"
 address: "10 Northumberland Street, London WC2N 5DB"
-coords: [51.50737, -0.12518]
+coords: [51.50737, -0.12519]   # Pin checked 2026-10-04: OpenStreetMap way 140517896 (10-11 Northumberland Street)
 location_precision: exact
 stations: [Charing Cross, Embankment]
 website: https://www.greeneking.co.uk/pubs/greater-london/sherlock-holmes

@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny independent free house just off Brick Lane, a pub (as the Romford Arms) since about 1890, with a real fire and a regular spot in the Good Beer Guide."
 area: "Spitalfields (off Brick Lane)"
 address: "3 Heneage Street, London E1 5LJ"
-coords: [51.51906, -0.07037]
+coords: [51.51894, -0.07122]   # Pin checked 2026-10-04: OpenStreetMap way 236653740 (3 Heneage Street, E1 5LJ)
 location_precision: exact
 stations: [Aldgate East, Liverpool Street, Shoreditch High Street]
 status: open

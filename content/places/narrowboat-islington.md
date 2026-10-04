@@ -7,7 +7,7 @@ price: 2
 summary: "A Young’s pub on Regent’s Canal with towpath access and canal-facing balconies, in a building of about 1860 that began life as the Star."
 area: "Islington (Regent’s Canal)"
 address: "119 St Peter’s Street, London N1 8PZ"
-coords: [51.53303, -0.09693]
+coords: [51.53310, -0.09680]   # Pin checked 2026-10-04: OpenStreetMap way 1061817830 (119 St Peter's Street)
 location_precision: exact
 stations: [Angel, Essex Road, Highbury & Islington]
 website: https://www.thenarrowboatpub.com

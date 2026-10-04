@@ -7,7 +7,7 @@ price: 1
 summary: "A Sam Smith's pub with a cavernous mock-medieval hall, wooden booths and giant casks. It looks ancient, but it's mostly 1920s stagecraft."
 area: "Holborn"
 address: "22 High Holborn, London WC1V 6BN"
-coords: [51.51853, -0.11282]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51853, -0.11283]   # Pin checked 2026-10-04: OpenStreetMap way 75422589 (22-23 High Holborn); OSM postcode WC1V 6BS, Londonist says 6BN, file kept
 location_precision: exact
 stations: [Chancery Lane, Holborn]
 pair_with: [ye-olde-mitre, seven-stars]

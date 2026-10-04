@@ -7,7 +7,7 @@ price: 2
 summary: "A Chinatown dumpling house on Gerrard Street where you can watch the chefs folding thousands of dumplings behind a glass wall."
 area: "Chinatown"
 address: "15-16 Gerrard Street, London W1D 6JE"
-coords: [51.51181, -0.13157]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51173, -0.13147]   # Pin checked 2026-10-04: OpenStreetMap node 13547039539
 location_precision: exact
 stations: [Leicester Square, Piccadilly Circus]
 pair_with: [tokyo-diner, wong-kei, brasserie-zedel]

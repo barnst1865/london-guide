@@ -7,7 +7,7 @@ price: 3
 summary: "A Highgate village gastropub, third in Britain’s Top 50 Gastropubs for 2026, in a 1920s Elizabethan-style building on a pub site recorded from 1839."
 area: "Highgate"
 address: "25 North Road, London N6 4BE"
-coords: [51.57305, -0.15010]
+coords: [51.57261, -0.15022]   # Pin checked 2026-10-04: OpenStreetMap way 810341385 (25 North Road, N6 4BE)
 location_precision: exact
 stations: [Highgate, Archway]
 website: https://www.theredlionandsun.com

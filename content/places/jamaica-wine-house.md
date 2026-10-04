@@ -8,7 +8,7 @@ price: 2
 summary: "A Victorian wine house in the City's back alleys, on the site of London's first coffee house. Open weekdays only, and worth planning around."
 area: "City of London (Bank)"
 address: "St Michael's Alley, Cornhill, London EC3V 9DS"
-coords: [51.51297, -0.08566]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51297, -0.08566]   # Pin checked 2026-10-04: OpenStreetMap node 1497452168 (St Michael's Alley, EC3V 9DS)
 location_precision: exact
 stations: [Bank, Monument, Cannon Street]
 website: https://www.shepherdneame.co.uk/pubs/london/jamaica-wine-house

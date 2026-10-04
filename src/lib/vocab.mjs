@@ -41,6 +41,18 @@ export const TAGS = {
   sunday: 'Good on a Sunday',
 };
 
+// Occasions (§6.1): editorial "what is it good for" groupings, mainly for eat and drinks.
+// Theme pages show a "Pick by occasion" section when their places use them. Order = display order.
+export const OCCASIONS = {
+  'breakfast-brunch': 'Breakfast or brunch',
+  'quick-lunch': 'A quick lunch',
+  'cheap-cheerful': 'Cheap and cheerful',
+  'dinner-with-friends': 'Dinner with friends',
+  'sunday-roast': 'Sunday roast',
+  'afternoon-tea': 'Afternoon tea',
+  'special-occasion': 'A special occasion',
+};
+
 export const STATUSES = ['open', 'seasonal', 'closed', 'temporarily-closed'];
 export const PRECISIONS = ['exact', 'street', 'area'];
 

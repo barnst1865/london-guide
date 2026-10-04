@@ -7,7 +7,7 @@ price: "£"
 summary: "The coach house and garden of William Morris's riverside home, a few doors from the Dove, with a small museum about his life in Hammersmith."
 area: "Hammersmith"
 address: "26 Upper Mall, London W6 9TA"
-coords: [51.49059, -0.23548]
+coords: [51.49055, -0.23555]   # Pin checked 2026-10-04: OpenStreetMap node 13258082258 (26 Upper Mall, W6 9TA)
 location_precision: exact
 stations: [Ravenscourt Park, Hammersmith]
 website: https://williammorrissociety.org/our-museum/

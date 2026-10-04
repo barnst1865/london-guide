@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II* Victorian pub in Maida Vale whose five drinking areas are divided by carved timber and etched-glass “snob screens”. Three stars on CAMRA’s list."
 area: "Maida Vale / Little Venice"
 address: "5A Formosa Street, London W9 1EE"
-coords: [51.52466, -0.18473]
+coords: [51.52442, -0.18485]   # Pin checked 2026-10-04: OpenStreetMap way 122260658 (5A Formosa Street)
 location_precision: exact
 stations: [Warwick Avenue, Maida Vale, Paddington]
 website: http://www.theprincealfred.com/

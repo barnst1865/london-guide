@@ -8,7 +8,7 @@ price: 2
 summary: "Soho's tiny French pub: beer in half pints only, no music, no phones, and a history that runs through the Free French in WWII."
 area: "Soho"
 address: "49 Dean Street, London W1D 5BG"
-coords: [51.51274, -0.13171]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51274, -0.13173]   # Pin checked 2026-10-04: OpenStreetMap way 280985110 (49 Dean Street)
 location_precision: exact
 stations: [Leicester Square, Tottenham Court Road]
 website: https://www.frenchhousesoho.com/

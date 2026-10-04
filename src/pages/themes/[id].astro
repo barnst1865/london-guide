@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Map from '../../components/Map.astro';
 import PlaceCard from '../../components/PlaceCard.astro';
 import { loadAll, toMapPoint, u, typeInfo } from '../../lib/data';
+import { OCCASIONS } from '../../lib/vocab.mjs';
 
 export async function getStaticPaths() {
   const { themes } = await loadAll();
@@ -19,6 +20,10 @@ const rest = mine.filter((p) => !featured.includes(p) && p.data.depth !== 'listi
 const listings = mine.filter((p) => !featured.includes(p) && p.data.depth === 'listing');
 const byType = [...new Set(rest.map((p) => p.data.type))].map((t) => ({ t, list: rest.filter((p) => p.data.type === t) }));
 const myTrails = trails.filter((t) => t.data.themes.includes(theme.id));
+// "Pick by occasion": editorial groupings from each place's `occasions` (a place can be in several).
+const byOccasion = Object.entries(OCCASIONS)
+  .map(([k, label]) => ({ k, label, list: mine.filter((p) => p.data.occasions.includes(k)) }))
+  .filter((o) => o.list.length > 0);
 ---
 <Base title={theme.data.title} description={theme.data.blurb}>
   <div class="wrap">
@@ -44,6 +49,23 @@ const myTrails = trails.filter((t) => t.data.themes.includes(theme.id));
             <h2>Start here</h2>
             <div class="grid">{featured.map((p) => <PlaceCard place={p} />)}</div>
           </>
+        )}
+        {byOccasion.length > 0 && (
+          <section class="occasions">
+            <h2>Pick by occasion</h2>
+            <div class="occasion-grid">
+              {byOccasion.map((o) => (
+                <div>
+                  <h3>{o.label}</h3>
+                  <ul>
+                    {o.list.map((p) => (
+                      <li><a href={u(`places/${p.id}/`)}>{p.data.name}</a> <span class="muted">· {p.data.area}</span></li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </section>
         )}
         {byType.map(({ t, list }) => (
           <>

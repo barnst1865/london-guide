@@ -7,7 +7,7 @@ price: "££"
 summary: "Fighter Command's headquarters in a Stanmore country house: Dowding's office exactly as he left it, and the Filter Room where the radar plots came in."
 area: "Stanmore"
 address: "Mansion House Drive, Stanmore HA7 3FB"
-coords: [51.62653, -0.33345]
+coords: [51.62648, -0.33337]   # Pin checked 2026-10-04: OpenStreetMap node 2455741108 (Bentley Priory Museum)
 location_precision: exact
 stations: [Stanmore, Harrow & Wealdstone]
 website: https://bentleypriorymuseum.org.uk/

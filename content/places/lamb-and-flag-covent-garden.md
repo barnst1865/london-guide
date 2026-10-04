@@ -7,7 +7,7 @@ price: 2
 summary: "A cask-ale pub down a passage off Rose Street, with a poet’s 1679 beating in the alley nearby and a “Bucket of Blood” nickname we’d file under legend."
 area: "Covent Garden"
 address: "33 Rose Street, London WC2E 9EB"
-coords: [51.51166, -0.12552]
+coords: [51.51174, -0.12566]   # Pin checked 2026-10-04: OpenStreetMap way 565171598 (33 Rose Street)
 location_precision: exact
 stations: [Covent Garden, Leicester Square, Charing Cross]
 website: http://www.lambandflagcoventgarden.co.uk/

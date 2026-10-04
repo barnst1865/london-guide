@@ -7,7 +7,7 @@ price: 2
 summary: "A tall Victorian pub on the river at Barnes, just over the bridge, with balconies and benches looking out on the Boat Race course."
 area: "Barnes"
 address: "The Terrace, Riverside, London SW13 0NR"
-coords: [51.47113, -0.25564]
+coords: [51.47102, -0.25574]   # Pin checked 2026-10-04: OpenStreetMap way 592373230 ("Ye White Hart", The Terrace, SW13 0NR)
 location_precision: exact
 stations: [Barnes Bridge]
 website: https://www.whitehartbarnes.co.uk/

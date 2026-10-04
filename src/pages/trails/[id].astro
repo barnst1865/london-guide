@@ -13,8 +13,45 @@ const { trail } = Astro.props;
 const { places, themes } = await loadAll();
 const { Content } = await render(trail);
 const d = trail.data;
-const stops = d.stops.map((s) => ({ ...s, p: s.place ? places.find((x) => x.id === s.place) : undefined }));
-const points = stops.map((s) => (s.p ? { ...toMapPoint(s.p, themes), optional: s.optional } : waypointPoint(s)));
+const all = d.stops.map((s) => ({ ...s, p: s.place ? places.find((x) => x.id === s.place) : undefined }));
+// path_only waypoints only shape the map line; they aren't listed or marked.
+const stops = all.filter((s) => !s.path_only);
+// Number place stops (main and optional) in list order, matching the numbered list below.
+let n = 0;
+const numbered = stops.map((s) => ({ ...s, num: s.p ? ++n : undefined }));
+const points = numbered.map((s) => (s.p ? { ...toMapPoint(s.p, themes), optional: s.optional, num: s.num } : waypointPoint(s)));
+
+// Map lines (§6.3): the main route runs through required stops and waypoints only. Optional stops
+// get a short dotted spur from the previous main-route stop; alternative endings (variants whose
+// ends_at is optional) get a dashed line from their branches_at stop.
+type LL = [number, number];
+const ll = (s: (typeof all)[number]): LL => (s.p ? s.p.data.coords : s.coords!) as LL;
+const key = (s: (typeof all)[number]) => s.place ?? s.waypoint;
+// Optional stops more than SPUR_MAX_KM from the route (e.g. "further out" stops reached by Tube) get
+// a dashed marker but no line, since a straight line across town would mislead.
+const SPUR_MAX_KM = 1.5;
+const km = ([a, b]: LL, [c, e]: LL) => {
+  const r = Math.PI / 180, x = (e - b) * r * Math.cos(((a + c) / 2) * r), y = (c - a) * r;
+  return Math.hypot(x, y) * 6371;
+};
+const main: LL[] = [];
+const spurs: LL[][] = [];
+const alts: LL[][] = [];
+let unjoined = 0;
+let prev: (typeof all)[number] | undefined;
+all.forEach((s, i) => {
+  if (!s.optional) { main.push(ll(s)); prev = s; return; }
+  const v = d.variants.find((x) => x.ends_at && x.ends_at === s.place && x.branches_at);
+  // a detour joins the previous main-route stop (or the next one, for an optional opening stop)
+  const from = v ? all.find((x) => key(x) === v.branches_at) : prev ?? all.slice(i + 1).find((x) => !x.optional);
+  if (!from) return;
+  if (v) alts.push([ll(from), ll(s)]);
+  else if (km(ll(from), ll(s)) <= SPUR_MAX_KM) spurs.push([ll(from), ll(s)]);
+  else unjoined++;
+});
+const route = { main, spurs, alts };
+const hasSpurs = spurs.length > 0;
+const hasAlts = alts.length > 0;
 const placeName = (slug?: string) => places.find((p) => p.id === slug)?.data.name;
 ---
 <Base title={d.title} description={d.summary}>
@@ -27,7 +64,16 @@ const placeName = (slug?: string) => places.find((p) => p.id === slug)?.data.nam
       {d.tags.length > 0 && <p class="muted">{d.tags.map((t) => TAGS[t as keyof typeof TAGS]).join(' · ')}</p>}
       <Content />
     </div>
-    <Map points={points} route />
+    <Map points={points} route={route} />
+    <p class="map-caption">
+      {d.mode === 'walk'
+        ? 'The red line is a rough guide to the order and direction of the walk, not the exact path: follow the notes below on the ground.'
+        : 'The red line shows the order of the stops, not the route between them.'}
+      {' '}Numbers match the stop list.
+      {hasSpurs && ' Dotted lines are optional detours.'}
+      {hasAlts && ' Dashed lines are alternative endings.'}
+      {unjoined > 0 && ' Optional stops further afield are marked but not joined to the route.'}
+    </p>
 
     {d.variants.length > 0 && (
       <aside class="variants prose">
@@ -45,7 +91,7 @@ const placeName = (slug?: string) => places.find((p) => p.id === slug)?.data.nam
 
     <h2>The stops</h2>
     <ol class="stops prose">
-      {stops.map((s) => (
+      {numbered.map((s) => (
         <>
           {s.segment && <li class="segment-head">{s.segment}</li>}
           {s.p ? (

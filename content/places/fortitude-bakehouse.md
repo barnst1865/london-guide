@@ -8,7 +8,7 @@ price: 2
 summary: "A small slow-fermentation bakery in Bloomsbury's Colonnade, open since 2018. Mostly takeaway, and it sells out early."
 area: "Bloomsbury (Colonnade)"
 address: "35 Colonnade, London WC1N 1JD"
-coords: [51.52280, -0.12433]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52284, -0.12420]   # Pin checked 2026-10-04: OpenStreetMap node 5456244922 (35 Colonnade)
 location_precision: exact
 stations: [Russell Square, Holborn]
 website: https://fortitudebakehouse.com

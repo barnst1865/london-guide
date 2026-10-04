@@ -7,7 +7,7 @@ price: "£0"
 summary: "London's most visible official secret: a 580-foot telecom tower that could not legally be photographed until an MP read its address into Hansard in 1993."
 area: "Fitzrovia"
 address: "60 Cleveland Street, London W1T 4JZ"
-coords: [51.52116, -0.13894]
+coords: [51.52144, -0.13880]   # Pin checked 2026-10-04: OpenStreetMap way 5022282 (BT Tower, Cleveland Street)
 location_precision: exact
 stations: [Goodge Street, Warren Street, Great Portland Street]
 pair_with: [broad-street-pump]

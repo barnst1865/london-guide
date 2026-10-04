@@ -7,7 +7,7 @@ price: "£0"
 summary: "The oldest church in the City, gutted in 1940. Clearing the rubble uncovered a Saxon arch built of Roman tiles that nobody knew was there."
 area: "Tower Hill"
 address: "Byward Street, London EC3R 5BJ"
-coords: [51.50933, -0.07918]
+coords: [51.50935, -0.07931]   # Pin checked 2026-10-04: OpenStreetMap way 59213570 (Byward Street, EC3R 5BJ)
 location_precision: exact
 stations: [Tower Hill, Tower Gateway (DLR), Fenchurch Street]
 website: https://www.ahbtt.org.uk/

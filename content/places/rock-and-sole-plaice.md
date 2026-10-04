@@ -8,7 +8,7 @@ price: 2
 summary: "One of London's oldest chippies, on the same Seven Dials corner since 1871 by the London Museum's account. Fish and chips, inside or out."
 area: "Covent Garden (Seven Dials)"
 address: "47 Endell Street, London WC2H 9AJ"
-coords: [51.51504, -0.12573]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.51481, -0.12518]   # Pin checked 2026-10-04: OpenStreetMap way 148511933
 location_precision: exact
 stations: [Covent Garden, Holborn, Tottenham Court Road]
 website: https://www.rockandsoleplaice.com

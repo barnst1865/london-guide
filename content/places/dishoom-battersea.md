@@ -7,7 +7,7 @@ price: 2
 summary: "The Bombay café chain everyone queues for, in Battersea Power Station, where it's usually easier to get a table than at the central branches."
 area: "Battersea / Nine Elms"
 address: "42 Electric Boulevard, Battersea Power Station, London SW11 8BJ"
-coords: [51.48040, -0.14459]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.47999, -0.14467]   # Pin checked 2026-10-04: OpenStreetMap node 11556796228
 location_precision: exact
 stations: [Battersea Power Station, Battersea Park]
 website: https://www.dishoom.com/battersea/

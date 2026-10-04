@@ -8,7 +8,7 @@ price: 2
 summary: "Raw-milk cheese made in a Bermondsey railway arch, one of a handful of cheesemakers left in London. Shop open Saturdays; the toasties are at Borough Market."
 area: "Bermondsey"
 address: "Voyager Business Estate, 1 Spa Road, London SE16 4RP"
-coords: [51.49656, -0.06913]   # postcode centroid (postcodes.io), checked 2026-10-04; industrial estate, spot-check the pin
+coords: [51.49643, -0.06881]   # Pin checked 2026-10-04: OpenStreetMap node 1278632612
 location_precision: exact
 stations: [Bermondsey, South Bermondsey]
 website: https://www.kappacasein.com

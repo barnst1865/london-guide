@@ -7,7 +7,7 @@ price: 2
 summary: "A tiny pub down a hidden alley off Hatton Garden, on the grounds of a medieval bishop's palace, with an old tree trunk in the bar."
 area: "Holborn (Hatton Garden)"
 address: "1 Ely Court, Ely Place, London EC1N 6SJ"
-coords: [51.51843, -0.10738]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51844, -0.10741]   # Pin checked 2026-10-04: OpenStreetMap way 420644092 (1 Ely Court, EC1N 6SJ)
 location_precision: exact
 stations: [Farringdon, Chancery Lane]
 website: https://www.yeoldemitreholborn.co.uk/

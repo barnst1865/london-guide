@@ -7,8 +7,8 @@ price: 4
 summary: "The Savoy’s cocktail bar says it opened in 1893, though the paper trail starts about 1903. Home of Harry Craddock’s 1930 cocktail book. Visitors must be 16+."
 area: "Strand (The Savoy)"
 address: "The Savoy, Strand, London WC2R 0EZ"
-coords: [51.51034, -0.12108]
-location_precision: exact
+coords: [51.51034, -0.12108]   # Pin not confirmed 2026-10-04: OpenStreetMap maps the Savoy Hotel (way 95199889) but not the bar or its door; pin left on Savoy Court by the hotel entrance; precision set to street, directions work from the address
+location_precision: street
 stations: [Charing Cross, Embankment, Covent Garden]
 website: https://www.fairmont.com/en/hotels/london/the-savoy/dining/american-bar.html
 status: open

@@ -7,7 +7,7 @@ price: 2
 summary: "A Grade II riverside pub by Richmond Bridge, famous as the pub that floods at high tide, with a rare central servery and sliding sashes."
 area: "Richmond (riverside)"
 address: "Riverside, Richmond TW9 1TH"
-coords: [51.45891, -0.30758]
+coords: [51.45893, -0.30836]   # Pin checked 2026-10-04: OpenStreetMap way 316636979 (Riverside, TW9 1TH)
 location_precision: exact
 stations: [Richmond, St Margarets]
 website: https://www.thewhitecrossrichmond.com

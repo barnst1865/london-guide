@@ -7,7 +7,7 @@ price: 2
 summary: "A big East Finchley pub-restaurant with a heated garden, recorded under this name from the 1820s and reopened in 2025 after a refurbishment."
 area: "East Finchley"
 address: "69 High Road, London N2 8AB"
-coords: [51.58908, -0.16432]
+coords: [51.58935, -0.16424]   # Pin checked 2026-10-04: OpenStreetMap way 187242347 (69 High Road)
 location_precision: exact
 stations: [East Finchley]
 website: https://urbanpubsandbars.com/venues/the-bald-faced-stag

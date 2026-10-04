@@ -8,7 +8,7 @@ price: 2
 summary: "Candlelit cellar vaults under Villiers Street, pouring wine, sherry and port since 1890. One of our favorite bars anywhere."
 area: "Embankment / Charing Cross"
 address: "47 Villiers Street, London WC2N 6NE"
-coords: [51.50792, -0.12331]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.50791, -0.12331]   # Pin checked 2026-10-04: OpenStreetMap way 71408528 (47 Villiers Street)
 location_precision: exact
 stations: [Embankment, Charing Cross]
 website: https://gordonswinebar.com

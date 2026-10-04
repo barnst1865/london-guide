@@ -8,7 +8,7 @@ price: "£"
 summary: "We send tunnel-minded friends to Rotherhithe, where the 1843 Thames Tunnel began; the first tunnel under a navigable river now carries Overground trains."
 area: "Rotherhithe"
 address: "Railway Avenue, London SE16 4LF"
-coords: [51.5016, -0.05294]
+coords: [51.50163, -0.05291]   # Pin checked 2026-10-04: OpenStreetMap entrance on the Brunel Engine House (way 146412243); Brunel Museum way 998729298 agrees
 location_precision: exact
 stations: [Rotherhithe, Canada Water]
 website: https://thebrunelmuseum.com/

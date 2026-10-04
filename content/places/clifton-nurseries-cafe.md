@@ -8,7 +8,7 @@ price: 2
 summary: "A glasshouse café inside a garden center that has been growing plants in Little Venice since 1851, hidden behind a row of houses."
 area: "Little Venice"
 address: "5A Clifton Villas, London W9 2PH"
-coords: [51.52280, -0.18518]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.52212, -0.18407]   # Pin checked 2026-10-04: OpenStreetMap way 242819424 (the cafe, not the garden centre)
 location_precision: exact
 stations: [Warwick Avenue, Maida Vale, Paddington]
 website: https://www.clifton.co.uk/london-nursery-garden-centre/london-nursery

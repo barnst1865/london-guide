@@ -7,7 +7,7 @@ price: 2
 summary: "A Fuller's pub built into Kew Gardens station, with seats beside the platform: a handy first or last drink on a day at Kew."
 area: "Kew"
 address: "Kew Gardens Station, Station Approach, Richmond TW9 3PZ"
-coords: [51.47731, -0.28525]
+coords: [51.47727, -0.28516]   # Pin checked 2026-10-04: OpenStreetMap way 191632542 (OSM says Station Parade, same postcode TW9 3PZ; file address kept)
 location_precision: exact
 stations: [Kew Gardens]
 website: https://www.tapontheline.co.uk/

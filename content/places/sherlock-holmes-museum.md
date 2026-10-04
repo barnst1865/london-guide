@@ -8,7 +8,7 @@ price: "££"
 summary: "A Georgian house wearing the famous 221B number, set up as Holmes and Watson's rooms. Book ahead; it gets busy."
 area: "Marylebone"
 address: "221B Baker Street, London NW1 6XE"
-coords: [51.52366, -0.15852]
+coords: [51.52376, -0.15847]   # Pin checked 2026-10-04: OpenStreetMap node 3916613190 (221B Baker Street, NW1 6XE)
 location_precision: exact
 stations: [Baker Street, Marylebone]
 website: https://www.sherlock-holmes.co.uk/

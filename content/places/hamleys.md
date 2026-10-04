@@ -8,7 +8,7 @@ tags: [kid-friendly, rainy-day, sunday]
 summary: "The toy shop that says it has been selling to London children since 1760: seven floors on Regent Street, touristy but a kid favorite for good reason."
 area: "Regent Street"
 address: "188-196 Regent Street, London W1B 5BT"
-coords: [51.51281, -0.14007]
+coords: [51.51294, -0.13994]   # Pin checked 2026-10-04: OpenStreetMap way 272198123 (188-196 Regent Street; building centroid of a large store)
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus]
 website: https://www.hamleys.com/

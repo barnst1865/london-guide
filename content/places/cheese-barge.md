@@ -8,7 +8,7 @@ price: 3
 summary: "A 96-foot double-decker barge moored at Paddington Basin, serving cheese-led small plates with a wine bar and, in summer, a roof terrace."
 area: "Paddington Basin"
 address: "Sheldon Square, Paddington Basin, London W2 6DL"
-coords: [51.51947, -0.17954]   # postcode centroid (postcodes.io), checked 2026-10-04; the official site gives W2 6DL, other listings W2 6HY (about 80 m apart); spot-check the mooring
+coords: [51.51923, -0.17874]   # Pin checked 2026-10-04: OpenStreetMap node 8958159317 (the boat; OSM has no street address for it); the official site gives W2 6DL, other listings W2 6HY, OSM W2 6EP
 location_precision: exact
 stations: [Paddington, Edgware Road]
 website: https://thecheesebar.com/paddington/

@@ -7,7 +7,7 @@ price: 2
 summary: "A busy Greene King pub inside the Covent Garden market building, with a balcony over the piazza. Named for the puppet show Pepys watched there in 1662."
 area: "Covent Garden"
 address: "40 The Market, Covent Garden, London WC2E 8RF"
-coords: [51.51206, -0.12294]
+coords: [51.51182, -0.12304]   # Pin checked 2026-10-04: OpenStreetMap node 566313869 (40 The Market)
 location_precision: exact
 stations: [Covent Garden, Leicester Square, Charing Cross]
 website: https://www.greeneking.co.uk/pubs/greater-london/punch-and-judy

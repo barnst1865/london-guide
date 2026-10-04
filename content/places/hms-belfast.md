@@ -7,7 +7,7 @@ price: "£££"
 summary: "A Second World War cruiser moored by Tower Bridge: nine decks from bridge to boiler rooms, and guns that have pointed at a motorway service station since 1971."
 area: "London Bridge / South Bank"
 address: "The Queen's Walk, London SE1 2JH"
-coords: [51.50659, -0.08146]
+coords: [51.50603, -0.08139]   # Pin checked 2026-10-04: OpenStreetMap node 13332725571 (HMS Belfast ticket office); ship is way 5006061
 location_precision: exact
 stations: [London Bridge, Tower Hill]
 website: https://www.iwm.org.uk/visits/hms-belfast

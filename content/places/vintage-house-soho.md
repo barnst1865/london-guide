@@ -7,7 +7,7 @@ price: 3
 summary: "An Old Compton Street whisky and cigar shop, in business since the 1940s by its own account, with 1,300-plus whiskies. The club upstairs is members-only."
 area: "Soho"
 address: "42 Old Compton Street, London W1D 4LR"
-coords: [51.51317, -0.13174]
+coords: [51.51311, -0.13171]   # Pin checked 2026-10-04: OpenStreetMap node 14178896021 (42 Old Compton Street, W1D 4LR)
 location_precision: exact
 stations: [Leicester Square, Tottenham Court Road, Piccadilly Circus]
 website: https://www.vintagehouse.london/

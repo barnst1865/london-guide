@@ -8,7 +8,7 @@ price: "£0"
 summary: "Victorian palace on a hill where the BBC began regular television in 1936, with a free park, an ice rink and a wide view over London."
 area: "Muswell Hill"
 address: "Alexandra Palace Way, London N22 7AY"
-coords: [51.59448, -0.1305]
+coords: [51.59422, -0.13086]   # Pin checked 2026-10-04: OpenStreetMap way 4768526 (the palace; two unnamed main entrances, so building centre used)
 location_precision: exact
 stations: [Alexandra Palace, Wood Green]
 website: https://www.alexandrapalace.com

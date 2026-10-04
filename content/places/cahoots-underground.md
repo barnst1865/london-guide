@@ -7,7 +7,7 @@ price: 3
 summary: "A 1940s Tube-station cocktail bar in Kingly Court with a life-size carriage and swing bands: fun, themed and pricey, and strictly 21 and over."
 area: "Soho (Carnaby)"
 address: "13 Kingly Court, London W1B 5PW"
-coords: [51.51246, -0.13870]
+coords: [51.51244, -0.13852]   # Pin checked 2026-10-04: OpenStreetMap node 4870230621 (13 Kingly Court)
 location_precision: exact
 stations: [Oxford Circus, Piccadilly Circus]
 website: https://www.cahoots.co.uk/underground/

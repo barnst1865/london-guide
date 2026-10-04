@@ -7,7 +7,7 @@ price: "££"
 summary: "Wren's riverside masterpiece at Greenwich, where a nuclear reactor ran under a Grade I building for 34 years while the borough declared itself nuclear-free."
 area: "Greenwich"
 address: "Old Royal Naval College, Greenwich, London SE10 9NN"
-coords: [51.48219, -0.00781]
+coords: [51.48283, -0.00863]   # Pin checked 2026-10-04: OpenStreetMap node 12883274419 (Visitor Centre, King William Walk); grounds are a large site
 location_precision: exact
 stations: [Cutty Sark (DLR), Greenwich, Maze Hill]
 website: https://ornc.org/

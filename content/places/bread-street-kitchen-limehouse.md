@@ -7,7 +7,7 @@ price: 3
 summary: "A riverside pub-restaurant in Limehouse's old dock customs house, with a terrace on the Thames. Better with kids than we expected."
 area: "Limehouse"
 address: "44 Narrow Street, London E14 8DP"
-coords: [51.51007, -0.03990]   # postcode centroid (postcodes.io), checked 2026-10-04; spot-check the pin
+coords: [51.50963, -0.03783]   # Pin checked 2026-10-04: OpenStreetMap way 192543585
 location_precision: exact
 stations: [Limehouse, Westferry, Shadwell]
 website: https://www.gordonramsayrestaurants.com/the-narrow/

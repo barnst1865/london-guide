@@ -7,7 +7,7 @@ price: "£0"
 summary: "A Peter Pan playground in Kensington Gardens, with a wooden pirate ship on a sandy beach, treehouses and water play. Rebuilt in 2026."
 area: "Kensington Gardens"
 address: "Kensington Gardens, London W2 4RU"
-coords: [51.50917, -0.18833]   # Wikipedia point; sources differ by ~80 m, spot-check on the map
+coords: [51.50900, -0.18796]   # Pin checked 2026-10-04: OpenStreetMap way 26791118 (Princess Diana Memorial Playground outline)
 location_precision: exact
 stations: [Queensway, Bayswater]
 website: https://www.royalparks.org.uk/visit/parks/kensington-gardens/diana-memorial-playground

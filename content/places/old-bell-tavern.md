@@ -7,7 +7,7 @@ price: 2
 summary: "A small, much-altered 17th-century tavern on Fleet Street, backing onto St Bride's, the church said to have inspired the wedding cake."
 area: "Fleet Street"
 address: "95 Fleet Street, London EC4Y 1DH"
-coords: [51.51404, -0.10517]   # OpenStreetMap (Nominatim), geocoded from the address 2026-10-04
+coords: [51.51403, -0.10517]   # Pin checked 2026-10-04: OpenStreetMap way 60890308 ("The Old Bell", 95 Fleet Street)
 location_precision: exact
 stations: [City Thameslink, Blackfriars, St Paul's]
 website: https://www.nicholsonspubs.co.uk/restaurants/london/theoldbelltavernfleetstreetlondon

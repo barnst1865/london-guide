@@ -7,7 +7,7 @@ price: "£0"
 summary: "A bronze eagle on a stone column by the A40, with the names of 1,900 Polish airmen who died flying for Britain, beside the airfield they flew from in 1940."
 area: "Northolt / South Ruislip"
 address: "Western Avenue (A40) at West End Road, South Ruislip HA4 6QX"
-coords: [51.54948, -0.39960]
+coords: [51.54883, -0.40028]   # Pin checked 2026-10-04: OpenStreetMap node 266577545 (Polish War Memorial)
 location_precision: exact
 stations: [South Ruislip, Northolt]
 website: https://www.historicengland.org.uk/listing/the-list/list-entry/1088113
