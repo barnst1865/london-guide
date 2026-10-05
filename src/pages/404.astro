@@ -3,5 +3,15 @@ import Base from '../layouts/Base.astro';
 import { u } from '../lib/data';
 ---
 <Base title="Not found">
+  <script is:inline>
+    // Old links from the github.io address (…/london-guide/places/x/) arrive here as
+    // /london-guide/places/x/ after GitHub's redirect: send them to the same page without the prefix.
+    (function () {
+      var p = location.pathname;
+      if (p === '/london-guide' || p.indexOf('/london-guide/') === 0) {
+        location.replace((p.slice('/london-guide'.length) || '/') + location.search + location.hash);
+      }
+    })();
+  </script>
   <div class="wrap"><h1>Wrong turn</h1><p>That page doesn't exist. <a href={u('')}>Back to the start →</a></p></div>
 </Base>

@@ -105,7 +105,7 @@ function validate(places: Place[], themes: Theme[], trails: Trail[], guides: Gui
   if (errors.length) throw new Error('Content validation failed:\n  ' + errors.join('\n  '));
 }
 
-/** Prefix a site path with the deploy base (e.g. /london-guide/). */
+/** Prefix a site path with the deploy base (currently '/', at london.dckoiks.com). */
 export function u(p = '') {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   return `${base}/${p.replace(/^\//, '')}`;

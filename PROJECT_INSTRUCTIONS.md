@@ -46,6 +46,7 @@ The site is public, so these rules apply to every file in the repository, not ju
 - **Active government and military sites** (e.g., Thames House, Vauxhall Cross, RAF Northolt, AWE Aldermaston) are included only as things visible from public places, described from public sources. No advice on photographing them, approaching their perimeters, or anything about their security.
 - **Respect for victims.** The spy and WMD material involves real people who died or were injured, including bystanders (e.g., Dawn Sturgess). The tone there is curious and serious, never jokey.
 - **Robots.** The site ships with `noindex` meta tags and a `robots.txt` that disallows crawling. The link is shared directly with friends and family.
+- **Address.** The site lives at `london.dckoiks.com` (decision 18). The family chose its own domain knowing it can point back to us; the content rules above still apply in full, so the domain is no reason to add names or details.
 - **Private material stays private.** Raw source files (Google Takeout, office lists, notes) live in `sources/`, which is **git-ignored** and never published.
 
 ---
@@ -460,3 +461,4 @@ All raw sources live in the private, git-ignored `sources/` folder (see `sources
 | 15 | **Pre-launch review** | 2026-10-04: themes need 3+ public places to appear on the home page; links to drafts render as plain text; research-note comments are stripped from pages; temporarily closed places go back to draft |
 | 16 | **Quick listings** | 2026-10-04: remaining triage places go on the site first as `depth: listing` entries (verified facts and a one-line summary), then become full pages as themes are built out (§6.1) |
 | 17 | **House numbers** | Decided 2026-10-04: the blanket no-house-numbers rule is replaced. A house number the family chooses to include means the building is noteworthy enough to be identified; sessions don't add them on their own (§3). First used for the three Great Muppet Caper buildings |
+| 18 | **Custom domain** | Decided 2026-10-05: the site moved from `barnst1865.github.io/london-guide/` to **`london.dckoiks.com`** (a CNAME at Squarespace; custom domain set in the repo's Pages settings). The base path is now `/`; old `/london-guide/...` links are forwarded by the 404 page |

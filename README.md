@@ -10,7 +10,7 @@ Needs [Node.js](https://nodejs.org) 22 or newer.
 
 ```bash
 npm install
-npm run dev      # http://localhost:4321/london-guide/ (shows drafts, with a yellow banner)
+npm run dev      # http://localhost:4321/ (shows drafts, with a yellow banner)
 npm run check    # full build; fails on any invalid content file
 npm run stale    # places and guides whose facts haven't been checked in 12+ months
 ```
